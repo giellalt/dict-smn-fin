@@ -1,64 +1,12 @@
-pahas	paha	a	
-čuovvâd	valoisa	a	
-liegâs	 lämmin	a	
-sevŋâd	pimeä	a	
-kukke	 pitkä	a	
-käävci	 kahdeksan	num	
 mielâ	mieli	n	
-kaandâš	 poikanen	n	
-puolâš	 pakkanen	n	
-tijme	kello	n	
-kiällu	 kello	n	
-škovlâ	koulu	n	
-vaccâ	vanttu	n	
 kuuvl	luo	pp	
 mut	 mutta	cs	
 kulgâđ	vuotaa	v	
-mušteđ	 muistaa	v	
-pieijâđ	laittaa	v	
-čäälliđ	kirjoittaa	v	
-toppiđ	ottaa	v	
-čuoijâđ	soida	v	
-tuolmâđ	polkea	v	
-luuhâđ	lukea	v	
-kuldâliđ	kuunnella	v	
-puáttiđ	tulla	v	
-šoddâđ	tulla	v	
-áiguđ	aikoa	v	
-áiguđ	aikoa	v	
-ettâđ	sanoa	v	
-keččâđ	katsoa	v	
-pillediđ	pilata	v	
-pillediđ	 pilata	v	
-kaččâliđ	juosta	v	
-kaččâđ	juosta	v	
-pajaniđ	nousta	v	
-juksâđ	saavuta	v	
 kulluđ	kuullua	v	
-kolmuđ	 paleltua	v	
-rinnuđ	huurtua	v	
-čokkáđ	istua	v	
-kárvudâttâđ	pukeutua	v	
-porgâđ	tehdä	v	
-eelliđ	 käydä	v	
-pääcciđ	jäädä	v	
-purâdiđ	syödä	v	
-sierâdiđ	leikkiä	v	
-kiergâniđ	ehtiä	v	
-kiergâniđ	ehtiä	v	
-moonnâđ	mennä	v	
-koijâdiđ	 kysyä	v	
-orostiđ	pysähtyä	v	
-ferttiđ	täytyä	v	
-kolgâđ	pitää	v	
-čuáŋŋuđ	seistää	v	
-čielgiđ	 selittää	v	
 olgon	ulkona	adv	
-masa	kohta	adv	
 iäskân	vasta	adv	
 eidu	 juuri	adv	
 mondet	miksi	adv	
-siämmást	 samanaikasesti	adv	
 njuolgist	suoraan	adv	
 te	sitten	adv	
 tuše	vain	adv	
@@ -69,10 +17,59 @@ onne	 tänään	adv
 maŋŋaal	 perään	adv	
 viehâ	melko	adv	
 tobbeen	siellä	adv	
+pahas	paha	a	HUMAN_A
+liegâs	 lämmin	a	SOUP_A
+čuovvâd	valoisa	a	WEATHER_A
+sevŋâd	pimeä	a	WEATHER_A
+kukke	 pitkä	a	OBJECT_A
 maađij	 maantie	n	ROAD
+tijme	kello	n	TIME
+kiällu	 kello	n	TIME
+masa	kohta	adv	TIME
+siämmást	 samanaikasesti	adv	TIME
 tupe	tupa	n	BUILDING
+škovlâ	koulu	n	BUILDING
+vaccâ	vanttu	n	CLOTHING
 kussâ	lehmä	n	ANIMAL_DOM
+käävci	 kahdeksan	num	mNUMBER
+puolâš	 pakkanen	n	WEATHER
 ruopsâd	punainen	a	COLOUR
 njune	nenä	n	BODYPART
+mušteđ	 muistaa	v	EXPERIENCE_V
+kuldâliđ	kuunnella	v	EXPERIENCE_V
+čuoijâđ	soida	v	LEISURETIME_HOME_V
+sierâdiđ	leikkiä	v	LEISURETIME_HOME_V
+kolmuđ	 paleltua	v	EXPOSURE_V
+rinnuđ	huurtua	v	EXPOSURE_V
+puáttiđ	tulla	v	TRAVELLING_V
+šoddâđ	tulla	v	TRAVELLING_V
+juksâđ	saavuta	v	TRAVELLING_V
 vyelgiđ 	lähteä	v	TRAVELLING_V
+purâdiđ	syödä	v	FOOD_DRINK_V
+ettâđ	sanoa	v	VERBAL_V
+koijâdiđ	 kysyä	v	VERBAL_V
+čielgiđ	 selittää	v	VERBAL_V
+eelliđ	 käydä	v	TRAVEL_V
+pääcciđ	jäädä	v	TRAVEL_V
+kiergâniđ	ehtiä	v	TRAVEL_V
+moonnâđ	mennä	v	TRAVEL_V
+orostiđ	pysähtyä	v	TRAVEL_V
+čäälliđ	kirjoittaa	v	SCHOOL_V
+luuhâđ	lukea	v	SCHOOL_V
+áiguđ	aikoa	v	HUMAN_V
+keččâđ	katsoa	v	HUMAN_V
+pillediđ	pilata	v	HUMAN_V
+pieijâđ	laittaa	v	ACTION_V
+toppiđ	ottaa	v	ACTION_V
+porgâđ	tehdä	v	ACTION_V
+kárvudâttâđ	pukeutua	v	CLOTHES_V
+kaččâliđ	juosta	v	MOVEMENT_V
+kaččâđ	juosta	v	MOVEMENT_V
+pajaniđ	nousta	v	MOVEMENT_V
+ferttiđ	täytyä	v	AUX_V
+kolgâđ	pitää	v	AUX_V
+tuolmâđ	polkea	v	BODY_V
+čokkáđ	istua	v	BODY_V
+čuáŋŋuđ	seistää	v	BODY_V
 siäsá	täti	n	FAMILY
+kaandâš	 poikanen	n	FAMILY
