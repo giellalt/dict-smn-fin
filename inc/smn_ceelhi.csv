@@ -1,16 +1,10 @@
 tärkki	tarkka	a		ceelhi
 aldaš	läheinen	a		ceelhi
-iäránem	eroaminen	n		ceelhi
-hirmâd	hirveä	a	EXPERIENCE_A	ceelhi
 veikkâ	vaikka	ca		ceelhi
 teikkâ	taikka	cc		ceelhi
 kale	kyllä	i		ceelhi
 jieš	itse	prom		ceelhi
-muáddi	pari	num	mNUMBER	ceelhi
-vittâ	viisi	num	mNUMBER	ceelhi
-käävci	kahdeksan	num	mNUMBER	ceelhi
-love	kymmenen, kymmentä	num	mNUMBER	ceelhi
-láigu	vuokra	n	FINANCE	ceelhi
+iäránem	eroaminen	n		ceelhi
 tiervâttem	tervehtiminen	n		ceelhi
 uápásmem	tutustuminen	n		ceelhi
 kyevtis	kaksikko	n		ceelhi
@@ -25,8 +19,6 @@ mii	mikä	pron		ceelhi
 mun	minä	pron		ceelhi
 tun	sinä	pron		ceelhi
 maid	mitä	pron		ceelhi
-Aanaar	Inari	prop	SAPMI	ceelhi
-Ruotâ	Ruotsi	prop	WORLD	ceelhi
 sun	hän	prop		ceelhi
 lunne	luona	pp		ceelhi
 luus ~ luusâ	luokse	pp		ceelhi
@@ -46,7 +38,6 @@ pääihist	kotona	adv		ceelhi
 siämmást	samalla, samassa	adv		ceelhi
 korrâsávt	kovasti	adv		ceelhi
 tuođâi	todella, tosiaan	adv		ceelhi
-ääigi	aikaan	adv	TIME	ceelhi
 oppeet	uudestaan	adv		ceelhi
 ohtii	kerran	adv		ceelhi
 maht	miten	adv		ceelhi
@@ -83,6 +74,7 @@ tieid	niistä	adv		ceelhi
 lase	lisää	adv		ceelhi
 ain-uv	yhäkin	x		ceelhi
 hyeni	huono	a	EXPERIENCE_A	ceelhi
+hirmâd	hirveä	a	EXPERIENCE_A	ceelhi
 nuorâ	nuori	a	HUMAN_A	ceelhi
 mučis	kaunis	a	HUMAN_A	ceelhi
 voorâs	tuore	a	SOUP_A	ceelhi
@@ -92,16 +84,24 @@ ollâ	korkea	a	OBJECT_A	ceelhi
 koorâs	kova	a	OBJECT_A	ceelhi
 táválâš	tavallinen	a	OBJECT_A	ceelhi
 äšši	asia	n	JOB	ceelhi
+Ruotâ	Ruotsi	prop	WORLD	ceelhi
 ruuđâ	rahaa	n	FINANCE	ceelhi
+láigu	vuokra	n	FINANCE	ceelhi
+ääigi	aikaan	adv	TIME	ceelhi
 kuás	milloin	adv	TIME	ceelhi
 onne	tänään	adv	TIME	ceelhi
 tääl	nyt	adv	TIME	ceelhi
 njaalgâ	hyvänmakuinen	a	FEELING	ceelhi
 orroođ	oleskella	v	FEELING	ceelhi
 viste	asunto	n	PLACE_STAYING	ceelhi
+Aanaar	Inari	prop	SAPMI	ceelhi
 limonaad	limonaadi	n	DRINK	ceelhi
 peenuv	koira	n	ANIMAL_DOM	ceelhi
 litte	astia	n	KITCHEN	ceelhi
+muáddi	pari	num	mNUMBER	ceelhi
+vittâ	viisi	num	mNUMBER	ceelhi
+käävci	kahdeksan	num	mNUMBER	ceelhi
+love	kymmenen, kymmentä	num	mNUMBER	ceelhi
 tijme	kello	n	ROOM_OTHER	ceelhi
 takkâ	kiitos	n	ABSTRACT	ceelhi
 mušto	muisti	n	THOUGHT	ceelhi
