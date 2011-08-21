@@ -1,136 +1,136 @@
-tärkki	tarkka	a	
-aldaš	läheinen	a	
-iäránem	eroaminen	a	
-hirmâd	hirveä	a	
-veikkâ	vaikka	ca	
-teikkâ	taikka	cc	
-kale	kyllä	i	
-jieš	itse	prom	
-muáddi	pari	num	mNUMBER
-vittâ	viisi	num	mNUMBER
-käävci	kahdeksan	num	mNUMBER
-love	kymmenen, kymmentä	num	mNUMBER
-láigu	vuokra	n	
-tiervâttem	tervehtiminen	n	
-uápásmem	tutustuminen	n	
-kyevtis	kaksikko	n	
-kiilu	kilo	n	
-muáđá	 	täti, äidin nuorenpi sisar	n	
-pahalâš	pahus	n	
-nelgi	nälkä	n	
-šoddâmpeivi	syntymäpäivä	n	
-kii	kuka	pron	
-mottoom	joku, jokin	pron	
-mii	mikä	pron	
-mun	minä	pron	
-tun	sinä	pron	
-maid	mitä	pron	
-Aanaar	Inari	prop	
-Ruotâ	Ruotsi	prop	
-sun	hän	prop	
-lunne	luona	pp	
-luus ~ luusâ	luokse	pp	
-paijeel	yli	pp	
-maŋa	jälkeen	pp	
-mut	mutta	cs	
-te	   sitten	cs	
-tággáár	tällainen	det	
-kähvistâllâđ	kahvistella	v	
-laaviđ	olla tapana	v	
-ij	ei	v	
-koijâdâllâđ	kysellä	v	
-koijâdiđ	kysyä	v	
-eskân	vasta		adv	
-kuás	koska	adv	
-pääihist	kotona	adv	
-siämmást	samalla, samassa	adv	
-korrâsávt	kovasti	adv	
-tuođâi	todella, tosiaan	adv	
-ääigi	aikaan	adv	
-oppeet	uudestaan	adv	
-ohtii	kerran	adv	
-maht	miten	adv	
-mudoi	muuten	adv	
-peri	vain	adv	
-masa	melkein	adv	
-uáinimáid	 näkemiin	adv	
-nuuvt	niin	adv	
-vaarâ	varmaan, varmaankin	adv	
-tiäđust-uv	tietenkin	adv	
-meiddei	myös, myöskin	adv	
-talle	sitten, silloin	adv	
-siämmáá	samoin	adv	
-návt	näin	adv	
-na	no	adv	
-vist	taas	adv	
-motomin	joskus	adv	
-meid	myös	adv	
-eres	muu	adv	
-ain	yhä	adv	
-vala	vielä	adv	
-tobbeen	siellä	adv	
-alne	päällä	adv	
-kustoo	näköjään, näemmä	adv	
-ohtsis	yhteensä	adv	
-kost	missä	adv	
-täst	tässä	adv	
-toos	siihen, tässä:siitä	adv	
-tilist	tililtä	adv	
-tääbbin	täällä, täältä	adv	
-oovdâst	edestä	adv	
-tieid	niistä	adv	
-šet	enää	adv	
-lase	lisää	adv	
-ain-uv	yhäkin	x	
-hyeni	huono	a	EXPERIENCE_A
-nuorâ	nuori	a	HUMAN_A
-mučis	kaunis	a	HUMAN_A
-voorâs	tuore	a	SOUP_A
-hälbi	halpa	a	CLOTHES_A
-tiivrâs	kallis	a	CLOTHES_A
-ollâ	korkea	a	OBJECT_A
-koorâs	kova	a	OBJECT_A
-táválâš	tavallinen	a	OBJECT_A
-äšši	asia	n	JOB
-ruuđâ	rahaa	n	FINANCE
-kuás	milloin	adv	TIME
-onne	tänään	adv	TIME
-tääl	nyt	adv	TIME
-njaalgâ	hyvänmakuinen	a	FEELING
-orroođ	oleskella	v	FEELING
-viste	asunto	n	PLACE_STAYING
-limonaad	limonaadi	n	DRINK
-peenuv	koira	n	ANIMAL_DOM
-litte	astia	n	KITCHEN
-tijme	kello	n	ROOM_OTHER
-takkâ	kiitos	n	ABSTRACT
-mušto	muisti	n	THOUGHT
-aavis	sanomalehti	n	TEXT
-tuárvi	tarpeeksi	adv	SCHOOL_ADV
-äŋgirávt	ankarasti	adv	SCHOOL_ADV
-aaibâs	aivan, ihan	adv	BODY_ADV
-forgâ	pian	adv	BODY_ADV
-mäksiđ	maksaa	v	FINANCE_V
-jurdeđ	luulla	v	EXPERIENCE_V
-uápásmuđ	tutustua	v	EXPERIENCE_V
-puáttiđ	tulla	v	TRAVELLING_V
-kiergâniđ	ehtiä	v	TRAVELLING_V
-moonnâđ	mennä	v	TRAVELLING_V
-purâdiđ	syödä	v	FOOD_DRINK_V
-purrâđ	syödä	v	FOOD_DRINK_V
-mainâstiđ	kertoa	v	VERBAL_V
-toimâttiđ	toimittaa	v	TRAVEL_V
-aassâđ	asua	v	TRAVEL_V
-eelliđ	käydä	v	TRAVEL_V
-luptiđ	nostaa	v	HUMAN_V
-tánssáđ	tanssia	v	HUMAN_V
-porgâđ	tehdä	v	HUMAN_V
-viežžâđ	hakea	v	ACTION_V
-teivâdiđ	tavata	v	ACTION_V
-kevttiđ	käyttää	v	ACTION_V
-nommâ	nimi	n	FAMILY
-suklaa	suklaa	n	FOOD_GROCERY
-niisu	pulla	n	FOOD_GROCERY
-pottáák	peruna	n	FOOD_GROCERY
-sukkâr	sokeri	n	FOOD_GROCERY
-suotâs	hauska		EXPERIENCE_Z
+tärkki	tarkka	a		ceelhi
+aldaš	läheinen	a		ceelhi
+iäránem	eroaminen	n		ceelhi
+hirmâd	hirveä	a	EXPERIENCE_A	ceelhi
+veikkâ	vaikka	ca		ceelhi
+teikkâ	taikka	cc		ceelhi
+kale	kyllä	i		ceelhi
+jieš	itse	prom		ceelhi
+muáddi	pari	num	mNUMBER	ceelhi
+vittâ	viisi	num	mNUMBER	ceelhi
+käävci	kahdeksan	num	mNUMBER	ceelhi
+love	kymmenen, kymmentä	num	mNUMBER	ceelhi
+láigu	vuokra	n	FINANCE	ceelhi
+tiervâttem	tervehtiminen	n		ceelhi
+uápásmem	tutustuminen	n		ceelhi
+kyevtis	kaksikko	n		ceelhi
+kiilu	kilo	n		ceelhi
+muáđá	 	täti, äidin nuorenpi sisar	n		ceelhi
+pahalâš	pahus	n		ceelhi
+nelgi	nälkä	n		ceelhi
+šoddâmpeivi	syntymäpäivä	n		ceelhi
+kii	kuka	pron		ceelhi
+mottoom	joku, jokin	pron		ceelhi
+mii	mikä	pron		ceelhi
+mun	minä	pron		ceelhi
+tun	sinä	pron		ceelhi
+maid	mitä	pron		ceelhi
+Aanaar	Inari	prop	SAPMI	ceelhi
+Ruotâ	Ruotsi	prop	WORLD	ceelhi
+sun	hän	prop		ceelhi
+lunne	luona	pp		ceelhi
+luus ~ luusâ	luokse	pp		ceelhi
+paijeel	yli	pp		ceelhi
+maŋa	jälkeen	pp		ceelhi
+mut	mutta	cs		ceelhi
+te	   sitten	cs		ceelhi
+tággáár	tällainen	det		ceelhi
+kähvistâllâđ	kahvistella	v		ceelhi
+laaviđ	olla tapana	v		ceelhi
+ij	ei	v		ceelhi
+koijâdâllâđ	kysellä	v		ceelhi
+koijâdiđ	kysyä	v		ceelhi
+eskân	vasta		adv		ceelhi
+kuás	koska	adv		ceelhi
+pääihist	kotona	adv		ceelhi
+siämmást	samalla, samassa	adv		ceelhi
+korrâsávt	kovasti	adv		ceelhi
+tuođâi	todella, tosiaan	adv		ceelhi
+ääigi	aikaan	adv	TIME	ceelhi
+oppeet	uudestaan	adv		ceelhi
+ohtii	kerran	adv		ceelhi
+maht	miten	adv		ceelhi
+mudoi	muuten	adv		ceelhi
+peri	vain	adv		ceelhi
+masa	melkein	adv		ceelhi
+uáinimáid	 näkemiin	adv		ceelhi
+nuuvt	niin	adv		ceelhi
+vaarâ	varmaan, varmaankin	adv		ceelhi
+tiäđust-uv	tietenkin	adv		ceelhi
+meiddei	myös, myöskin	adv		ceelhi
+talle	sitten, silloin	adv		ceelhi
+siämmáá	samoin	adv		ceelhi
+návt	näin	adv		ceelhi
+na	no	adv		ceelhi
+vist	taas	adv		ceelhi
+motomin	joskus	adv		ceelhi
+meid	myös	adv		ceelhi
+eres	muu	adv		ceelhi
+ain	yhä	adv		ceelhi
+vala	vielä	adv		ceelhi
+tobbeen	siellä	adv		ceelhi
+alne	päällä	adv		ceelhi
+kustoo	näköjään, näemmä	adv		ceelhi
+ohtsis	yhteensä	adv		ceelhi
+kost	missä	adv		ceelhi
+täst	tässä	adv		ceelhi
+toos	siihen, tässä:siitä	adv		ceelhi
+tilist	tililtä	adv		ceelhi
+tääbbin	täällä, täältä	adv		ceelhi
+oovdâst	edestä	adv		ceelhi
+tieid	niistä	adv		ceelhi
+šet	enää	adv		ceelhi
+lase	lisää	adv		ceelhi
+ain-uv	yhäkin	x		ceelhi
+hyeni	huono	a	EXPERIENCE_A	ceelhi
+nuorâ	nuori	a	HUMAN_A	ceelhi
+mučis	kaunis	a	HUMAN_A	ceelhi
+voorâs	tuore	a	SOUP_A	ceelhi
+hälbi	halpa	a	CLOTHES_A	ceelhi
+tiivrâs	kallis	a	CLOTHES_A	ceelhi
+ollâ	korkea	a	OBJECT_A	ceelhi
+koorâs	kova	a	OBJECT_A	ceelhi
+táválâš	tavallinen	a	OBJECT_A	ceelhi
+äšši	asia	n	JOB	ceelhi
+ruuđâ	rahaa	n	FINANCE	ceelhi
+kuás	milloin	adv	TIME	ceelhi
+onne	tänään	adv	TIME	ceelhi
+tääl	nyt	adv	TIME	ceelhi
+njaalgâ	hyvänmakuinen	a	FEELING	ceelhi
+orroođ	oleskella	v	FEELING	ceelhi
+viste	asunto	n	PLACE_STAYING	ceelhi
+limonaad	limonaadi	n	DRINK	ceelhi
+peenuv	koira	n	ANIMAL_DOM	ceelhi
+litte	astia	n	KITCHEN	ceelhi
+tijme	kello	n	ROOM_OTHER	ceelhi
+takkâ	kiitos	n	ABSTRACT	ceelhi
+mušto	muisti	n	THOUGHT	ceelhi
+aavis	sanomalehti	n	TEXT	ceelhi
+tuárvi	tarpeeksi	adv	SCHOOL_ADV	ceelhi
+äŋgirávt	ankarasti	adv	SCHOOL_ADV	ceelhi
+aaibâs	aivan, ihan	adv	BODY_ADV	ceelhi
+forgâ	pian	adv	BODY_ADV	ceelhi
+mäksiđ	maksaa	v	FINANCE_V	ceelhi
+jurdeđ	luulla	v	EXPERIENCE_V	ceelhi
+uápásmuđ	tutustua	v	EXPERIENCE_V	ceelhi
+puáttiđ	tulla	v	TRAVELLING_V	ceelhi
+kiergâniđ	ehtiä	v	TRAVELLING_V	ceelhi
+moonnâđ	mennä	v	TRAVELLING_V	ceelhi
+purâdiđ	syödä	v	FOOD_DRINK_V	ceelhi
+purrâđ	syödä	v	FOOD_DRINK_V	ceelhi
+mainâstiđ	kertoa	v	VERBAL_V	ceelhi
+toimâttiđ	toimittaa	v	TRAVEL_V	ceelhi
+aassâđ	asua	v	TRAVEL_V	ceelhi
+eelliđ	käydä	v	TRAVEL_V	ceelhi
+luptiđ	nostaa	v	HUMAN_V	ceelhi
+tánssáđ	tanssia	v	HUMAN_V	ceelhi
+porgâđ	tehdä	v	HUMAN_V	ceelhi
+viežžâđ	hakea	v	ACTION_V	ceelhi
+teivâdiđ	tavata	v	ACTION_V	ceelhi
+kevttiđ	käyttää	v	ACTION_V	ceelhi
+nommâ	nimi	n	FAMILY	ceelhi
+suklaa	suklaa	n	FOOD_GROCERY	ceelhi
+niisu	pulla	n	FOOD_GROCERY	ceelhi
+pottáák	peruna	n	FOOD_GROCERY	ceelhi
+sukkâr	sokeri	n	FOOD_GROCERY	ceelhi
+suotâs	hauska		EXPERIENCE_Z	ceelhi

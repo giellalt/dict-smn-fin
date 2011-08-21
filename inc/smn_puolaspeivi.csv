@@ -1,75 +1,75 @@
-mielâ	mieli	n	
-kuuvl	luo	pp	
-mut	 mutta	cs	
-kulgâđ	vuotaa	v	
-kulluđ	kuullua	v	
-olgon	ulkona	adv	
-iäskân	vasta	adv	
-eidu	 juuri	adv	
-mondet	miksi	adv	
-njuolgist	suoraan	adv	
-te	sitten	adv	
-tuše	vain	adv	
-nuuvt	 niin	adv	
-pyereest	hyvin	adv	
-taahân	tässähän	adv	
-onne	 tänään	adv	
-maŋŋaal	 perään	adv	
-viehâ	melko	adv	
-tobbeen	siellä	adv	
-pahas	paha	a	HUMAN_A
-liegâs	 lämmin	a	SOUP_A
-čuovvâd	valoisa	a	WEATHER_A
-sevŋâd	pimeä	a	WEATHER_A
-kukke	 pitkä	a	OBJECT_A
-maađij	 maantie	n	ROAD
-tijme	kello	n	TIME
-kiällu	 kello	n	TIME
-masa	kohta	adv	TIME
-siämmást	 samanaikasesti	adv	TIME
-tupe	tupa	n	BUILDING
-škovlâ	koulu	n	BUILDING
-vaccâ	vanttu	n	CLOTHING
-kussâ	lehmä	n	ANIMAL_DOM
-käävci	 kahdeksan	num	mNUMBER
-puolâš	 pakkanen	n	WEATHER
-ruopsâd	punainen	a	COLOUR
-njune	nenä	n	BODYPART
-mušteđ	 muistaa	v	EXPERIENCE_V
-kuldâliđ	kuunnella	v	EXPERIENCE_V
-čuoijâđ	soida	v	LEISURETIME_HOME_V
-sierâdiđ	leikkiä	v	LEISURETIME_HOME_V
-kolmuđ	 paleltua	v	EXPOSURE_V
-rinnuđ	huurtua	v	EXPOSURE_V
-puáttiđ	tulla	v	TRAVELLING_V
-šoddâđ	tulla	v	TRAVELLING_V
-juksâđ	saavuta	v	TRAVELLING_V
-vyelgiđ 	lähteä	v	TRAVELLING_V
-purâdiđ	syödä	v	FOOD_DRINK_V
-ettâđ	sanoa	v	VERBAL_V
-koijâdiđ	 kysyä	v	VERBAL_V
-čielgiđ	 selittää	v	VERBAL_V
-eelliđ	 käydä	v	TRAVEL_V
-pääcciđ	jäädä	v	TRAVEL_V
-kiergâniđ	ehtiä	v	TRAVEL_V
-moonnâđ	mennä	v	TRAVEL_V
-orostiđ	pysähtyä	v	TRAVEL_V
-čäälliđ	kirjoittaa	v	SCHOOL_V
-luuhâđ	lukea	v	SCHOOL_V
-áiguđ	aikoa	v	HUMAN_V
-keččâđ	katsoa	v	HUMAN_V
-pillediđ	pilata	v	HUMAN_V
-pieijâđ	laittaa	v	ACTION_V
-toppiđ	ottaa	v	ACTION_V
-porgâđ	tehdä	v	ACTION_V
-kárvudâttâđ	pukeutua	v	CLOTHES_V
-kaččâliđ	juosta	v	MOVEMENT_V
-kaččâđ	juosta	v	MOVEMENT_V
-pajaniđ	nousta	v	MOVEMENT_V
-ferttiđ	täytyä	v	AUX_V
-kolgâđ	pitää	v	AUX_V
-tuolmâđ	polkea	v	BODY_V
-čokkáđ	istua	v	BODY_V
-čuáŋŋuđ	seistää	v	BODY_V
-siäsá	täti	n	FAMILY
-kaandâš	 poikanen	n	FAMILY
+mielâ	mieli	n		puolas
+kuuvl	luo	pp		puolas
+mut	 mutta	cs		puolas
+kulgâđ	vuotaa	v		puolas
+kulluđ	kuullua	v		puolas
+olgon	ulkona	adv		puolas
+iäskân	vasta	adv		puolas
+eidu	 juuri	adv		puolas
+mondet	miksi	adv		puolas
+njuolgist	suoraan	adv		puolas
+te	sitten	adv		puolas
+tuše	vain	adv		puolas
+nuuvt	 niin	adv		puolas
+pyereest	hyvin	adv		puolas
+taahân	tässähän	adv		puolas
+onne	 tänään	adv		puolas
+maŋŋaal	 perään	adv		puolas
+viehâ	melko	adv		puolas
+tobbeen	siellä	adv		puolas
+pahas	paha	a	HUMAN_A	puolas
+liegâs	 lämmin	a	SOUP_A	puolas
+čuovvâd	valoisa	a	WEATHER_A	puolas
+sevŋâd	pimeä	a	WEATHER_A	puolas
+kukke	 pitkä	a	OBJECT_A	puolas
+maađij	 maantie	n	ROAD	puolas
+tijme	kello	n	TIME	puolas
+kiällu	 kello	n	TIME	puolas
+masa	kohta	adv	TIME	puolas
+siämmást	 samanaikasesti	adv	TIME	puolas
+tupe	tupa	n	BUILDING	puolas
+škovlâ	koulu	n	BUILDING	puolas
+vaccâ	vanttu	n	CLOTHING	puolas
+kussâ	lehmä	n	ANIMAL_DOM	puolas
+käävci	 kahdeksan	num	mNUMBER	puolas
+puolâš	 pakkanen	n	WEATHER	puolas
+ruopsâd	punainen	a	COLOUR	puolas
+njune	nenä	n	BODYPART	puolas
+mušteđ	 muistaa	v	EXPERIENCE_V	puolas
+kuldâliđ	kuunnella	v	EXPERIENCE_V	puolas
+čuoijâđ	soida	v	LEISURETIME_HOME_V	puolas
+sierâdiđ	leikkiä	v	LEISURETIME_HOME_V	puolas
+kolmuđ	 paleltua	v	EXPOSURE_V	puolas
+rinnuđ	huurtua	v	EXPOSURE_V	puolas
+puáttiđ	tulla	v	TRAVELLING_V	puolas
+šoddâđ	tulla	v	TRAVELLING_V	puolas
+juksâđ	saavuta	v	TRAVELLING_V	puolas
+vyelgiđ 	lähteä	v	TRAVELLING_V	puolas
+purâdiđ	syödä	v	FOOD_DRINK_V	puolas
+ettâđ	sanoa	v	VERBAL_V	puolas
+koijâdiđ	 kysyä	v	VERBAL_V	puolas
+čielgiđ	 selittää	v	VERBAL_V	puolas
+eelliđ	 käydä	v	TRAVEL_V	puolas
+pääcciđ	jäädä	v	TRAVEL_V	puolas
+kiergâniđ	ehtiä	v	TRAVEL_V	puolas
+moonnâđ	mennä	v	TRAVEL_V	puolas
+orostiđ	pysähtyä	v	TRAVEL_V	puolas
+čäälliđ	kirjoittaa	v	SCHOOL_V	puolas
+luuhâđ	lukea	v	SCHOOL_V	puolas
+áiguđ	aikoa	v	HUMAN_V	puolas
+keččâđ	katsoa	v	HUMAN_V	puolas
+pillediđ	pilata	v	HUMAN_V	puolas
+pieijâđ	laittaa	v	ACTION_V	puolas
+toppiđ	ottaa	v	ACTION_V	puolas
+porgâđ	tehdä	v	ACTION_V	puolas
+kárvudâttâđ	pukeutua	v	CLOTHES_V	puolas
+kaččâliđ	juosta	v	MOVEMENT_V	puolas
+kaččâđ	juosta	v	MOVEMENT_V	puolas
+pajaniđ	nousta	v	MOVEMENT_V	puolas
+ferttiđ	täytyä	v	AUX_V	puolas
+kolgâđ	pitää	v	AUX_V	puolas
+tuolmâđ	polkea	v	BODY_V	puolas
+čokkáđ	istua	v	BODY_V	puolas
+čuáŋŋuđ	seistää	v	BODY_V	puolas
+siäsá	täti	n	FAMILY	puolas
+kaandâš	 poikanen	n	FAMILY	puolas
