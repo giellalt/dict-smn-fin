@@ -1,18 +1,10 @@
-vielgadas	valkuainen munassa	n
-ruškâdâs	ruskuainen munassa	n
-puzzâsuonâsâš	sulkasuoninen lehti	n
-kuámmirsuonâsâš	kourasuoninen lehti	n
-jolgâsuonâsâš	silposuoninen lehti	n
 puuicâs	puikea	a
-suormâlostâstâhlâš	sormilehdykkäien	n
+čalmettem 	sokea	a
 päddilágán	nauhamainen	a
 váimulágán	herttamainen	a
 suormâjuáhusâš	sormijakoinen	a
 parâlostâstâhlâš	parilehdykkäinen	a
 säittilágán	keihäsmäinen	a
-čalmettem 	sokea	a
-tálvástâllâđ 	talvehtia	v
-Peeivitäsideijee 	Päiväntasaaja	prop
 stuorrâoppuu 	huuhkaja	n
 pihlejâš	pihlaja	n
 salâsteijee 	saalistaja	n
@@ -36,7 +28,6 @@ sukkârsuoksâ 	sokeritoukka	n
 lote 	kiila	n
 vielgismuáskáš	valkoapila	n
 liegâsvuođâtile 	lämpötila	n
-parâttâllâđ 	paritella	v
 ponjemiesttâ	paatsama	n
 enâdâh	maisema	n
 kievânjuolâs 	maitohorsma	n
@@ -44,15 +35,14 @@ porkkan	porkkana	n
 rippo 	etana	n
 meccirippo	metsäetana	n
 vaakunâ 	vaakuna	n
-läälliđ 	hautoa	v
 supe	haapa	n
 tevkisolbe 	suruvaippa	n
 lođâsrapu 	siira	n
 eennâmuási	maanosa	n
 tuáršu	sorsa	n
+vielgadas	valkuainen munassa	n
+ruškâdâs	ruskuainen munassa	n
 ovdâskodde 	eduskunta	n
-kásániđ	liuota	v
-skuáppuluvvâđ	koteloitua	v
 mittokaava	mittakaava	n
 sodâsuárree 	liito-orava	n
 robdâsäärgis	ääriviiva	n
@@ -102,15 +92,18 @@ mietâ	mesi	n
 eennâmverdi	maavarsi	n
 gneissi 	gneissi	n
 jieŋâäigi 	jääkausi	n
+puzzâsuonâsâš	sulkasuoninen lehti	n
+kuámmirsuonâsâš	kourasuoninen lehti	n
+jolgâsuonâsâš	silposuoninen lehti	n
 loovdâlostâ 	verholehti	n
 lieđilostâ 	terälehti	n
-Puáhinävli 	Pohjantähti	prop
 hajâáiccu	hajuaisti	n
 valvat	valvatti	n
 čácikiäinu 	vesireitti	n
 graniit 	graniitti	n
 kollepuállu	pietaryrtti	n
 puzzâ	höyhen	n
+suormâlostâstâhlâš	sormilehdykkäien	n
 kutkâ	kekomuurahainen	n
 hiävuškutkâ	hevosmuurahainen	n
 čohčâmielkkirääsi	syysmaitiainen	n
@@ -197,7 +190,6 @@ njomâtteijee 	nisäkäs	n
 vuoptâkäskee 	kärsäkäs	n
 raavvâdkuálus	ravintoketju	n
 ruopsisryeivil	punatulkku	n
-Meerâpohe	Merenkurkku	prop
 šleđgâčaskem	sähköisku	n
 urbe 	silmu	n
 urbečuomâ	silmusuomu	n
@@ -216,7 +208,6 @@ spáálváš	räystäspääsky	n
 termispáálváš	törmäpääsky	n
 lieđikovjâ	siitepöly	n
 olgoštem 	syrjiä	n
-pessiđ 	pesiä	v
 jursee 	jyrsijä	n
 njuolâshurgee 	horsmakiitäjä	n
 äimisäpligpannee 	siilikehrääjä	n
@@ -234,7 +225,16 @@ syejikappeer 	kypärä	n
 njamonjune 	imukärsä	n
 vázáttâh 	jalkakäytävä	n
 nannaamjieŋâ 	mannerjää	n
-kovjiđ 	pölyttää	v
 šleđgâ	sähkö	n
 pajoseh 	ylänkö	n
 riisihärö 	riisihärö	n
+Peeivitäsideijee 	Päiväntasaaja	prop
+Puáhinävli 	Pohjantähti	prop
+Meerâpohe	Merenkurkku	prop
+tálvástâllâđ 	talvehtia	v
+parâttâllâđ 	paritella	v
+läälliđ 	hautoa	v
+kásániđ	liuota	v
+skuáppuluvvâđ	koteloitua	v
+pessiđ 	pesiä	v
+kovjiđ 	pölyttää	v
