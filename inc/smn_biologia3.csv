@@ -1,61 +1,22 @@
 puuicâs	puikea	a		bio3
-čalmettem 	sokea	a	HUMAN_A	bio3
 päddilágán	nauhamainen	a		bio3
 váimulágán	herttamainen	a		bio3
 suormâjuáhusâš	sormijakoinen	a		bio3
 parâlostâstâhlâš	parilehdykkäinen	a		bio3
 säittilágán	keihäsmäinen	a		bio3
-stuorrâoppuu 	huuhkaja	n	BIRD	bio3
-pihlejâš	pihlaja	n	PLANT	bio3
+orgaanlâš 	eloperäinen	a		bio3
+täsiliegâslâš	tasalämpöinen	a		bio3
+rievdeeliegâslâš	vaihtolämpöinen	a		bio3
 salâsteijee 	saalistaja	n		bio3
-aalmugovdâsteijee 	kansanedustaja	n	PEOPLE	bio3
-vandârdeijee 	jalankulkija	n	PEOPLE	bio3
-rullâluistájeijee	rullaluistelija	n	PEOPLE	bio3
-rullâluávdástellee 	rullalautailija	n	PEOPLE	bio3
-cimccâhliljá	helmililja	n	PLANT	bio3
-čuovjisliljá	sinililja	n	PLANT	bio3
-persiljá	persilja	n	FOOD_GROCERY	bio3
-jiereeh	herukka, viinimarja	n	FOOD_GROCERY	bio3
-näkki 	naakka	n	BIRD	bio3
-lädikuávská	harakka	n	BIRD	bio3
-paaccâhčäšni	käpytikka	n	BIRD	bio3
-syeiniaččin 	heinäsirkka	n	BIRD	bio3
-jierssee 	kanahaukka	n	BIRD	bio3
-kukká 	kukka	n	PLANT	bio3
-suoksâ	toukka	n	ANIMAL_OTHER	bio3
-sukkârsuoksâ 	sokeritoukka	n	ANIMAL_OTHER	bio3
-čielgi	selkä, selkäranka	n	BODYPART	bio3
-lote 	kiila	n	TOOL	bio3
-vielgismuáskáš	valkoapila	n	PLANT	bio3
-liegâsvuođâtile 	lämpötila	n	ABSTRACT	bio3
-ponjemiesttâ	paatsama	n	PLANT	bio3
-enâdâh	maisema	n	NATURE_PLACE	bio3
-kievânjuolâs 	maitohorsma	n	PLANT	bio3
-porkkan	porkkana	n	FOOD_GROCERY	bio3
-rippo 	etana	n	ANIMAL_OTHER	bio3
-meccirippo	metsäetana	n	ANIMAL_OTHER	bio3
-vaakunâ 	vaakuna	n	THING	bio3
-supe	haapa	n	PLANT	bio3
-tevkisolbe 	suruvaippa	n	BIRD	bio3
-lođâsrapu 	siira	n	ANIMAL_OTHER	bio3
-eennâmuási	maanosa	n	NATURE	bio3
-tuáršu	sorsa	n	BIRD	bio3
 vielgadas	valkuainen munassa	n		bio3
 ruškâdâs	ruskuainen munassa	n		bio3
 ovdâskodde 	eduskunta	n		bio3
-mittokaava	mittakaava	n	ABSTRACT	bio3
-sodâsuárree 	liito-orava	n	ANIMAL_WILD	bio3
 robdâsäärgis	ääriviiva	n		bio3
 šaddoširrâ 	kirva	n		bio3
 vinjekove	viistokuva	n		bio3
 uvjâ	untuva	n		bio3
 šovos 	hede	n		bio3
 molssa	vaihde	n		bio3
-luttihâš	lude	n	ANIMAL_OTHER	bio3
-syejiluoddâ 	suojatie	n	ROAD	bio3
-almekáppálâh 	taivaankappale	n	NATURE	bio3
-kyevdi 	kyykäärme	n	ANIMAL_WILD	bio3
-puohčâmkäärbis	sukellusvene	n	VEHICLE	bio3
 teedâ	paine	n		bio3
 ollâteedâ 	korkeapaine	n		bio3
 vyelligisteedâ 	matalapaine	n		bio3
@@ -65,33 +26,13 @@ iskos	koe	n		bio3
 siirdâloigiittâh 	siirtolohkare	n		bio3
 mietâkolgos	mesikaste	n		bio3
 piäsádâh 	pesue, poikue	n		bio3
-vijđánemkuávlu	levinneisyysalue	n	NATURE	bio3
-puŋkki 	punkki	n	ANIMAL_OTHER	bio3
-kovjâpuŋkki	pölypunkki	n	ANIMAL_OTHER	bio3
 jotolâhmerkkâ 	liikennemerkki	n		bio3
-stuorrâevni	lukki	n	ANIMAL_OTHER	bio3
-ruossâevni 	ristihämähäkki	n	ANIMAL_OTHER	bio3
-pesnirihhááš	västäräkki	n	BIRD	bio3
 orostâh 	pysäkki	n		bio3
-uáivušjuuhâ 	laskujoki	n	NATURE_WATER	bio3
-kierâš 	palokärki	n	BIRD	bio3
-kiehâ	käki	n	BIRD	bio3
-uáivátkaalâ 	keräkaali	n	FOOD_GROCERY	bio3
-seevvimkielâ 	viittomakieli	n	LANGUAGE	bio3
-aassâmkorttel	asuinkortteli	n	PLACE_STAYING	bio3
-äimisäplig 	siili	n	ANIMAL_WILD	bio3
-siipuul	sipuli	n	FOOD_GROCERY	bio3
-kukkásiipuul	kukkasipuli	n	FOOD_GROCERY	bio3
 emi	emi	n		bio3
-vesa 	taimi	n	PLANT	bio3
 näpipirrâdâh 	napapiiri	n		bio3
 kukkodâhpirrâdâh 	pituuspiiri	n		bio3
 kobdodâhpirrâdâh 	leveyspiiri	n		bio3
-ruopsisruotâs	punajuuri	n	FOOD_GROCERY	bio3
-mietâ	mesi	n	FOOD_GROCERY	bio3
 eennâmverdi	maavarsi	n		bio3
-gneissi 	gneissi	n	THING	bio3
-jieŋâäigi 	jääkausi	n	TIME	bio3
 puzzâsuonâsâš	sulkasuoninen lehti	n		bio3
 kuámmirsuonâsâš	kourasuoninen lehti	n		bio3
 jolgâsuonâsâš	silposuoninen lehti	n		bio3
@@ -101,84 +42,36 @@ hajâáiccu	hajuaisti	n		bio3
 valvat	valvatti	n		bio3
 čácikiäinu 	vesireitti	n		bio3
 graniit 	graniitti	n		bio3
-kollepuállu	pietaryrtti	n	PLANT	bio3
 puzzâ	höyhen	n		bio3
 suormâlostâstâhlâš	sormilehdykkäien	n		bio3
-kutkâ	kekomuurahainen	n	ANIMAL_OTHER	bio3
-hiävuškutkâ	hevosmuurahainen	n	ANIMAL_OTHER	bio3
-čohčâmielkkirääsi	syysmaitiainen	n	PLANT	bio3
-pyeidicissááš 	talitiainen	n	BIRD	bio3
-čuovjiscissááš 	sinitiainen	n	BIRD	bio3
-cissááš 	lapintiainen	n	BIRD	bio3
-puuđijâš	puutiainen	n	BIRD	bio3
-vyevdicissááš 	hömötiainen	n	BIRD	bio3
-vuoptâcissááš 	töyhtötiainen	n	BIRD	bio3
 ruottâmjuolgâg	kaksoisjalkainen	n		bio3
 jyemeehjuolgâg	juoksujalkainen	n		bio3
 čielgitáávtág 	selkärankainen	n		bio3
 puohporree 	kaikkiruokainen	n		bio3
-miäđušijn	kimalainen	n	BIRD	bio3
 kuátikuuđhâš	ryppyviholainen	n		bio3
-ovdánemvádulâš	kehitysvammainen	n	PEOPLE	bio3
-uáinimvádulâš 	näkövammainen	n	PEOPLE	bio3
 virgeomâhâš	viranomainen	n		bio3
-tivre	hyönteinen	n	ANIMAL_OTHER	bio3
-piätutivre	petohyönteinen	n	ANIMAL_OTHER	bio3
-peljittem 	huonokuuloinen	a	HUMAN_A	bio3
 uánihissuájásâš	lyhytsiipinen	n		bio3
 olečuággoo 	loispistiäinen	n		bio3
 eennâmhurgee 	maakiitäjäinen	n		bio3
-orgaanlâš 	eloperäinen	a		bio3
-täsiliegâslâš	tasalämpöinen	a		bio3
-rievdeeliegâslâš	vaihtolämpöinen	a		bio3
-piäivááloddááš 	perhonen	n	BIRD	bio3
-jiereehpiäivááloddááš	herukkaperhonen	n	BIRD	bio3
-fiskispiäivááloddááš 	sitruunaperhonen	n	BIRD	bio3
-riitaarpiäivááloddááš	ritariperhonen	n	BIRD	bio3
-kuolbâpiäivááloddááš	kangasperhonen	n	BIRD	bio3
-käskeepiäivááloddááš	nokkosperhonen	n	BIRD	bio3
-lanttupiäivááloddááš	lanttuperhonen	n	BIRD	bio3
-käskee	nokkonen	n	PLANT	bio3
-kiärpáš	huonekärpänen	n	BIRD	bio3
-kollepottâ	raatokärpänen	n	BIRD	bio3
-ijjâpiäivááloddááš 	yöperhonen, yökkönen	n	BIRD	bio3
 njuolâijjâhâš	nuoliyökkönen	n		bio3
 huhti-ijjâhâš	huhtiyökkönen	n		bio3
 leibipihtee	leivänpaahdin	n		bio3
 časkostuástus	iskunvaimennin	n		bio3
 širottâs 	heijastin	n		bio3
-valve-ellee 	laumaeläin	n	ANIMAL_OTHER	bio3
 siärvádâhellee 	yhdyskuntaeläin	n		bio3
-čielgitävtittem 	selkärangaton	n	ANIMAL_OTHER	bio3
 šolbâkällee 	silokallio	n		bio3
-jaamišrääsi	pihasaunio	n	PLANT	bio3
-sävnikuállá	peltosaunio	n	PLANT	bio3
-piäldukuállá	peltosaunio	n	PLANT	bio3
-kiđđâčalme	kevätesikko	n	PLANT	bio3
-urbe 	norkko	n	PLANT	bio3
-šovosurbe	hedenorkko	n	PLANT	bio3
 uuccâmruvdustâh	hakuruudukko	n		bio3
 vuáládâh 	alanko	n		bio3
-tažâlig	sisilisko	n	ANIMAL_OTHER	bio3
-ovdâskoddetáálu	eduskuntatalo	n	BUILDING	bio3
 skuáppu 	kotelo	n		bio3
 kuocâkiccee 	turkkilo	n		bio3
 skuáppu 	kotilo	n		bio3
-čuovjiskiällurääsi	kissankello	n	PLANT	bio3
 kulo	kuuloaisti, kuulo	n		bio3
 hävvilostâ	piharatamo	n		bio3
 kiirjágloddááš	kirjosieppo	n		bio3
-piäippáin 	peippo	n	BIRD	bio3
-vyevdiloddááš	järripeippo	n	BIRD	bio3
 kärŋilis tääsi 	kalteva taso	n		bio3
-käskimčuáimáš 	ukonkorento	n	PLANT	bio3
 liäđus 	kukinto	n		bio3
 sävrivuotâ 	kunto	n		bio3
-suáluikuávlu	saaristo	n	NATURE_PLACE	bio3
-nannaam	manner	n	NATURE_PLACE	bio3
 kaskas 	kaskas	n		bio3
-ränisrástágâš 	räkättirastas	n	BIRD	bio3
-naavrâs	nauris	n	FOOD_GROCERY	bio3
 vuáđusáárgus	pohjapiirros	n		bio3
 oijâgâs	horros	n		bio3
 tälvioijâgâs 	talvihorros	n		bio3
@@ -189,52 +82,159 @@ komovuotâ	avaruus	n		bio3
 njomâtteijee 	nisäkäs	n		bio3
 vuoptâkäskee 	kärsäkäs	n		bio3
 raavvâdkuálus	ravintoketju	n		bio3
-ruopsisryeivil	punatulkku	n	BIRD	bio3
 šleđgâčaskem	sähköisku	n		bio3
 urbe 	silmu	n		bio3
 urbečuomâ	silmusuomu	n		bio3
 jietânâskirno 	hiidenkirnu	n		bio3
 marsu 	marsu	n		bio3
-sajelodde 	paikkalintu	n	BIRD	bio3
-tuákkilodde	parvilintu	n	BIRD	bio3
-vaanhimlodde 	emolintu	n	BIRD	bio3
-kesilodde 	muuttolintu	n	BIRD	bio3
-lanttu	lanttu	n	FOOD_GROCERY	bio3
-tiälkkutivre 	leppäkerttu	n	BIRD	bio3
-sieivâsuáhi 	hieskoivu	n	PLANT	bio3
-sonjosuáhi 	rauduskoivu	n	PLANT	bio3
-syerispáálváš 	haarapääsky	n	BIRD	bio3
-spáálváš	räystäspääsky	n	BIRD	bio3
-termispáálváš	törmäpääsky	n	BIRD	bio3
 lieđikovjâ	siitepöly	n		bio3
 olgoštem 	syrjiä	n		bio3
-jursee 	jyrsijä	n	ANIMAL_OTHER	bio3
-njuolâshurgee 	horsmakiitäjä	n	PLANT	bio3
-äimisäpligpannee 	siilikehrääjä	n	BIRD	bio3
-rátuporree 	raadonsyöjä	n	ANIMAL_OTHER	bio3
 lostâstâh 	lehdykkä	n		bio3
-heeđâlm	hedelmä	n	FOOD_GROCERY	bio3
 viermičalme	verkkosilmä	n		bio3
 pähkin	pähkinä	n		bio3
 källeevuáđu 	kallioperä	n		bio3
 panneemjare	kehruunystyrä	n		bio3
-muldesäplig	myyrä	n	ANIMAL_WILD	bio3
-čäcisäplig 	vesimyyrä	n	ANIMAL_WILD	bio3
-mievri	mäyrä	n	ANIMAL_WILD	bio3
 syejikappeer 	kypärä	n		bio3
 njamonjune 	imukärsä	n		bio3
-vázáttâh 	jalkakäytävä	n	ROAD	bio3
 nannaamjieŋâ 	mannerjää	n		bio3
 šleđgâ	sähkö	n		bio3
-pajoseh 	ylänkö	n	NATURE_PLACE	bio3
 riisihärö 	riisihärö	n		bio3
 Peeivitäsideijee 	Päiväntasaaja	prop		bio3
 Puáhinävli 	Pohjantähti	prop		bio3
-Meerâpohe	Merenkurkku	prop	SUOPMA	bio3
 tálvástâllâđ 	talvehtia	v		bio3
-parâttâllâđ 	paritella	v	HUMAN_V	bio3
 läälliđ 	hautoa	v		bio3
 kásániđ	liuota	v		bio3
 skuáppuluvvâđ	koteloitua	v		bio3
 pessiđ 	pesiä	v		bio3
 kovjiđ 	pölyttää	v		bio3
+Meerâpohe	Merenkurkku	prop	SUOPMA	bio3
+čalmettem 	sokea	a	HUMAN_A	bio3
+peljittem 	huonokuuloinen	a	HUMAN_A	bio3
+syejiluoddâ 	suojatie	n	ROAD	bio3
+vázáttâh 	jalkakäytävä	n	ROAD	bio3
+sodâsuárree 	liito-orava	n	ANIMAL_WILD	bio3
+kyevdi 	kyykäärme	n	ANIMAL_WILD	bio3
+äimisäplig 	siili	n	ANIMAL_WILD	bio3
+muldesäplig	myyrä	n	ANIMAL_WILD	bio3
+čäcisäplig 	vesimyyrä	n	ANIMAL_WILD	bio3
+mievri	mäyrä	n	ANIMAL_WILD	bio3
+stuorrâoppuu 	huuhkaja	n	BIRD	bio3
+näkki 	naakka	n	BIRD	bio3
+lädikuávská	harakka	n	BIRD	bio3
+paaccâhčäšni	käpytikka	n	BIRD	bio3
+syeiniaččin 	heinäsirkka	n	BIRD	bio3
+jierssee 	kanahaukka	n	BIRD	bio3
+tevkisolbe 	suruvaippa	n	BIRD	bio3
+tuáršu	sorsa	n	BIRD	bio3
+pesnirihhááš	västäräkki	n	BIRD	bio3
+kierâš 	palokärki	n	BIRD	bio3
+kiehâ	käki	n	BIRD	bio3
+pyeidicissááš 	talitiainen	n	BIRD	bio3
+čuovjiscissááš 	sinitiainen	n	BIRD	bio3
+cissááš 	lapintiainen	n	BIRD	bio3
+puuđijâš	puutiainen	n	BIRD	bio3
+vyevdicissááš 	hömötiainen	n	BIRD	bio3
+vuoptâcissááš 	töyhtötiainen	n	BIRD	bio3
+miäđušijn	kimalainen	n	BIRD	bio3
+piäivááloddááš 	perhonen	n	BIRD	bio3
+jiereehpiäivááloddááš	herukkaperhonen	n	BIRD	bio3
+fiskispiäivááloddááš 	sitruunaperhonen	n	BIRD	bio3
+riitaarpiäivááloddááš	ritariperhonen	n	BIRD	bio3
+kuolbâpiäivááloddááš	kangasperhonen	n	BIRD	bio3
+käskeepiäivááloddááš	nokkosperhonen	n	BIRD	bio3
+lanttupiäivááloddááš	lanttuperhonen	n	BIRD	bio3
+kiärpáš	huonekärpänen	n	BIRD	bio3
+kollepottâ	raatokärpänen	n	BIRD	bio3
+ijjâpiäivááloddááš 	yöperhonen, yökkönen	n	BIRD	bio3
+piäippáin 	peippo	n	BIRD	bio3
+vyevdiloddááš	järripeippo	n	BIRD	bio3
+ränisrástágâš 	räkättirastas	n	BIRD	bio3
+ruopsisryeivil	punatulkku	n	BIRD	bio3
+sajelodde 	paikkalintu	n	BIRD	bio3
+tuákkilodde	parvilintu	n	BIRD	bio3
+vaanhimlodde 	emolintu	n	BIRD	bio3
+kesilodde 	muuttolintu	n	BIRD	bio3
+tiälkkutivre 	leppäkerttu	n	BIRD	bio3
+syerispáálváš 	haarapääsky	n	BIRD	bio3
+spáálváš	räystäspääsky	n	BIRD	bio3
+termispáálváš	törmäpääsky	n	BIRD	bio3
+äimisäpligpannee 	siilikehrääjä	n	BIRD	bio3
+enâdâh	maisema	n	NATURE_PLACE	bio3
+suáluikuávlu	saaristo	n	NATURE_PLACE	bio3
+nannaam	manner	n	NATURE_PLACE	bio3
+pajoseh 	ylänkö	n	NATURE_PLACE	bio3
+seevvimkielâ 	viittomakieli	n	LANGUAGE	bio3
+puohčâmkäärbis	sukellusvene	n	VEHICLE	bio3
+aalmugovdâsteijee 	kansanedustaja	n	PEOPLE	bio3
+vandârdeijee 	jalankulkija	n	PEOPLE	bio3
+rullâluistájeijee	rullaluistelija	n	PEOPLE	bio3
+rullâluávdástellee 	rullalautailija	n	PEOPLE	bio3
+ovdánemvádulâš	kehitysvammainen	n	PEOPLE	bio3
+uáinimvádulâš 	näkövammainen	n	PEOPLE	bio3
+jieŋâäigi 	jääkausi	n	TIME	bio3
+eennâmuási	maanosa	n	NATURE	bio3
+almekáppálâh 	taivaankappale	n	NATURE	bio3
+vijđánemkuávlu	levinneisyysalue	n	NATURE	bio3
+ovdâskoddetáálu	eduskuntatalo	n	BUILDING	bio3
+vaakunâ 	vaakuna	n	THING	bio3
+gneissi 	gneissi	n	THING	bio3
+aassâmkorttel	asuinkortteli	n	PLACE_STAYING	bio3
+lote 	kiila	n	TOOL	bio3
+suoksâ	toukka	n	ANIMAL_OTHER	bio3
+sukkârsuoksâ 	sokeritoukka	n	ANIMAL_OTHER	bio3
+rippo 	etana	n	ANIMAL_OTHER	bio3
+meccirippo	metsäetana	n	ANIMAL_OTHER	bio3
+lođâsrapu 	siira	n	ANIMAL_OTHER	bio3
+luttihâš	lude	n	ANIMAL_OTHER	bio3
+puŋkki 	punkki	n	ANIMAL_OTHER	bio3
+kovjâpuŋkki	pölypunkki	n	ANIMAL_OTHER	bio3
+stuorrâevni	lukki	n	ANIMAL_OTHER	bio3
+ruossâevni 	ristihämähäkki	n	ANIMAL_OTHER	bio3
+kutkâ	kekomuurahainen	n	ANIMAL_OTHER	bio3
+hiävuškutkâ	hevosmuurahainen	n	ANIMAL_OTHER	bio3
+tivre	hyönteinen	n	ANIMAL_OTHER	bio3
+piätutivre	petohyönteinen	n	ANIMAL_OTHER	bio3
+valve-ellee 	laumaeläin	n	ANIMAL_OTHER	bio3
+čielgitävtittem 	selkärangaton	n	ANIMAL_OTHER	bio3
+tažâlig	sisilisko	n	ANIMAL_OTHER	bio3
+jursee 	jyrsijä	n	ANIMAL_OTHER	bio3
+rátuporree 	raadonsyöjä	n	ANIMAL_OTHER	bio3
+uáivušjuuhâ 	laskujoki	n	NATURE_WATER	bio3
+liegâsvuođâtile 	lämpötila	n	ABSTRACT	bio3
+mittokaava	mittakaava	n	ABSTRACT	bio3
+pihlejâš	pihlaja	n	PLANT	bio3
+cimccâhliljá	helmililja	n	PLANT	bio3
+čuovjisliljá	sinililja	n	PLANT	bio3
+kukká 	kukka	n	PLANT	bio3
+vielgismuáskáš	valkoapila	n	PLANT	bio3
+ponjemiesttâ	paatsama	n	PLANT	bio3
+kievânjuolâs 	maitohorsma	n	PLANT	bio3
+supe	haapa	n	PLANT	bio3
+vesa 	taimi	n	PLANT	bio3
+kollepuállu	pietaryrtti	n	PLANT	bio3
+čohčâmielkkirääsi	syysmaitiainen	n	PLANT	bio3
+käskee	nokkonen	n	PLANT	bio3
+jaamišrääsi	pihasaunio	n	PLANT	bio3
+sävnikuállá	peltosaunio	n	PLANT	bio3
+piäldukuállá	peltosaunio	n	PLANT	bio3
+kiđđâčalme	kevätesikko	n	PLANT	bio3
+urbe 	norkko	n	PLANT	bio3
+šovosurbe	hedenorkko	n	PLANT	bio3
+čuovjiskiällurääsi	kissankello	n	PLANT	bio3
+käskimčuáimáš 	ukonkorento	n	PLANT	bio3
+sieivâsuáhi 	hieskoivu	n	PLANT	bio3
+sonjosuáhi 	rauduskoivu	n	PLANT	bio3
+njuolâshurgee 	horsmakiitäjä	n	PLANT	bio3
+čielgi	selkä, selkäranka	n	BODYPART	bio3
+parâttâllâđ 	paritella	v	HUMAN_V	bio3
+persiljá	persilja	n	FOOD_GROCERY	bio3
+jiereeh	herukka, viinimarja	n	FOOD_GROCERY	bio3
+porkkan	porkkana	n	FOOD_GROCERY	bio3
+uáivátkaalâ 	keräkaali	n	FOOD_GROCERY	bio3
+siipuul	sipuli	n	FOOD_GROCERY	bio3
+kukkásiipuul	kukkasipuli	n	FOOD_GROCERY	bio3
+ruopsisruotâs	punajuuri	n	FOOD_GROCERY	bio3
+mietâ	mesi	n	FOOD_GROCERY	bio3
+naavrâs	nauris	n	FOOD_GROCERY	bio3
+lanttu	lanttu	n	FOOD_GROCERY	bio3
+heeđâlm	hedelmä	n	FOOD_GROCERY	bio3
