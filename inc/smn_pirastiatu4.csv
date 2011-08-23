@@ -386,7 +386,7 @@ ohtim	yhteyttäminen	n	YYY	piras
 ruávváás	ruoikkoinen	n	YYY	piras
 viirijâš	viiriäinen	n	YYY	piras
 eennâmhurgee	maakiitäjäinen	n	YYY	piras
-ruáhukiärttusâš	ruokokerttunen	n	YYY	piras
+ruáhukiärttusâš	ruokokerttunen	n	BIRD	piras
 kiihâm	soidin	n	YYY	piras
 vuolgâttempiergâs	lähetin	n	YYY	piras
 sierânistee	eristin	n	YYY	piras
@@ -396,14 +396,14 @@ algâčuolmâ	alkio	n	YYY	piras
 šaveniŋálâs	emakko	n	YYY	piras
 ciäkkádâh	asteikko	n	YYY	piras
 fiskiskiđđâčalme	kevätesikko	n	YYY	piras
-uvjâuđâgâš	untuvikko	n	YYY	piras
+uvjâuđâgâš	untuvikko	n	BIRD	piras
 merâtokko	meritokko	n	YYY	piras
 uuccâmruvdustâh	hakuruudukko	n	YYY	piras
 tulvevaahâg	tulvavahinko	n	YYY	piras
 čuásáttâhčuovâ	kohdevalo	n	YYY	piras
 áimuvuovdâ	ilmaontelo	n	YYY	piras
 ruáiru	railot railo	n	YYY	piras
-čäcičikâlâs	vesikello	n	YYY	piras
+čäcičikâlâs	vesikello	n	ILLNESS	piras
 áigápuátu	toimeentulo	n	YYY	piras
 mutáttâh	muuntamo	n	YYY	piras
 puáláán	polttimo	n	YYY	piras
@@ -471,7 +471,7 @@ ruopsissieđgâ	kiiltopaju	n	YYY	piras
 šaveores	karju	n	YYY	piras
 riššo	suihku	n	YYY	piras
 silkkešnjirgoo	silkkiuikku	n	YYY	piras
-vagge	koukku	n	YYY	piras
+vagge	koukku	n	INSTRUMENT	piras
 tappee	sulku	n	YYY	piras
 šleđgâčaskem	sähköisku	n	YYY	piras
 sojopoccee	letku	n	YYY	piras
@@ -493,7 +493,7 @@ raccu	ratsu	n	YYY	piras
 kvaliteet	laatu	n	YYY	piras
 čiđđâsááigus	hiilikuitu	n	YYY	piras
 šaddovuorkkim	sadonkorjuu	n	YYY	piras
-skierri	vaivaiskoivu	n	YYY	piras
+skierri	vaivaiskoivu	n	PLANT	piras
 haavvârliäđus	röyhy	n	YYY	piras
 liegâsvuođâjođettemnahcâ	lämmönjohtumiskyky	n	YYY	piras
 čäcilievlâ	vesihöyry	n	YYY	piras
@@ -511,14 +511,14 @@ pennuusyeini	koiranheinä	n	YYY	piras
 punjijdem	ininä	n	YYY	piras
 ruočâ	ritinä	n	YYY	piras
 meiničuággin	mätimöykkyinä	n	YYY	piras
-pihtemleibi	paahtoleipä	n	YYY	piras
-leibi	leppä	n	YYY	piras
+pihtemleibi	paahtoleipä	n	FOOD	piras
+leibi	leppä	n	PLANT	piras
 vuoptâlaahul	töyhtöhyyppä	n	YYY	piras
 raccastemsyejikappeer	ratsastuskypärä	n	YYY	piras
 puigâmecci	ikimetsä	n	YYY	piras
 lääni	rysä	n	YYY	piras
 kesimiärkkum	kesäerotus, kesämerkintä	n	YYY	piras
-ustev	ystävä	n	YYY	piras
+ustev	ystävä	n	FAMILY	piras
 ruávkku	komojää	n	YYY	piras
 tuohkâl	pökkää	n	YYY	piras
 jieŋâčuorgiittâh	jääröykkiö	n	YYY	piras
