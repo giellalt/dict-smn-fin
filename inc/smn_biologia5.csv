@@ -1,13 +1,13 @@
 toovgâs 	kimmoisa	a	YYY	bio5
-puosâh 	sairaalloinen	a	YYY	bio5
-ovdedemeennâm 	kehitysmaa	n	YYY	bio5
+puosâh 	sairaalloinen	a	ILLNESS	bio5
+ovdedemeennâm 	kehitysmaa	n	PLACE_STAYING	bio5
 kieddinjuámmilsyeini 	nurmilauha	n	YYY	bio5
 mietâ 	hunaja	n	FOOD_GROCERY	bio5
 pieđgejeijee 	hajottaja	n	YYY	bio5
-pyevtitteijee 	tuottaja	n	YYY	bio5
+pyevtitteijee 	tuottaja	n	PROFESSION	bio5
 häblejee 	kuohkeuttaja	n	YYY	bio5
-kulâtteijee 	kuluttaja	n	YYY	bio5
-ränispápukáijá 	harmaapapukaija	n	YYY	bio5
+kulâtteijee 	kuluttaja	n	PEOPLE	bio5
+ränispápukáijá 	harmaapapukaija	n	BIRD	bio5
 äpikäččee 	aavikkojuoksija	n	YYY	bio5
 lädikuávskâ 	harakka	n	BIRD	bio5
 njihânjâs 	hikka	n	ILLNESS	bio5
@@ -22,7 +22,7 @@ jietânâskáránâskuáskim 	jättiläiskorppikotka	n	YYY	bio5
 lekkâkyeli 	mustekala	n	FISH	bio5
 vielgisristâ 	valkoapila	n	PLANT	bio5
 ruotâsmyerji 	mukula	n	YYY	bio5
-saatuul 	satula	n	YYY	bio5
+saatuul 	satula	n	TOOL	bio5
 čielgitähti	selkärangan nikama	n	YYY	bio5
 sellâšlijve 	solulima	n	YYY	bio5
 kievânjuolâs 	maitohorsma	n	PLANT	bio5
@@ -52,7 +52,7 @@ purrâmâšsuddâdemuáli 	ruuansulatuskanava	n	BODYPART	bio5
 koskâpelji 	välikorva	n	BODYPART	bio5
 sispelji 	sisäkorva	n	BODYPART	bio5
 vuojâ 	rasva	n	YYY	bio5
-lihâstâs 	liike	n	YYY	bio5
+lihâstâs 	liike	n	ABSTRACT	bio5
 šlajâstâh 	lajike	n	YYY	bio5
 segment 	jaoke	n	YYY	bio5
 liähmus stielâs 	lauhkea vyöhyke	n	YYY	bio5
