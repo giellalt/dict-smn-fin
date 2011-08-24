@@ -420,11 +420,11 @@ jiešhaldâšem	itsehallinto	n	YYY	piras
 iälšu	kunto	n	YYY	piras
 vorrâjotteem	verenkierto	n	YYY	piras
 áiccu	vaisto	n	YYY	piras
-tavesuáluikuávlu	ulkosaaristo	n	YYY	piras
-riddosuáluikuávlu	sisäsaaristo	n	YYY	piras
-várádâh	vuoristo	n	YYY	piras
-lätteeráánu	matto	n	YYY	piras
-čäcirotto	vesirutto	n	YYY	piras
+tavesuáluikuávlu	ulkosaaristo	n	NATURE_PLACE	piras
+riddosuáluikuávlu	sisäsaaristo	n	NATURE_PLACE	piras
+várádâh	vuoristo	n	NATURE_PLACE	piras
+lätteeráánu	matto	n	FURNITURE	piras
+čäcirotto	vesirutto	n	ILLNESS	piras
 liivâr	n	YYY	piras
 kivkkâhâš	kiuas	n	YYY	piras
 pokkiittâs	tungos	n	YYY	piras
@@ -501,7 +501,7 @@ muuneeldestim	ennaltaehkäisy	n	YYY	piras
 rotonijtto	lehtoniitty	n	YYY	piras
 piäldupuágui	peltopyy	n	YYY	piras
 kirjâgluosâ	n	YYY	piras
-kávnusjuškee	löytöretkeilijä	n	YYY	piras
+kávnusjuškee	löytöretkeilijä	n	PROFESSION	piras
 kuojâ	tähkä	n	YYY	piras
 čuáđgi	telkkä	n	YYY	piras
 kievkkânsillee	keittiösiivilä	n	YYY	piras
@@ -515,9 +515,9 @@ pihtemleibi	paahtoleipä	n	FOOD	piras
 leibi	leppä	n	PLANT	piras
 vuoptâlaahul	töyhtöhyyppä	n	YYY	piras
 raccastemsyejikappeer	ratsastuskypärä	n	YYY	piras
-puigâmecci	ikimetsä	n	YYY	piras
+puigâmecci	ikimetsä	n	NATURE_PLACE	piras
 lääni	rysä	n	YYY	piras
-kesimiärkkum	kesäerotus, kesämerkintä	n	YYY	piras
+kesimiärkkum	kesäerotus, kesämerkintä	n	HERDING	piras
 ustev	ystävä	n	FAMILY	piras
 ruávkku	komojää	n	YYY	piras
 tuohkâl	pökkää	n	YYY	piras
@@ -529,19 +529,19 @@ tuolbâtooŋâs	sielikkö	n	YYY	piras
 ohtâdâh	yksikkö	n	YYY	piras
 jieŋâdâh	jäätikkö	n	YYY	piras
 kođonješši	kutulätäkkö	n	YYY	piras
-skyelfi	tunturipöllö	n	YYY	piras
+skyelfi	tunturipöllö	n	BIRD	piras
 iilâsk	pihatähtimö	n	YYY	piras
 siärvuš	yhteisö	n	YYY	piras
 pyeretovâlâšvuođâornijdâh	hyväntekeväisyysjärjestö	n	YYY	piras
 organismâ	elimistö	n	YYY	piras
-poođâš	pyrstö	n	YYY	piras
+poođâš	pyrstö	n	BODYPART	piras
 njuuvččuálpáš	n	YYY	piras
-pihteđ	paahtaa	v	YYY	piras
+pihteđ	paahtaa	v	FOOD_DRINK_V	piras
 spejâlist	heijastaa	v	YYY	piras
 ovdâšoddâdiđ	esikasvattaa	v	YYY	piras
-luáptá	kuluttaa	v	YYY	piras
-meidiđ	puida	v	YYY	piras
-läliškuát	alkaa hautoa	v	YYY	piras
+luáptá	kuluttaa	v	FOOD_DRINK_V	piras
+meidiđ	puida	v	HUMAN_V	piras
+läliškuát	alkaa hautoa	v	FOOD_DRINK_V	piras
 späittiđ	tehota	v	YYY	piras
 kiinnâđ	takertua	v	YYY	piras
 rašoškuát	alkaa haurastua	v	YYY	piras
