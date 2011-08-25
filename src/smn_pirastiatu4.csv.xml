@@ -1,0 +1,9107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="prop">Tavepoođâeennâm</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Pohjanmaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Tavenuorttiieennâm</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Koillismaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Liäkšá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Lieksa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Kiemâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Kemi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Väri-Suomâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Vaara-Suomi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Uárji-Suomâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Lounais-Suomi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Kaajaan</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Kajaani</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Merâpottâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Perämeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Tavemeerâpottâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Pohjanlahti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Kiemâjävri</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Kemijärvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Tuárnus</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Tornio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Kuáccám</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Kuusamo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kiäldulâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="EXPERIENCE_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">jännittävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">meriáigásâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="TIME_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">säännöllinen</t>
+            <t pos="a">määräaikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">hormiš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">henkeäsalpaava</t>
+            <t pos="a">jylhä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">njyebžilis</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">joustava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vávjálâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">epäluuloinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jieččii</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">itsenäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vildáá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">hurja</t>
+            <t pos="a">hurjapäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jiešvuođâlâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">omaperäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">pelettis</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">puolueeton</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">siervi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">hento</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tiätuäŋgiris</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">utelias</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">lašmâdis</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">reipas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">álššáá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">yritteliäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">riššoo</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">räiskyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">iärdutteijee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">ärsyttävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tuáŋgi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">kömpelö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">raavâdvaljaa</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SOUP_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">ravinteikas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">čuássid</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="WEATHER_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">viileä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">skiččee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="OBJECT_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">nariseva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">korrâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="OBJECT_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">kova</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">cuávhus</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="OBJECT_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">rikkonainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kristalsâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="OBJECT_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">kiteinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kollenallii</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="OBJECT_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">kultapitoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kalkkânálásâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="OBJECT_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">kalkkipitoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tooškâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="OBJECT_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">kiinteä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jehhee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="OBJECT_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">vedenpitävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">várnuttis</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODY_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">kurja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pyevtittâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="JOB"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tuote</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ryevdirađe</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ROAD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rautatie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">moottorjotolâhmaađij</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ROAD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">moottoriliikennetie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">moottormaađij</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ROAD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">moottoritie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vyelejotteemtunnel</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ROAD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">alikulkutunneli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kodde</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">peura</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tiälkkukodde</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">täpläpeura</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vyevdikodde</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">metsäpeura</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vielgispieiniskodde</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">valkohäntäpeura</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maaijuv</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">majava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kyevdi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kyykäärme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">koddesäplig</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sopuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">koddesäplig</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tunturisopuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puoidâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kärppä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">meccisäplig</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">metsämyyrä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mievri</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">mäyrä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Tavekuávlu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="WORLD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Pohjola</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Säksi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="WORLD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Saksa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Čuhâväärih</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="WORLD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Huippuvuoret</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">havdâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">haahka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuonjâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ankka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">silleenjune</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">siivilänokka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pieggâvälli</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tuulihaukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">säpligvälli</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hiirihaukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">merâkuáskim</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">merikotka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">viettuu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tukkasotka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piehânj</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">piekana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kalkkun</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kalkkuna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piiččus</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kapustarinta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="BIRD">kielâviälgu= sinirinta</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="BIRD">n</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuánjá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hanhi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stuorrâlodde</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">harmaalokki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">päiski</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kalalokki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kappeerpäiski</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">naurulokki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čiehčâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kalasääski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">topsenjunčuoskâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">surviaissääski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puškolodde</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kuovi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuškástâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">isokuovi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puzzâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">höyhen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sávjáduvvâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">urpiainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kottárâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kottarainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ijjâpiäivááloddááš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">yökkönen</t>
+            <t pos="n">yöperhonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puállunjunnjuhčâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kyhmyjoutsen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kääniores</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">veigilodde</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">punakylkirastas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">peivikozzâlodde</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">päiväpetolintu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">leibiloddááš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">leppälintu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piäju</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pesäkolo</t>
+            <t pos="n">luola</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">enâdâhkuávlu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">maisema-alue</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vääri</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vuori</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laanjâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">viidakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuácceevyevdi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">havumetsä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šlanttâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FINANCE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kolikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">toovláštárukielâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="LANGUAGE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">muinasnorjaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suáluikuávluväri</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="VEHICLE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">saaristolautta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">väri</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="VEHICLE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lossi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuovâtornâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">majakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tamppâteelaak</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">laivatelakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piärgušahenaavit</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lihasikala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pieggâvyeimilájádâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tuulivoimala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aatoomvyeimilájádâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ydinvoimala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lieggimvyeimilájádâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lämpövoimala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">käniviäsu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kanala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šahetáálu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sikatila</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">luomutáálu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">luomutila</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kesiviäsuš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kesämökki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kesituuvááš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kesämökki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njolgetalli</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ravitalli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">peerâtáálu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">omakotitalo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="teurastamo">irâttâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="n___BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="teurastamo">yritysnjuovâttâh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">liäibuttâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">leipomo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">fabrik</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tehdas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lego-pittá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lego-palikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sraŋgâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rautalanka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">acâkkâssraŋgâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hehkulanka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saatuul</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">satula</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuoggâčielgi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pitkäsiima</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suočâläbži</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">liukuhihna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piäiváávuoidâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">aurinkovoide</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kyeddimčoonâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kantoside</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pävirstielâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">paperisuikale</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kiärdu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vanne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">širottâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">heijastin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puáldâmuš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="TRAVELLING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">polttoaine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">minikaavpug</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLACE_STAYING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pienoiskauounki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">leibičaskes</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_DISH"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">leivänpala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">siilâk</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FISH"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">silakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">torske</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FISH"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">turska</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">fiindâr</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FISH"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kampela</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">peljimedusa</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FISH"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">korvameduusa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">luosâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FISH"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lohi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ryevdikuálmihâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FISH"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kolmipiikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">siergi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FISH"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">särki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Finnmark</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SAPMI"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Ruija</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Kiärun</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SAPMI"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Kiiruna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Kiemnikáisá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SAPMI"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Kebnekaise</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Tuárnusjuuhâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SAPMI"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Tornionjoki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ternimielkki</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="DRINK"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ternimaito</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kiärdutuvvá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRK"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sepelkyyhky</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">muorâkärdi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLACE_LOCAL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">puutarha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">áldu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="REINDEER_ANIMAL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vaadin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lastikjvijvám</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="SCHOOL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">muoviviivain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tanekukse</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="TOOL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tinakauha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuoggiistâhskuáppu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="TOOL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pistorasia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">muttee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="TOOL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">muuntaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saatuulviltti</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="TOOL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">satulahuopa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuoppâmpuimur</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="TOOL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">leikkuupuimuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">škajâluođân</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="TOOL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kaikuluotain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">viehâkoolvâkalvemmaašin</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="TOOL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kylvölannoitin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuástáväldimpiergâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="TOOL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vastaanotin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">päikkišahe</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kesysika</t>
+            <t pos="n">kotisika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kälbi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vasikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">luomukälbi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">luomuvasikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kiäččupeenuv</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">paimenkoira</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lääbis</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">karitsa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kaiccâvierccâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vuohipukki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kaaicâlääbis</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kili</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuáksá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sonni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vierččâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pässi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čevđiellee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">turkiseläin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nuorukkâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hieho</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šaveuđâgâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_DOM"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">porsas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">väristáálu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="MYTH_HUMAN"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vuorenpeikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čäcivuoššâm</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="KITCHEN"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vedenkeitin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">acâtteijee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PROFESSION"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hitsaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stuorrâpuohčâleijee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PROFESSION"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">suursukeltaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stellejeijee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PROFESSION"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">asentaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">muorâkárdár</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PROFESSION"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">puutarhuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">meccipargee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PROFESSION"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">metsuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">insner</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PROFESSION"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">insinööri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">silbârävdee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PROFESSION"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hopeaseppä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kammimrävdee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PROFESSION"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kenkäseppä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šleđgâlinjâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="CONSTRUCTION"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sähkölinja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">äijihšoŋŋâjođos</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="CONSTRUCTION"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ukkosenjohdatin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num">pelnub</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="mNUMBER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="num">puolitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">cekki</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="WEATHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">aste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lapse</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="WEATHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kaste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uárjipieggâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="WEATHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lounaistuuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">äijihšoŋŋâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="WEATHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ukkonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tolmiš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">ravitseva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vettâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">vähäsuolainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">šävvee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">kohiseva</t>
+            <t pos="a">ryöppyävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">niälgádem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">välipalan syönti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tiivool</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLACE_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tivoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">näpikiärdu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLACE_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">napapiiri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">atâšteijee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ahdistelija</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">páruluávdástellee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lainelaitailija</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">purjâsluávdástellee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">purjelautailija</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čiehčâmluávdástellee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">potkulautailija</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">iššeedviehâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">isäntäväki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uáhum</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">käynti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uáli</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kanava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aikkâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">petäjä</t>
+            <t pos="n">aihkimänty</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">skinnáás</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">nahkainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">roovvâd</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kiima-aika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuovjisskálžu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sinisimpukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuurâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lauma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rippo</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">etana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuárkkáfuoddâr</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">säilörehua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stuorrâlođâsrapu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kilkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čäcievni</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vesihämähäkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">reeviir</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">reviiri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">muáti</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">parvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čielgilâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">selkärankainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">miäđušijn</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kimalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stuorrâ čäciluttihâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">isomalluainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uccâ čäciluttihâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pikkumalluainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mietâmiäđušijn</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">mehiläinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuurâellee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">laumaeläin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nähkisuájá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lepakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">merâpuákku</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">merirokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skuáppu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kotilo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njivleskuáppu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">limakotilo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">käškimčuáimáš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sudenkorento</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njävli</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">päiväkorento</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">miäđušijnkunâgâdâr</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kimalaiskuningatar</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">káttučuovânâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ROOM_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kattovalaisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">muáručääci</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_WATER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">murtovesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">runnevuoijâdem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_WATER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">avantouinti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">luškâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="COLOUR"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">haalea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čapiskirjáá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="COLOUR"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">mustankirjava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuolgiis</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_BERRIES"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">karvainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ittum</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ILLNESS"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ihottumaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ittum</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ILLNESS"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ihottuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saaŋaaš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ILLNESS"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kutina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šietkâshävvi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ILLNESS"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ruhjehaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vojâstâhhävvi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ILLNESS"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">viiltohaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuoggimhävvi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ILLNESS"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pistohaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">peivinaver</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ILLNESS"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">haave</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">parotiittâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ILLNESS"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sikotauti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kunnâpuákku</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ILLNESS"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vesirokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aaštâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ABSTRACT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">uhka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuáđustâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ABSTRACT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">perusta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">arttâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ABSTRACT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">aihe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">muddo</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ABSTRACT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vaihe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lihâstâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ABSTRACT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">liike</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jávvunjaajâg</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jauhosavikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruottâm</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">laukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">syeinisiipuul</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ruoholaukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ulâšrääsi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">suokukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">fiskiluobbâsk</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ulpukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">fiskisluobbâsk</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ulpukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kollerääsi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rentukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jävrisyeini</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">järvikaisla</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vääđir</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vaahtera</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ohrá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ohra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sino</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">nurminata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puškosyevvi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ahvenvita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">siämutiäppu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ahdinparta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jalvâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jalava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hiävuštooŋâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kanerva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuorgâtooŋâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kurjenkanerva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">luobbâsk</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lumme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kiärppáálostâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kihokki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piälduviola</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pelto-orvokki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sämiviola</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lapinorvokki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piäluiämááš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">peltoemäkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">olgâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">olki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">haikkâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tammi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saarni</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">saarni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kaalâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">naatti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šaddo</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sato</t>
+            <t pos="n">kasvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tarfe</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rahkasammal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laajišvyevdi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tunturikoivikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vielgistäsni</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">valkovuokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suárvi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kelo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jievjâm</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">luppo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puállurääsi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kullero</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sukkârruotâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sokerijuurikas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stuorrânjaamaan</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hevosjuotikas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruuvâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ruis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">niinimuorâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lehmus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šaddovistekurkkâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kasvihuonekurkku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jolgâeennâmkurkkâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">avomaankurkku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tiäppu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">levä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuovjistiäppu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sinilevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kupâlâstiäppu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rakkolevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jive</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kievđâsäitti</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="INSTRUMENT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">harppuuna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuodâttim</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">nilkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuoijâmjyelgi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">räpyläjalka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skuáččur</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">linnun siipi- ja pyrstösulka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuoivâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">maksa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kietâruotâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ranne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuámuičuávji</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pötsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">manemuš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">munuainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">váimu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sydän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kooppânj</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">uimarakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">säppivätti</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sappirakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tekki</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lihas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">syevđih</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kidukset</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">koskâvepsi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vatsaevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ovdâvepsi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rintaevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">monnjâvepsi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">peräevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">peeccih</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pyrstöevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">paskosmit</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="EXPERIENCE_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">supistaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suvčâgit</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="EXPERIENCE_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">kohmettaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">väividiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="EXPERIENCE_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">harmittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">muokkiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="EXPERIENCE_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">rasittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tármuttut</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="EXPERIENCE_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">lamauttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">uinástâllâđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="EXPERIENCE_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">kainostella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">muássuđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="LEISURETIME_HOME_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">rentoutua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sudâškuát</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">alkaa sulaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jiäŋuškuát</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD/DRINK_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">alkaa jäätyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tuoldâškuát</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_DRINK_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">alkaa kiehua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nocceđâttâđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="VERBAL_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">kiukutella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">valdâttâllâđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="VERBAL_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">kuvata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">smierettiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">märehtiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">apteđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">valaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skappuđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">hankkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">posolâhččâđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">puhallella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šlajâttâllâđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">lajitella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hárjuttâlškyettiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">alkaa harjoitella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">miärástâllâđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">annostella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">äštiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">uhata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tussiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">muokata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sovášiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">suvaita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luccááttiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">helliä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skainiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">haavoitta viiltämällä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kyeddiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">synnyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kendiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="WORK_ECONOMY_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">kyntää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">reeivâlonottemskippáár</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FAMILY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kirjeenvaihtotoveri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maajeeldpuáttee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FAMILY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jälkeläinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">cuoppâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kalan liha</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">purrâmâšverkki</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">elintarvike</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uáivátkaalâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">keräkaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suoskâmkumi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">purukumi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruonâsšaddo</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vihannes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuorâččâsmyerji</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_BERRY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">variksenmarja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">siävŋus</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">samea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">moiváá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">samea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">luáđhus</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">ilmava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">háitulâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">haitallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">epitáválâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">poikkeuksellinen</t>
+            <t pos="a">epätavallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">rohâdis</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">vaikeakulkuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">ohtâlâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">yhtenäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">paalgâdäigi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">räkkäaika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rääpis</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuáksákälbi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">mullikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vijđodâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pinta-ala</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">munevuávám</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ennakkosuunnitelma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čolle</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kohouma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">murrišin</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">valppaana</t>
+            <t pos="n">valppaina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hiŋgál</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">karsina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njuácu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vimpa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kolbâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">viitta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="YYY">heltta</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="YYY">n</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hormiš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jylhä</t>
+            <t pos="n">henkeäsalpaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">liegâsvuođâsuonjâr</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lämpösäde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">soovsâuáivi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">huopaohdake</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuškâdâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kuivike</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">huššâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hyörinä</t>
+            <t pos="n">vilske</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jiešvyehi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">piirre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuoškâpaldanâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sääskikarkote</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">faskottâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">raaste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kolgos</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">neste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suddâmčuágástâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sulamispiste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tuoldâmčuágástâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kiehumispiste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sierânistee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">eriste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pyevtittâskuávlu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tuotantoalue</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tuuvdâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tuki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šlubborääsi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">osmankäämi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čäcimittár</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vesimittari</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">korrâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kuori</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">meetaalkorrâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">metallikuori</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vadâsverdi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">korsivarsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vaadâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">korsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kyelikassâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kalakassi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">meinimárdu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">mätipussi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruškâdâspuursâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ruskuaispussi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ciälháttâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">viesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sijđosärgisáiccu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kylkiviiva-aisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hajâáiccu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hajuaisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uáinimáiccu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">näköaisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hiävušbaaleet</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hevobaletti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">máášu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">maltti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vielgâdâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">valkuainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruškâdâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ruskuainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">luávkkám</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">loukkaaminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lieggâvijđánem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lämpölaajeminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jieŋâalnuággum</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pilkkiminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruŋkestem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">korpin ronkkuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kerdikárvudâttâm</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kerrospukeutuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">juávkkukiškánem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">joukkokuoriutuminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jiäráskittem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jännittäminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ohtim</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">yhteyttäminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruávváás</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ruoikkoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">viirijâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">viiriäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">eennâmhurgee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">maakiitäjäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruáhukiärttusâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ruokokerttunen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kiihâm</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">soidin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuolgâttempiergâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lähetin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sierânistee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">eristin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">veigiellee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hämäräeläin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">fiskisvuoivâssyeini</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">keltamaksaruoho</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">algâčuolmâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">alkio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šaveniŋálâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">emakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ciäkkádâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">asteikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">fiskiskiđđâčalme</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kevätesikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uvjâuđâgâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">untuvikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">merâtokko</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">meritokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uuccâmruvdustâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hakuruudukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tulvevaahâg</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tulvavahinko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuásáttâhčuovâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kohdevalo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">áimuvuovdâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ilmaontelo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruáiru</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">railot railo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čäcičikâlâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ILLNESS"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vesikello</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">áigápuátu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">toimeentulo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mutáttâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">muuntamo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puáláán</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">polttimo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">iäláttâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">elinkeino</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suvrâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">happo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vyevdiloddááš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">järripeippo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suogâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">harso</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuosah</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sulkasato</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">eennâmtiätu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">maantieto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šleđgâjođos</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sähköjohto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čollestiällu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kohoasento</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jiešhaldâšem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">itsehallinto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šaddoraavâd</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kasviravinto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">iälšu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kunto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vorrâjotteem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">verenkierto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">áiccu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vaisto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tavesuáluikuávlu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ulkosaaristo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">riddosuáluikuávlu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sisäsaaristo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">várádâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vuoristo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lätteeráánu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FURNITURE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">matto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čäcirotto</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ILLNESS"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vesirutto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="YYY">liivâr</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="YYY">n</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kivkkâhâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kiuas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pokkiittâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tungos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šleđgâpotkâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sähkökatkos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">paajaškerdi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pintakerros</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ovdedemlájádâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jalostuslaitos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">poossum purrâmâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">paistos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laggâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">liuos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čevđikardim</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">turkistarhaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tullâvärirussoom</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tulivuorenpurkaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">luhotuáivuttâssalloom</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">onnitteluhalaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čovottâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kampaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šleđgâvárádâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sähkövaraus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">peljikuddum</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">korvatulehdus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tuolbâjolgâdâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lakeus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šleđgâváldukuávdáš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sähköpääkeskus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">korže</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">putous</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">olesčurgim</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">suursiivous</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puákuttem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rokotus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">storgâčarviittâhpuákuttâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jäykkäkouristusrokotus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">iästuraccastem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">esteratsastus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sundástâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">suunnistus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čeerrân</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kirskutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skooččân</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rapsutus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">komovuotâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">avaruus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">soováášvuotâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">suvaitsevaisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tuodâršadolâšvuotâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tunturikasvillisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ráhtulâšvuotâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">teollisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">purrâmâšverkkiráhtulâšvuotâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">elintarviketeollisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čovgâdvuotâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kireys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pištee ovdánem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kestävä kehitys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">alemusvuođâoornig</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">korkeusjärjestys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tuápánjistem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">näpistys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hinnâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">edellytys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pieggâkovjim</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tuulipölytys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suvrâvolliittem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">happohyökkäys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jerdustčiehâjorgettem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">suorakulmakäännös</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laavaävđinenâmeh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">laavan peittämät autiomaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">okâttâsah</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kotkotukset</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">peljisyejistereoh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">korvalappustereot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">fuodâr</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rehu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">seeilâfuodâr</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">säilörehu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruopsissieđgâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kiiltopaju</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šaveores</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">karju</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">riššo</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">suihku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">silkkešnjirgoo</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">silkkiuikku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vagge</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="INSTRUMENT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">koukku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tappee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sulku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šleđgâčaskem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sähköisku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sojopoccee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">letku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ässeiloho</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">asukasluku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">moggedem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">nahistelu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">liškejuármi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ihopoimu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">liškepuáimu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ihopoimu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuosâiše</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ensiapu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kilgool</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tunnistusmerkki</t>
+            <t pos="n">nimilappu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šiärulamppu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">loistelamppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šiärupocceelamppu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">loisteputkilamppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">acâkkâslamppu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hehkulamppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lummolamppu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">taskulamppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">urbe</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">nuppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuuhâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">loru</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">leivosâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kiuru</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ulâštooŋâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">suopursu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raccu</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ratsu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kvaliteet</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">laatu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čiđđâsááigus</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hiilikuitu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šaddovuorkkim</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sadonkorjuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skierri</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vaivaiskoivu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">haavvârliäđus</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">röyhy</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">liegâsvuođâjođettemnahcâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lämmönjohtumiskyky</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čäcilievlâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vesihöyry</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">muuneeldestim</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ennaltaehkäisy</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rotonijtto</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lehtoniitty</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piäldupuágui</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">peltopyy</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="YYY">kirjâgluosâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="YYY">n</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kávnusjuškee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PROFESSION"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">löytöretkeilijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuojâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tähkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuáđgi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">telkkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kievkkânsillee</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">keittiösiivilä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kirdemjyelgi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lenninräpylä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vielgisruotâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">juolavehnä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pennuusyeini</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">koiranheinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">punjijdem</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ininä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruočâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ritinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">meiničuággin</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">mätimöykkyinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pihtemleibi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">paahtoleipä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">leibi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">leppä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuoptâlaahul</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">töyhtöhyyppä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raccastemsyejikappeer</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ratsastuskypärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puigâmecci</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ikimetsä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lääni</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rysä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kesimiärkkum</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HERDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kesäerotus</t>
+            <t pos="n">kesämerkintä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ustev</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FAMILY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ystävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruávkku</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">komojää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tuohkâl</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pökkää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jieŋâčuorgiittâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jääröykkiö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">iäláán</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">eliö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">almoon</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ilmiö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruvvimšleđgâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hankaussähkö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tuolbâtooŋâs</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sielikkö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ohtâdâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">yksikkö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jieŋâdâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jäätikkö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kođonješši</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kutulätäkkö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skyelfi</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">tunturipöllö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">iilâsk</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pihatähtimö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">siärvuš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">yhteisö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pyeretovâlâšvuođâornijdâh</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hyväntekeväisyysjärjestö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">organismâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">elimistö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">poođâš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pyrstö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="YYY">njuuvččuálpáš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="YYY">n</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pihteđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_DRINK_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">paahtaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spejâlist</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">heijastaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ovdâšoddâdiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">esikasvattaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luáptá</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_DRINK_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">kuluttaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">meidiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">puida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">läliškuát</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_DRINK_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">alkaa hautoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">späittiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">tehota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kiinnâđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">takertua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rašoškuát</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">alkaa haurastua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">latkiittiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">luonnistua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">muttuuškuát</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">alkaa muuttua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ubbuđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">umpeutua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čolgâđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">mennä läpi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spoorijdškuát</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">alkaa värähdellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fierriittâllâđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">kieriskellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">šuáhkádiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">hönkäistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lavvâđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">tiivistyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tohâluđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">tekeytyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vuoinâđâttâđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">levähtää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luáđhuttiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">möyhentää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">čuávjáđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">siintää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ohtiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">yhteyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">olâttiđ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">yllättää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">kuákkáámin</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="adv">kököttämässä</t>
+            <t pos="adv">istumassa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">riävtui</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="adv">oikeasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">meriáigásávt</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="adv">säännöllisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">jiešiäluid</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="adv">omin päin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">vuálusoivij</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="adv">pää alaspäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">kumârâsoivij</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="adv">pää alaspäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">moljođ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="x">tonkia</t>
+         </tg>
+      </mg>
+   </e>
+</r>

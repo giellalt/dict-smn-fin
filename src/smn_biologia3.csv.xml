@@ -1,0 +1,3848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="a">puuicâs</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">puikea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">päddilágán</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">nauhamainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">váimulágán</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">herttamainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">suormâjuáhusâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">sormijakoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">parâlostâstâhlâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">parilehdykkäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">säittilágán</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">keihäsmäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">orgaanlâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">eloperäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">täsiliegâslâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">tasalämpöinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">rievdeeliegâslâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">vaihtolämpöinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">salâsteijee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">saalistaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vielgadas</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">valkuainen munassa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruškâdâs</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ruskuainen munassa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ovdâskodde</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">eduskunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">robdâsäärgis</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ääriviiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šaddoširrâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kirva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vinjekove</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">viistokuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uvjâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">untuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šovos</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">molssa</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vaihde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">teedâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">paine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ollâteedâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">korkeapaine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vyelligisteedâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">matalapaine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kulmâhâšrááhtus</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kolmiorakenne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jotolâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">liikenne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">iskos</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">koe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">siirdâloigiittâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">siirtolohkare</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mietâkolgos</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">mesikaste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piäsádâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pesue</t>
+            <t pos="n">poikue</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jotolâhmerkkâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">liikennemerkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">orostâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pysäkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">emi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">emi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">näpipirrâdâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">napapiiri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kukkodâhpirrâdâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pituuspiiri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kobdodâhpirrâdâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">leveyspiiri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">eennâmverdi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">maavarsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puzzâsuonâsâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sulkasuoninen lehti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuámmirsuonâsâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kourasuoninen lehti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jolgâsuonâsâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">silposuoninen lehti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">loovdâlostâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">verholehti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lieđilostâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">terälehti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hajâáiccu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hajuaisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">valvat</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">valvatti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čácikiäinu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vesireitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">graniit</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">graniitti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puzzâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">höyhen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suormâlostâstâhlâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sormilehdykkäien</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruottâmjuolgâg</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kaksoisjalkainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jyemeehjuolgâg</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">juoksujalkainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čielgitáávtág</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">selkärankainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puohporree</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kaikkiruokainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuátikuuđhâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ryppyviholainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">virgeomâhâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">viranomainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uánihissuájásâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lyhytsiipinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">olečuággoo</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">loispistiäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">eennâmhurgee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">maakiitäjäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njuolâijjâhâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">nuoliyökkönen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">huhti-ijjâhâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">huhtiyökkönen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">leibipihtee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">leivänpaahdin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">časkostuástus</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">iskunvaimennin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">širottâs</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">heijastin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">siärvádâhellee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">yhdyskuntaeläin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šolbâkällee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">silokallio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uuccâmruvdustâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hakuruudukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuáládâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">alanko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skuáppu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kotelo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuocâkiccee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">turkkilo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skuáppu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kotilo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kulo</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kuuloaisti</t>
+            <t pos="n">kuulo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hävvilostâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">piharatamo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kiirjágloddááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kirjosieppo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kärŋilis tääsi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kalteva taso</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">liäđus</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kukinto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sävrivuotâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kunto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kaskas</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kaskas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuáđusáárgus</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pohjapiirros</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">oijâgâs</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">horros</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tälvioijâgâs</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">talvihorros</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">häämimolsom</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">muodonmuutos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">haldâttâs</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hallitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">komovuotâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">avaruus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ässeisaahâdvuotâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">väentiheys</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njomâtteijee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">nisäkäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuoptâkäskee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kärsäkäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">raavvâdkuálus</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ravintoketju</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šleđgâčaskem</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sähköisku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">urbe</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">silmu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">urbečuomâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">silmusuomu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jietânâskirno</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hiidenkirnu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">marsu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">marsu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lieđikovjâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">siitepöly</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">olgoštem</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">syrjiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lostâstâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lehdykkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">viermičalme</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">verkkosilmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pähkin</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pähkinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">källeevuáđu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kallioperä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">panneemjare</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kehruunystyrä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">syejikappeer</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kypärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njamonjune</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">imukärsä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nannaamjieŋâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">mannerjää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šleđgâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sähkö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">riisihärö</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">riisihärö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Peeivitäsideijee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Päiväntasaaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Puáhinävli</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Pohjantähti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tálvástâllâđ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">talvehtia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">läälliđ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">hautoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kásániđ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">liuota</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skuáppuluvvâđ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">koteloitua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pessiđ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">pesiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kovjiđ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">pölyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Meerâpohe</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="SUOPMA"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="prop">Merenkurkku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">čalmettem</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">sokea</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">peljittem</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_A"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">huonokuuloinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">syejiluoddâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ROAD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">suojatie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vázáttâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ROAD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jalkakäytävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sodâsuárree</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">liito-orava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kyevdi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kyykäärme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">äimisäplig</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">siili</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">muldesäplig</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">myyrä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čäcisäplig</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vesimyyrä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mievri</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_WILD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">mäyrä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stuorrâoppuu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">huuhkaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">näkki</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">naakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lädikuávská</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">harakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">paaccâhčäšni</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">käpytikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">syeiniaččin</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">heinäsirkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jierssee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kanahaukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tevkisolbe</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">suruvaippa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tuáršu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sorsa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pesnirihhááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">västäräkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kierâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">palokärki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kiehâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">käki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pyeidicissááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">talitiainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuovjiscissááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sinitiainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">cissááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lapintiainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puuđijâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">puutiainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vyevdicissááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hömötiainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vuoptâcissááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">töyhtötiainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">miäđušijn</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kimalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piäivááloddááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">perhonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jiereehpiäivááloddááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">herukkaperhonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">fiskispiäivááloddááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sitruunaperhonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">riitaarpiäivááloddááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ritariperhonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kuolbâpiäivááloddááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kangasperhonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">käskeepiäivááloddááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">nokkosperhonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lanttupiäivááloddááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lanttuperhonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kiärpáš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">huonekärpänen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kollepottâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">raatokärpänen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ijjâpiäivááloddááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">yöperhonen</t>
+            <t pos="n">yökkönen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piäippáin</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">peippo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vyevdiloddááš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">järripeippo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ränisrástágâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">räkättirastas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruopsisryeivil</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">punatulkku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sajelodde</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">paikkalintu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tuákkilodde</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">parvilintu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vaanhimlodde</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">emolintu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kesilodde</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">muuttolintu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tiälkkutivre</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">leppäkerttu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">syerispáálváš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">haarapääsky</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">spáálváš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">räystäspääsky</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">termispáálváš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">törmäpääsky</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">äimisäpligpannee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">siilikehrääjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">enâdâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">maisema</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suáluikuávlu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">saaristo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">nannaam</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">manner</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pajoseh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_PLACE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ylänkö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">seevvimkielâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="LANGUAGE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">viittomakieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puohčâmkäärbis</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="VEHICLE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sukellusvene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aalmugovdâsteijee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kansanedustaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vandârdeijee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jalankulkija</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rullâluistájeijee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rullaluistelija</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rullâluávdástellee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rullalautailija</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ovdánemvádulâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kehitysvammainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uáinimvádulâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PEOPLE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">näkövammainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jieŋâäigi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="TIME"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jääkausi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">eennâmuási</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">maanosa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">almekáppálâh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">taivaankappale</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vijđánemkuávlu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">levinneisyysalue</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ovdâskoddetáálu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BUILDING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">eduskuntatalo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vaakunâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">vaakuna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gneissi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="THING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">gneissi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aassâmkorttel</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLACE_STAYING"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">asuinkortteli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lote</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="TOOL"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kiila</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">suoksâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">toukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sukkârsuoksâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sokeritoukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rippo</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">etana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">meccirippo</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">metsäetana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lođâsrapu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">siira</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">luttihâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lude</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">puŋkki</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">punkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kovjâpuŋkki</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pölypunkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stuorrâevni</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lukki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruossâevni</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ristihämähäkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kutkâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kekomuurahainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">hiävuškutkâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hevosmuurahainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tivre</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hyönteinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piätutivre</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">petohyönteinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">valve-ellee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">laumaeläin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čielgitävtittem</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">selkärangaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tažâlig</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sisilisko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jursee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">jyrsijä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rátuporree</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">raadonsyöjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uáivušjuuhâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="NATURE_WATER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">laskujoki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">liegâsvuođâtile</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ABSTRACT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lämpötila</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mittokaava</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="ABSTRACT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">mittakaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pihlejâš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pihlaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">cimccâhliljá</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">helmililja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuovjisliljá</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sinililja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kukká</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vielgismuáskáš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">valkoapila</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ponjemiesttâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">paatsama</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kievânjuolâs</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">maitohorsma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">supe</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">haapa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vesa</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">taimi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kollepuállu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pietaryrtti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čohčâmielkkirääsi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">syysmaitiainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">käskee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">nokkonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jaamišrääsi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pihasaunio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sävnikuállá</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">peltosaunio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">piäldukuállá</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">peltosaunio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kiđđâčalme</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kevätesikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">urbe</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">norkko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">šovosurbe</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hedenorkko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čuovjiskiällurääsi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kissankello</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">käskimčuáimáš</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">ukonkorento</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sieivâsuáhi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hieskoivu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sonjosuáhi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">rauduskoivu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njuolâshurgee</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">horsmakiitäjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">čielgi</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="BODYPART"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">selkä</t>
+            <t pos="n">selkäranka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">parâttâllâđ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="v">paritella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">persiljá</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">persilja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jiereeh</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">herukka</t>
+            <t pos="n">viinimarja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">porkkan</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">porkkana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">uáivátkaalâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">keräkaali</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">siipuul</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">sipuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kukkásiipuul</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">kukkasipuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ruopsisruotâs</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">punajuuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">mietâ</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">mesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">naavrâs</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">nauris</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">lanttu</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">lanttu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">heeđâlm</l>
+      </lg>
+      <sources>
+         <book name="bio3"/>
+      </sources>
+      <semantics>
+         <sem class="FOOD_GROCERY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">hedelmä</t>
+         </tg>
+      </mg>
+   </e>
+</r>
