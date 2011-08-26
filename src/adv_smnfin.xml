@@ -2,6 +2,22 @@
 <r>
    <e>
       <lg>
+         <l pos="adv">ain-uv</l>
+      </lg>
+      <sources>
+         <book name="ceelhi"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="adv">yhäkin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="adv">ääigi</l>
       </lg>
       <sources>
