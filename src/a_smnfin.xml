@@ -2,6 +2,22 @@
 <r>
    <e>
       <lg>
+         <l pos="a">suotâs</l>
+      </lg>
+      <sources>
+         <book name="ceelhi"/>
+      </sources>
+      <semantics>
+         <sem class="EXPERIENCE_Z"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="a">hauska</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="a">puuicâs</l>
       </lg>
       <sources>

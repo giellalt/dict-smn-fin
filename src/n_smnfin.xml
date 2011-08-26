@@ -2,6 +2,38 @@
 <r>
    <e>
       <lg>
+         <l pos="n">liivâr</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="ANIMAL_OTHER"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">heltta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njuuvččuálpáš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="BIRD"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="n">pulmunen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="n">kielâviälgu</l>
       </lg>
       <sources>
