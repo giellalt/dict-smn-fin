@@ -1,35 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
-   <e>
-      <lg>
-         <l pos="x">ain-uv</l>
-      </lg>
-      <sources>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="x">yhäkin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="x">moljođ</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="x">tonkia</t>
-         </tg>
-      </mg>
-   </e>
 </r>
