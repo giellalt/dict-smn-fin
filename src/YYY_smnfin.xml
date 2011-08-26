@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e>
+      <lg>
+         <l pos="YYY">suotâs</l>
+      </lg>
+      <sources>
+         <book name="ceelhi"/>
+      </sources>
+      <semantics>
+         <sem class="EXPERIENCE_Z"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="YYY">hauska</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="YYY">heltta</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="YYY">n</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="YYY">liivâr</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="YYY">n</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="YYY">kirjâgluosâ</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="YYY">n</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="YYY">njuuvččuálpáš</l>
+      </lg>
+      <sources>
+         <book name="piras"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg>
+            <t pos="YYY">n</t>
+         </tg>
+      </mg>
+   </e>
+</r>
