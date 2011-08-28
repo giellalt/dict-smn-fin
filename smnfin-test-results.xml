@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+   <file name="a_smnfin.xml">
+      <entries>
+         <counter total="72"/>
+      </entries>
+   </file>
+   <file name="adv_smnfin.xml">
+      <entries>
+         <counter total="71"/>
+         <twins>
+            <lemma>kuás</lemma>
+            <lemma>onne</lemma>
+            <lemma>siämmást</lemma>
+            <lemma>masa</lemma>
+            <lemma>nuuvt</lemma>
+            <lemma>tobbeen</lemma>
+         </twins>
+      </entries>
+   </file>
+   <file name="ca_smnfin.xml">
+      <entries>
+         <counter total="1"/>
+      </entries>
+   </file>
+   <file name="cc_smnfin.xml">
+      <entries>
+         <counter total="1"/>
+      </entries>
+   </file>
+   <file name="cs_smnfin.xml">
+      <entries>
+         <counter total="3"/>
+         <twins>
+            <lemma>mut</lemma>
+         </twins>
+      </entries>
+   </file>
+   <file name="det_smnfin.xml">
+      <entries>
+         <counter total="1"/>
+      </entries>
+   </file>
+   <file name="i_smnfin.xml">
+      <entries>
+         <counter total="1"/>
+      </entries>
+   </file>
+   <file name="n_smnfin.xml">
+      <entries>
+         <counter total="1050"/>
+         <twins>
+            <lemma>ruškâdâs</lemma>
+            <lemma>hajâáiccu</lemma>
+            <lemma>puzzâ</lemma>
+            <lemma>eennâmhurgee</lemma>
+            <lemma>širottâs</lemma>
+            <lemma>uuccâmruvdustâh</lemma>
+            <lemma>skuáppu</lemma>
+            <lemma>skuáppu</lemma>
+            <lemma>komovuotâ</lemma>
+            <lemma>šleđgâčaskem</lemma>
+            <lemma>urbe</lemma>
+            <lemma>kyevdi</lemma>
+            <lemma>muldesäplig</lemma>
+            <lemma>čäcisäplig</lemma>
+            <lemma>mievri</lemma>
+            <lemma>syeiniaččin</lemma>
+            <lemma>miäđušijn</lemma>
+            <lemma>ijjâpiäivááloddááš</lemma>
+            <lemma>vyevdiloddááš</lemma>
+            <lemma>ränisrástágâš</lemma>
+            <lemma>pajoseh</lemma>
+            <lemma>rippo</lemma>
+            <lemma>kievânjuolâs</lemma>
+            <lemma>kollepuállu</lemma>
+            <lemma>piäldukuállá</lemma>
+            <lemma>urbe</lemma>
+            <lemma>čuovjiskiällurääsi</lemma>
+            <lemma>uáivátkaalâ</lemma>
+            <lemma>mietâ</lemma>
+            <lemma>eennâmhurgee</lemma>
+            <lemma>algâčuolmâ</lemma>
+            <lemma>saatuul</lemma>
+            <lemma>rippo</lemma>
+            <lemma>mietâmiäđušijn</lemma>
+            <lemma>lihâstâs</lemma>
+            <lemma>jalvâ</lemma>
+            <lemma>skooččân</lemma>
+            <lemma>iälšu</lemma>
+            <lemma>várádâh</lemma>
+            <lemma>iäláán</lemma>
+            <lemma>organismâ</lemma>
+            <lemma>tijme</lemma>
+            <lemma>koddesäplig</lemma>
+            <lemma>ittum</lemma>
+            <lemma>sierânistee</lemma>
+         </twins>
+      </entries>
+   </file>
+   <file name="num_smnfin.xml">
+      <entries>
+         <counter total="6"/>
+         <twins>
+            <lemma>käävci</lemma>
+         </twins>
+      </entries>
+   </file>
+   <file name="pp_smnfin.xml">
+      <entries>
+         <counter total="5"/>
+      </entries>
+   </file>
+   <file name="pron_smnfin.xml">
+      <entries>
+         <counter total="7"/>
+      </entries>
+   </file>
+   <file name="prop_smnfin.xml">
+      <entries>
+         <counter total="25"/>
+      </entries>
+   </file>
+   <file name="v_smnfin.xml">
+      <entries>
+         <counter total="128"/>
+         <twins>
+            <lemma>puáttiđ</lemma>
+            <lemma>kiergâniđ</lemma>
+            <lemma>moonnâđ</lemma>
+            <lemma>purâdiđ</lemma>
+            <lemma>eelliđ</lemma>
+            <lemma>porgâđ</lemma>
+            <lemma>koijâdiđ</lemma>
+         </twins>
+      </entries>
+   </file>
+</test>
