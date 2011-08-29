@@ -38,6 +38,7 @@
       </lg>
       <sources>
          <book name="ceelhi"/>
+         <book name="puolas"/>
       </sources>
       <semantics>
          <sem class="mNUMBER"/>
@@ -78,22 +79,6 @@
       <mg>
          <tg>
             <t pos="num">puolitoista</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="num">käävci</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="mNUMBER"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="num">kahdeksan</t>
          </tg>
       </mg>
    </e>
