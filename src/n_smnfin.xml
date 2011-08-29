@@ -86,12 +86,14 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="YYY"/>
       </semantics>
       <mg>
          <tg>
+            <t pos="n">ruskuainen</t>
             <t pos="n">ruskuainen munassa</t>
          </tg>
       </mg>
@@ -551,6 +553,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="YYY"/>
@@ -606,22 +609,6 @@
       <mg>
          <tg>
             <t pos="n">graniitti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">puzzâ</l>
-      </lg>
-      <sources>
-         <book name="bio3"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">höyhen</t>
          </tg>
       </mg>
    </e>
@@ -771,22 +758,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">eennâmhurgee</l>
-      </lg>
-      <sources>
-         <book name="bio3"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">maakiitäjäinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">njuolâijjâhâš</l>
       </lg>
       <sources>
@@ -851,22 +822,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">širottâs</l>
-      </lg>
-      <sources>
-         <book name="bio3"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">heijastin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">siärvádâhellee</l>
       </lg>
       <sources>
@@ -903,6 +858,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="YYY"/>
@@ -935,13 +891,19 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
-         <sem class="YYY"/>
+         <sem class="ANIMAL_OTHER"/>
       </semantics>
       <mg>
          <tg>
             <t pos="n">kotelo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">kotilo</t>
          </tg>
       </mg>
    </e>
@@ -958,22 +920,6 @@
       <mg>
          <tg>
             <t pos="n">turkkilo</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">skuáppu</l>
-      </lg>
-      <sources>
-         <book name="bio3"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">kotilo</t>
          </tg>
       </mg>
    </e>
@@ -1176,6 +1122,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="YYY"/>
@@ -1256,6 +1203,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="YYY"/>
@@ -1263,22 +1211,6 @@
       <mg>
          <tg>
             <t pos="n">sähköisku</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">urbe</l>
-      </lg>
-      <sources>
-         <book name="bio3"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">silmu</t>
          </tg>
       </mg>
    </e>
@@ -1576,6 +1508,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="ANIMAL_WILD"/>
@@ -1608,6 +1541,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="bio5"/>
       </sources>
       <semantics>
          <sem class="ANIMAL_WILD"/>
@@ -1615,6 +1549,7 @@
       <mg>
          <tg>
             <t pos="n">myyrä</t>
+            <t pos="n">peltomyyrä</t>
          </tg>
       </mg>
    </e>
@@ -1624,6 +1559,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="bio5"/>
       </sources>
       <semantics>
          <sem class="ANIMAL_WILD"/>
@@ -1640,6 +1576,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="ANIMAL_WILD"/>
@@ -1720,6 +1657,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="bio5"/>
       </sources>
       <semantics>
          <sem class="BIRD"/>
@@ -1928,6 +1866,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="BIRD"/>
@@ -2088,6 +2027,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="BIRD"/>
@@ -2137,6 +2077,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="bio5"/>
       </sources>
       <semantics>
          <sem class="BIRD"/>
@@ -2361,6 +2302,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="bio5"/>
       </sources>
       <semantics>
          <sem class="NATURE_PLACE"/>
@@ -2681,6 +2623,8 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="bio5"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="ANIMAL_OTHER"/>
@@ -3093,22 +3037,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">kievânjuolâs</l>
-      </lg>
-      <sources>
-         <book name="bio3"/>
-      </sources>
-      <semantics>
-         <sem class="PLANT"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">maitohorsma</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">supe</l>
       </lg>
       <sources>
@@ -3145,6 +3073,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="bio5"/>
       </sources>
       <semantics>
          <sem class="PLANT"/>
@@ -3225,6 +3154,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="bio5"/>
       </sources>
       <semantics>
          <sem class="PLANT"/>
@@ -3257,6 +3187,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="PLANT"/>
@@ -3264,6 +3195,16 @@
       <mg>
          <tg>
             <t pos="n">norkko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">nuppu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">silmu</t>
          </tg>
       </mg>
    </e>
@@ -3289,6 +3230,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="bio5"/>
       </sources>
       <semantics>
          <sem class="PLANT"/>
@@ -3435,6 +3377,7 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="FOOD_GROCERY"/>
@@ -3499,12 +3442,14 @@
       </lg>
       <sources>
          <book name="bio3"/>
+         <book name="bio5"/>
       </sources>
       <semantics>
          <sem class="FOOD_GROCERY"/>
       </semantics>
       <mg>
          <tg>
+            <t pos="n">hunaja</t>
             <t pos="n">mesi</t>
          </tg>
       </mg>
@@ -3642,7 +3587,9 @@
          <l pos="n">eennâmhurgee</l>
       </lg>
       <sources>
+         <book name="bio3"/>
          <book name="bio5"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="ANIMAL_WILD"/>
@@ -3835,6 +3782,7 @@
       </lg>
       <sources>
          <book name="bio5"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="THING"/>
@@ -3915,8 +3863,10 @@
       </lg>
       <sources>
          <book name="bio5"/>
+         <book name="piras"/>
       </sources>
       <semantics>
+         <sem class="THING"/>
          <sem class="TOOL"/>
       </semantics>
       <mg>
@@ -3970,38 +3920,6 @@
       <mg>
          <tg>
             <t pos="n">anorektikko</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">syeiniaččin</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="ANIMAL_OTHER"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">heinäsirkka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">rippo</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="ANIMAL_OTHER"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">etana</t>
          </tg>
       </mg>
    </e>
@@ -4155,6 +4073,7 @@
       </lg>
       <sources>
          <book name="bio5"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="ANIMAL_OTHER"/>
@@ -4380,6 +4299,7 @@
       </lg>
       <sources>
          <book name="bio5"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="ABSTRACT"/>
@@ -4491,6 +4411,7 @@
          <l pos="n">kievânjuolâs</l>
       </lg>
       <sources>
+         <book name="bio3"/>
          <book name="bio5"/>
       </sources>
       <semantics>
@@ -4572,6 +4493,7 @@
       </lg>
       <sources>
          <book name="bio5"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="PLANT"/>
@@ -4632,22 +4554,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">kollepuállu</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="PLANT"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">pietaryrtti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">ruámšijiereeh</l>
       </lg>
       <sources>
@@ -4675,22 +4581,6 @@
       <mg>
          <tg>
             <t pos="n">nahkealehtinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">čuovjiskiällurääsi</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="PLANT"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">kissankello</t>
          </tg>
       </mg>
    </e>
@@ -5365,22 +5255,6 @@
       <mg>
          <tg>
             <t pos="n">tulla raskaaksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">mietâ</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="FOOD_GROCERY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">hunaja</t>
          </tg>
       </mg>
    </e>
@@ -6780,22 +6654,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">piäldukuállá</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">peltosaunio</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">čunoiääpi</l>
       </lg>
       <sources>
@@ -7008,6 +6866,7 @@
       </lg>
       <sources>
          <book name="bio5"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="YYY"/>
@@ -7127,22 +6986,6 @@
       <mg>
          <tg>
             <t pos="n">suonisto</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">várádâh</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">vuoristo</t>
          </tg>
       </mg>
    </e>
@@ -7319,22 +7162,6 @@
       <mg>
          <tg>
             <t pos="n">valkea kuulas</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">ränisrástágâš</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">räkättirastas</t>
          </tg>
       </mg>
    </e>
@@ -8862,38 +8689,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">čäcisäplig</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">vesimyyrä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">muldesäplig</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">peltomyyrä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">irve</l>
       </lg>
       <sources>
@@ -8975,22 +8770,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">pajoseh</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">ylänkö</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">piättârrääsi</l>
       </lg>
       <sources>
@@ -9011,6 +8790,7 @@
       </lg>
       <sources>
          <book name="bio5"/>
+         <book name="piras"/>
       </sources>
       <semantics>
          <sem class="YYY"/>
@@ -9155,8 +8935,10 @@
       </lg>
       <sources>
          <book name="ceelhi"/>
+         <book name="puolas"/>
       </sources>
       <semantics>
+         <sem class="TIME"/>
          <sem class="ROOM_OTHER"/>
       </semantics>
       <mg>
@@ -9583,22 +9365,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">kyevdi</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="ANIMAL_WILD"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">kyykäärme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">koddesäplig</l>
       </lg>
       <sources>
@@ -9610,21 +9376,6 @@
       <mg>
          <tg>
             <t pos="n">sopuli</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">koddesäplig</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="ANIMAL_WILD"/>
-      </semantics>
-      <mg>
-         <tg>
             <t pos="n">tunturisopuli</t>
          </tg>
       </mg>
@@ -9658,22 +9409,6 @@
       <mg>
          <tg>
             <t pos="n">metsämyyrä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">mievri</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="ANIMAL_WILD"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">mäyrä</t>
          </tg>
       </mg>
    </e>
@@ -9970,6 +9705,7 @@
          <l pos="n">puzzâ</l>
       </lg>
       <sources>
+         <book name="bio3"/>
          <book name="piras"/>
       </sources>
       <semantics>
@@ -10010,23 +9746,6 @@
       <mg>
          <tg>
             <t pos="n">kottarainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">ijjâpiäivááloddááš</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="BIRD"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">yökkönen</t>
-            <t pos="n">yöperhonen</t>
          </tg>
       </mg>
    </e>
@@ -10545,22 +10264,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">saatuul</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="THING"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">satula</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">vuoggâčielgi</l>
       </lg>
       <sources>
@@ -10660,6 +10363,7 @@
          <l pos="n">širottâs</l>
       </lg>
       <sources>
+         <book name="bio3"/>
          <book name="piras"/>
       </sources>
       <semantics>
@@ -11715,22 +11419,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">rippo</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="ANIMAL_OTHER"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">etana</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">vuárkkáfuoddâr</l>
       </lg>
       <sources>
@@ -11827,22 +11515,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">miäđušijn</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="ANIMAL_OTHER"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">kimalainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">stuorrâ čäciluttihâš</l>
       </lg>
       <sources>
@@ -11870,22 +11542,6 @@
       <mg>
          <tg>
             <t pos="n">pikkumalluainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">mietâmiäđušijn</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="ANIMAL_OTHER"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">mehiläinen</t>
          </tg>
       </mg>
    </e>
@@ -11934,22 +11590,6 @@
       <mg>
          <tg>
             <t pos="n">merirokko</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">skuáppu</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="ANIMAL_OTHER"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">kotilo</t>
          </tg>
       </mg>
    </e>
@@ -12110,22 +11750,6 @@
       <mg>
          <tg>
             <t pos="n">ihottumaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">ittum</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="ILLNESS"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">ihottuma</t>
          </tg>
       </mg>
    </e>
@@ -12302,22 +11926,6 @@
       <mg>
          <tg>
             <t pos="n">vaihe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">lihâstâs</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="ABSTRACT"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">liike</t>
          </tg>
       </mg>
    </e>
@@ -12526,22 +12134,6 @@
       <mg>
          <tg>
             <t pos="n">ahdinparta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">jalvâ</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="PLANT"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">jalava</t>
          </tg>
       </mg>
    </e>
@@ -13332,22 +12924,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">uáivátkaalâ</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="FOOD_GROCERY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">keräkaali</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">suoskâmkumi</l>
       </lg>
       <sources>
@@ -13746,6 +13322,7 @@
       <mg>
          <tg>
             <t pos="n">eriste</t>
+            <t pos="n">eristin</t>
          </tg>
       </mg>
    </e>
@@ -13959,22 +13536,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">hajâáiccu</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">hajuaisti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">uáinimáiccu</l>
       </lg>
       <sources>
@@ -14034,22 +13595,6 @@
       <mg>
          <tg>
             <t pos="n">valkuainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">ruškâdâs</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">ruskuainen</t>
          </tg>
       </mg>
    </e>
@@ -14215,22 +13760,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">eennâmhurgee</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">maakiitäjäinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">ruáhukiärttusâš</l>
       </lg>
       <sources>
@@ -14279,22 +13808,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">sierânistee</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">eristin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">veigiellee</l>
       </lg>
       <sources>
@@ -14322,22 +13835,6 @@
       <mg>
          <tg>
             <t pos="n">keltamaksaruoho</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">algâčuolmâ</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">alkio</t>
          </tg>
       </mg>
    </e>
@@ -14418,22 +13915,6 @@
       <mg>
          <tg>
             <t pos="n">meritokko</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">uuccâmruvdustâh</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">hakuruudukko</t>
          </tg>
       </mg>
    </e>
@@ -14727,22 +14208,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">iälšu</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">kunto</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">vorrâjotteem</l>
       </lg>
       <sources>
@@ -14811,6 +14276,7 @@
       </lg>
       <sources>
          <book name="piras"/>
+         <book name="bio5"/>
       </sources>
       <semantics>
          <sem class="NATURE_PLACE"/>
@@ -15223,22 +14689,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">komovuotâ</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">avaruus</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">soováášvuotâ</l>
       </lg>
       <sources>
@@ -15607,22 +15057,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">šleđgâčaskem</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">sähköisku</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">sojopoccee</l>
       </lg>
       <sources>
@@ -15795,22 +15229,6 @@
       <mg>
          <tg>
             <t pos="n">taskulamppu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">urbe</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">nuppu</t>
          </tg>
       </mg>
    </e>
@@ -16553,22 +15971,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n">organismâ</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">elimistö</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">poođâš</l>
       </lg>
       <sources>
@@ -16596,22 +15998,6 @@
       <mg>
          <tg>
             <t pos="n">maantie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">tijme</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="TIME"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="n">kello</t>
          </tg>
       </mg>
    </e>
