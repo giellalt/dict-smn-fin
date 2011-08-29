@@ -6,6 +6,7 @@
       </lg>
       <sources>
          <book name="ceelhi"/>
+         <book name="puolas"/>
       </sources>
       <semantics>
          <sem class="YYY"/>
@@ -29,22 +30,6 @@
       <mg>
          <tg>
             <t pos="cs">sitten</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="cs">mut</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="cs">mutta</t>
          </tg>
       </mg>
    </e>
