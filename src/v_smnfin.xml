@@ -342,6 +342,7 @@
       </lg>
       <sources>
          <book name="ceelhi"/>
+         <book name="puolas"/>
       </sources>
       <semantics>
          <sem class="TRAVELLING_V"/>
@@ -358,6 +359,7 @@
       </lg>
       <sources>
          <book name="ceelhi"/>
+         <book name="puolas"/>
       </sources>
       <semantics>
          <sem class="TRAVELLING_V"/>
@@ -374,6 +376,7 @@
       </lg>
       <sources>
          <book name="ceelhi"/>
+         <book name="puolas"/>
       </sources>
       <semantics>
          <sem class="TRAVELLING_V"/>
@@ -390,6 +393,7 @@
       </lg>
       <sources>
          <book name="ceelhi"/>
+         <book name="puolas"/>
       </sources>
       <semantics>
          <sem class="FOOD_DRINK_V"/>
@@ -470,6 +474,7 @@
       </lg>
       <sources>
          <book name="ceelhi"/>
+         <book name="puolas"/>
       </sources>
       <semantics>
          <sem class="TRAVEL_V"/>
@@ -518,8 +523,10 @@
       </lg>
       <sources>
          <book name="ceelhi"/>
+         <book name="puolas"/>
       </sources>
       <semantics>
+         <sem class="ACTION_V"/>
          <sem class="HUMAN_V"/>
       </semantics>
       <mg>
@@ -637,22 +644,6 @@
       <mg>
          <tg>
             <t pos="v">kysellä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">koijâdiđ</l>
-      </lg>
-      <sources>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="v">kysyä</t>
          </tg>
       </mg>
    </e>
@@ -1554,22 +1545,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v">puáttiđ</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="TRAVELLING_V"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="v">tulla</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">šoddâđ</l>
       </lg>
       <sources>
@@ -1618,22 +1593,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v">purâdiđ</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="FOOD_DRINK_V"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="v">syödä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">ettâđ</l>
       </lg>
       <sources>
@@ -1654,6 +1613,7 @@
       </lg>
       <sources>
          <book name="puolas"/>
+         <book name="ceelhi"/>
       </sources>
       <semantics>
          <sem class="VERBAL_V"/>
@@ -1682,22 +1642,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v">eelliđ</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="TRAVEL_V"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="v">käydä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">pääcciđ</l>
       </lg>
       <sources>
@@ -1709,38 +1653,6 @@
       <mg>
          <tg>
             <t pos="v">jäädä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">kiergâniđ</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="TRAVEL_V"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="v">ehtiä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">moonnâđ</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="TRAVEL_V"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="v">mennä</t>
          </tg>
       </mg>
    </e>
@@ -1869,22 +1781,6 @@
       <mg>
          <tg>
             <t pos="v">ottaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">porgâđ</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="ACTION_V"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="v">tehdä</t>
          </tg>
       </mg>
    </e>
