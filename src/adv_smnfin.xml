@@ -47,6 +47,11 @@
             <t pos="adv">milloin</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="adv">koska</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -54,6 +59,7 @@
       </lg>
       <sources>
          <book name="ceelhi"/>
+         <book name="puolas"/>
       </sources>
       <semantics>
          <sem class="TIME"/>
@@ -147,22 +153,6 @@
    </e>
    <e>
       <lg>
-         <l pos="adv">kuás</l>
-      </lg>
-      <sources>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="adv">koska</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="adv">pääihist</l>
       </lg>
       <sources>
@@ -174,23 +164,6 @@
       <mg>
          <tg>
             <t pos="adv">kotona</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="adv">siämmást</l>
-      </lg>
-      <sources>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="adv">samalla</t>
-            <t pos="adv">samassa</t>
          </tg>
       </mg>
    </e>
@@ -309,22 +282,6 @@
    </e>
    <e>
       <lg>
-         <l pos="adv">masa</l>
-      </lg>
-      <sources>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="adv">melkein</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="adv">uáinimáid</l>
       </lg>
       <sources>
@@ -336,22 +293,6 @@
       <mg>
          <tg>
             <t pos="adv">näkemiin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="adv">nuuvt</l>
-      </lg>
-      <sources>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="adv">niin</t>
          </tg>
       </mg>
    </e>
@@ -563,22 +504,6 @@
       <mg>
          <tg>
             <t pos="adv">vielä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="adv">tobbeen</l>
-      </lg>
-      <sources>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="adv">siellä</t>
          </tg>
       </mg>
    </e>
@@ -880,6 +805,7 @@
       </lg>
       <sources>
          <book name="puolas"/>
+         <book name="ceelhi"/>
       </sources>
       <semantics>
          <sem class="TIME"/>
@@ -889,6 +815,11 @@
             <t pos="adv">kohta</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="adv">melkein</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -896,6 +827,7 @@
       </lg>
       <sources>
          <book name="puolas"/>
+         <book name="ceelhi"/>
       </sources>
       <semantics>
          <sem class="TIME"/>
@@ -903,22 +835,8 @@
       <mg>
          <tg>
             <t pos="adv">samanaikasesti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="adv">onne</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="TIME"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="adv">tänään</t>
+            <t pos="adv">samalla</t>
+            <t pos="adv">samassa</t>
          </tg>
       </mg>
    </e>
@@ -1040,6 +958,7 @@
       </lg>
       <sources>
          <book name="puolas"/>
+         <book name="ceelhi"/>
       </sources>
       <semantics>
          <sem class="YYY"/>
@@ -1120,6 +1039,7 @@
       </lg>
       <sources>
          <book name="puolas"/>
+         <book name="ceelhi"/>
       </sources>
       <semantics>
          <sem class="YYY"/>
