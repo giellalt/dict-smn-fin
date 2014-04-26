@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      </sourcenote></lics>
    <e>
       <lg>
-         <l pos="cc">teikkâ</l>
+         <l pos="CC">teikkâ</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -35,8 +35,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="cc">taikka</t>
+         <tg xml:lang="fin">
+            <t pos="CC">taikka</t>
          </tg>
       </mg>
    </e>

@@ -25,7 +25,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      or could be wrongly sorted.
      </sourcenote></lics>   <e>
       <lg>
-         <l pos="prop">Peeivitäsideijee</l>
+         <l pos="N" type="Prop">Peeivitäsideijee</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -34,14 +34,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Päiväntasaaja</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Päiväntasaaja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Puáhinävli</l>
+         <l pos="N" type="Prop">Puáhinävli</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -50,14 +50,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Pohjantähti</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Pohjantähti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Meerâpohe</l>
+         <l pos="N" type="Prop">Meerâpohe</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -66,14 +66,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Merenkurkku</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Merenkurkku</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Ruotâ</l>
+         <l pos="N" type="Prop">Ruotâ</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -82,14 +82,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="WORLD"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Ruotsi</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Ruotsi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Aanaar</l>
+         <l pos="N" type="Prop">Aanaar</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -98,14 +98,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SAPMI"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Inari</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Inari</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">sun</l>
+         <l pos="N" type="Prop">sun</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -114,14 +114,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">hän</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">hän</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Tavepoođâeennâm</l>
+         <l pos="N" type="Prop">Tavepoođâeennâm</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -130,14 +130,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Pohjanmaa</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Pohjanmaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Tavenuorttiieennâm</l>
+         <l pos="N" type="Prop">Tavenuorttiieennâm</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -146,14 +146,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Koillismaa</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Koillismaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Liäkšá</l>
+         <l pos="N" type="Prop">Liäkšá</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -162,14 +162,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Lieksa</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Lieksa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Kiemâ</l>
+         <l pos="N" type="Prop">Kiemâ</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -178,14 +178,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Kemi</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Kemi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Väri-Suomâ</l>
+         <l pos="N" type="Prop">Väri-Suomâ</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -194,14 +194,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Vaara-Suomi</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Vaara-Suomi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Uárji-Suomâ</l>
+         <l pos="N" type="Prop">Uárji-Suomâ</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -210,14 +210,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Lounais-Suomi</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Lounais-Suomi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Kaajaan</l>
+         <l pos="N" type="Prop">Kaajaan</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -226,14 +226,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Kajaani</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Kajaani</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Merâpottâ</l>
+         <l pos="N" type="Prop">Merâpottâ</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -242,14 +242,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Perämeri</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Perämeri</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Tavemeerâpottâ</l>
+         <l pos="N" type="Prop">Tavemeerâpottâ</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -258,14 +258,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Pohjanlahti</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Pohjanlahti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Kiemâjävri</l>
+         <l pos="N" type="Prop">Kiemâjävri</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -274,14 +274,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Kemijärvi</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Kemijärvi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Tuárnus</l>
+         <l pos="N" type="Prop">Tuárnus</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -290,14 +290,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Tornio</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Tornio</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Kuáccám</l>
+         <l pos="N" type="Prop">Kuáccám</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -306,14 +306,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SUOPMA"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Kuusamo</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Kuusamo</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Tavekuávlu</l>
+         <l pos="N" type="Prop">Tavekuávlu</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -322,14 +322,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="WORLD"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Pohjola</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Pohjola</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Säksi</l>
+         <l pos="N" type="Prop">Säksi</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -338,14 +338,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="WORLD"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Saksa</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Saksa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Čuhâväärih</l>
+         <l pos="N" type="Prop">Čuhâväärih</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -354,14 +354,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="WORLD"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Huippuvuoret</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Huippuvuoret</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Finnmark</l>
+         <l pos="N" type="Prop">Finnmark</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -370,14 +370,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SAPMI"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Ruija</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Ruija</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Kiärun</l>
+         <l pos="N" type="Prop">Kiärun</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -386,14 +386,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SAPMI"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Kiiruna</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Kiiruna</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Kiemnikáisá</l>
+         <l pos="N" type="Prop">Kiemnikáisá</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -402,14 +402,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SAPMI"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Kebnekaise</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Kebnekaise</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Tuárnusjuuhâ</l>
+         <l pos="N" type="Prop">Tuárnusjuuhâ</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -418,8 +418,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SAPMI"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="prop">Tornionjoki</t>
+         <tg xml:lang="fin">
+            <t pos="N" type="Prop">Tornionjoki</t>
          </tg>
       </mg>
    </e>

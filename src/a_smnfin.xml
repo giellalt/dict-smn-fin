@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      </sourcenote></lics>
    <e>
       <lg>
-         <l pos="a">suotâs</l>
+         <l pos="A">suotâs</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -35,14 +35,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="EXPERIENCE_Z"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">hauska</t>
+         <tg xml:lang="fin">
+            <t pos="A">hauska</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">puuicâs</l>
+         <l pos="A">puuicâs</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -51,14 +51,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">puikea</t>
+         <tg xml:lang="fin">
+            <t pos="A">puikea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">päddilágán</l>
+         <l pos="A">päddilágán</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -67,14 +67,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">nauhamainen</t>
+         <tg xml:lang="fin">
+            <t pos="A">nauhamainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">váimulágán</l>
+         <l pos="A">váimulágán</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -83,14 +83,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">herttamainen</t>
+         <tg xml:lang="fin">
+            <t pos="A">herttamainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">suormâjuáhusâš</l>
+         <l pos="A">suormâjuáhusâš</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -99,14 +99,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">sormijakoinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">sormijakoinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">parâlostâstâhlâš</l>
+         <l pos="A">parâlostâstâhlâš</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -115,14 +115,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">parilehdykkäinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">parilehdykkäinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">säittilágán</l>
+         <l pos="A">säittilágán</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -131,14 +131,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">keihäsmäinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">keihäsmäinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">orgaanlâš</l>
+         <l pos="A">orgaanlâš</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -147,14 +147,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">eloperäinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">eloperäinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">täsiliegâslâš</l>
+         <l pos="A">täsiliegâslâš</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -163,14 +163,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">tasalämpöinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">tasalämpöinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">rievdeeliegâslâš</l>
+         <l pos="A">rievdeeliegâslâš</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -179,14 +179,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">vaihtolämpöinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">vaihtolämpöinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">čalmettem</l>
+         <l pos="A">čalmettem</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -195,14 +195,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">sokea</t>
+         <tg xml:lang="fin">
+            <t pos="A">sokea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">peljittem</l>
+         <l pos="A">peljittem</l>
       </lg>
       <sources>
          <book name="bio3"/>
@@ -211,14 +211,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">huonokuuloinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">huonokuuloinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">puosâh</l>
+         <l pos="A">puosâh</l>
       </lg>
       <sources>
          <book name="bio5"/>
@@ -227,14 +227,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="ILLNESS"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">sairaalloinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">sairaalloinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">toovgâs</l>
+         <l pos="A">toovgâs</l>
       </lg>
       <sources>
          <book name="bio5"/>
@@ -243,14 +243,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kimmoisa</t>
+         <tg xml:lang="fin">
+            <t pos="A">kimmoisa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">hyeni</l>
+         <l pos="A">hyeni</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -259,14 +259,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="EXPERIENCE_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">huono</t>
+         <tg xml:lang="fin">
+            <t pos="A">huono</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">hirmâd</l>
+         <l pos="A">hirmâd</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -275,14 +275,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="EXPERIENCE_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">hirveä</t>
+         <tg xml:lang="fin">
+            <t pos="A">hirveä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">nuorâ</l>
+         <l pos="A">nuorâ</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -291,14 +291,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">nuori</t>
+         <tg xml:lang="fin">
+            <t pos="A">nuori</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">mučis</l>
+         <l pos="A">mučis</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -307,14 +307,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kaunis</t>
+         <tg xml:lang="fin">
+            <t pos="A">kaunis</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">voorâs</l>
+         <l pos="A">voorâs</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -323,14 +323,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SOUP_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">tuore</t>
+         <tg xml:lang="fin">
+            <t pos="A">tuore</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">hälbi</l>
+         <l pos="A">hälbi</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -339,14 +339,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="CLOTHES_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">halpa</t>
+         <tg xml:lang="fin">
+            <t pos="A">halpa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">tiivrâs</l>
+         <l pos="A">tiivrâs</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -355,14 +355,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="CLOTHES_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kallis</t>
+         <tg xml:lang="fin">
+            <t pos="A">kallis</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">ollâ</l>
+         <l pos="A">ollâ</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -371,14 +371,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">korkea</t>
+         <tg xml:lang="fin">
+            <t pos="A">korkea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">koorâs</l>
+         <l pos="A">koorâs</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -387,14 +387,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kova</t>
+         <tg xml:lang="fin">
+            <t pos="A">kova</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">táválâš</l>
+         <l pos="A">táválâš</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -403,14 +403,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">tavallinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">tavallinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">njaalgâ</l>
+         <l pos="A">njaalgâ</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -419,14 +419,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="FEELING"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">hyvänmakuinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">hyvänmakuinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">tärkki</l>
+         <l pos="A">tärkki</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -435,14 +435,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">tarkka</t>
+         <tg xml:lang="fin">
+            <t pos="A">tarkka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">aldaš</l>
+         <l pos="A">aldaš</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -451,14 +451,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">läheinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">läheinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">kiäldulâš</l>
+         <l pos="A">kiäldulâš</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -467,14 +467,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="EXPERIENCE_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">jännittävä</t>
+         <tg xml:lang="fin">
+            <t pos="A">jännittävä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">meriáigásâš</l>
+         <l pos="A">meriáigásâš</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -483,15 +483,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="TIME_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">säännöllinen</t>
-            <t pos="a">määräaikainen</t>
+         <tg xml:lang="fin">
+            <t pos="A">säännöllinen</t>
+            <t pos="A">määräaikainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">hormiš</l>
+         <l pos="A">hormiš</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -500,15 +500,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="NATURE_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">henkeäsalpaava</t>
-            <t pos="a">jylhä</t>
+         <tg xml:lang="fin">
+            <t pos="A">henkeäsalpaava</t>
+            <t pos="A">jylhä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">njyebžilis</l>
+         <l pos="A">njyebžilis</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -517,14 +517,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">joustava</t>
+         <tg xml:lang="fin">
+            <t pos="A">joustava</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vávjálâs</l>
+         <l pos="A">vávjálâs</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -533,14 +533,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">epäluuloinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">epäluuloinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">jieččii</l>
+         <l pos="A">jieččii</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -549,14 +549,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">itsenäinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">itsenäinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vildáá</l>
+         <l pos="A">vildáá</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -565,15 +565,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">hurja</t>
-            <t pos="a">hurjapäinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">hurja</t>
+            <t pos="A">hurjapäinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">jiešvuođâlâš</l>
+         <l pos="A">jiešvuođâlâš</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -582,14 +582,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">omaperäinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">omaperäinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">pelettis</l>
+         <l pos="A">pelettis</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -598,14 +598,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">puolueeton</t>
+         <tg xml:lang="fin">
+            <t pos="A">puolueeton</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">siervi</l>
+         <l pos="A">siervi</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -614,14 +614,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">hento</t>
+         <tg xml:lang="fin">
+            <t pos="A">hento</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">tiätuäŋgiris</l>
+         <l pos="A">tiätuäŋgiris</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -630,14 +630,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">utelias</t>
+         <tg xml:lang="fin">
+            <t pos="A">utelias</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">lašmâdis</l>
+         <l pos="A">lašmâdis</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -646,14 +646,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">reipas</t>
+         <tg xml:lang="fin">
+            <t pos="A">reipas</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">álššáá</l>
+         <l pos="A">álššáá</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -662,14 +662,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">yritteliäs</t>
+         <tg xml:lang="fin">
+            <t pos="A">yritteliäs</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">riššoo</l>
+         <l pos="A">riššoo</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -678,14 +678,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">räiskyvä</t>
+         <tg xml:lang="fin">
+            <t pos="A">räiskyvä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">iärdutteijee</l>
+         <l pos="A">iärdutteijee</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -694,14 +694,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">ärsyttävä</t>
+         <tg xml:lang="fin">
+            <t pos="A">ärsyttävä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">tuáŋgi</l>
+         <l pos="A">tuáŋgi</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -710,14 +710,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kömpelö</t>
+         <tg xml:lang="fin">
+            <t pos="A">kömpelö</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">raavâdvaljaa</l>
+         <l pos="A">raavâdvaljaa</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -726,14 +726,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SOUP_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">ravinteikas</t>
+         <tg xml:lang="fin">
+            <t pos="A">ravinteikas</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">čuássid</l>
+         <l pos="A">čuássid</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -742,14 +742,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="WEATHER_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">viileä</t>
+         <tg xml:lang="fin">
+            <t pos="A">viileä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">skiččee</l>
+         <l pos="A">skiččee</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -758,14 +758,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">nariseva</t>
+         <tg xml:lang="fin">
+            <t pos="A">nariseva</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">korrâ</l>
+         <l pos="A">korrâ</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -774,14 +774,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kova</t>
+         <tg xml:lang="fin">
+            <t pos="A">kova</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">cuávhus</l>
+         <l pos="A">cuávhus</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -790,14 +790,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">rikkonainen</t>
+         <tg xml:lang="fin">
+            <t pos="A">rikkonainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">kristalsâš</l>
+         <l pos="A">kristalsâš</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -806,14 +806,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kiteinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">kiteinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">kollenallii</l>
+         <l pos="A">kollenallii</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -822,14 +822,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kultapitoinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">kultapitoinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">kalkkânálásâš</l>
+         <l pos="A">kalkkânálásâš</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -838,14 +838,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kalkkipitoinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">kalkkipitoinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">tooškâs</l>
+         <l pos="A">tooškâs</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -854,14 +854,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kiinteä</t>
+         <tg xml:lang="fin">
+            <t pos="A">kiinteä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">jehhee</l>
+         <l pos="A">jehhee</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -870,14 +870,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">vedenpitävä</t>
+         <tg xml:lang="fin">
+            <t pos="A">vedenpitävä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">várnuttis</l>
+         <l pos="A">várnuttis</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -886,14 +886,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="BODY_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kurja</t>
+         <tg xml:lang="fin">
+            <t pos="A">kurja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">tolmiš</l>
+         <l pos="A">tolmiš</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -902,14 +902,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="FOOD_OTHER"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">ravitseva</t>
+         <tg xml:lang="fin">
+            <t pos="A">ravitseva</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">vettâ</l>
+         <l pos="A">vettâ</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -918,14 +918,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="FOOD_OTHER"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">vähäsuolainen</t>
+         <tg xml:lang="fin">
+            <t pos="A">vähäsuolainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">šävvee</l>
+         <l pos="A">šävvee</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -934,15 +934,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="FOOD_OTHER"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">kohiseva</t>
-            <t pos="a">ryöppyävä</t>
+         <tg xml:lang="fin">
+            <t pos="A">kohiseva</t>
+            <t pos="A">ryöppyävä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">skinnáás</l>
+         <l pos="A">skinnáás</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -951,14 +951,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="ANIMAL_OTHER"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">nahkainen</t>
+         <tg xml:lang="fin">
+            <t pos="A">nahkainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">luškâ</l>
+         <l pos="A">luškâ</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -967,14 +967,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="COLOUR"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">haalea</t>
+         <tg xml:lang="fin">
+            <t pos="A">haalea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">siävŋus</l>
+         <l pos="A">siävŋus</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -983,14 +983,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">samea</t>
+         <tg xml:lang="fin">
+            <t pos="A">samea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">moiváá</l>
+         <l pos="A">moiváá</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -999,14 +999,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">samea</t>
+         <tg xml:lang="fin">
+            <t pos="A">samea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">luáđhus</l>
+         <l pos="A">luáđhus</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -1015,14 +1015,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">ilmava</t>
+         <tg xml:lang="fin">
+            <t pos="A">ilmava</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">háitulâš</l>
+         <l pos="A">háitulâš</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -1031,14 +1031,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">haitallinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">haitallinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">epitáválâš</l>
+         <l pos="A">epitáválâš</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -1047,15 +1047,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">poikkeuksellinen</t>
-            <t pos="a">epätavallinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">poikkeuksellinen</t>
+            <t pos="A">epätavallinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">rohâdis</l>
+         <l pos="A">rohâdis</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -1064,14 +1064,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">vaikeakulkuinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">vaikeakulkuinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">ohtâlâš</l>
+         <l pos="A">ohtâlâš</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -1080,14 +1080,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">yhtenäinen</t>
+         <tg xml:lang="fin">
+            <t pos="A">yhtenäinen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">pahas</l>
+         <l pos="A">pahas</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -1096,14 +1096,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="HUMAN_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">paha</t>
+         <tg xml:lang="fin">
+            <t pos="A">paha</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">liegâs</l>
+         <l pos="A">liegâs</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -1112,14 +1112,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SOUP_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">lämmin</t>
+         <tg xml:lang="fin">
+            <t pos="A">lämmin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">čuovvâd</l>
+         <l pos="A">čuovvâd</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -1128,14 +1128,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="WEATHER_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">valoisa</t>
+         <tg xml:lang="fin">
+            <t pos="A">valoisa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">sevŋâd</l>
+         <l pos="A">sevŋâd</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -1144,14 +1144,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="WEATHER_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">pimeä</t>
+         <tg xml:lang="fin">
+            <t pos="A">pimeä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">kukke</l>
+         <l pos="A">kukke</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -1160,14 +1160,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="OBJECT_A"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">pitkä</t>
+         <tg xml:lang="fin">
+            <t pos="A">pitkä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="a">ruopsâd</l>
+         <l pos="A">ruopsâd</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -1176,8 +1176,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="COLOUR"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="a">punainen</t>
+         <tg xml:lang="fin">
+            <t pos="A">punainen</t>
          </tg>
       </mg>
    </e>

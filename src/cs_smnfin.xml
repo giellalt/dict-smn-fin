@@ -25,7 +25,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      or could be wrongly sorted.
      </sourcenote></lics>   <e>
       <lg>
-         <l pos="cs">mut</l>
+         <l pos="CS">mut</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -35,14 +35,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="cs">mutta</t>
+         <tg xml:lang="fin">
+            <t pos="CS">mutta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="cs">te</l>
+         <l pos="CS">te</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -51,14 +51,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="cs">sitten</t>
+         <tg xml:lang="fin">
+            <t pos="CS">sitten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="cs">veikkâ</l>
+         <l pos="CS">veikkâ</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -67,8 +67,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="cs">vaikka</t>
+         <tg xml:lang="fin">
+            <t pos="CS">vaikka</t>
          </tg>
       </mg>
    </e>

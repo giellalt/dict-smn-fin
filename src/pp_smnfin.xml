@@ -25,7 +25,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      or could be wrongly sorted.
      </sourcenote></lics>   <e>
       <lg>
-         <l pos="pp">lunne</l>
+         <l pos="Pp">lunne</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -34,14 +34,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="pp">luona</t>
+         <tg xml:lang="fin">
+            <t pos="Pp">luona</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pp">luus ~ luusâ</l>
+         <l pos="Pp">luus ~ luusâ</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -50,14 +50,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="pp">luokse</t>
+         <tg xml:lang="fin">
+            <t pos="Pp">luokse</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pp">paijeel</l>
+         <l pos="Pp">paijeel</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -66,14 +66,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="pp">yli</t>
+         <tg xml:lang="fin">
+            <t pos="Pp">yli</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pp">maŋa</l>
+         <l pos="Pp">maŋa</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -82,14 +82,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="pp">jälkeen</t>
+         <tg xml:lang="fin">
+            <t pos="Pp">jälkeen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pp">kuuvl</l>
+         <l pos="Pp">kuuvl</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -98,8 +98,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="pp">luo</t>
+         <tg xml:lang="fin">
+            <t pos="Pp">luo</t>
          </tg>
       </mg>
    </e>

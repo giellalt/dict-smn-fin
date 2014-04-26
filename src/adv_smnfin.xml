@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      </sourcenote></lics>
    <e>
       <lg>
-         <l pos="adv">ain-uv</l>
+         <l pos="Adv">ain-uv</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -35,14 +35,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">yhäkin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">yhäkin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">ääigi</l>
+         <l pos="Adv">ääigi</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -51,14 +51,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="TIME"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">aikaan</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">aikaan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">kuás</l>
+         <l pos="Adv">kuás</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -67,19 +67,19 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="TIME"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">milloin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">milloin</t>
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t pos="adv">koska</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">koska</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">onne</l>
+         <l pos="Adv">onne</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -89,14 +89,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="TIME"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">tänään</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">tänään</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tääl</l>
+         <l pos="Adv">tääl</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -105,14 +105,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="TIME"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">nyt</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">nyt</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tuárvi</l>
+         <l pos="Adv">tuárvi</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -121,14 +121,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SCHOOL_ADV"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">tarpeeksi</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">tarpeeksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">äŋgirávt</l>
+         <l pos="Adv">äŋgirávt</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -137,14 +137,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="SCHOOL_ADV"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">ankarasti</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">ankarasti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">aaibâs</l>
+         <l pos="Adv">aaibâs</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -153,15 +153,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="BODY_ADV"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">aivan</t>
-            <t pos="adv">ihan</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">aivan</t>
+            <t pos="Adv">ihan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">forgâ</l>
+         <l pos="Adv">forgâ</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -170,14 +170,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="BODY_ADV"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">pian</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">pian</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">pääihist</l>
+         <l pos="Adv">pääihist</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -186,14 +186,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">kotona</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">kotona</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">korrâsávt</l>
+         <l pos="Adv">korrâsávt</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -202,14 +202,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">kovasti</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">kovasti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tuođâi</l>
+         <l pos="Adv">tuođâi</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -218,15 +218,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">todella</t>
-            <t pos="adv">tosiaan</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">todella</t>
+            <t pos="Adv">tosiaan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">oppeet</l>
+         <l pos="Adv">oppeet</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -235,14 +235,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">uudestaan</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">uudestaan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">ohtii</l>
+         <l pos="Adv">ohtii</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -251,14 +251,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">kerran</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">kerran</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">maht</l>
+         <l pos="Adv">maht</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -267,14 +267,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">miten</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">miten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">mudoi</l>
+         <l pos="Adv">mudoi</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -283,14 +283,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">muuten</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">muuten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">peri</l>
+         <l pos="Adv">peri</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -299,14 +299,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">vain</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">vain</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">uáinimáid</l>
+         <l pos="Adv">uáinimáid</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -315,14 +315,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">näkemiin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">näkemiin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">vaarâ</l>
+         <l pos="Adv">vaarâ</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -331,15 +331,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">varmaan</t>
-            <t pos="adv">varmaankin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">varmaan</t>
+            <t pos="Adv">varmaankin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tiäđust-uv</l>
+         <l pos="Adv">tiäđust-uv</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -348,14 +348,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">tietenkin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">tietenkin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">meiddei</l>
+         <l pos="Adv">meiddei</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -364,15 +364,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">myös</t>
-            <t pos="adv">myöskin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">myös</t>
+            <t pos="Adv">myöskin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">talle</l>
+         <l pos="Adv">talle</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -381,15 +381,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">sitten</t>
-            <t pos="adv">silloin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">sitten</t>
+            <t pos="Adv">silloin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">siämmáá</l>
+         <l pos="Adv">siämmáá</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -398,14 +398,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">samoin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">samoin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">návt</l>
+         <l pos="Adv">návt</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -414,14 +414,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">näin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">näin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">na</l>
+         <l pos="Adv">na</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -430,14 +430,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">no</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">no</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">vist</l>
+         <l pos="Adv">vist</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -446,14 +446,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">taas</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">taas</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">motomin</l>
+         <l pos="Adv">motomin</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -462,14 +462,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">joskus</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">joskus</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">meid</l>
+         <l pos="Adv">meid</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -478,14 +478,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">myös</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">myös</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">eres</l>
+         <l pos="Adv">eres</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -494,14 +494,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">muu</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">muu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">ain</l>
+         <l pos="Adv">ain</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -510,14 +510,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">yhä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">yhä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">vala</l>
+         <l pos="Adv">vala</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -526,14 +526,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">vielä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">vielä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">alne</l>
+         <l pos="Adv">alne</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -542,14 +542,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">päällä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">päällä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">kustoo</l>
+         <l pos="Adv">kustoo</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -558,15 +558,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">näköjään</t>
-            <t pos="adv">näemmä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">näköjään</t>
+            <t pos="Adv">näemmä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">ohtsis</l>
+         <l pos="Adv">ohtsis</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -575,14 +575,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">yhteensä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">yhteensä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">kost</l>
+         <l pos="Adv">kost</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -591,14 +591,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">missä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">missä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">täst</l>
+         <l pos="Adv">täst</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -607,14 +607,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">tässä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">tässä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">toos</l>
+         <l pos="Adv">toos</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -623,15 +623,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">siihen</t>
-            <t pos="adv">tässä:siitä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">siihen</t>
+            <t pos="Adv">tässä:siitä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tilist</l>
+         <l pos="Adv">tilist</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -640,14 +640,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">tililtä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">tililtä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tääbbin</l>
+         <l pos="Adv">tääbbin</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -656,15 +656,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">täällä</t>
-            <t pos="adv">täältä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">täällä</t>
+            <t pos="Adv">täältä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">oovdâst</l>
+         <l pos="Adv">oovdâst</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -673,14 +673,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">edestä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">edestä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tieid</l>
+         <l pos="Adv">tieid</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -689,14 +689,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">niistä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">niistä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">šet</l>
+         <l pos="Adv">šet</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -705,14 +705,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">enää</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">enää</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">lase</l>
+         <l pos="Adv">lase</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -721,14 +721,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">lisää</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">lisää</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">kuákkáámin</l>
+         <l pos="Adv">kuákkáámin</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -737,15 +737,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">kököttämässä</t>
-            <t pos="adv">istumassa</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">kököttämässä</t>
+            <t pos="Adv">istumassa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">riävtui</l>
+         <l pos="Adv">riävtui</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -754,14 +754,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">oikeasti</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">oikeasti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">meriáigásávt</l>
+         <l pos="Adv">meriáigásávt</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -770,14 +770,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">säännöllisesti</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">säännöllisesti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">jiešiäluid</l>
+         <l pos="Adv">jiešiäluid</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -786,14 +786,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">omin päin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">omin päin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">vuálusoivij</l>
+         <l pos="Adv">vuálusoivij</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -802,14 +802,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">pää alaspäin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">pää alaspäin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">kumârâsoivij</l>
+         <l pos="Adv">kumârâsoivij</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -818,14 +818,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">pää alaspäin</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">pää alaspäin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">masa</l>
+         <l pos="Adv">masa</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -835,19 +835,19 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="TIME"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">kohta</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">kohta</t>
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t pos="adv">melkein</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">melkein</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">siämmást</l>
+         <l pos="Adv">siämmást</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -857,16 +857,16 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="TIME"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">samanaikasesti</t>
-            <t pos="adv">samalla</t>
-            <t pos="adv">samassa</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">samanaikasesti</t>
+            <t pos="Adv">samalla</t>
+            <t pos="Adv">samassa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">olgon</l>
+         <l pos="Adv">olgon</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -875,14 +875,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">ulkona</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">ulkona</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">iäskân</l>
+         <l pos="Adv">iäskân</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -891,14 +891,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">vasta</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">vasta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">eidu</l>
+         <l pos="Adv">eidu</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -907,14 +907,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">juuri</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">juuri</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">mondet</l>
+         <l pos="Adv">mondet</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -923,14 +923,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">miksi</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">miksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">njuolgist</l>
+         <l pos="Adv">njuolgist</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -939,14 +939,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">suoraan</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">suoraan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">te</l>
+         <l pos="Adv">te</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -955,14 +955,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">sitten</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">sitten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">tuše</l>
+         <l pos="Adv">tuše</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -971,95 +971,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">vain</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">vain</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">nuuvt</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="adv">niin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="adv">pyereest</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="adv">hyvin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="adv">taahân</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="adv">tässähän</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="adv">maŋŋaal</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="adv">perään</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="adv">viehâ</l>
-      </lg>
-      <sources>
-         <book name="puolas"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg>
-            <t pos="adv">melko</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="adv">tobbeen</l>
+         <l pos="Adv">nuuvt</l>
       </lg>
       <sources>
          <book name="puolas"/>
@@ -1069,14 +988,95 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">siellä</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">niin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">eskân</l>
+         <l pos="Adv">pyereest</l>
+      </lg>
+      <sources>
+         <book name="puolas"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hyvin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">taahân</l>
+      </lg>
+      <sources>
+         <book name="puolas"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tässähän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">maŋŋaal</l>
+      </lg>
+      <sources>
+         <book name="puolas"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">perään</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">viehâ</l>
+      </lg>
+      <sources>
+         <book name="puolas"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">melko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tobbeen</l>
+      </lg>
+      <sources>
+         <book name="puolas"/>
+         <book name="ceelhi"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">siellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eskân</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -1085,8 +1085,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="adv">vasta</t>
+         <tg xml:lang="fin">
+            <t pos="Adv">vasta</t>
          </tg>
       </mg>
    </e>

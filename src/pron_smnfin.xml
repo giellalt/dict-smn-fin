@@ -22,7 +22,7 @@
 
 <e>
       <lg>
-         <l pos="pron">jieš</l>
+         <l pos="Pron">jieš</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -31,14 +31,14 @@
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="prom">itse</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">kii</l>
+         <l pos="Pron">kii</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -47,14 +47,14 @@
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="pron">kuka</t>
+         <tg xml:lang="fin">
+            <t pos="Pron">kuka</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">mottoom</l>
+         <l pos="Pron">mottoom</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -63,15 +63,15 @@
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="pron">joku</t>
-            <t pos="pron">jokin</t>
+         <tg xml:lang="fin">
+            <t pos="Pron">joku</t>
+            <t pos="Pron">jokin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">mii</l>
+         <l pos="Pron">mii</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -80,14 +80,14 @@
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="pron">mikä</t>
+         <tg xml:lang="fin">
+            <t pos="Pron">mikä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">mun</l>
+         <l pos="Pron">mun</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -96,14 +96,14 @@
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="pron">minä</t>
+         <tg xml:lang="fin">
+            <t pos="Pron">minä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">tun</l>
+         <l pos="Pron">tun</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -112,14 +112,14 @@
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="pron">sinä</t>
+         <tg xml:lang="fin">
+            <t pos="Pron">sinä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">maid</l>
+         <l pos="Pron">maid</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -128,8 +128,8 @@
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="pron">mitä</t>
+         <tg xml:lang="fin">
+            <t pos="Pron">mitä</t>
          </tg>
       </mg>
    </e>

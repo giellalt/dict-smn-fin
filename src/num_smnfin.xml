@@ -25,7 +25,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      or could be wrongly sorted.
      </sourcenote></lics>   <e>
       <lg>
-         <l pos="num">muáddi</l>
+         <l pos="Num">muáddi</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -34,14 +34,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="mNUMBER"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="num">pari</t>
+         <tg xml:lang="fin">
+            <t pos="Num">pari</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">vittâ</l>
+         <l pos="Num">vittâ</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -50,14 +50,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="mNUMBER"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="num">viisi</t>
+         <tg xml:lang="fin">
+            <t pos="Num">viisi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">käävci</l>
+         <l pos="Num">käävci</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -67,14 +67,14 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="mNUMBER"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="num">kahdeksan</t>
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">love</l>
+         <l pos="Num">love</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -83,15 +83,15 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="mNUMBER"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="num">kymmenen</t>
-            <t pos="num">kymmentä</t>
+         <tg xml:lang="fin">
+            <t pos="Num">kymmenen</t>
+            <t pos="Num">kymmentä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">pelnub</l>
+         <l pos="Num">pelnub</l>
       </lg>
       <sources>
          <book name="piras"/>
@@ -100,8 +100,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="mNUMBER"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="num">puolitoista</t>
+         <tg xml:lang="fin">
+            <t pos="Num">puolitoista</t>
          </tg>
       </mg>
    </e>

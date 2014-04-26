@@ -25,7 +25,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      or could be wrongly sorted.
      </sourcenote></lics>   <e>
       <lg>
-         <l pos="det">tággáár</l>
+         <l pos="Det">tággáár</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -34,8 +34,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="det">tällainen</t>
+         <tg xml:lang="fin">
+            <t pos="Det">tällainen</t>
          </tg>
       </mg>
    </e>

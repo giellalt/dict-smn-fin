@@ -25,7 +25,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      or could be wrongly sorted.
      </sourcenote></lics>   <e>
       <lg>
-         <l pos="i">kale</l>
+         <l pos="Interj">kale</l>
       </lg>
       <sources>
          <book name="ceelhi"/>
@@ -34,8 +34,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <sem class="YYY"/>
       </semantics>
       <mg>
-         <tg>
-            <t pos="i">kyllä</t>
+         <tg xml:lang="fin">
+            <t pos="Interj">kyllä</t>
          </tg>
       </mg>
    </e>
