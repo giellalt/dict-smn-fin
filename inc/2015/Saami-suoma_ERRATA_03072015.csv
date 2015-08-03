@@ -1,5 +1,5 @@
 SÄMIKIELÂ UUCÂMSÄÄNI	SUOMI	SAAMEN_HAK	SUOMEN_HAK		SAAMEN_YHD	SUOMEN_YHD	SAAMEN_TAI	SUOMEN_HA2	SUOMEN_J_L	
-aa-a       	mitä?  (kysymyssana kun ei kuullut kunnolla) 	aa-a	mitä?						(kysymyssana kun ei kuullut kunnolla) 	
+aa-a       	mitä  (kysymyssana kun ei kuullut kunnolla) 	aa-a	mitä?						(kysymyssana kun ei kuullut kunnolla) 	
 aabis       	aapinen  	aabis	aapinen							
 aabiskirje  -ki'rje     	aapinen  	aabis	aapinen		kirje		-ki'rje			
 aaboort       	abortti  	aaboort	abortti							
@@ -665,8 +665,8 @@ a'lmosha'ldâttâs       	julkishallinto  	a'lmos	julkis		ha'ldâttâs	hallinto
 a'lmosinpieijâm       	julkipano  	a'lmosin	julki		pieijâm	pano				
 a'lmossiä'rvádâh  -siä'rváduv     	julkisyhteisö  	a'lmos	julkis		siä'rvádâh	yhteisö	-siä'rváduv			
 a'lmostittem  a'lmostitmeh     	julkaisu  (erit. tapahtuma)	a'lmostittem	julkaisu				a'lmostitmeh		(erit. tapahtuma)	
-a'lmostittemráiđu  -rááiđu     	  	a'lmostittem			ráiđu		-rááiđu			
-a'lmostittemtoorjâ  -torjuu     	  	a'lmostittem			toorjâ		-torjuu			
+a'lmostittemráiđu  -rááiđu     	xxx_xxx  	a'lmostittem			ráiđu		-rááiđu			
+a'lmostittemtoorjâ  -torjuu     	xxx_xxx  	a'lmostittem			toorjâ		-torjuu			
 a'lmostittiđ  a'lmostitám a'lmostit     	julkaista  	a'lmostittiđ	julkaista				a'lmostitám a'lmostit			
 a'lmostuđ  a'lmostuVá     	ilmestyä  (esim. kirja)	a'lmostuđ	ilmestyä				a'lmostuVá		(esim. kirja)	
 a'lmostuđ  a'lmostuVá     	ilmaantua  	a'lmostuđ	ilmaantua				a'lmostuVá			
@@ -907,7 +907,7 @@ arguđ  aargum     	tulla araksi  	arguđ	tulla 			araksi	aargum
 árgudiđ  áárgud     	tehdä araksi  	árgudiđ	tehdä 			araksi	áárgud			
 argument       	argumentti  	argument	argumentti							
 argument       	peruste  	argument	peruste							
-argumentistiđ  argumentistám     	  	argumentistiđ					argumentistám			
+argumentistiđ  argumentistám     	xxx_xxx  	argumentistiđ					argumentistám			
 argumentistiđ  argumentistám     	argumentoida  	argumentistiđ	argumentoida				argumentistám			
 aritmeetlâš  aritmeetlii     	aritmeettinen  	aritmeetlâš	aritmeettinen				aritmeetlii			
 arkkâ  aarkâ     	arkki  	arkkâ	arkki				aarkâ			
@@ -2917,7 +2917,7 @@ cuoh'huđ  cuoh'huum cuáh'hoo     	juuttua kiinni matalikkoon  (veneestä, kun 
 čuoi'gâm       	hiihto  	čuoi'gâm	hiihto							
 čuoi'gâmkišto  -ki'što     	hiihtokilpailu  	čuoi'gâm	hiihto		kišto	kilpailu	-ki'što			
 čuoi'gâmkuávdáš  -kuáv'dáá     	hiihtokeskus  	čuoi'gâm	hiihto		kuávdáš	keskus	-kuáv'dáá			
-čuoi'gâmluáMu  -luámu     		čuoi'gâm	hiihto		luáMu	loma	-luámu			
+čuoi'gâmluáMu  -luámu     	xxx_xxx	čuoi'gâm	hiihto		luáMu	loma	-luámu			
 čuoi'gâmsaaveeh       	suksi  (pitkähkö, kapeahko, murtomaahiihtoon)	čuoi'gâm	suksi		saaveeh				(pitkähkö, kapeahko, murtomaahiihtoon)	
 čuoi'gâmsijvo  -siijvo     	hiihtokeli  	čuoi'gâm	hiihto		sijvo	keli	-siijvo			
 čuoi'gâmsuáb'bi  -suábi     	hiihtosauva  	čuoi'gâm	hiihto		suáb'bi	sauva	-suábi			
@@ -10549,7 +10549,7 @@ kähtee       	kaakkuri  Gavia stellata	kähtee	kaakkuri						Gavia stellata
 kähvi  käähvi     	kahvi  	kähvi	kahvi				käähvi			
 kä'hvičalme  -ča'lme     	kahvinpapu  	kä'hvi	kahvin		čalme	papu	-ča'lme			
 kä'hvijuhâlâs       	paljon kahvia juova  	kä'hvi	paljon 		juhâlâs	kahvia juova				
-kä'hviviäsu       	  	kä'hvi			viäsu					
+kä'hviviäsu       	xxx_xxx  	kä'hvi			viäsu					
 kä'hvivuošân  -vuoššân     	kahvinkeitin  	kä'hvi	kahvin		vuošân	keitin	-vuoššân			
 käibi  kääibi     	leuka  	käibi	leuka				kääibi			
 käibi  kääibi     	alaleuka  	käibi	ala			leuka	kääibi			
@@ -13265,14 +13265,14 @@ miä'tálâh  miä'táluv     	alamäki  	miä'tálâh	ala			mäki	miä'táluv
 miäv'loo       	mönkijä  	miäv'loo	mönkijä							
 miäv'luđ  miävlum     	rämpiä  	miäv'luđ	rämpiä				miävlum			
 miäv'luđ  miävlum     	tarpoa  	miäv'luđ	tarpoa				miävlum			
-mKr       	  	mKr								
+mKr       	xxx_xxx  	mKr								
 moččârokke  -rohe     	peijakas  	moččâ	peijakas		rokke		-rohe			
 mođárdittiđ  mođárditám     	posmittaa  	mođárdittiđ	posmittaa				mođárditám			
 mođárdittiđ  mođárditám     	puhua siansaksaa  	mođárdittiđ	puhua 			siansaksaa	mođárditám			
 mođáttuđ  mođáttuVá     	tahraantua mutaan  	mođáttuđ	tahraantua 			mutaan	mođáttuVá			
 moddii       	pari kertaa  	moddii	pari 			kertaa				
 mođerdiđ  moođeerd     	nuljauttaa panka päähän t. päästä  	mođerdiđ	nuljauttaa 			panka päähän t. päästä	moođeerd			
-modernistiđ       	  	modernistiđ								
+modernistiđ       	xxx_xxx  	modernistiđ								
 mogerdiđ  moggeerd     	nuljauttaa panka päähän t. päästä  	mogerdiđ	nuljauttaa 			panka päähän t. päästä	moggeerd			
 moggediđ       	nahistella  	moggediđ	nahistella							
 moggediđ       	painia  	moggediđ	painia							
@@ -17525,7 +17525,7 @@ pittá  pitá     	ote  	pittá	ote				pitá
 pittá  pitá     	pala  	pittá	pala				pitá			
 pittá  pitá     	palanen  	pittá	palanen				pitá			
 pittá  pitá     	pykälä  (korvamerkissä)	pittá	pykälä				pitá		(korvamerkissä)	
-pittáámsämikieLâ  -kielâ     	  	pittáám			sämikieLâ		-kielâ			
+pittáámsämikieLâ  -kielâ     	xxx_xxx  	pittáám			sämikieLâ		-kielâ			
 pittááš  pittáá     	palanen  	pittááš	palanen				pittáá			
 pittádiđ  pittád     	paloitella  	pittádiđ	paloitella				pittád			
 pittápargo  -pa'rgo     	pätkätyö  	pittá	pätkä		pargo	työ	-pa'rgo			
@@ -24335,7 +24335,7 @@ taalsâ  talsuu     	pakina  	taalsâ	pakina				talsuu
 tááLu  táálu ~ tálo     	talo  	tááLu	talo				táálu ~ tálo			
 tááLu  táálu ~ tálo     	tila  	tááLu	tila				táálu ~ tálo			
 tááLu  táálu ~ tálo     	rakennus  	tááLu	rakennus				táálu ~ tálo			
-tááLualmai  -almaa     	  	tááLu			almai		-almaa			
+tááLualmai  -almaa     	xxx_xxx  	tááLu			almai		-almaa			
 táálunkuáv'lu  -kuávlu     	maaseutu  	táálun	maa		kuáv'lu	seutu	-kuávlu			
 tááluntááLu  -táálu ~ -tálo     	maalaistalo  	táálun	maalais		tááLu	talo	-táálu ~ -tálo			
 taaMiherskutatti  -taati     	tammenherkkutatti  Boletus reticulatus	taaMi	tammen		herskutatti	herkkutatti	-taati		Boletus reticulatus	
@@ -26534,7 +26534,7 @@ uáivist       	humalainen  	uáivist	humalainen
 uáivistvuotâ  uáivistvuođâ     	humala  	uáivistvuotâ	humala				uáivistvuođâ			
 uáivistvuotâ  uáivistvuođâ     	juopumus  	uáivistvuotâ	juopumus				uáivistvuođâ			
 uáivistvuotâ  uáivistvuođâ     	päihtymys  	uáivistvuotâ	päihtymys				uáivistvuođâ			
-uáivistvuotâ  -vuođâ     	  	uáivistvuotâ					-vuođâ			
+uáivistvuotâ  -vuođâ     	xxx_xxx  	uáivistvuotâ					-vuođâ			
 uái'vito'imâtteijee       	päätoimittaja  	uái'vi	pää		to'imâtteijee	toimittaja				
 uá'ivittem  # uá'ivittes     	löyhäpäinen  (porosta)	uá'ivittem	löyhä			päinen	# uá'ivittes		(porosta)	
 uá'ivittem  # uá'ivittes     	päätön  (porosta käytökseltään)	uá'ivittem	päätön				# uá'ivittes		(porosta käytökseltään)	
