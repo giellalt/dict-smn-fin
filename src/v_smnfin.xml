@@ -1967,4 +1967,52 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="V">čuávjuđ</l>
+      </lg>
+      <sources>
+         <book name="bio5"/>
+      </sources>
+      <semantics>
+         <sem class="HUMAN_V"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">tulla raskaaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">snorâniđ</l>
+      </lg>
+      <sources>
+         <book name="bio5"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V" re="lihaksesta">supistua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">njuálccuđ</l>
+      </lg>
+      <sources>
+         <book name="bio5"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">veltostua</t>
+         </tg>
+      </mg>
+   </e>
 </r>

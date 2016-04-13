@@ -4593,22 +4593,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="N">assaasloostâg</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="PLANT"/>
-      </semantics>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">nahkealehtinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">vuosâmaadâ</l>
       </lg>
       <sources>
@@ -5267,22 +5251,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="N">čuávjuđ</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="HUMAN_V"/>
-      </semantics>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">tulla raskaaksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">ruopsisjiereeh</l>
       </lg>
       <sources>
@@ -5566,38 +5534,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="fin">
             <t pos="N">rintalasta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">snorâniđ</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">supistua lihaksesta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">njuálccuđ</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">veltostua</t>
          </tg>
       </mg>
    </e>
@@ -8642,22 +8578,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="fin">
             <t pos="N">soluseinä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">nurssáá</l>
-      </lg>
-      <sources>
-         <book name="bio5"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">tylppä</t>
          </tg>
       </mg>
    </e>
@@ -13011,7 +12931,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="N">rääpis</l>
+         <l pos="N">rääpis</l><!--add to nouns?-->
       </lg>
       <sources>
          <book name="piras"/>
@@ -13086,23 +13006,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kohouma</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">murrišin</l>
-      </lg>
-      <sources>
-         <book name="piras"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">valppaana</t>
-            <t pos="N">valppaina</t>
          </tg>
       </mg>
    </e>

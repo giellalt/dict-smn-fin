@@ -266,22 +266,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="A">hirmâd</l>
-      </lg>
-      <sources>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="EXPERIENCE_A"/>
-      </semantics>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">hirveä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">nuorâ</l>
       </lg>
       <sources>
@@ -1178,6 +1162,38 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="fin">
             <t pos="A">punainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">assaasloostâg</l>
+      </lg>
+      <sources>
+         <book name="bio5"/>
+      </sources>
+      <semantics>
+         <sem class="PLANT"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">nahkealehtinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">nurssáá</l>
+      </lg>
+      <sources>
+         <book name="bio5"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">tylppä</t>
          </tg>
       </mg>
    </e>

@@ -42,22 +42,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="Adv">ääigi</l>
-      </lg>
-      <sources>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="TIME"/>
-      </semantics>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">aikaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">kuás</l>
       </lg>
       <sources>
@@ -485,22 +469,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
    </e>
    <e>
       <lg>
-         <l pos="Adv">eres</l>
-      </lg>
-      <sources>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">muu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">ain</l>
       </lg>
       <sources>
@@ -626,22 +594,6 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg xml:lang="fin">
             <t pos="Adv">siihen</t>
             <t pos="Adv">siitä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">tilist</l>
-      </lg>
-      <sources>
-         <book name="ceelhi"/>
-      </sources>
-      <semantics>
-         <sem class="YYY"/>
-      </semantics>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Adv">tililtä</t>
          </tg>
       </mg>
    </e>
@@ -1087,6 +1039,38 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">vasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hirmâd</l>
+      </lg>
+      <sources>
+         <book name="ceelhi"/>
+      </sources>
+      <semantics>
+         <sem class="EXPERIENCE_A"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hirveä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kale</l>
+      </lg>
+      <sources>
+         <book name="ceelhi"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kyllä</t>
          </tg>
       </mg>
    </e>

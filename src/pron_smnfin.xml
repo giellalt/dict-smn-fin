@@ -133,4 +133,36 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Pron">eres</l>
+      </lg>
+      <sources>
+         <book name="ceelhi"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pron">muu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tággáár</l>
+      </lg>
+      <sources>
+         <book name="ceelhi"/>
+      </sources>
+      <semantics>
+         <sem class="YYY"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tällainen</t>
+         </tg>
+      </mg>
+   </e>
 </r>

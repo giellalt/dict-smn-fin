@@ -103,4 +103,20 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Po">ääigi</l>
+      </lg>
+      <sources>
+         <book name="ceelhi"/>
+      </sources>
+      <semantics>
+         <sem class="TIME"/>
+      </semantics>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Po">aikaan</t>
+         </tg>
+      </mg>
+   </e>
 </r>
