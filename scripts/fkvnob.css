@@ -1,0 +1,37 @@
+@charset "utf-8";
+@import "../../scripts/gt_dictionary.css";
+
+stem
+ 	{
+	font-style: italic;
+}
+
+stem:before {
+    content: " stamme: ";
+    font-style: normal;
+    font-size:small;
+}
+
+stem:after {
+    content: '-  ';
+}
+
+t[decl]:after {
+    display: inline;
+    content: attr(decl);
+    font-style: italic;
+    color: gray;
+    vertical-align: super;
+}
+
+syng  {
+    display: block;
+}
+
+tg syng syn {
+    font-style: italic;
+}
+
+syn:before {
+    content: " Synonym: ";
+}
