@@ -28,9 +28,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">ain-uv</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -44,9 +44,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">kuás</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TIME"/>
       </semantics>
@@ -65,10 +65,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">onne</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TIME"/>
       </semantics>
@@ -82,9 +82,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">tääl</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TIME"/>
       </semantics>
@@ -98,9 +98,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">tuárvi</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SCHOOL_ADV"/>
       </semantics>
@@ -114,9 +114,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">äŋgirávt</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SCHOOL_ADV"/>
       </semantics>
@@ -130,9 +130,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">aaibâs</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="BODY_ADV"/>
       </semantics>
@@ -147,9 +147,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">forgâ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="BODY_ADV"/>
       </semantics>
@@ -163,9 +163,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">pääihist</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -179,9 +179,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">korrâsávt</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -195,9 +195,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">tuođâi</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -212,9 +212,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">oppeet</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -228,9 +228,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">ohtii</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -244,9 +244,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">maht</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -260,9 +260,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">mudoi</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -276,9 +276,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">peri</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -292,9 +292,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">uáinimáid</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -308,9 +308,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">vaarâ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -325,9 +325,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">tiäđust-uv</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -341,9 +341,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">meiddei</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -358,9 +358,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">talle</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -375,9 +375,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">siämmáá</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -391,9 +391,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">návt</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -407,9 +407,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">na</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -423,9 +423,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">vist</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -439,9 +439,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">motomin</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -455,9 +455,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">meid</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -471,9 +471,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">ain</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -487,9 +487,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">vala</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -503,9 +503,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">alne</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -519,9 +519,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">kustoo</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -536,9 +536,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">ohtsis</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -552,9 +552,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">kost</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -568,9 +568,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">täst</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -584,9 +584,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">toos</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -601,9 +601,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">tääbbin</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -618,9 +618,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">oovdâst</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -634,9 +634,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">tieid</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -650,9 +650,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">šet</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -666,9 +666,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">lase</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -682,9 +682,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">kuákkáámin</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -699,9 +699,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">riävtui</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -715,9 +715,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">meriáigásávt</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -731,9 +731,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">jiešiäluid</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -747,9 +747,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">vuálusoivij</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -763,9 +763,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">kumârâsoivij</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -779,10 +779,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">masa</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TIME"/>
       </semantics>
@@ -801,10 +801,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">siämmást</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TIME"/>
       </semantics>
@@ -820,9 +820,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">olgon</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -836,9 +836,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">iäskân</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -852,9 +852,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">eidu</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -868,9 +868,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">mondet</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -884,9 +884,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">njuolgist</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -900,9 +900,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">te</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -916,9 +916,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">tuše</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -932,10 +932,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">nuuvt</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -949,9 +949,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">pyereest</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -965,9 +965,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">taahân</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -981,9 +981,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">maŋŋaal</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -997,9 +997,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">viehâ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1013,10 +1013,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">tobbeen</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1030,9 +1030,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">eskân</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1046,9 +1046,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="A">hirmâd</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPERIENCE_A"/>
       </semantics>
@@ -1062,9 +1062,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Adv">kale</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>

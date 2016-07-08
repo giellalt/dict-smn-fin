@@ -27,9 +27,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">moljođ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -43,9 +43,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">tálvástâllâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio3"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -59,9 +59,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">läälliđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio3"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -75,9 +75,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kásániđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio3"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -91,9 +91,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">skuáppuluvvâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio3"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -107,9 +107,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">pessiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio3"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -123,9 +123,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kovjiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio3"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -139,9 +139,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">parâttâllâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio3"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -155,9 +155,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kuddut</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -171,9 +171,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">vuoččuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -187,9 +187,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">jamâstuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -203,9 +203,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">ráhtuluđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -219,9 +219,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kudduđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -235,9 +235,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">purâluđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -251,9 +251,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">vuáhččuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -267,9 +267,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">turáidittiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -283,9 +283,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">šovâttiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -299,9 +299,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">orroođ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="FEELING"/>
       </semantics>
@@ -315,9 +315,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">mäksiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="FINANCE_V"/>
       </semantics>
@@ -331,9 +331,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">jurdeđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPERIENCE_V"/>
       </semantics>
@@ -347,9 +347,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">uápásmuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPERIENCE_V"/>
       </semantics>
@@ -363,10 +363,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">puáttiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TRAVELLING_V"/>
       </semantics>
@@ -380,10 +380,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kiergâniđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TRAVELLING_V"/>
       </semantics>
@@ -397,10 +397,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">moonnâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TRAVELLING_V"/>
       </semantics>
@@ -414,10 +414,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">purâdiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="FOOD_DRINK_V"/>
       </semantics>
@@ -431,9 +431,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">purrâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="FOOD_DRINK_V"/>
       </semantics>
@@ -447,9 +447,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">mainâstiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="VERBAL_V"/>
       </semantics>
@@ -463,9 +463,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">toimâttiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TRAVEL_V"/>
       </semantics>
@@ -479,9 +479,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">aassâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TRAVEL_V"/>
       </semantics>
@@ -495,10 +495,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">eelliđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TRAVEL_V"/>
       </semantics>
@@ -512,9 +512,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">luptiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -528,9 +528,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">tánssáđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -544,10 +544,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">porgâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="ACTION_V"/>
          <sem class="HUMAN_V"/>
@@ -562,9 +562,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">viežžâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="ACTION_V"/>
       </semantics>
@@ -578,9 +578,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">teivâdiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="ACTION_V"/>
       </semantics>
@@ -594,9 +594,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kevttiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="ACTION_V"/>
       </semantics>
@@ -610,9 +610,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kähvistâllâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -626,9 +626,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">laaviđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -642,9 +642,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">ij</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -658,9 +658,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">koijâdâllâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -674,9 +674,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">paskosmit</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPERIENCE_V"/>
       </semantics>
@@ -690,9 +690,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">suvčâgit</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPERIENCE_V"/>
       </semantics>
@@ -706,9 +706,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">väividiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPERIENCE_V"/>
       </semantics>
@@ -722,9 +722,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">muokkiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPERIENCE_V"/>
       </semantics>
@@ -738,9 +738,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">tármuttut</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPERIENCE_V"/>
       </semantics>
@@ -754,9 +754,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">uinástâllâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPERIENCE_V"/>
       </semantics>
@@ -770,9 +770,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">muássuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="LEISURETIME_HOME_V"/>
       </semantics>
@@ -786,9 +786,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">sudâškuát</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="NATURE_V"/>
       </semantics>
@@ -802,9 +802,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">jiäŋuškuát</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="FOOD/DRINK_V"/>
       </semantics>
@@ -818,9 +818,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">tuoldâškuát</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="FOOD_DRINK_V"/>
       </semantics>
@@ -834,9 +834,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">nocceđâttâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="VERBAL_V"/>
       </semantics>
@@ -850,9 +850,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">valdâttâllâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="VERBAL_V"/>
       </semantics>
@@ -866,9 +866,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">smierettiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="ANIMAL_V"/>
       </semantics>
@@ -882,9 +882,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">apteđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -898,9 +898,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">skappuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -914,9 +914,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">posolâhččâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -930,9 +930,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">šlajâttâllâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -946,9 +946,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">hárjuttâlškyettiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -962,9 +962,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">miärástâllâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -978,9 +978,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">äštiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -994,9 +994,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">tussiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -1010,9 +1010,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">sovášiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -1026,9 +1026,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">luccááttiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -1042,9 +1042,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">skainiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -1058,9 +1058,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kyeddiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -1074,9 +1074,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kendiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="WORK_ECONOMY_V"/>
       </semantics>
@@ -1090,9 +1090,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">pihteđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="FOOD_DRINK_V"/>
       </semantics>
@@ -1106,9 +1106,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">spejâlist</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1122,9 +1122,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">ovdâšoddâdiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1138,9 +1138,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">luáptá</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="FOOD_DRINK_V"/>
       </semantics>
@@ -1154,9 +1154,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">meidiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -1170,9 +1170,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">läliškuát</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="FOOD_DRINK_V"/>
       </semantics>
@@ -1186,9 +1186,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">späittiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1202,9 +1202,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kiinnâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1218,9 +1218,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">rašoškuát</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1234,9 +1234,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">latkiittiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1250,9 +1250,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">muttuuškuát</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1266,9 +1266,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">ubbuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1282,9 +1282,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">čolgâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1298,9 +1298,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">spoorijdškuát</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1314,9 +1314,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">fierriittâllâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1330,9 +1330,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">šuáhkádiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1346,9 +1346,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">lavvâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1362,9 +1362,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">tohâluđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1378,9 +1378,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">vuoinâđâttâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1394,9 +1394,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">luáđhuttiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1410,9 +1410,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">čuávjáđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1426,9 +1426,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">ohtiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1442,9 +1442,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">olâttiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1458,9 +1458,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kulgâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPOSURE"/>
       </semantics>
@@ -1474,9 +1474,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">mušteđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPERIENCE_V"/>
       </semantics>
@@ -1490,9 +1490,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kuldâliđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPERIENCE_V"/>
       </semantics>
@@ -1506,9 +1506,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">čuoijâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="LEISURETIME_HOME_V"/>
       </semantics>
@@ -1522,9 +1522,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">sierâdiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="LEISURETIME_HOME_V"/>
       </semantics>
@@ -1538,9 +1538,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kolmuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPOSURE_V"/>
       </semantics>
@@ -1554,9 +1554,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">rinnuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="EXPOSURE_V"/>
       </semantics>
@@ -1570,9 +1570,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">šoddâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TRAVELLING_V"/>
       </semantics>
@@ -1586,9 +1586,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">juksâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TRAVELLING_V"/>
       </semantics>
@@ -1602,9 +1602,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">vyelgiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TRAVELLING_V"/>
       </semantics>
@@ -1618,9 +1618,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">ettâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="VERBAL_V"/>
       </semantics>
@@ -1634,10 +1634,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">koijâdiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="VERBAL_V"/>
       </semantics>
@@ -1651,9 +1651,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">čielgiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="VERBAL_V"/>
       </semantics>
@@ -1667,9 +1667,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">pääcciđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TRAVEL_V"/>
       </semantics>
@@ -1683,9 +1683,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">orostiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="TRAVEL_V"/>
       </semantics>
@@ -1699,9 +1699,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">čäälliđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SCHOOL_V"/>
       </semantics>
@@ -1715,9 +1715,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">luuhâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SCHOOL_V"/>
       </semantics>
@@ -1731,9 +1731,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">áiguđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -1747,9 +1747,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">keččâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -1763,9 +1763,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">pillediđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -1779,9 +1779,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">pieijâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="ACTION_V"/>
       </semantics>
@@ -1795,9 +1795,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">toppiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="ACTION_V"/>
       </semantics>
@@ -1811,9 +1811,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kárvudâttâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="CLOTHES_V"/>
       </semantics>
@@ -1827,9 +1827,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kaččâliđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="MOVEMENT_V"/>
       </semantics>
@@ -1843,9 +1843,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kaččâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="MOVEMENT_V"/>
       </semantics>
@@ -1859,9 +1859,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">pajaniđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="MOVEMENT_V"/>
       </semantics>
@@ -1875,9 +1875,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">ferttiđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="AUX_V"/>
       </semantics>
@@ -1891,9 +1891,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kolgâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="AUX_V"/>
       </semantics>
@@ -1907,9 +1907,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">tuolmâđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="BODY_V"/>
       </semantics>
@@ -1923,9 +1923,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">čokkáđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="BODY_V"/>
       </semantics>
@@ -1939,9 +1939,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">čuáŋŋuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="BODY_V"/>
       </semantics>
@@ -1955,9 +1955,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">kulluđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -1971,9 +1971,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">čuávjuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="HUMAN_V"/>
       </semantics>
@@ -1987,9 +1987,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">snorâniđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -2003,9 +2003,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="V">njuálccuđ</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio5"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>

@@ -27,9 +27,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Peeivitäsideijee</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio3"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -43,9 +43,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Puáhinävli</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio3"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -59,9 +59,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Meerâpohe</l>
       </lg>
-      <sources>
+      <source>
          <book name="bio3"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -75,9 +75,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Ruotâ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="WORLD"/>
       </semantics>
@@ -91,9 +91,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Aanaar</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SAPMI"/>
       </semantics>
@@ -107,9 +107,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">sun</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="YYY"/>
       </semantics>
@@ -123,9 +123,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Tavepoođâeennâm</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -139,9 +139,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Tavenuorttiieennâm</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -155,9 +155,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Liäkšá</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -171,9 +171,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Kiemâ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -187,9 +187,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Väri-Suomâ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -203,9 +203,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Uárji-Suomâ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -219,9 +219,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Kaajaan</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -235,9 +235,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Merâpottâ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -251,9 +251,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Tavemeerâpottâ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -267,9 +267,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Kiemâjävri</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -283,9 +283,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Tuárnus</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -299,9 +299,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Kuáccám</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SUOPMA"/>
       </semantics>
@@ -315,9 +315,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Tavekuávlu</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="WORLD"/>
       </semantics>
@@ -331,9 +331,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Säksi</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="WORLD"/>
       </semantics>
@@ -347,9 +347,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Čuhâväärih</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="WORLD"/>
       </semantics>
@@ -363,9 +363,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Finnmark</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SAPMI"/>
       </semantics>
@@ -379,9 +379,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Kiärun</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SAPMI"/>
       </semantics>
@@ -395,9 +395,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Kiemnikáisá</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SAPMI"/>
       </semantics>
@@ -411,9 +411,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="N" type="Prop">Tuárnusjuuhâ</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="SAPMI"/>
       </semantics>

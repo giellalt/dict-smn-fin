@@ -27,9 +27,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Num">muáddi</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="mNUMBER"/>
       </semantics>
@@ -43,9 +43,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Num">vittâ</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="mNUMBER"/>
       </semantics>
@@ -59,10 +59,10 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Num">käävci</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
          <book name="puolas"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="mNUMBER"/>
       </semantics>
@@ -76,9 +76,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Num">love</l>
       </lg>
-      <sources>
+      <source>
          <book name="ceelhi"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="mNUMBER"/>
       </semantics>
@@ -93,9 +93,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       <lg>
          <l pos="Num">pelnub</l>
       </lg>
-      <sources>
+      <source>
          <book name="piras"/>
-      </sources>
+      </source>
       <semantics>
          <sem class="mNUMBER"/>
       </semantics>
