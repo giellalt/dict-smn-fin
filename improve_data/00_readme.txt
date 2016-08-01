@@ -22,3 +22,5 @@ and if necessary correct the data in the dict src file.
 ATK-terminaalâ	ATK-terminaal+Err/Orth
 psykoloog	psykolog+Err/Orth
 
+  1.3 pos value ambiguity:
+
