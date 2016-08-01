@@ -10,5 +10,8 @@ but about 1/3 of them can not be analysed by the current version of the smn anal
 0_inc>cat smn_lemma2tag.txt |usmn|g '+?'|cl
      192
 
+The list of unkown lemmata is in the file unknown_lemma.txt.
+
+Please, have a look at them!
 
 
