@@ -1,6 +1,6 @@
 Action points:
  1. add pos value to smn lemma lacking it
- - issues: 
+  1.1 issue: 
 
 there are 609 smn lemma without pos value
 0_inc>cl smn_lemma2tag.txt
@@ -14,4 +14,11 @@ The list of unkown lemmata is in the file unknown_lemma.txt.
 
 Please, have a look at them!
 
+  1.2 issue:
+From the analyzed strings, there are to detected as typos. Please, check them, too,
+and if necessary correct the data in the dict src file.
+
+0_inc>g Err fst_smn_lemmata_non-Split_clean1.txt
+ATK-terminaalâ	ATK-terminaal+Err/Orth
+psykoloog	psykolog+Err/Orth
 
