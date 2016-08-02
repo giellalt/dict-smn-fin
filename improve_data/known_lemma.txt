@@ -12,7 +12,7 @@ amerikmerâtuhtuu	amerikmerâtuhtuu+N+Sg+Nom
 
 amerikviettuu	amerikviettuu+N+Sg+Nom
 
-anamuš	anneeđ+V+Der/mas+N+Sg+Nom
+anamuš	anneeđ+N+Sg+Nom
 
 anamâš	anamâš+N+Sg+Nom
 
@@ -48,7 +48,7 @@ fiskisčuárvihâš	fiskisčuárvihâš+N+Sg+Nom
 
 fleece	fleece+N+Sg+Nom
 
-fleece-takki	fleece+N+Cmp/SgGen+Cmp/Hyph+Cmp#takki+N+Sg+Nom
+fleece-takki	fleece+N+Sg+Nom
 
 fleese	fleese+N+Sg+Nom
 
@@ -299,7 +299,7 @@ muáđusâš	muáđusâš+A+Sg+Nom
 
 muđusâš	muđusâš+A+Sg+Nom
 
-mánudááaččinj	mánudâš+N+Cmp/SgGen+Cmp#aččinj+N+Sg+Nom
+mánudááaččinj	mánudâš+N+Sg+Nom
 
 mánuvuáđu	mánuvuáđu+N+Sg+Nom
 
@@ -351,11 +351,11 @@ peeđi	peeđi+N+Sg+Nom
 
 pelkkiđ	pelkkiđ+V+Inf
 
-piccum	piccuđ+V+Der/NomAct+N+Sg+Nom
+piccum	piccuđ+N+Sg+Nom
 
 piccuđ	piccuđ+V+Inf
 
-piemmee	piemmâđ+V+V+Der/NomAg+N+Sg+Nom
+piemmee	piemmâđ+N+Sg+Nom
 
 piettih	piettih+N+Sg+Nom
 
@@ -373,7 +373,7 @@ puldo	puldo+N+Sg+Nom
 
 puncettem	puncettem+A+Sg+Nom
 
-puállám	puálláđ+V+Der/NomAct+N+Sg+Nom
+puállám	puálláđ+N+Sg+Nom
 
 puáššu	puáššu+N+Sg+Nom
 
@@ -489,7 +489,7 @@ suilokuákki	suilokuákki+N+Sg+Nom
 
 suohisuáivi	suohisuáivi+N+Sg+Nom
 
-syeinihaasi	syeini+N+Cmp/SgGen+Cmp#haasi+N+Sg+Nom
+syeinihaasi	syeini+N+Sg+Nom
 
 sáigusuáráág	sáigusuáráág+N+Sg+Nom
 
@@ -596,8 +596,6 @@ ulgâ	ulgâ+N+Sg+Nom
 umástittiđ	umástittiđ+V+Inf
 
 urmápuárui	urmápuárui+N+Sg+Nom
-
-uulgah	ulgâ+N+Pl+Nom
 
 uáinulâš	uáinulâš+A+Sg+Nom
 
