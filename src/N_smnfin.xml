@@ -26,6 +26,137 @@ For the full license text, see the link above.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote></lics>
+
+   <e id="5283">
+      <lg>
+         <l pos="N" rest="">hurrikaani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">hurrigaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7085">
+      <lg>
+         <l pos="N" rest="">kaamiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kamina</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7739">
+      <lg>
+         <l pos="N" rest="kiäs'sá">keesis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kesättivaljaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8722">
+      <lg>
+         <l pos="N" rest="">kobđoolostâsiih</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kelluslehtiset</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10245">
+      <lg>
+         <l pos="N" rest="-porruu">kurmápoaroi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kurmupaarma Hypoderma tarandi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11365">
+      <lg>
+         <l pos="N" rest="">liibaisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">liipasin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13621">
+      <lg>
+         <l pos="N" rest="">mučisluupiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">komealupiini Lupinus polyphyllus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16226">
+      <lg>
+         <l pos="N" rest="">paalgâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">räkkäaika (erit. poroilla)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16937">
+      <lg>
+         <l pos="N" rest="peđe">peeti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">täkkä (linnun rintaliha)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="20184">
+      <lg>
+         <l pos="N" rest="ruoijâs">ruojâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">ruojus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21167">
+      <lg>
+         <l pos="N" rest="seevi">seevi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">sevä (kova lumi kevättalvella)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26932">
+      <lg>
+         <l pos="N" rest="">uk-ujostâlâm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pk-yritys</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27013">
+      <lg>
+         <l pos="N" rest="-porruu">urmápoaroi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">kurmupaarma Hypoderma tarandi</t>
+         </tg>
+      </mg>
+   </e>
    <e id="3">
       <lg>
          <l pos="N" rest="">aabis</l>

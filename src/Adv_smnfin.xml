@@ -817,6 +817,26 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="4909">
+      <lg>
+         <l pos="Adv">hilui hálui</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hujan hajan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15814">
+      <lg>
+         <l pos="Adv" rest="">oovdebpeeivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">toissapäivänä</t>
+         </tg>
+      </mg>
+   </e>
    <e id="4926">
       <lg>
          <l pos="Adv" rest="">hirmâd</l>
