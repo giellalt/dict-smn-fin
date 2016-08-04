@@ -63,7 +63,7 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kramppi</t>
-            <t pos="N">heinäsirkka Acrididae</t>
+            <t pos="N" tt="Acrididae">heinäsirkka</t>
          </tg>
       </mg>
    </e>
@@ -1465,7 +1465,7 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kramppi</t>
-            <t pos="N">heinäsirkka Acrididae</t>
+            <t pos="N" tt="Acrididae">heinäsirkka</t>
          </tg>
       </mg>
    </e>
@@ -1496,7 +1496,7 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kramppi</t>
-            <t pos="N">heinäsirkka Acrididae</t>
+            <t pos="N" tt="Acrididae">heinäsirkka</t>
          </tg>
       </mg>
    </e>
@@ -1507,7 +1507,7 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="N">kramppi</t>
-            <t pos="N">heinäsirkka Acrididae</t>
+            <t pos="N" tt="Acrididae">heinäsirkka</t>
          </tg>
       </mg>
    </e>
@@ -4083,7 +4083,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">amerikanjääkuikka Gavia immer</t>
+            <t pos="N" tt="Gavia immer">amerikanjääkuikka</t>
          </tg>
       </mg>
    </e>
@@ -4093,7 +4093,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">amerikansirri Calidris minutilla</t>
+            <t pos="N" tt="Calidris minutilla">amerikansirri</t>
          </tg>
       </mg>
    </e>
@@ -4103,7 +4103,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">amerikanhaapana Anas americana</t>
+            <t pos="N" tt="Anas americana">amerikanhaapana</t>
          </tg>
       </mg>
    </e>
@@ -4113,7 +4113,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">amerikanvesipääsky Phalaropus tricolor</t>
+            <t pos="N" tt="Phalaropus tricolor">amerikanvesipääsky</t>
          </tg>
       </mg>
    </e>
@@ -4123,7 +4123,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">amerikansipi Actitis macularia</t>
+            <t pos="N" tt="Actitis macularia">amerikansipi</t>
          </tg>
       </mg>
    </e>
@@ -4133,7 +4133,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">amerikantukkasotka Aythya collaris</t>
+            <t pos="N" tt="Aythya collaris">amerikantukkasotka</t>
          </tg>
       </mg>
    </e>
@@ -17454,7 +17454,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">juolukka Vaccinium uliginosum</t>
+            <t pos="N" tt="Vaccinium uliginosum">juolukka</t>
          </tg>
       </mg>
    </e>
@@ -17484,7 +17484,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">juolukka Vaccinium uliginosum</t>
+            <t pos="N" tt="Vaccinium uliginosum">juolukka</t>
          </tg>
       </mg>
    </e>
@@ -28776,7 +28776,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">puolukka Vaccinium vitis-idaea</t>
+            <t pos="N" tt="Vaccinium vitis-idaea">puolukka</t>
          </tg>
       </mg>
    </e>
@@ -39047,7 +39047,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">tikli Carduelis carduelis</t>
+            <t pos="N" tt="Carduelis carduelis">tikli</t>
          </tg>
       </mg>
    </e>
@@ -39057,8 +39057,8 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">kiiltokärpänen Calliphora</t>
-            <t pos="N">ruutukärpänen Sarcophagidae</t>
+            <t pos="N" tt="Calliphora">kiiltokärpänen</t>
+            <t pos="N" tt="Sarcophagidae">ruutukärpänen</t>
          </tg>
       </mg>
    </e>
@@ -39068,7 +39068,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">pietaryrtti Tanacetum vulgare</t>
+            <t pos="N" tt="Tanacetum vulgare">pietaryrtti</t>
          </tg>
       </mg>
    </e>
@@ -39078,7 +39078,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">kultarinta Hippolais icterina</t>
+            <t pos="N" tt="Hippolais icterina">kultarinta</t>
          </tg>
       </mg>
    </e>
@@ -39088,7 +39088,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">kultarousku Lactarius volemus</t>
+            <t pos="N" tt="Lactarius volemus">kultarousku</t>
          </tg>
       </mg>
    </e>
@@ -39098,7 +39098,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">keltamo Chelidonium majus</t>
+            <t pos="N" tt="Chelidonium majus">keltamo</t>
          </tg>
       </mg>
    </e>
@@ -39108,7 +39108,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">rentukka Caltha palustris</t>
+            <t pos="N" tt="Caltha palustris">rentukka</t>
          </tg>
       </mg>
    </e>
@@ -39138,7 +39138,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">kultasirkku Emberiza aureola</t>
+            <t pos="N" tt="Emberiza aureola">kultasirkku</t>
          </tg>
       </mg>
    </e>
@@ -39180,7 +39180,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">hetekaali Montia fontana</t>
+            <t pos="N" tt="Montia fontana">hetekaali</t>
          </tg>
       </mg>
    </e>
@@ -39190,7 +39190,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">hetehorsma Epilobium alsinifolium</t>
+            <t pos="N" tt="Epilobium alsinifolium">hetehorsma</t>
          </tg>
       </mg>
    </e>
@@ -42888,7 +42888,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">taitosukeltaja Dytiscidae agabus</t>
+            <t pos="N" tt="Dytiscidae agabus">taitosukeltaja</t>
          </tg>
       </mg>
    </e>
@@ -48023,7 +48023,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">lillukka Rubus saxatilis</t>
+            <t pos="N" tt="Rubus saxatilis">lillukka</t>
          </tg>
       </mg>
    </e>
@@ -52062,7 +52062,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">linnun täikärpänen Hippoposcidae</t>
+            <t pos="N" tt="Hippoposcidae">linnun täikärpänen</t>
             <t pos="N">lintutäi</t>
          </tg>
       </mg>
@@ -54357,9 +54357,9 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">hilla Rubus chamaemorus</t>
-            <t pos="N">lakka Rubus chamaemorus</t>
-            <t pos="N">suomuurain Rubus chamaemorus</t>
+            <t pos="N" tt="Rubus chamaemorus">hilla</t>
+            <t pos="N" tt="Rubus chamaemorus">lakka</t>
+            <t pos="N" tt="Rubus chamaemorus">suomuurain</t>
          </tg>
       </mg>
    </e>
@@ -58015,7 +58015,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">merisirri Calidris maritima</t>
+            <t pos="N" tt="Calidris maritima">merisirri</t>
          </tg>
       </mg>
    </e>
@@ -58025,7 +58025,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">merisätkin Ranunculus peltatus subsp. baudotii</t>
+            <t pos="N" tt="Ranunculus peltatus subsp. baudotii">merisätkin</t>
          </tg>
       </mg>
    </e>
@@ -58035,7 +58035,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">merikeiju Hydrobates pelagicus</t>
+            <t pos="N" tt="Hydrobates pelagicus">merikeiju</t>
          </tg>
       </mg>
    </e>
@@ -58065,7 +58065,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">jääkuikka Gavia adamsii</t>
+            <t pos="N" tt="Gavia adamsii">jääkuikka</t>
          </tg>
       </mg>
    </e>
@@ -58991,7 +58991,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">mesimarja Rubus arcticus</t>
+            <t pos="N" tt="Rubus arcticus">mesimarja</t>
          </tg>
       </mg>
    </e>
@@ -59001,7 +59001,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">mesisataheltta Melanoleuca cognata</t>
+            <t pos="N" tt="Melanoleuca cognata">mesisataheltta</t>
          </tg>
       </mg>
    </e>
@@ -59031,7 +59031,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">mäyrä Meles meles</t>
+            <t pos="N" tt="Meles meles">mäyrä</t>
          </tg>
       </mg>
    </e>
@@ -66491,7 +66491,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">viiksitimali Panurus biarmicus</t>
+            <t pos="N" tt="Panurus biarmicus">viiksitimali</t>
          </tg>
       </mg>
    </e>
@@ -66502,7 +66502,7 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="N">päiväkorento</t>
-            <t pos="N">polttiainen Ceratopogonidae culicoides</t>
+            <t pos="N" tt="Ceratopogonidae culicoides">polttiainen</t>
          </tg>
       </mg>
    </e>
@@ -66512,7 +66512,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">polttiaishapero Russula consobrina</t>
+            <t pos="N" tt="Russula consobrina">polttiaishapero</t>
          </tg>
       </mg>
    </e>
@@ -66522,7 +66522,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">made Lota lota</t>
+            <t pos="N" tt="Lota lota">made</t>
          </tg>
       </mg>
    </e>
@@ -79869,7 +79869,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">polttiainen Ceratopogonidae culicoides</t>
+            <t pos="N" tt="Ceratopogonidae culicoides">polttiainen</t>
          </tg>
       </mg>
    </e>
@@ -94484,8 +94484,8 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">mäkärän toukka Simulium reptans</t>
-            <t pos="N">polttiaisen toukka Ceratopogonidae culicoides</t>
+            <t pos="N" tt="Simulium reptans">mäkärän toukka</t>
+            <t pos="N" tt="Ceratopogonidae culicoides">polttiaisen toukka</t>
             <t pos="N">sääsken toukka</t>
             <t pos="N">vesikirppu</t>
          </tg>
@@ -95359,7 +95359,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">mustikka Vaccinium myrtillus</t>
+            <t pos="N" tt="Vaccinium myrtillus">mustikka</t>
          </tg>
       </mg>
    </e>
@@ -101494,7 +101494,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">uikut Podicipedidae</t>
+            <t pos="N" tt="Podicipedidae">uikut</t>
          </tg>
       </mg>
    </e>
@@ -101504,7 +101504,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">uikkulinnut Podicipediformes</t>
+            <t pos="N" tt="Podicipediformes">uikkulinnut</t>
          </tg>
       </mg>
    </e>
@@ -104866,8 +104866,8 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">isokarpalo Vaccinium oxycoccos</t>
-            <t pos="N">karpalo Vaccinium oxycoccos</t>
+            <t pos="N" tt="Vaccinium oxycoccos">isokarpalo</t>
+            <t pos="N" tt="Vaccinium oxycoccos">karpalo</t>
          </tg>
       </mg>
    </e>
@@ -107406,7 +107406,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">polttiainen Ceratopogonidae culicoides</t>
+            <t pos="N" tt="Ceratopogonidae culicoides">polttiainen</t>
          </tg>
       </mg>
    </e>
@@ -107416,7 +107416,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">savurousku Lactarius fuliginosus</t>
+            <t pos="N" tt="Lactarius fuliginosus">savurousku</t>
          </tg>
       </mg>
    </e>
@@ -107436,7 +107436,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">savuhapero Russula adusta</t>
+            <t pos="N" tt="Russula adusta">savuhapero</t>
          </tg>
       </mg>
    </e>
@@ -107446,7 +107446,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">polttiainen Ceratopogonidae culicoides</t>
+            <t pos="N" tt="Ceratopogonidae culicoides">polttiainen</t>
          </tg>
       </mg>
    </e>
@@ -114986,7 +114986,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">surviaissääski Chironomidae</t>
+            <t pos="N" tt="Chironomidae">surviaissääski</t>
          </tg>
       </mg>
    </e>
@@ -121224,7 +121224,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">pikkukarpalo Vaccinium oxyeoceos</t>
+            <t pos="N" tt="Vaccinium oxyeoceos">pikkukarpalo</t>
          </tg>
       </mg>
    </e>
@@ -121234,7 +121234,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">pikkulokki Larus minutus</t>
+            <t pos="N" tt="Larus minutus">pikkulokki</t>
          </tg>
       </mg>
    </e>
@@ -121244,7 +121244,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">pikkukorppikotka Neophron percnopterus</t>
+            <t pos="N" tt="Neophron percnopterus">pikkukorppikotka</t>
          </tg>
       </mg>
    </e>
@@ -121254,7 +121254,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">pikkukiljukotka Aquila pomarina</t>
+            <t pos="N" tt="Aquila pomarina">pikkukiljukotka</t>
          </tg>
       </mg>
    </e>
@@ -123385,7 +123385,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">vadelma Rubus idaeus</t>
+            <t pos="N" tt="Rubus idaeus">vadelma</t>
          </tg>
       </mg>
    </e>
@@ -124698,7 +124698,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">vadelma Rubus idaeus</t>
+            <t pos="N" tt="Rubus idaeus">vadelma</t>
          </tg>
       </mg>
    </e>
@@ -130796,7 +130796,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">sorsat Anatidae</t>
+            <t pos="N" tt="Anatidae">sorsat</t>
          </tg>
       </mg>
    </e>
@@ -133609,7 +133609,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">ulappalinnut Procellariiformes</t>
+            <t pos="N" tt="Procellariiformes">ulappalinnut</t>
          </tg>
       </mg>
    </e>
@@ -133619,7 +133619,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">ulappaliitäjät Procellariidae</t>
+            <t pos="N" tt="Procellariidae">ulappaliitäjät</t>
          </tg>
       </mg>
    </e>
@@ -133629,7 +133629,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">ulappakeijut Hydrobatidae</t>
+            <t pos="N" tt="Hydrobatidae">ulappakeijut</t>
          </tg>
       </mg>
    </e>
@@ -133649,7 +133649,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">jääkuikka Gavia adamsii</t>
+            <t pos="N" tt="Gavia adamsii">jääkuikka</t>
          </tg>
       </mg>
    </e>
