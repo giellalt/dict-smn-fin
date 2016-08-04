@@ -2,13 +2,13 @@ Action points:
  1. add pos value to smn lemma lacking it
   1.1 issue: 
 
-there are 609 smn lemma without pos value
+there are 176 smn lemma without pos value
 0_inc>cl smn_lemma2tag.txt
-     609 smn_lemma2tag.txt
+     176 smn_lemma2tag.txt
 
-but about 1/3 of them can not be analysed by the current version of the smn analyzer
+but some of them can not be analysed by the current version of the smn analyzer
 0_inc>cat smn_lemma2tag.txt |usmn|g '+?'|cl
-     192
+    145 
 
 The list of unkown lemmata is in the file unknown_lemma.txt.
 
