@@ -28,161 +28,161 @@ For the full license text, see the link above.
      </sourcenote></lics>
    <e id="4301">
       <lg>
-         <l pos="X" rest="fossiillii">fossiilinen</l>
+         <l pos="A" rest="fossiillii">fossiillâš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">fossiillâš</t>
+            <t pos="A">fossiilinen</t>
          </tg>
       </mg>
    </e>
    <e id="4909">
       <lg>
-         <l pos="X" rest="hálui">hilui</l>
+         <l pos="Adv">hilui hálui</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">hujan hajan</t>
+            <t pos="Adv">hujan hajan</t>
          </tg>
       </mg>
    </e>
    <e id="5283">
       <lg>
-         <l pos="X" rest="">hurrikaani</l>
+         <l pos="N" rest="">hurrikaani</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">hurrigaan</t>
+            <t pos="N">hurrigaan</t>
          </tg>
       </mg>
    </e>
    <e id="7085">
       <lg>
-         <l pos="X" rest="">kaamiin</l>
+         <l pos="N" rest="">kaamiin</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">kamina</t>
+            <t pos="N">kamina</t>
          </tg>
       </mg>
    </e>
    <e id="7739">
       <lg>
-         <l pos="X" rest="kiäs'sá">keesis</l>
+         <l pos="N" rest="kiäs'sá">keesis</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">kesättivaljaat</t>
+            <t pos="N">kesättivaljaat</t>
          </tg>
       </mg>
    </e>
    <e id="8722">
       <lg>
-         <l pos="X" rest="">kobđoolostâsiih</l>
+         <l pos="N" rest="">kobđoolostâsiih</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">kelluslehtiset</t>
+            <t pos="N">kelluslehtiset</t>
          </tg>
       </mg>
    </e>
    <e id="10245">
       <lg>
-         <l pos="X" rest="-porruu">kurmápoaroi</l>
+         <l pos="N" rest="-porruu">kurmápoaroi</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">kurmupaarma Hypoderma tarandi</t>
+            <t pos="N">kurmupaarma Hypoderma tarandi</t>
          </tg>
       </mg>
    </e>
    <e id="11365">
       <lg>
-         <l pos="X" rest="">liibaisin</l>
+         <l pos="N" rest="">liibaisin</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">liipasin</t>
+            <t pos="N">liipasin</t>
          </tg>
       </mg>
    </e>
    <e id="13621">
       <lg>
-         <l pos="X" rest="">mučisluupiin</l>
+         <l pos="N" rest="">mučisluupiin</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">komealupiini Lupinus polyphyllus</t>
+            <t pos="N">komealupiini Lupinus polyphyllus</t>
          </tg>
       </mg>
    </e>
    <e id="15814">
       <lg>
-         <l pos="X" rest="">oovdebpeeivi</l>
+         <l pos="Adv" rest="">oovdebpeeivi</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">toissapäivänä</t>
+            <t pos="Adv">toissapäivänä</t>
          </tg>
       </mg>
    </e>
    <e id="16226">
       <lg>
-         <l pos="X" rest="">paalgâd</l>
+         <l pos="N" rest="">paalgâd</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">räkkäaika (erit. poroilla)</t>
+            <t pos="N">räkkäaika (erit. poroilla)</t>
          </tg>
       </mg>
    </e>
    <e id="16937">
       <lg>
-         <l pos="X" rest="peđe">peeti</l>
+         <l pos="N" rest="peđe">peeti</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">täkkä (linnun rintaliha)</t>
+            <t pos="N">täkkä (linnun rintaliha)</t>
          </tg>
       </mg>
    </e>
    <e id="20184">
       <lg>
-         <l pos="X" rest="ruoijâs">ruojâs</l>
+         <l pos="N" rest="ruoijâs">ruojâs</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">ruojus</t>
+            <t pos="N">ruojus</t>
          </tg>
       </mg>
    </e>
    <e id="21167">
       <lg>
-         <l pos="X" rest="seevi">seevi</l>
+         <l pos="N" rest="seevi">seevi</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">sevä (kova lumi kevättalvella)</t>
+            <t pos="N">sevä (kova lumi kevättalvella)</t>
          </tg>
       </mg>
    </e>
    <e id="26932">
       <lg>
-         <l pos="X" rest="">uk-ujostâlâm</l>
+         <l pos="N" rest="">uk-ujostâlâm</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">pk-yritys</t>
+            <t pos="N">pk-yritys</t>
          </tg>
       </mg>
    </e>
    <e id="27013">
       <lg>
-         <l pos="X" rest="-porruu">urmápoaroi</l>
+         <l pos="N" rest="-porruu">urmápoaroi</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="X">kurmupaarma Hypoderma tarandi</t>
+            <t pos="N">kurmupaarma Hypoderma tarandi</t>
          </tg>
       </mg>
    </e>
