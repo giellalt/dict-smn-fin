@@ -30,3 +30,13 @@ Have a look at them in the file more_unknown_lemma.txt.
 There are two types of them:
 (1) ----- base forms in the dictionary that lack a base form analysis (i.e., +Nom+Sg for N and A; +Inf for V)
 (2) ------------- genuine unknown lemmata -------------
+
+==========================
+Update on the smn2fin dict
+
+src>g '<l pos="X"' Saami-suoma_smnfin.xml |cl
+      18
+src>g '<t pos="X"' Saami-suoma_smnfin.xml |cl
+      18
+ ==> there are only 18 items (l+t) lacking pos value
+
