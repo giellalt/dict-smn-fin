@@ -1,9 +1,9 @@
 <!ELEMENT r (lics?, e+, xhtml:script?) >
 <!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"      
-	  xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED
+	  xml:lang ( nob | sme | smn | fin ) #IMPLIED
 >
 <!ATTLIST r 
-      id ( smenob ) #IMPLIED >
+      id ( smnfin ) #IMPLIED >
 
       
 <!-- the header -->
@@ -23,19 +23,19 @@
       exclude ( smanob | nobsma ) #IMPLIED
       reverse ( yes | no ) #IMPLIED
       illpl ( yes | no ) #IMPLIED
+      id CDATA #IMPLIED
 >      
 <!ELEMENT lg (l, l_ref*, lsub*, lc*, stem*) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l 
-      pos ( A | N | V | Adv | Po | Pr | Pron | Rel | Pers | Det | I | Interj | Pcle |
-            Num | CC | CS | Prop | Proppl | G3 | Actor | Npl |
-            Prsprc | Fp-Cmp | Lp-Cmp | Cmp | Mwe | X | Xxx | Qu | Abbr | Clt |
-            Phrase_N | Phrase_A | Phrase_V | Phrase_Adv ) #REQUIRED
+      pos ( A | N | V | Adv | Po | Pr | Pron | Interj | Pcle |
+            Num | CC | CS | Mwe | X ) #REQUIRED
       attr ( ok | no ) #IMPLIED
       decl ( 1 | 2 | 3 | 4 | 5 | x | i ) #IMPLIED 
       nr ( Sg | Pl ) #IMPLIED
       gen_only CDATA #IMPLIED
       context CDATA #IMPLIED
+      rest CDATA #IMPLIED
       type ( rel | pers | indef | refl | dem | interr | 
       pre | post | ord | TV | IV | actor | g3 | NomAg ) #IMPLIED
       class ( I | II | III | IV | V | VI | xxx ) #IMPLIED 
@@ -117,14 +117,15 @@
 >      
 <!ATTLIST mg re CDATA #IMPLIED >
 
-<!ELEMENT tg (semantics?, re?,  ( ((t, stem*, l_ref?) | tf | te ))+, xg*, syng?) >
+<!ELEMENT tg (semantics?, re?,  (t, stem*, l_ref?)+, xg*, syng?) >
 <!ATTLIST tg 
-      xml:lang ( sme | sma | nob | swe | eng | deu ) #IMPLIED
+      xml:lang ( fin ) #IMPLIED
       check CDATA #IMPLIED
+      re CDATA #IMPLIED
 >
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re 
-	  xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED
+	  xml:lang ( nob | sme | smn | fin ) #IMPLIED
 >
 
 <!ELEMENT t (#PCDATA) >
@@ -133,9 +134,9 @@
 <!ATTLIST t t_type ( Pers | expl ) #IMPLIED  >
 <!ATTLIST t nr ( Sg | Pl ) #IMPLIED  >
 <!ATTLIST t pos ( A | S  | N  | V | 
-            Adv | P | Pr | Po | Det |
-            Pron | Prop | I | Interj | CC | CS | Im | Npl | Num |
-            Pcle | Prsprc | Phrase | Fp-Cmp | Lp-Cmp | Cmp | X  | Xxx |
+            Adv | P | Pr | Po | 
+            Pron | Prop | Interj | CC | CS | Num |
+            Pcle | X  |
 	    phrase_N | phrase_A | phrase_V | phrase_Adv | g3 | NomAg | mwe | fp-cmp ) #IMPLIED > 
 	    
 <!--
@@ -146,13 +147,8 @@
 	    phrase_n | phrase_a | phrase_v | phrase_adv | g3 | NomAg | mwe ) #IMPLIED > 
 -->
 <!ATTLIST t type ( expl ) #IMPLIED >
-<!ATTLIST t decl ( 1 | 2 | 3 | 4 | 5 | x | irr | i | yyy ) #IMPLIED> <!-- irr irregular -->
-<!ATTLIST t gen ( m | f | n | xxx ) #IMPLIED >
 <!ATTLIST t lang ( swe | nob ) #IMPLIED >
 <!ATTLIST t xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
-<!ATTLIST t dialect CDATA #IMPLIED >
-<!ATTLIST t var ( sw | no | fi )  #IMPLIED >
-<!ATTLIST t nob-stat CDATA #IMPLIED >
 <!ATTLIST t sem-cl CDATA #IMPLIED >
 <!ATTLIST t src CDATA #IMPLIED >
 <!ATTLIST t alt_str CDATA #IMPLIED >
@@ -163,26 +159,6 @@
 
 <!ELEMENT l_ref (#PCDATA) >
 
-<!-- translation_comment = for Oahpa use -->
-
-<!ELEMENT tf (#PCDATA) > <!-- Translation phrase -->
-<!ATTLIST tf oa ( first | yes | no ) #IMPLIED >
-<!ATTLIST tf dict (yes | no ) #IMPLIED >
-<!ATTLIST tf pos ( phrase  | phrase_n | phrase_a | phrase_v | phrase_adv ) #IMPLIED >
-<!ATTLIST tf gen ( m | f | n ) #IMPLIED >
-<!ATTLIST tf lang ( swe | nob ) #IMPLIED >
-<!ATTLIST tf xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
-<!ATTLIST tf tcomm ( yes | no ) #IMPLIED >
-<!ATTLIST tf stat ( pref ) #IMPLIED >
-
-
-<!ELEMENT te (#PCDATA) > <!-- Translation explanation -->
-<!ATTLIST te lang ( swe | nob ) #IMPLIED >
-<!ATTLIST te xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
-<!ATTLIST te dict (yes | no ) #IMPLIED >
-<!ATTLIST te oa ( first | yes | no ) #IMPLIED >
-<!ATTLIST te stat ( pref ) #IMPLIED >
-<!ATTLIST te pos ( phrase  | phrase_n | phrase_a | phrase_v | phrase_adv ) #IMPLIED >
 
 
 <!ELEMENT xg ((x, xt+)+)>
