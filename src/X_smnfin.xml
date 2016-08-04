@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r id="smnfin" xml:lang="smn">
+   <lics xml:space="preserve">
+  <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.
+</lic>
+<ref>Work by Marja-Liisa Olthuis and Taarna Valtonen, and by Giellatekno at UiT,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailtofeedback@divvun.no</a> and <a>mailtogiellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote></lics>
+   <e id="4301">
+      <lg>
+         <l pos="X" rest="fossiillii">fossiilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">fossiillâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4909">
+      <lg>
+         <l pos="X" rest="hálui">hilui</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">hujan hajan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5283">
+      <lg>
+         <l pos="X" rest="">hurrikaani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">hurrigaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7085">
+      <lg>
+         <l pos="X" rest="">kaamiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">kamina</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7739">
+      <lg>
+         <l pos="X" rest="kiäs'sá">keesis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">kesättivaljaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8722">
+      <lg>
+         <l pos="X" rest="">kobđoolostâsiih</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">kelluslehtiset</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10245">
+      <lg>
+         <l pos="X" rest="-porruu">kurmápoaroi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">kurmupaarma Hypoderma tarandi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11365">
+      <lg>
+         <l pos="X" rest="">liibaisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">liipasin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13621">
+      <lg>
+         <l pos="X" rest="">mučisluupiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">komealupiini Lupinus polyphyllus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15814">
+      <lg>
+         <l pos="X" rest="">oovdebpeeivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">toissapäivänä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16226">
+      <lg>
+         <l pos="X" rest="">paalgâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">räkkäaika (erit. poroilla)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16937">
+      <lg>
+         <l pos="X" rest="peđe">peeti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">täkkä (linnun rintaliha)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="20184">
+      <lg>
+         <l pos="X" rest="ruoijâs">ruojâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">ruojus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21167">
+      <lg>
+         <l pos="X" rest="seevi">seevi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">sevä (kova lumi kevättalvella)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26932">
+      <lg>
+         <l pos="X" rest="">uk-ujostâlâm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">pk-yritys</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27013">
+      <lg>
+         <l pos="X" rest="-porruu">urmápoaroi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">kurmupaarma Hypoderma tarandi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27084">
+      <lg>
+         <l pos="X" rest="">uulgah</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">ulut</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28646">
+      <lg>
+         <l pos="X" rest="">vuávnus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="X">jk näköinen</t>
+         </tg>
+      </mg>
+   </e>
+</r>

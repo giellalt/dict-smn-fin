@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r id="smnfin" xml:lang="smn">
+   <lics xml:space="preserve">
+  <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.
+</lic>
+<ref>Work by Marja-Liisa Olthuis and Taarna Valtonen, and by Giellatekno at UiT,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailtofeedback@divvun.no</a> and <a>mailtogiellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote></lics>
+   <e id="717">
+      <lg>
+         <l pos="CS" rest="">amas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">ettei</t>
+            <t pos="CS">jottei</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="822">
+      <lg>
+         <l pos="CS" rest="">ansun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">jotta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1101">
+      <lg>
+         <l pos="CS" rest="">asun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">jotta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3746">
+      <lg>
+         <l pos="CS" rest="">emas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">ettei</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3806">
+      <lg>
+         <l pos="CS" rest="">ensun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">jotta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3939">
+      <lg>
+         <l pos="CS" rest="">ete</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">että</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6525">
+      <lg>
+         <l pos="CS" rest="">jos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">jos</t>
+            <t pos="CS">vaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8702">
+      <lg>
+         <l pos="CS" rest="">ko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">jolloin</t>
+            <t pos="CS">koska</t>
+            <t pos="CS">kuin</t>
+            <t pos="CS">kun</t>
+            <t pos="CS">milloin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8791">
+      <lg>
+         <l pos="CS" rest="">kođe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">kun</t>
+            <t pos="CS">kun sitten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9605">
+      <lg>
+         <l pos="CS" rest="">kuás</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">jolloin</t>
+            <t pos="CS">koska</t>
+            <t pos="CS">kun</t>
+            <t pos="CS">milloin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10007">
+      <lg>
+         <l pos="CS" rest="">kuo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">kuin</t>
+            <t pos="CS">kun</t>
+            <t pos="CS">kunpa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13840">
+      <lg>
+         <l pos="CS" rest="">mutâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">mutta</t>
+            <t pos="CS">vaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24646">
+      <lg>
+         <l pos="CS" rest="">tassaaš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">kunnes</t>
+            <t pos="CS">siihen saakka</t>
+            <t pos="CS">siihen asti</t>
+            <t pos="CS">siitä asti</t>
+            <t pos="CS">sitten (aikaisemmin)</t>
+            <t pos="CS">silloinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24756">
+      <lg>
+         <l pos="CS" rest="">te</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">niin</t>
+            <t pos="CS">sitten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24790">
+      <lg>
+         <l pos="CS" rest="">tegu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">kuin</t>
+            <t pos="CS">niin kuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27260">
+      <lg>
+         <l pos="CS" rest="">vâik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">vaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27616">
+      <lg>
+         <l pos="CS" rest="">veik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">vaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27617">
+      <lg>
+         <l pos="CS" rest="veeihâ">veikkâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="CS">sydän (lampun)</t>
+         </tg>
+      </mg>
+   </e>
+</r>

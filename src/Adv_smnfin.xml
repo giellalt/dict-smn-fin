@@ -1,0 +1,5409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r id="smnfin" xml:lang="smn">
+   <lics xml:space="preserve">
+  <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.
+</lic>
+<ref>Work by Marja-Liisa Olthuis and Taarna Valtonen, and by Giellatekno at UiT,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailtofeedback@divvun.no</a> and <a>mailtogiellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote></lics>
+   <e id="2">
+      <lg>
+         <l pos="Adv" rest="">aa-a</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mitä? (kysymyssana kun ei kuullut kunnolla)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12">
+      <lg>
+         <l pos="Adv" rest="">aaibâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aivan</t>
+            <t pos="Adv">ihan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25">
+      <lg>
+         <l pos="Adv" rest="">aainâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">toki</t>
+            <t pos="Adv">ainakin</t>
+            <t pos="Adv">etenkin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="30">
+      <lg>
+         <l pos="Adv" rest="">aainâs-uv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ainakin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="149">
+      <lg>
+         <l pos="Adv" rest="">aarriiđeed</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aamuvarhaisella</t>
+            <t pos="Adv">aamuvarhain</t>
+            <t pos="Adv">varhaisaamu</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="195">
+      <lg>
+         <l pos="Adv" rest="">áavus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">avoinna</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="196">
+      <lg>
+         <l pos="Adv" rest="">áávus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">auki</t>
+            <t pos="Adv">avoinna</t>
+            <t pos="Adv">avonainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="409">
+      <lg>
+         <l pos="Adv" rest="">ain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aina</t>
+            <t pos="Adv">kulloinkin</t>
+            <t pos="Adv">yhä</t>
+            <t pos="Adv">edelleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="416">
+      <lg>
+         <l pos="Adv" rest="">áinoo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ainoa</t>
+            <t pos="Adv">ainut</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="422">
+      <lg>
+         <l pos="Adv" rest="">ain-uv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kuitenkin</t>
+            <t pos="Adv">yhä vieläkin</t>
+            <t pos="Adv">edelleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="483">
+      <lg>
+         <l pos="Adv" rest="">aldaaš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lähellä oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="489">
+      <lg>
+         <l pos="Adv" rest="">aldaluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lähekkäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="503">
+      <lg>
+         <l pos="Adv" rest="">aldeláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lähemmäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="504">
+      <lg>
+         <l pos="Adv" rest="">aldeláhháá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lähemmäs (vähän)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="507">
+      <lg>
+         <l pos="Adv" rest="">aldemust</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lähinnä (enimmäkseen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="508">
+      <lg>
+         <l pos="Adv" rest="">aldemustáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lähinnä (enimmäkseen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="516">
+      <lg>
+         <l pos="Adv" rest="">aleláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ylemmäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="517">
+      <lg>
+         <l pos="Adv" rest="">aleláhháá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ylemmäs (vähän)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1146">
+      <lg>
+         <l pos="Adv" rest="">avalávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ainiaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1165">
+      <lg>
+         <l pos="Adv" rest="">avepiäiván</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">iäksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1204">
+      <lg>
+         <l pos="Adv" rest="">ávus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">auki</t>
+            <t pos="Adv">avoinna</t>
+            <t pos="Adv">avonainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1216">
+      <lg>
+         <l pos="Adv" rest="">ávussoolâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">avosylin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1300">
+      <lg>
+         <l pos="Adv" rest="">cabzeeht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">täpärästi (konkr.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1611">
+      <lg>
+         <l pos="Adv" rest="">čeeppiht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">taitavasti</t>
+            <t pos="Adv">osaavasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1758">
+      <lg>
+         <l pos="Adv" rest="">čiččii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">seitsemästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1813">
+      <lg>
+         <l pos="Adv" rest="">čielgâsávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">selkeästi</t>
+            <t pos="Adv">selvästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2101">
+      <lg>
+         <l pos="Adv" rest="">čiälgusoivij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">selvinpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2110">
+      <lg>
+         <l pos="Adv" rest="">čiäppáht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">osaavasti</t>
+            <t pos="Adv">taitavasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2181">
+      <lg>
+         <l pos="Adv" rest="">cogâsnjalmij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">avosuin</t>
+            <t pos="Adv">suu ammollaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2207">
+      <lg>
+         <l pos="Adv" rest="">čohčuv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">syksyllä</t>
+            <t pos="Adv">syksyisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2250">
+      <lg>
+         <l pos="Adv" rest="">čokkod</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">istuallaan</t>
+            <t pos="Adv">istualtaan</t>
+            <t pos="Adv">istualleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2253">
+      <lg>
+         <l pos="Adv" rest="">čokoppođâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">istuallaan</t>
+            <t pos="Adv">istualleen</t>
+            <t pos="Adv">takamuksilleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2257">
+      <lg>
+         <l pos="Adv" rest="">čokoppoođâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">istuallaan</t>
+            <t pos="Adv">istualleen</t>
+            <t pos="Adv">takamuksilleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2266">
+      <lg>
+         <l pos="Adv" rest="">čolgâdeijee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti irtoava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2300">
+      <lg>
+         <l pos="Adv" rest="">čonâsân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sidoksiin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2303">
+      <lg>
+         <l pos="Adv" rest="">čonâsist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sidoksissa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2324">
+      <lg>
+         <l pos="Adv" rest="">čoođâg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jatkuvasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2465">
+      <lg>
+         <l pos="Adv" rest="">čuákán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">koolle</t>
+            <t pos="Adv">kokoon</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2469">
+      <lg>
+         <l pos="Adv" rest="">čuákist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">koolla</t>
+            <t pos="Adv">koossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2650">
+      <lg>
+         <l pos="Adv" rest="">čuáskimávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kylmästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2734">
+      <lg>
+         <l pos="Adv" rest="">čuávudeijee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti seuraava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2736">
+      <lg>
+         <l pos="Adv" rest="">čuávudijjee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti seuraava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2737">
+      <lg>
+         <l pos="Adv" rest="">čuávulâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti seuraava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2888">
+      <lg>
+         <l pos="Adv" rest="mild">čuođij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sadoittain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3058">
+      <lg>
+         <l pos="Adv" rest="">čuottii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sadasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3089">
+      <lg>
+         <l pos="Adv" rest="">cuovhâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3164">
+      <lg>
+         <l pos="Adv" rest="">čuožžâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">seisaallaan</t>
+            <t pos="Adv">seisaalleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3181">
+      <lg>
+         <l pos="Adv" rest="">čurgâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">huolellisesti</t>
+            <t pos="Adv">kunnolla</t>
+            <t pos="Adv">siististi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3188">
+      <lg>
+         <l pos="Adv" rest="">čurgâdávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">siististi</t>
+            <t pos="Adv">kunnolla</t>
+            <t pos="Adv">huolellisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3234">
+      <lg>
+         <l pos="Adv" rest="">čuulâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">päittäin (ei poikittain)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3236">
+      <lg>
+         <l pos="Adv" rest="">čuumâl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">täysi (reunojaan myöten, astiasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3253">
+      <lg>
+         <l pos="Adv" rest="">čuuvtij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hyvin</t>
+            <t pos="Adv">kovasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3310">
+      <lg>
+         <l pos="Adv" rest="">čyerbiht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">taitamattomasti</t>
+            <t pos="Adv">osaamattomasti</t>
+            <t pos="Adv">tökerösti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3323">
+      <lg>
+         <l pos="Adv" rest="">čyevtib</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kovemmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3536">
+      <lg>
+         <l pos="Adv" rest="">eehidláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">illempana</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3545">
+      <lg>
+         <l pos="Adv" rest="">eeidu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">äsken</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3676">
+      <lg>
+         <l pos="Adv" rest="">eivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aina</t>
+            <t pos="Adv">alituiseen</t>
+            <t pos="Adv">jatkuvasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3774">
+      <lg>
+         <l pos="Adv" rest="">enâmustáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lähinnä (enimmäkseen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3871">
+      <lg>
+         <l pos="Adv" rest="iärrás iärrâs">eres</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">eri</t>
+            <t pos="Adv">muu</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3880">
+      <lg>
+         <l pos="Adv" rest="">eresnáál</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">eri tavoin</t>
+            <t pos="Adv">toisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3890">
+      <lg>
+         <l pos="Adv" rest="">erinis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">erilleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3892">
+      <lg>
+         <l pos="Adv" rest="">eromâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">erinomainen</t>
+            <t pos="Adv">erittäin</t>
+            <t pos="Adv">erityinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3909">
+      <lg>
+         <l pos="Adv" rest="">eskân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3911">
+      <lg>
+         <l pos="Adv" rest="">eskenpalij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">äskettäin</t>
+            <t pos="Adv">vastikään</t>
+            <t pos="Adv">hiljattain</t>
+            <t pos="Adv">hiljan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3983">
+      <lg>
+         <l pos="Adv" rest="">fáállun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tarjolla</t>
+            <t pos="Adv">tarjottavana</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3986">
+      <lg>
+         <l pos="Adv" rest="">fáálun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tarjolla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4014">
+      <lg>
+         <l pos="Adv" rest="">fakkâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yhtäkkiä</t>
+            <t pos="Adv">äkkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4016">
+      <lg>
+         <l pos="Adv" rest="">fakkist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">äkkiä</t>
+            <t pos="Adv">yhtäkkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4156">
+      <lg>
+         <l pos="Adv" rest="">fijnáht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hienovaraisesti</t>
+            <t pos="Adv">hienovarainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4159">
+      <lg>
+         <l pos="Adv" rest="">fijnásávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hienovaraisesti</t>
+            <t pos="Adv">kauniisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4291">
+      <lg>
+         <l pos="Adv" rest="">forgâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kohta</t>
+            <t pos="Adv">pian</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4625">
+      <lg>
+         <l pos="Adv" rest="">hárráht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">harallaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4634">
+      <lg>
+         <l pos="Adv" rest="">harvii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">harvoin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4778">
+      <lg>
+         <l pos="Adv" rest="">hellâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yhtäkkiä (sairastumisesta tai kuolemisesta puhuttaessa)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4926">
+      <lg>
+         <l pos="Adv" rest="">hirmâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hirveä (attr.)</t>
+            <t pos="Adv">kauhea (adjektiivien ja adverbien edellä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4928">
+      <lg>
+         <l pos="Adv" rest="">hirmâdávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hirveästi</t>
+            <t pos="Adv">kauhean paljon</t>
+            <t pos="Adv">kauheasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4956">
+      <lg>
+         <l pos="Adv" rest="">hitásávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hitaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4963">
+      <lg>
+         <l pos="Adv" rest="">hittáht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hitaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4993">
+      <lg>
+         <l pos="Adv" rest="">hiäjuht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">heikosti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5006">
+      <lg>
+         <l pos="Adv" rest="">hiälpust</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5143">
+      <lg>
+         <l pos="Adv" rest="">huáppust</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kiireesti</t>
+            <t pos="Adv">nopeasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5242">
+      <lg>
+         <l pos="Adv" rest="">huolâlávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">huolellisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5350">
+      <lg>
+         <l pos="Adv" rest="">hyeneeht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">huonosti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5402">
+      <lg>
+         <l pos="Adv" rest="">häppilávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">nopeasti</t>
+            <t pos="Adv">joutuin</t>
+            <t pos="Adv">vikkelästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5452">
+      <lg>
+         <l pos="Adv" rest="">häärviht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">harvaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5513">
+      <lg>
+         <l pos="Adv" rest="">ihánâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hyvänsä</t>
+            <t pos="Adv">tahansa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5522">
+      <lg>
+         <l pos="Adv" rest="">ihásávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vuosittain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5537">
+      <lg>
+         <l pos="Adv" rest="">iho</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yöllä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5613">
+      <lg>
+         <l pos="Adv" rest="">ilbâdávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ilkeästi</t>
+            <t pos="Adv">kujeellisesti</t>
+            <t pos="Adv">ilkikurisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5631">
+      <lg>
+         <l pos="Adv" rest="">illá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">huonovointisesti</t>
+            <t pos="Adv">huonosti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5638">
+      <lg>
+         <l pos="Adv" rest="">illámielâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vastahakoisesti</t>
+            <t pos="Adv">vastentahtoisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5649">
+      <lg>
+         <l pos="Adv" rest="">illávaje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">huonovointisena</t>
+            <t pos="Adv">huonovointinen</t>
+            <t pos="Adv">pahoinvoivana</t>
+            <t pos="Adv">pahoinvoiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5701">
+      <lg>
+         <l pos="Adv" rest="">innig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">enää</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5815">
+      <lg>
+         <l pos="Adv" rest="">ište</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">istuallaan</t>
+            <t pos="Adv">istualleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5826">
+      <lg>
+         <l pos="Adv" rest="">itoi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rinnalla</t>
+            <t pos="Adv">suhteen</t>
+            <t pos="Adv">verrattuna</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5838">
+      <lg>
+         <l pos="Adv" rest="">itten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">huomenna</t>
+            <t pos="Adv">seuraavana päivänä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5921">
+      <lg>
+         <l pos="Adv" rest="">iänáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">eniten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5923">
+      <lg>
+         <l pos="Adv" rest="">iänááš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">useimmat</t>
+            <t pos="Adv">enimmäkseen</t>
+            <t pos="Adv">suurin</t>
+            <t pos="Adv">lähinnä (enimmäkseen)</t>
+            <t pos="Adv">enin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5999">
+      <lg>
+         <l pos="Adv" rest="">iävtulávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vapaaehtoisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6017">
+      <lg>
+         <l pos="Adv" rest="">jaamâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kuoliaaksi</t>
+            <t pos="Adv">kuollut</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6097">
+      <lg>
+         <l pos="Adv" rest="">jáválávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vauraasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6104">
+      <lg>
+         <l pos="Adv" rest="">jávuttáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ääneti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6178">
+      <lg>
+         <l pos="Adv" rest="">jiečânis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">itsekseen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6189">
+      <lg>
+         <l pos="Adv" rest="">jieggâpeelijn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">henkihieverissä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6192">
+      <lg>
+         <l pos="Adv" rest="">jieggâtoorijn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">henkitoreissa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6206">
+      <lg>
+         <l pos="Adv" rest="">jieht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">eilen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6313">
+      <lg>
+         <l pos="Adv" rest="">jiermittemeht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">järjettömästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6323">
+      <lg>
+         <l pos="Adv" rest="">jiešalnees</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">itsestään</t>
+            <t pos="Adv">sinänsä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6332">
+      <lg>
+         <l pos="Adv" rest="">jiešiäluid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ominpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6339">
+      <lg>
+         <l pos="Adv" rest="">jiešmeidlist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">itsestään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6401">
+      <lg>
+         <l pos="Adv" rest="">jiänusân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ääneen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6418">
+      <lg>
+         <l pos="Adv" rest="">jiärmáht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">järkevästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6428">
+      <lg>
+         <l pos="Adv" rest="">jo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jo</t>
+            <t pos="Adv">jo vain</t>
+            <t pos="Adv">koska</t>
+            <t pos="Adv">kun</t>
+            <t pos="Adv">toki</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6482">
+      <lg>
+         <l pos="Adv" rest="">joollâht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hullusti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6498">
+      <lg>
+         <l pos="Adv" rest="">jorgod</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">nurinpäin (vaate tms.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6542">
+      <lg>
+         <l pos="Adv" rest="">jotelávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">nopeasti</t>
+            <t pos="Adv">joutuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6659">
+      <lg>
+         <l pos="Adv" rest="">juhâlum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">juovuksissa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6714">
+      <lg>
+         <l pos="Adv" rest="">julgâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">julki</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6716">
+      <lg>
+         <l pos="Adv" rest="">julgâlávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">julkisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7012">
+      <lg>
+         <l pos="Adv" rest="">jävriláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lähemmäs järveä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7142">
+      <lg>
+         <l pos="Adv" rest="">káávvud</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">selällään</t>
+            <t pos="Adv">ylössuin (esim. astiasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7200">
+      <lg>
+         <l pos="Adv" rest="">kahcii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kahdeksasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7275">
+      <lg>
+         <l pos="Adv" rest="">kal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kyllä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7294">
+      <lg>
+         <l pos="Adv" rest="">kale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kyllä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7318">
+      <lg>
+         <l pos="Adv" rest="kale">kalle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">montako</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7640">
+      <lg>
+         <l pos="Adv" rest="">kávukkoozâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">selällään</t>
+            <t pos="Adv">selälleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7642">
+      <lg>
+         <l pos="Adv" rest="">kávukkozâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">selällään</t>
+            <t pos="Adv">selälleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7751">
+      <lg>
+         <l pos="Adv" rest="">keessiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kesällä</t>
+            <t pos="Adv">kesäisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7832">
+      <lg>
+         <l pos="Adv" rest="">keppâdávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">keveästi</t>
+            <t pos="Adv">kevyesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7840">
+      <lg>
+         <l pos="Adv" rest="">keppisávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">keveästi</t>
+            <t pos="Adv">kevyesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7891">
+      <lg>
+         <l pos="Adv" rest="">kesipieggâláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">etelämmäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7941">
+      <lg>
+         <l pos="Adv" rest="">kiddâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kiinni</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7983">
+      <lg>
+         <l pos="Adv" rest="">kieđâkeččee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">taloudellisesti riippuvainen (jstak tai jksta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8137">
+      <lg>
+         <l pos="Adv" rest="">kieskâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hiljattain</t>
+            <t pos="Adv">hiljan</t>
+            <t pos="Adv">äskettäin</t>
+            <t pos="Adv">vastikään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8156">
+      <lg>
+         <l pos="Adv" rest="">kietâluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">käsikkäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8413">
+      <lg>
+         <l pos="Adv" rest="">kirjálávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kirjallisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8462">
+      <lg>
+         <l pos="Adv" rest="">kirrâsávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kiireesti</t>
+            <t pos="Adv">nopeasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8518">
+      <lg>
+         <l pos="Adv" rest="">kivkked</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">äkkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8549">
+      <lg>
+         <l pos="Adv" rest="">kiähnuht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kehnosti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8553">
+      <lg>
+         <l pos="Adv" rest="">kiäigud</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ehjäkärkisenä (poron korvasta)</t>
+            <t pos="Adv">sojollaan</t>
+            <t pos="Adv">suorana (oikosenaan)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8693">
+      <lg>
+         <l pos="Adv" rest="">kiävvoo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti hulluuskohtauksen saava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8802">
+      <lg>
+         <l pos="Adv" rest="">koggoon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mistään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8804">
+      <lg>
+         <l pos="Adv" rest="">kogo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mistä</t>
+            <t pos="Adv">mitä kautta</t>
+            <t pos="Adv">missä kohdin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8940">
+      <lg>
+         <l pos="Adv" rest="">komálávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kummallisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8960">
+      <lg>
+         <l pos="Adv" rest="">kommood</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kumollaan</t>
+            <t pos="Adv">kumolleen</t>
+            <t pos="Adv">nurin (astiasta tms.)</t>
+            <t pos="Adv">alassuin (astiasta tms.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9087">
+      <lg>
+         <l pos="Adv" rest="">kooskâin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">puolessa (välissä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9120">
+      <lg>
+         <l pos="Adv" rest="">korâdávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">koreasti</t>
+            <t pos="Adv">loisteliaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9158">
+      <lg>
+         <l pos="Adv" rest="">korrâsávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kovasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9162">
+      <lg>
+         <l pos="Adv" rest="">korrâsubbooht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kovemmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9223">
+      <lg>
+         <l pos="Adv" rest="">koskânis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">keskenään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9241">
+      <lg>
+         <l pos="Adv" rest="">koskâstuvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ajoittain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9244">
+      <lg>
+         <l pos="Adv" rest="">koskâstuvvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ajoittain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9249">
+      <lg>
+         <l pos="Adv" rest="">koskâttuvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aika ajoin</t>
+            <t pos="Adv">ajoittain</t>
+            <t pos="Adv">toisinaan</t>
+            <t pos="Adv">välillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9253">
+      <lg>
+         <l pos="Adv" rest="">koskâttuvvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aika ajoin</t>
+            <t pos="Adv">ajoittain</t>
+            <t pos="Adv">toisinaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9298">
+      <lg>
+         <l pos="Adv" rest="">kost</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jossa</t>
+            <t pos="Adv">josta</t>
+            <t pos="Adv">missä</t>
+            <t pos="Adv">mistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9307">
+      <lg>
+         <l pos="Adv" rest="">kosten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mistään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9308">
+      <lg>
+         <l pos="Adv" rest="">kostnii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jostakin</t>
+            <t pos="Adv">jossakin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9455">
+      <lg>
+         <l pos="Adv" rest="">kuáhtulávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kohtalaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9479">
+      <lg>
+         <l pos="Adv" rest="">kuál</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">missä kohden</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9613">
+      <lg>
+         <l pos="Adv" rest="">kuásij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">miltei</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9630">
+      <lg>
+         <l pos="Adv" rest="">kuássin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">milloinkaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9697">
+      <lg>
+         <l pos="Adv" rest="">kuávdoo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">keskellä</t>
+            <t pos="Adv">keskeltä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9782">
+      <lg>
+         <l pos="Adv" rest="">kuhás</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kauas</t>
+            <t pos="Adv">etäälle</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9794">
+      <lg>
+         <l pos="Adv" rest="">kuhe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kauan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9800">
+      <lg>
+         <l pos="Adv" rest="">kuhemustáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">pisimpään</t>
+            <t pos="Adv">kauimmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9814">
+      <lg>
+         <l pos="Adv" rest="">kuhháá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kauan</t>
+            <t pos="Adv">pitkään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9816">
+      <lg>
+         <l pos="Adv" rest="">kuhháásiähá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kauan melko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9836">
+      <lg>
+         <l pos="Adv" rest="">kuittâg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ainakin</t>
+            <t pos="Adv">kuitenkin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9851">
+      <lg>
+         <l pos="Adv" rest="">kukkáluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">etäällä (toisistaan)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9855">
+      <lg>
+         <l pos="Adv" rest="">kukkeláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">etäämmäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9857">
+      <lg>
+         <l pos="Adv" rest="">kukken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">etäinen</t>
+            <t pos="Adv">etäällä</t>
+            <t pos="Adv">etäältä</t>
+            <t pos="Adv">kaukana</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9863">
+      <lg>
+         <l pos="Adv" rest="">kukkod</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">pitkinpäin</t>
+            <t pos="Adv">pitkittäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9868">
+      <lg>
+         <l pos="Adv" rest="">kukkodkulij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">pitkinpäin</t>
+            <t pos="Adv">pitkittäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9923">
+      <lg>
+         <l pos="Adv" rest="">kulmii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kolmesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9940">
+      <lg>
+         <l pos="Adv" rest="# kulottes">kulottem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">huonosti kuuluva</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10060">
+      <lg>
+         <l pos="Adv" rest="">kuohtii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kahdesti</t>
+            <t pos="Adv">kaksi kertaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10200">
+      <lg>
+         <l pos="Adv" rest="">kuovdin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">halki</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10302">
+      <lg>
+         <l pos="Adv" rest="">kustoo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">näemmä</t>
+            <t pos="Adv">näköjään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10324">
+      <lg>
+         <l pos="Adv" rest="">kuuhijn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">etäällä</t>
+            <t pos="Adv">etäältä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10345">
+      <lg>
+         <l pos="Adv" rest="">kuuloold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">adagio (mus.)</t>
+            <t pos="Adv">hiljaa</t>
+            <t pos="Adv">vähitellen</t>
+            <t pos="Adv">rauhallisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10362">
+      <lg>
+         <l pos="Adv" rest="">kuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">johon</t>
+            <t pos="Adv">jonne</t>
+            <t pos="Adv">mihin</t>
+            <t pos="Adv">minne</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10367">
+      <lg>
+         <l pos="Adv" rest="">kuusnii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">johonkin</t>
+            <t pos="Adv">jonnekin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10371">
+      <lg>
+         <l pos="Adv" rest="">kuussân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mihinkään</t>
+            <t pos="Adv">minnekään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10507">
+      <lg>
+         <l pos="Adv" rest="">kyessist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vieraisilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10516">
+      <lg>
+         <l pos="Adv" rest="">kyevtikáávnán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">umpimähkään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10694">
+      <lg>
+         <l pos="Adv" rest="">kääržiht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ahtaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10993">
+      <lg>
+         <l pos="Adv" rest="">lappâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ohi</t>
+            <t pos="Adv">ohitse</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11115">
+      <lg>
+         <l pos="Adv" rest="">lavâlávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">laillisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11172">
+      <lg>
+         <l pos="Adv" rest="">lavvâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tiiviisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11370">
+      <lg>
+         <l pos="Adv" rest="">liijkás</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">liiaksi</t>
+            <t pos="Adv">liian</t>
+            <t pos="Adv">liikaa</t>
+            <t pos="Adv">ennenaikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11602">
+      <lg>
+         <l pos="Adv" rest="">liävulávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">levollisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11604">
+      <lg>
+         <l pos="Adv" rest="">liävuttemeht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">levottomasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11651">
+      <lg>
+         <l pos="Adv" rest="">lohđuttemeht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lohduttomasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11723">
+      <lg>
+         <l pos="Adv" rest="">lopâlávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lopullisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11847">
+      <lg>
+         <l pos="Adv" rest="">luámádâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kohdakkain</t>
+            <t pos="Adv">limittäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11946">
+      <lg>
+         <l pos="Adv" rest="">luhhii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kymmenesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12036">
+      <lg>
+         <l pos="Adv" rest="">luoihâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lainaan</t>
+            <t pos="Adv">lainaksi</t>
+            <t pos="Adv">lainatavara</t>
+            <t pos="Adv">lainakko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12073">
+      <lg>
+         <l pos="Adv" rest="">luovâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">irti</t>
+            <t pos="Adv">irtonainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12129">
+      <lg>
+         <l pos="Adv" rest="">luus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tykö</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12156">
+      <lg>
+         <l pos="Adv" rest="">lyeddejum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">halki oleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12349">
+      <lg>
+         <l pos="Adv" rest="">maajeeldkietân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">taannehtivasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12371">
+      <lg>
+         <l pos="Adv" rest="">maaŋaabeln</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">perässäpäin</t>
+            <t pos="Adv">takanapäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12395">
+      <lg>
+         <l pos="Adv" rest="">maasâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kotiin</t>
+            <t pos="Adv">takaisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12485">
+      <lg>
+         <l pos="Adv" rest="">maht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kuinka</t>
+            <t pos="Adv">miten</t>
+            <t pos="Adv">kuten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12493">
+      <lg>
+         <l pos="Adv" rest="">mahten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mitenkään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12528">
+      <lg>
+         <l pos="Adv" rest="">majaskulij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">taaksepäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12541">
+      <lg>
+         <l pos="Adv" rest="">majemustáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lopuksi</t>
+            <t pos="Adv">viimeistään</t>
+            <t pos="Adv">viimeksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12646">
+      <lg>
+         <l pos="Adv" rest="">maŋadist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">myöhemmin</t>
+            <t pos="Adv">jälkeenpäin</t>
+            <t pos="Adv">jälkikäteen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12650">
+      <lg>
+         <l pos="Adv" rest="">maŋaluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">peräkkäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12703">
+      <lg>
+         <l pos="Adv" rest="">masa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">melkein</t>
+            <t pos="Adv">miltei</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12786">
+      <lg>
+         <l pos="Adv" rest="">mecciláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">metsemmäs</t>
+            <t pos="Adv">lähemmäs metsää (kauemmas asumuksesta)</t>
+            <t pos="Adv">metsempänä</t>
+            <t pos="Adv">lähempänä metsää (kauempana asumuksesta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12790">
+      <lg>
+         <l pos="Adv" rest="">meččiláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">loitommas (tulesta)</t>
+            <t pos="Adv">loitompana (tulesta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12821">
+      <lg>
+         <l pos="Adv" rest="">meddâl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kotoisin</t>
+            <t pos="Adv">pois</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12857">
+      <lg>
+         <l pos="Adv" rest="">meiddei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kanssa</t>
+            <t pos="Adv">myös</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12877">
+      <lg>
+         <l pos="Adv" rest="">melgâdáid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">melkeinpä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12878">
+      <lg>
+         <l pos="Adv" rest="">melgâdávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">melkoisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13009">
+      <lg>
+         <l pos="Adv" rest="">mielâstubbooht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mieluummin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13032">
+      <lg>
+         <l pos="Adv" rest="">mieldis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mukaansa</t>
+            <t pos="Adv">mukanaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13096">
+      <lg>
+         <l pos="Adv" rest="">mietimái</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lopullisesti</t>
+            <t pos="Adv">peruuttamattomasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13099">
+      <lg>
+         <l pos="Adv" rest="">mietipiäiván</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">myötäpäivään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13121">
+      <lg>
+         <l pos="Adv" rest="">mild</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mukaan</t>
+            <t pos="Adv">mukana</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13139">
+      <lg>
+         <l pos="Adv" rest="">minttâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">täsmällisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13216">
+      <lg>
+         <l pos="Adv" rest="">miäldád</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mukaasi</t>
+            <t pos="Adv">mukanasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13219">
+      <lg>
+         <l pos="Adv" rest="">miäldáluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">peräkkäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13220">
+      <lg>
+         <l pos="Adv" rest="">miäldán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mukaani</t>
+            <t pos="Adv">mukanani</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13227">
+      <lg>
+         <l pos="Adv" rest="">miälgui</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hitaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13263">
+      <lg>
+         <l pos="Adv" rest="">miätá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yltympäriinsä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13343">
+      <lg>
+         <l pos="Adv" rest="">mondiet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">miksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13472">
+      <lg>
+         <l pos="Adv" rest="">motten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">murka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13478">
+      <lg>
+         <l pos="Adv" rest="">mottoomnáál</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jollakin lailla</t>
+            <t pos="Adv">jotenkuten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13615">
+      <lg>
+         <l pos="Adv" rest="">muččâdávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kivasti</t>
+            <t pos="Adv">kiltisti</t>
+            <t pos="Adv">kauniisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13626">
+      <lg>
+         <l pos="Adv" rest="">mudágávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">osuvasti</t>
+            <t pos="Adv">sopivasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14009">
+      <lg>
+         <l pos="Adv" rest="">naalijn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tavalla</t>
+            <t pos="Adv">tavoin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14049">
+      <lg>
+         <l pos="Adv" rest="">naggâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">täynnä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14115">
+      <lg>
+         <l pos="Adv" rest="">nánnáht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kiltisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14165">
+      <lg>
+         <l pos="Adv" rest="">návt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">näin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14188">
+      <lg>
+         <l pos="Adv" rest="">neljii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">neljä kertaa</t>
+            <t pos="Adv">neljästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14234">
+      <lg>
+         <l pos="Adv" rest="">nievriht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">huonosti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14408">
+      <lg>
+         <l pos="Adv" rest="">njálgásávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">makeasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14747">
+      <lg>
+         <l pos="Adv" rest="">njuásiht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hitaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14779">
+      <lg>
+         <l pos="Adv" rest="">njunáluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">nokakkain</t>
+            <t pos="Adv">kasvokkain</t>
+            <t pos="Adv">nenätysten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14852">
+      <lg>
+         <l pos="Adv" rest="">njuolgist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">suoraan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15037">
+      <lg>
+         <l pos="Adv" rest="">nokko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">riittävästi</t>
+            <t pos="Adv">tarpeeksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15047">
+      <lg>
+         <l pos="Adv" rest="">nomâlâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">nimittäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15141">
+      <lg>
+         <l pos="Adv" rest="">nubás</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">muualle</t>
+            <t pos="Adv">toisaalle</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15250">
+      <lg>
+         <l pos="Adv" rest="">nuorttiibeln</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">itäpuolella</t>
+            <t pos="Adv">itäpuolelta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15349">
+      <lg>
+         <l pos="Adv" rest="">nuuvtá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ilmainen</t>
+            <t pos="Adv">ilmaiseksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15351">
+      <lg>
+         <l pos="Adv" rest="">nuuvttii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">silti</t>
+            <t pos="Adv">sittenkin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15353">
+      <lg>
+         <l pos="Adv" rest="">nuváhánnáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">iankaikkisesti</t>
+            <t pos="Adv">ikuisesti</t>
+            <t pos="Adv">loppumatta</t>
+            <t pos="Adv">ikuinen</t>
+            <t pos="Adv">loppumaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15433">
+      <lg>
+         <l pos="Adv" rest="">nälittemeht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">epätarkoituksenmukaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15480">
+      <lg>
+         <l pos="Adv" rest="">ohcii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yhdeksästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15497">
+      <lg>
+         <l pos="Adv" rest="">ohtânmaanoost</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alati</t>
+            <t pos="Adv">alinomaa</t>
+            <t pos="Adv">jatkuvasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15500">
+      <lg>
+         <l pos="Adv" rest="">ohtânnjunij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">nenätysten</t>
+            <t pos="Adv">nokakkain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15502">
+      <lg>
+         <l pos="Adv" rest="">ohtânnjuunij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">nenätysten</t>
+            <t pos="Adv">nokakkain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15508">
+      <lg>
+         <l pos="Adv" rest="">ohtâsávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yhteisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15514">
+      <lg>
+         <l pos="Adv" rest="">ohtii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kerran</t>
+            <t pos="Adv">silloin tällöin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15529">
+      <lg>
+         <l pos="Adv" rest="">ohtsis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yhteensä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15530">
+      <lg>
+         <l pos="Adv" rest="">ohtuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yksin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15553">
+      <lg>
+         <l pos="Adv" rest="">olán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">piiriin</t>
+            <t pos="Adv">yhteyteen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15584">
+      <lg>
+         <l pos="Adv" rest="">olgoláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kauemmas (esim. rannasta)</t>
+            <t pos="Adv">etäämmäs (esim. rannasta)</t>
+            <t pos="Adv">ulommaksi (esim. rannasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15594">
+      <lg>
+         <l pos="Adv" rest="">olgomustáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kauimpana</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15595">
+      <lg>
+         <l pos="Adv" rest="">olgon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ulkona</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15607">
+      <lg>
+         <l pos="Adv" rest="">olgos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ulos</t>
+            <t pos="Adv">ilmaista</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15640">
+      <lg>
+         <l pos="Adv" rest="">ollâgávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">korkeasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15641">
+      <lg>
+         <l pos="Adv" rest="">ollágin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yhtään</t>
+            <t pos="Adv">ensinkään</t>
+            <t pos="Adv">lainkaan</t>
+            <t pos="Adv">ollenkaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15722">
+      <lg>
+         <l pos="Adv" rest="">onne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tänään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15735">
+      <lg>
+         <l pos="Adv" rest="">oohtân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yhteen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15753">
+      <lg>
+         <l pos="Adv" rest="">ooleest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">piirissä</t>
+            <t pos="Adv">yhteydessä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15758">
+      <lg>
+         <l pos="Adv" rest="">oolmân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">julki</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15759">
+      <lg>
+         <l pos="Adv" rest="">oolmâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">julki</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15800">
+      <lg>
+         <l pos="Adv" rest="">oovdâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">edeltäpäin</t>
+            <t pos="Adv">edespäin</t>
+            <t pos="Adv">ennakkoon</t>
+            <t pos="Adv">eteenpäin</t>
+            <t pos="Adv">eteen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15816">
+      <lg>
+         <l pos="Adv" rest="">oovdeld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">edeltä</t>
+            <t pos="Adv">päällä (korvamerkissä)</t>
+            <t pos="Adv">vastaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15889">
+      <lg>
+         <l pos="Adv" rest="">oppeet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jälleen</t>
+            <t pos="Adv">taas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15923">
+      <lg>
+         <l pos="Adv" rest="">orjâlâšpiegâpeln</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">lännessä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16054">
+      <lg>
+         <l pos="Adv" rest="">ovdâl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ennen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16058">
+      <lg>
+         <l pos="Adv" rest="">ovdâláhháá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aivan vähän ennen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16063">
+      <lg>
+         <l pos="Adv" rest="">ovdâlist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ennen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16101">
+      <lg>
+         <l pos="Adv" rest="">ovdâskuávlui</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">eteenpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16102">
+      <lg>
+         <l pos="Adv" rest="">ovdâskulâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">eteenpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16103">
+      <lg>
+         <l pos="Adv" rest="">ovdâskulij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">eteenpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16129">
+      <lg>
+         <l pos="Adv" rest="">ovdebist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">edessä</t>
+            <t pos="Adv">edestä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16146">
+      <lg>
+         <l pos="Adv" rest="">ovdeláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vähän edemmäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16158">
+      <lg>
+         <l pos="Adv" rest="">ovdiist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ennestään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16167">
+      <lg>
+         <l pos="Adv" rest="">ovtâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yksitellen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16191">
+      <lg>
+         <l pos="Adv" rest="">ovttuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aina</t>
+            <t pos="Adv">alati</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16207">
+      <lg>
+         <l pos="Adv" rest="">pááikán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kotiin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16212">
+      <lg>
+         <l pos="Adv" rest="">paajaabeln</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yläpuolella</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16216">
+      <lg>
+         <l pos="Adv" rest="">paajeeld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">pinnalta</t>
+            <t pos="Adv">päällä</t>
+            <t pos="Adv">päältä</t>
+            <t pos="Adv">ulkoa (ulkomuistista)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16223">
+      <lg>
+         <l pos="Adv" rest="">paaldâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vierekkäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16352">
+      <lg>
+         <l pos="Adv" rest="">paifakkist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yhtäkkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16359">
+      <lg>
+         <l pos="Adv" rest="">paijeelittáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ylihuomenna</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16365">
+      <lg>
+         <l pos="Adv" rest="">paijeelmiärálávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ylenpalttisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16410">
+      <lg>
+         <l pos="Adv" rest="">pajalist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yltä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16415">
+      <lg>
+         <l pos="Adv" rest="">pajaluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">päällekkäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16417">
+      <lg>
+         <l pos="Adv" rest="">pajaluvvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">päällekkäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16424">
+      <lg>
+         <l pos="Adv" rest="">pajaskulij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ylöspäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16444">
+      <lg>
+         <l pos="Adv" rest="">pajeláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ylemmäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16448">
+      <lg>
+         <l pos="Adv" rest="">pajeláhháá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ylemmäs (vähäsen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16492">
+      <lg>
+         <l pos="Adv" rest="">paldâluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vierekkäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16570">
+      <lg>
+         <l pos="Adv" rest="">pannaal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kauheasti</t>
+            <t pos="Adv">kovasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16978">
+      <lg>
+         <l pos="Adv" rest="">peiviv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">päivällä</t>
+            <t pos="Adv">päivisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17009">
+      <lg>
+         <l pos="Adv" rest="">pelijieggâst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">henkihieverissä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17067">
+      <lg>
+         <l pos="Adv" rest="">pellduvváid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">puoliksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17120">
+      <lg>
+         <l pos="Adv" rest="">peri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vain</t>
+            <t pos="Adv">yksinomaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17132">
+      <lg>
+         <l pos="Adv" rest="">persovnlávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">henkilökohtaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17329">
+      <lg>
+         <l pos="Adv" rest="# -es">pietittem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alaston</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17483">
+      <lg>
+         <l pos="Adv" rest="">pirrâppirrâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">yltympäriinsä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17577">
+      <lg>
+         <l pos="Adv" rest="">piäđgud</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hajallaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17578">
+      <lg>
+         <l pos="Adv" rest="">piäđgui</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hajallaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17713">
+      <lg>
+         <l pos="Adv" rest="">piättáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alasti</t>
+            <t pos="Adv">alaston</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17769">
+      <lg>
+         <l pos="Adv" rest="">pođoi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">irti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17776">
+      <lg>
+         <l pos="Adv" rest="">pođos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">irti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17826">
+      <lg>
+         <l pos="Adv" rest="">polkkoluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">päällekkäin (esim. peskeistä)</t>
+            <t pos="Adv">sisäkkäin (esim. peskeistä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="18182">
+      <lg>
+         <l pos="Adv" rest="puá'idudiäk'ká">puáidudekes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti lihova</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="18183">
+      <lg>
+         <l pos="Adv" rest="">puáidudeves</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti lihova</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="18558">
+      <lg>
+         <l pos="Adv" rest="">puotâluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kohdakkain</t>
+            <t pos="Adv">vastapäätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="18680">
+      <lg>
+         <l pos="Adv" rest="">puttáht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">puhtaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="18727">
+      <lg>
+         <l pos="Adv" rest="">puustavlávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kirjaimellisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="18795">
+      <lg>
+         <l pos="Adv" rest="">pyereest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hyvin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="18898">
+      <lg>
+         <l pos="Adv" rest="juo'lgij">päljis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">avojaloin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="18976">
+      <lg>
+         <l pos="Adv" rest="">pääihist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kotona</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19023">
+      <lg>
+         <l pos="Adv" rest="">ráájust</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tallessa</t>
+            <t pos="Adv">kunnossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19085">
+      <lg>
+         <l pos="Adv" rest="">raddaag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rinnakkain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19189">
+      <lg>
+         <l pos="Adv" rest="">rákkásávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rakkaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19304">
+      <lg>
+         <l pos="Adv" rest="">rávhálávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rauhallisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19309">
+      <lg>
+         <l pos="Adv" rest="">rávhulávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rauhallisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19341">
+      <lg>
+         <l pos="Adv" rest="">reehâst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rajusti</t>
+            <t pos="Adv">ylenmäärin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19375">
+      <lg>
+         <l pos="Adv" rest="">rehelávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rehellisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19389">
+      <lg>
+         <l pos="Adv" rest="">rekkâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">räikeästi (valosta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19475">
+      <lg>
+         <l pos="Adv" rest="">riddoláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rannemmas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19581">
+      <lg>
+         <l pos="Adv" rest="">rijjâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vapaa</t>
+            <t pos="Adv">vapaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19782">
+      <lg>
+         <l pos="Adv" rest="">riävtui</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">oikein</t>
+            <t pos="Adv">totuudenmukaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="19830">
+      <lg>
+         <l pos="Adv" rest="robduu">roobdâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rinne (jyrkempi kuin viel'tti)</t>
+            <t pos="Adv">äärimmilleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="20036">
+      <lg>
+         <l pos="Adv" rest="">ruáptud</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">väärinperin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="20200">
+      <lg>
+         <l pos="Adv" rest="">ruokkâdávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rohkeasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="20290">
+      <lg>
+         <l pos="Adv" rest="">ruossâlâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ristiriitainen</t>
+            <t pos="Adv">ristikkäin</t>
+            <t pos="Adv">ristissä (esim. sukset)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="20451">
+      <lg>
+         <l pos="Adv" rest="">ruubâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kontallaan (teuraasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="20799">
+      <lg>
+         <l pos="Adv" rest="">sahâdávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tiheästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="20833">
+      <lg>
+         <l pos="Adv" rest="">saigâneijee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti rispaantuva (vaatteesta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="20945">
+      <lg>
+         <l pos="Adv" rest="">sálvulâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ristikkäin</t>
+            <t pos="Adv">lomittain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="20949">
+      <lg>
+         <l pos="Adv" rest="">sámás</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">saameksi</t>
+            <t pos="Adv">saamen kielelle</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21146">
+      <lg>
+         <l pos="Adv" rest="">seelgij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">selin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21153">
+      <lg>
+         <l pos="Adv" rest="">seelviht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">selvästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21316">
+      <lg>
+         <l pos="Adv" rest="">šet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">enää</t>
+            <t pos="Adv">sitten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21330">
+      <lg>
+         <l pos="Adv" rest="">setitoho</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">huolimattomasti</t>
+            <t pos="Adv">sinne tänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21462">
+      <lg>
+         <l pos="Adv" rest="">šiettuht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hitaasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21476">
+      <lg>
+         <l pos="Adv" rest="">šievnáál</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kohtalaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21503">
+      <lg>
+         <l pos="Adv" rest="">siijvost</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hiljaa</t>
+            <t pos="Adv">piano (mus.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21572">
+      <lg>
+         <l pos="Adv" rest="">sijvuht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kiltisti</t>
+            <t pos="Adv">nätisti</t>
+            <t pos="Adv">varovaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21702">
+      <lg>
+         <l pos="Adv" rest="">siskáluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sisäkkäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21776">
+      <lg>
+         <l pos="Adv" rest="">šiäđust</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hiljalleen</t>
+            <t pos="Adv">verkkaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21794">
+      <lg>
+         <l pos="Adv" rest="">siähán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sekaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21854">
+      <lg>
+         <l pos="Adv" rest="">siämmást</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">samalla</t>
+            <t pos="Adv">samanaikaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="22332">
+      <lg>
+         <l pos="Adv" rest="">šleđgâlávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sähköisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="22697">
+      <lg>
+         <l pos="Adv" rest="">sollâluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sylikkäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="22893">
+      <lg>
+         <l pos="Adv" rest="# -s">sovláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">runsaslihainen (esim. keitosta tai liemestä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="23507">
+      <lg>
+         <l pos="Adv" rest="">suámálávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hauskasti</t>
+            <t pos="Adv">kummallisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="23519">
+      <lg>
+         <l pos="Adv" rest="">suámittemeht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">epämiellyttävästi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="23790">
+      <lg>
+         <l pos="Adv" rest="">suolgâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hiljaa</t>
+            <t pos="Adv">ääneti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="23799">
+      <lg>
+         <l pos="Adv" rest="">suomâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">suomeksi</t>
+            <t pos="Adv">suomen kielelle</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="23869">
+      <lg>
+         <l pos="Adv" rest="">suottâsávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kivasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="23922">
+      <lg>
+         <l pos="Adv" rest="">suttâlâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti suuttuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="23945">
+      <lg>
+         <l pos="Adv" rest="">suulân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">noin</t>
+            <t pos="Adv">kutakuinkin</t>
+            <t pos="Adv">arviolta</t>
+            <t pos="Adv">suunnilleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24052">
+      <lg>
+         <l pos="Adv" rest="">syele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">salaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24292">
+      <lg>
+         <l pos="Adv" rest="">taa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tässä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24293">
+      <lg>
+         <l pos="Adv" rest="">táá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tässä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24298">
+      <lg>
+         <l pos="Adv" rest="">táágu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tässä kohden</t>
+            <t pos="Adv">tätä kautta</t>
+            <t pos="Adv">täällä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24301">
+      <lg>
+         <l pos="Adv" rest="">táágupeht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tässä kohden</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24362">
+      <lg>
+         <l pos="Adv" rest="">táássán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tähän paikkaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24519">
+      <lg>
+         <l pos="Adv" rest="">tallan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">heti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24520">
+      <lg>
+         <l pos="Adv" rest="">tállán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">heti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24521">
+      <lg>
+         <l pos="Adv" rest="">tállân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">heti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24523">
+      <lg>
+         <l pos="Adv" rest="">talle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">silloin</t>
+            <t pos="Adv">sitten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24568">
+      <lg>
+         <l pos="Adv" rest="">tánávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tällä tavoin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24619">
+      <lg>
+         <l pos="Adv" rest="">tárkká</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tarkasti</t>
+            <t pos="Adv">tarkkaan</t>
+            <t pos="Adv">tarkoin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24652">
+      <lg>
+         <l pos="Adv" rest="">tassaažist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sittemmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24658">
+      <lg>
+         <l pos="Adv" rest="">tastan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">samassa paikassa</t>
+            <t pos="Adv">siinä juuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24661">
+      <lg>
+         <l pos="Adv" rest="">tástán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tässä paikassa</t>
+            <t pos="Adv">tästä paikasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24664">
+      <lg>
+         <l pos="Adv" rest="">tástân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tässä paikassa</t>
+            <t pos="Adv">tästä paikasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24673">
+      <lg>
+         <l pos="Adv" rest="">tastoo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sittemmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24679">
+      <lg>
+         <l pos="Adv" rest="">tátulâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tahallasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24680">
+      <lg>
+         <l pos="Adv" rest="">tátulân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tahallani</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24682">
+      <lg>
+         <l pos="Adv" rest="">tátulis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tahallaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24723">
+      <lg>
+         <l pos="Adv" rest="">tavepiegâpeln</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">pohjoisessa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24772">
+      <lg>
+         <l pos="Adv" rest="">teđet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sittenkin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24777">
+      <lg>
+         <l pos="Adv" rest="">teegâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sittenpä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24778">
+      <lg>
+         <l pos="Adv" rest="">teehi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24779">
+      <lg>
+         <l pos="Adv" rest="">teehin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24798">
+      <lg>
+         <l pos="Adv" rest="">tehân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">niinhän</t>
+            <t pos="Adv">sittenhän</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24819">
+      <lg>
+         <l pos="Adv" rest="">tekkâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">miksipä ei</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24825">
+      <lg>
+         <l pos="Adv" rest="">tekkis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">miksipä ei</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24879">
+      <lg>
+         <l pos="Adv" rest="">tervi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jk verran</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24891">
+      <lg>
+         <l pos="Adv" rest="">tettee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sittenpä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24910">
+      <lg>
+         <l pos="Adv" rest="">tibbii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">-han~-hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24911">
+      <lg>
+         <l pos="Adv" rest="">tibi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">-han~-hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24914">
+      <lg>
+         <l pos="Adv" rest="">tiebbin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">siellä (puhuteltavaa lähellä)</t>
+            <t pos="Adv">sieltä (puhuteltavaa lähellä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24918">
+      <lg>
+         <l pos="Adv" rest="">tieđâlávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tieteellisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24932">
+      <lg>
+         <l pos="Adv" rest="">tiehu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sinne (puhuteltavan lähelle)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24952">
+      <lg>
+         <l pos="Adv" rest="">tiervân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">terveenä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24970">
+      <lg>
+         <l pos="Adv" rest="">tuárvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jk verran</t>
+            <t pos="Adv">kerrallaan jhk mahtuva määrä</t>
+            <t pos="Adv">tarpeeksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24972">
+      <lg>
+         <l pos="Adv" rest="">tiessân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">siihen paikkaan (puhuteltavan lähellä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24994">
+      <lg>
+         <l pos="Adv" rest="">tievâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">täynnä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24998">
+      <lg>
+         <l pos="Adv" rest="">tievâloostâst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">täyslehdessä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25180">
+      <lg>
+         <l pos="Adv" rest="">tiäđulávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tietoisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25259">
+      <lg>
+         <l pos="Adv" rest="">tobbeen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">siellä</t>
+            <t pos="Adv">sieltä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25296">
+      <lg>
+         <l pos="Adv" rest="">toho</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sinne</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25297">
+      <lg>
+         <l pos="Adv" rest="">tohon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sinne</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25374">
+      <lg>
+         <l pos="Adv" rest="">tolemužžân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aikaisintaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25430">
+      <lg>
+         <l pos="Adv" rest="">tooleeh</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">varhain kantava ja vasova vaadin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25450">
+      <lg>
+         <l pos="Adv" rest="">toos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">siihen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25456">
+      <lg>
+         <l pos="Adv" rest="">toossân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">siihen paikkaan (kauempana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25457">
+      <lg>
+         <l pos="Adv" rest="">toovl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuolla (kauempana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25550">
+      <lg>
+         <l pos="Adv" rest="">tovben</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuolla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25557">
+      <lg>
+         <l pos="Adv" rest="">tovgo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuolla (kauempana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25559">
+      <lg>
+         <l pos="Adv" rest="">tovho</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuonne</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25560">
+      <lg>
+         <l pos="Adv" rest="">tovhon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuonne</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25563">
+      <lg>
+         <l pos="Adv" rest="">tovl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuolla (kauempana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25565">
+      <lg>
+         <l pos="Adv" rest="">tovle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">muinoin</t>
+            <t pos="Adv">ennen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25568">
+      <lg>
+         <l pos="Adv" rest="">tovnpeeivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ylihuomenna</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25600">
+      <lg>
+         <l pos="Adv" rest="">tuáhunteehin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sinne tänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25601">
+      <lg>
+         <l pos="Adv" rest="">tuáhuteehin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sinne tänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25712">
+      <lg>
+         <l pos="Adv" rest="">tuáriskulij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">sivuttain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25715">
+      <lg>
+         <l pos="Adv" rest="">tuárispeln</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">syrjässä (asutuksesta)</t>
+            <t pos="Adv">syrjästä (asutuksesta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25723">
+      <lg>
+         <l pos="Adv" rest="">tuárrást</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">poikittain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25740">
+      <lg>
+         <l pos="Adv" rest="">tuárván</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tarpeeksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25797">
+      <lg>
+         <l pos="Adv" rest="">tuđâttetteht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kohtalaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25885">
+      <lg>
+         <l pos="Adv" rest="">tuo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuolla (kauempana)</t>
+            <t pos="Adv">tuossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25887">
+      <lg>
+         <l pos="Adv" rest="">tuođâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">todella</t>
+            <t pos="Adv">tosi</t>
+            <t pos="Adv">tosissaan</t>
+            <t pos="Adv">totisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25952">
+      <lg>
+         <l pos="Adv" rest="">tuođee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuossa juuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25954">
+      <lg>
+         <l pos="Adv" rest="">tuogu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuossa kohden (viitataan etäämmällä olevaan)</t>
+            <t pos="Adv">tuota kautta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25957">
+      <lg>
+         <l pos="Adv" rest="">tuohu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuonne (kauemmas)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25958">
+      <lg>
+         <l pos="Adv" rest="">tuohun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuonne (kauemmas)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26057">
+      <lg>
+         <l pos="Adv" rest="tuođâ">tuotâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">erittäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26152">
+      <lg>
+         <l pos="Adv" rest="">tuše</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ainoastaan</t>
+            <t pos="Adv">vain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26230">
+      <lg>
+         <l pos="Adv" rest="">tyebbiláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuonnemmas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26232">
+      <lg>
+         <l pos="Adv" rest="">tyebbin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuolla (kauempana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26270">
+      <lg>
+         <l pos="Adv" rest="">täbbiláá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tännemmäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26319">
+      <lg>
+         <l pos="Adv" rest="">tälviv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">talvella</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26367">
+      <lg>
+         <l pos="Adv" rest="">tästpalij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tästä lähtien</t>
+            <t pos="Adv">tästä puolin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26392">
+      <lg>
+         <l pos="Adv" rest="">tääbbin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">täällä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26398">
+      <lg>
+         <l pos="Adv" rest="">tääl-uv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">nytkin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26409">
+      <lg>
+         <l pos="Adv" rest="">täävjib</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">useammin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26446">
+      <lg>
+         <l pos="Adv" rest="">uáináh</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">näet</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26463">
+      <lg>
+         <l pos="Adv" rest="">uáinimnáál</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">esille</t>
+            <t pos="Adv">esillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26531">
+      <lg>
+         <l pos="Adv" rest="">uáivist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">juovuksissa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26569">
+      <lg>
+         <l pos="Adv" rest="">uáli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">melko</t>
+            <t pos="Adv">uoma</t>
+            <t pos="Adv">kanava</t>
+            <t pos="Adv">tiehyt</t>
+            <t pos="Adv">syvä väylä</t>
+            <t pos="Adv">presto (mus.)</t>
+            <t pos="Adv">pianissimo (mus.)</t>
+            <t pos="Adv">fortissimo (mus.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26690">
+      <lg>
+         <l pos="Adv" rest="">uávŋild</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuntumassa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26691">
+      <lg>
+         <l pos="Adv" rest="">uávun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">andante (mus.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26731">
+      <lg>
+         <l pos="Adv" rest="">ubbân</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ehjäkärkinen (poron korvasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26745">
+      <lg>
+         <l pos="Adv" rest="">ucánjáhháá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">hetkisen</t>
+            <t pos="Adv">hieman</t>
+            <t pos="Adv">vähäsen</t>
+            <t pos="Adv">hiukkasen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26752">
+      <lg>
+         <l pos="Adv" rest="">ucánjihhii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vähäsen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26825">
+      <lg>
+         <l pos="Adv" rest="">ucceeb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">pienempi</t>
+            <t pos="Adv">vähemmän</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26946">
+      <lg>
+         <l pos="Adv" rest="">ulguubeln</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ulkopuolella</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27043">
+      <lg>
+         <l pos="Adv" rest="">ušom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kuulemma</t>
+            <t pos="Adv">luultavasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27054">
+      <lg>
+         <l pos="Adv" rest="">ustevlávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ystävällisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27133">
+      <lg>
+         <l pos="Adv" rest="">vááijuv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vailla</t>
+            <t pos="Adv">vaille</t>
+            <t pos="Adv">vajaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27179">
+      <lg>
+         <l pos="Adv" rest="">vaarâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ilmeisesti</t>
+            <t pos="Adv">kai</t>
+            <t pos="Adv">varmaan~varmaankin</t>
+            <t pos="Adv">vaari (neuvo)</t>
+            <t pos="Adv">uhka</t>
+            <t pos="Adv">vaara</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27245">
+      <lg>
+         <l pos="Adv" rest="">vaidâlitteht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">valitettavasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27254">
+      <lg>
+         <l pos="Adv" rest="">vaijaht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vihaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27291">
+      <lg>
+         <l pos="Adv" rest="# -s">vaimuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti vihastuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27406">
+      <lg>
+         <l pos="Adv" rest="">valjeeht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">runsaasti</t>
+            <t pos="Adv">yllinkyllin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27463">
+      <lg>
+         <l pos="Adv" rest="">varâinis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">varuillaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27498">
+      <lg>
+         <l pos="Adv" rest="">várugávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">varovasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27527">
+      <lg>
+         <l pos="Adv" rest="">vasteeht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">rumasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27590">
+      <lg>
+         <l pos="Adv" rest="">veerdi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuttava</t>
+            <t pos="Adv">väärti (ystävä, tuttava)</t>
+            <t pos="Adv">ystävä</t>
+            <t pos="Adv">verran</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27646">
+      <lg>
+         <l pos="Adv" rest="">veltihánnáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">välttämättä</t>
+            <t pos="Adv">välttämätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27731">
+      <lg>
+         <l pos="Adv" rest="">viehârâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">väkisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27809">
+      <lg>
+         <l pos="Adv" rest="">vienâlâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti kipeytyvä (esim. raajasta)</t>
+            <t pos="Adv">helposti venähtävä (esim. raajasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27874">
+      <lg>
+         <l pos="Adv" rest="">viestârpeln</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">länsipuolella</t>
+            <t pos="Adv">länsipuolelta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27933">
+      <lg>
+         <l pos="Adv" rest="">viijmâg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vihdoin</t>
+            <t pos="Adv">viimein</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27963">
+      <lg>
+         <l pos="Adv" rest="">vijđáht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">laajalti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27966">
+      <lg>
+         <l pos="Adv" rest="">vijđásávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">laajalti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27988">
+      <lg>
+         <l pos="Adv" rest="">vijnáttum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">juovuksissa (erit. alkoholista)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28049">
+      <lg>
+         <l pos="Adv" rest="">vinnoostuh</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vinottain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28163">
+      <lg>
+         <l pos="Adv" rest="">vissâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">varmaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28167">
+      <lg>
+         <l pos="Adv" rest="">vissásávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">varmasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28169">
+      <lg>
+         <l pos="Adv" rest="">vist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ensin</t>
+            <t pos="Adv">taas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28184">
+      <lg>
+         <l pos="Adv" rest="">vistig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">aluksi</t>
+            <t pos="Adv">ensin</t>
+            <t pos="Adv">vielä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28199">
+      <lg>
+         <l pos="Adv" rest="">vittii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">viidesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28229">
+      <lg>
+         <l pos="Adv" rest="">viälgás</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">velaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28323">
+      <lg>
+         <l pos="Adv" rest="">viäštun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jk varaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28324">
+      <lg>
+         <l pos="Adv" rest="">viäštust</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jk armoilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28485">
+      <lg>
+         <l pos="Adv" rest="">vuáimálávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">forte (mus.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28504">
+      <lg>
+         <l pos="Adv" rest="vuáijus # vuá'jus">vuájus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti uppoava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28525">
+      <lg>
+         <l pos="Adv" rest="">vuáláluvâi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alekkain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28536">
+      <lg>
+         <l pos="Adv" rest="">vuálás</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28538">
+      <lg>
+         <l pos="Adv" rest="">vuáláskulij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alaspäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28539">
+      <lg>
+         <l pos="Adv" rest="">vuálásoivij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alaspäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28545">
+      <lg>
+         <l pos="Adv" rest="">vuálos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28546">
+      <lg>
+         <l pos="Adv" rest="">vuáloskulij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alaspäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28547">
+      <lg>
+         <l pos="Adv" rest="">vuálosoivij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alaspäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28550">
+      <lg>
+         <l pos="Adv" rest="">vuálus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28553">
+      <lg>
+         <l pos="Adv" rest="">vuálusoivij</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alaspäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28639">
+      <lg>
+         <l pos="Adv" rest="">vuávdáht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ahneesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28659">
+      <lg>
+         <l pos="Adv" rest="">vuoččin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ensiksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28667">
+      <lg>
+         <l pos="Adv" rest="">vuod</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jälleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28686">
+      <lg>
+         <l pos="Adv" rest="">vuohâsávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">mukavasti</t>
+            <t pos="Adv">osuvasti</t>
+            <t pos="Adv">sopivasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28884">
+      <lg>
+         <l pos="Adv" rest="">vuosâsaajeest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ensisijaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28886">
+      <lg>
+         <l pos="Adv" rest="">vuosâsajasávt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ensisijaisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28891">
+      <lg>
+         <l pos="Adv" rest="">vuosmuštáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ensiksi</t>
+            <t pos="Adv">ensin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28894">
+      <lg>
+         <l pos="Adv" rest="">vuossâmuštáá</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ensiksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28901">
+      <lg>
+         <l pos="Adv" rest="">vuot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jälleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="29043">
+      <lg>
+         <l pos="Adv" rest="">vyellin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alhaalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="29044">
+      <lg>
+         <l pos="Adv" rest="">vyeln</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alhaalla</t>
+            <t pos="Adv">alla</t>
+            <t pos="Adv">alhaalta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="29215">
+      <lg>
+         <l pos="Adv" rest="">vääiviht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">tuskin</t>
+            <t pos="Adv">vaivalloisesti</t>
+            <t pos="Adv">vaivoin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="29223">
+      <lg>
+         <l pos="Adv" rest="">vääniht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">niukasti</t>
+            <t pos="Adv">vähissä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="29233">
+      <lg>
+         <l pos="Adv" rest="">vääzin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">jalan</t>
+            <t pos="Adv">jalkaisin</t>
+            <t pos="Adv">kävellen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="29333">
+      <lg>
+         <l pos="Adv" rest="">älkkeht</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="29334">
+      <lg>
+         <l pos="Adv" rest="">älkkest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">helposti</t>
+         </tg>
+      </mg>
+   </e>
+</r>
