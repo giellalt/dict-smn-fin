@@ -1260,6 +1260,26 @@
          </tg>
       </mg>
    </e>
+   <e id="4909">
+      <lg>
+         <l pos="Adv">hilui hálui</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="X">hujan hajan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4910">
+      <lg>
+         <l pos="Adv">hilui hálui</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="X">sikin sokin</t>
+         </tg>
+      </mg>
+   </e>
    <e id="4926">
       <lg>
          <l pos="Adv">hirmâd</l>
@@ -4647,6 +4667,16 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">eteen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15814">
+      <lg>
+         <l pos="Adv">oovdebpeeivi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="X">toissapäivänä</t>
          </tg>
       </mg>
    </e>

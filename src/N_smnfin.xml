@@ -27876,6 +27876,16 @@
          </tg>
       </mg>
    </e>
+   <e id="5283">
+      <lg>
+         <l pos="N">hurrikaani</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="X">hurrigaan</t>
+         </tg>
+      </mg>
+   </e>
    <e id="5292">
       <lg>
          <l pos="N">hurtte</l>
@@ -37286,6 +37296,16 @@
          </tg>
       </mg>
    </e>
+   <e id="7085">
+      <lg>
+         <l pos="N">kaamiin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="X">kamina</t>
+         </tg>
+      </mg>
+   </e>
    <e id="7086">
       <lg>
          <l pos="N">káámmár</l>
@@ -40813,6 +40833,16 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">kesävasa (kesällä syntynyt)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7739">
+      <lg>
+         <l pos="N">keesis</l>
+      </lg>
+      <mg rest="kiäs'sá">
+         <tg xml:lang="fin">
+            <t pos="N">kesättivaljaat</t>
          </tg>
       </mg>
    </e>
@@ -46723,6 +46753,16 @@
       <mg rest="-loostâ">
          <tg xml:lang="fin">
             <t pos="N">kelluslehti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8722">
+      <lg>
+         <l pos="N">kobđoolostâsiih</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="X">kelluslehtiset</t>
          </tg>
       </mg>
    </e>
@@ -55076,6 +55116,16 @@
          </tg>
       </mg>
    </e>
+   <e id="10245">
+      <lg>
+         <l pos="N">kurmápoaroi</l>
+      </lg>
+      <mg rest="-porruu">
+         <tg xml:lang="fin">
+            <t pos="X">kurmupaarma Hypoderma tarandi</t>
+         </tg>
+      </mg>
+   </e>
    <e id="10246">
       <lg>
          <l pos="N">kurmápuárui</l>
@@ -61823,6 +61873,16 @@
       <mg rest="liivtâ">
          <tg xml:lang="fin">
             <t pos="N">lyhty</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11365">
+      <lg>
+         <l pos="N">liibaisin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="X">liipasin</t>
          </tg>
       </mg>
    </e>
@@ -74133,6 +74193,16 @@
       <mg rest="muččâdvuođâ">
          <tg xml:lang="fin">
             <t pos="N">komeus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13621">
+      <lg>
+         <l pos="N">mučisluupiin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="X">komealupiini Lupinus polyphyllus</t>
          </tg>
       </mg>
    </e>
@@ -87426,6 +87496,16 @@
          </tg>
       </mg>
    </e>
+   <e id="16226">
+      <lg>
+         <l pos="N">paalgâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="X">räkkäaika (erit. poroilla)</t>
+         </tg>
+      </mg>
+   </e>
    <e id="16227">
       <lg>
          <l pos="N">paalgâs</l>
@@ -91613,6 +91693,16 @@
       <mg rest="pessiim pessee pessejeh">
          <tg xml:lang="fin">
             <t pos="N">pesiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16937">
+      <lg>
+         <l pos="N">peeti</l>
+      </lg>
+      <mg rest="peđe">
+         <tg xml:lang="fin">
+            <t pos="X">täkkä (linnun rintaliha)</t>
          </tg>
       </mg>
    </e>
@@ -110136,6 +110226,16 @@
          </tg>
       </mg>
    </e>
+   <e id="20184">
+      <lg>
+         <l pos="N">ruojâs</l>
+      </lg>
+      <mg rest="ruoijâs">
+         <tg xml:lang="fin">
+            <t pos="X">ruojus</t>
+         </tg>
+      </mg>
+   </e>
    <e id="20185">
       <lg>
          <l pos="N">ruojâs</l>
@@ -116243,6 +116343,16 @@
       <mg rest="seevi">
          <tg xml:lang="fin">
             <t pos="N">hanki (kantava, ei luja)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21167">
+      <lg>
+         <l pos="N">seevi</l>
+      </lg>
+      <mg rest="seevi">
+         <tg xml:lang="fin">
+            <t pos="X">sevä (kova lumi kevättalvella)</t>
          </tg>
       </mg>
    </e>
@@ -147976,6 +148086,16 @@
          </tg>
       </mg>
    </e>
+   <e id="26932">
+      <lg>
+         <l pos="N">uk-ujostâlâm</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="X">pk-yritys</t>
+         </tg>
+      </mg>
+   </e>
    <e id="26935">
       <lg>
          <l pos="N">ulâšrääsi</l>
@@ -148493,6 +148613,16 @@
       <mg rest="-porruu">
          <tg xml:lang="fin">
             <t pos="N">porokiiliäinen Hypoderma tarandi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="27013">
+      <lg>
+         <l pos="N">urmápoaroi</l>
+      </lg>
+      <mg rest="-porruu">
+         <tg xml:lang="fin">
+            <t pos="X">kurmupaarma Hypoderma tarandi</t>
          </tg>
       </mg>
    </e>
