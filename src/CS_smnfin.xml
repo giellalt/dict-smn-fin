@@ -1,47 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="smnfin" xml:lang="smn">
-   <lics xml:space="preserve">
-  <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.
-</lic>
-<ref>Work by Marja-Liisa Olthuis and Taarna Valtonen, and by Giellatekno at UiT,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailtofeedback@divvun.no</a> and <a>mailtogiellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
-     </sourcenote></lics>
+<r>
    <e id="717">
       <lg>
-         <l pos="CS" rest="">amas</l>
+         <l pos="CS">amas</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">ettei</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="718">
+      <lg>
+         <l pos="CS">amas</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">jottei</t>
          </tg>
       </mg>
    </e>
    <e id="822">
       <lg>
-         <l pos="CS" rest="">ansun</l>
+         <l pos="CS">ansun</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jotta</t>
          </tg>
@@ -49,9 +32,19 @@ For the full license text, see the link above.
    </e>
    <e id="1101">
       <lg>
-         <l pos="CS" rest="">asun</l>
+         <l pos="CS">asun</l>
       </lg>
-      <mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">jotta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1104">
+      <lg>
+         <l pos="CS">asun</l>
+      </lg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jotta</t>
          </tg>
@@ -59,9 +52,9 @@ For the full license text, see the link above.
    </e>
    <e id="3746">
       <lg>
-         <l pos="CS" rest="">emas</l>
+         <l pos="CS">emas</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">ettei</t>
          </tg>
@@ -69,9 +62,9 @@ For the full license text, see the link above.
    </e>
    <e id="3806">
       <lg>
-         <l pos="CS" rest="">ensun</l>
+         <l pos="CS">ensun</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jotta</t>
          </tg>
@@ -79,9 +72,9 @@ For the full license text, see the link above.
    </e>
    <e id="3939">
       <lg>
-         <l pos="CS" rest="">ete</l>
+         <l pos="CS">ete</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">että</t>
          </tg>
@@ -89,118 +82,289 @@ For the full license text, see the link above.
    </e>
    <e id="6525">
       <lg>
-         <l pos="CS" rest="">jos</l>
+         <l pos="CS">jos</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jos</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6526">
+      <lg>
+         <l pos="CS">jos</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">vaikka</t>
          </tg>
       </mg>
    </e>
    <e id="8702">
       <lg>
-         <l pos="CS" rest="">ko</l>
+         <l pos="CS">ko</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jolloin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8703">
+      <lg>
+         <l pos="CS">ko</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">koska</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8704">
+      <lg>
+         <l pos="CS">ko</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">kuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8705">
+      <lg>
+         <l pos="CS">ko</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">kun</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8706">
+      <lg>
+         <l pos="CS">ko</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">milloin</t>
          </tg>
       </mg>
    </e>
    <e id="8791">
       <lg>
-         <l pos="CS" rest="">kođe</l>
+         <l pos="CS">kođe</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kun</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8792">
+      <lg>
+         <l pos="CS">kođe</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">kun sitten</t>
          </tg>
       </mg>
    </e>
    <e id="9605">
       <lg>
-         <l pos="CS" rest="">kuás</l>
+         <l pos="CS">kuás</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jolloin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9606">
+      <lg>
+         <l pos="CS">kuás</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">koska</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9607">
+      <lg>
+         <l pos="CS">kuás</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">kun</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9608">
+      <lg>
+         <l pos="CS">kuás</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">milloin</t>
          </tg>
       </mg>
    </e>
    <e id="10007">
       <lg>
-         <l pos="CS" rest="">kuo</l>
+         <l pos="CS">kuo</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10008">
+      <lg>
+         <l pos="CS">kuo</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">kun</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10009">
+      <lg>
+         <l pos="CS">kuo</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">kunpa</t>
          </tg>
       </mg>
    </e>
    <e id="13840">
       <lg>
-         <l pos="CS" rest="">mutâ</l>
+         <l pos="CS">mutâ</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">mutta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13841">
+      <lg>
+         <l pos="CS">mutâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">vaan</t>
          </tg>
       </mg>
    </e>
    <e id="24646">
       <lg>
-         <l pos="CS" rest="">tassaaš</l>
+         <l pos="CS">tassaaš</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kunnes</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24647">
+      <lg>
+         <l pos="CS">tassaaš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">siihen saakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24648">
+      <lg>
+         <l pos="CS">tassaaš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">siihen asti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24649">
+      <lg>
+         <l pos="CS">tassaaš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">siitä asti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24650">
+      <lg>
+         <l pos="CS">tassaaš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">sitten (aikaisemmin)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24651">
+      <lg>
+         <l pos="CS">tassaaš</l>
+      </lg>
+      <mg rest="tassaa">
+         <tg xml:lang="fin">
             <t pos="CS">silloinen</t>
          </tg>
       </mg>
    </e>
    <e id="24756">
       <lg>
-         <l pos="CS" rest="">te</l>
+         <l pos="CS">te</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">niin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24757">
+      <lg>
+         <l pos="CS">te</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">sitten</t>
          </tg>
       </mg>
    </e>
    <e id="24790">
       <lg>
-         <l pos="CS" rest="">tegu</l>
+         <l pos="CS">tegu</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="24791">
+      <lg>
+         <l pos="CS">tegu</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">niin kuin</t>
          </tg>
       </mg>
    </e>
    <e id="27260">
       <lg>
-         <l pos="CS" rest="">vâik</l>
+         <l pos="CS">vâik</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">vaikka</t>
          </tg>
@@ -208,9 +372,9 @@ For the full license text, see the link above.
    </e>
    <e id="27616">
       <lg>
-         <l pos="CS" rest="">veik</l>
+         <l pos="CS">veik</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">vaikka</t>
          </tg>
@@ -218,9 +382,9 @@ For the full license text, see the link above.
    </e>
    <e id="27617">
       <lg>
-         <l pos="CS" rest="veeihâ">veikkâ</l>
+         <l pos="CS">veikkâ</l>
       </lg>
-      <mg>
+      <mg rest="veeihâ">
          <tg xml:lang="fin">
             <t pos="CS">sydän (lampun)</t>
          </tg>

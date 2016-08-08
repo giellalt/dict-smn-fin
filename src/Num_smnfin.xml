@@ -1,36 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="smnfin" xml:lang="smn">
-   <lics xml:space="preserve">
-  <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.
-</lic>
-<ref>Work by Marja-Liisa Olthuis and Taarna Valtonen, and by Giellatekno at UiT,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailtofeedback@divvun.no</a> and <a>mailtogiellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
-     </sourcenote></lics>
+<r>
    <e id="1746">
       <lg>
-         <l pos="Num" rest="">čiččâd</l>
+         <l pos="Num">čiččâd</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">seitsemäs</t>
          </tg>
@@ -38,9 +12,9 @@ For the full license text, see the link above.
    </e>
    <e id="1747">
       <lg>
-         <l pos="Num" rest="">čiččâm</l>
+         <l pos="Num">čiččâm</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">seitsemän</t>
          </tg>
@@ -48,20 +22,29 @@ For the full license text, see the link above.
    </e>
    <e id="1748">
       <lg>
-         <l pos="Num" rest="">čiččâmâs</l>
+         <l pos="Num">čiččâmâs</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">seitsemän ihmistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1749">
+      <lg>
+         <l pos="Num">čiččâmâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Num">seitsemän ihmisen joukko</t>
          </tg>
       </mg>
    </e>
    <e id="1750">
       <lg>
-         <l pos="Num" rest="">čiččâmčyeđe</l>
+         <l pos="Num">čiččâmčyeđe</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">seitsemänsataa</t>
          </tg>
@@ -69,9 +52,9 @@ For the full license text, see the link above.
    </e>
    <e id="1751">
       <lg>
-         <l pos="Num" rest="">čiččâmlov</l>
+         <l pos="Num">čiččâmlov</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">seitsemänkymmentä</t>
          </tg>
@@ -79,9 +62,9 @@ For the full license text, see the link above.
    </e>
    <e id="1752">
       <lg>
-         <l pos="Num" rest="-nubálov">čiččâmnubáloh</l>
+         <l pos="Num">čiččâmnubáloh</l>
       </lg>
-      <mg>
+      <mg rest="-nubálov">
          <tg xml:lang="fin">
             <t pos="Num">seitsemäntoista</t>
          </tg>
@@ -89,9 +72,9 @@ For the full license text, see the link above.
    </e>
    <e id="1756">
       <lg>
-         <l pos="Num" rest="">čiččid</l>
+         <l pos="Num">čiččid</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">seitsemäs</t>
          </tg>
@@ -99,9 +82,9 @@ For the full license text, see the link above.
    </e>
    <e id="1757">
       <lg>
-         <l pos="Num" rest="">čiččii</l>
+         <l pos="Num">čiččii</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">seitsemän kertaa</t>
          </tg>
@@ -109,9 +92,9 @@ For the full license text, see the link above.
    </e>
    <e id="2472">
       <lg>
-         <l pos="Num" rest="# -s">čuákkáá</l>
+         <l pos="Num">čuákkáá</l>
       </lg>
-      <mg>
+      <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="Num">yhdessä pysyvä (porotokasta)</t>
          </tg>
@@ -119,9 +102,9 @@ For the full license text, see the link above.
    </e>
    <e id="3316">
       <lg>
-         <l pos="Num" rest="čye'đe">čyeti</l>
+         <l pos="Num">čyeti</l>
       </lg>
-      <mg>
+      <mg rest="čye'đe">
          <tg xml:lang="fin">
             <t pos="Num">sata</t>
          </tg>
@@ -129,9 +112,9 @@ For the full license text, see the link above.
    </e>
    <e id="6333">
       <lg>
-         <l pos="Num" rest="">jiešiäluid</l>
+         <l pos="Num">jiešiäluid</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">yhdessä</t>
          </tg>
@@ -139,9 +122,9 @@ For the full license text, see the link above.
    </e>
    <e id="7127">
       <lg>
-         <l pos="Num" rest="">káávcád</l>
+         <l pos="Num">káávcád</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">kahdeksas</t>
          </tg>
@@ -149,9 +132,9 @@ For the full license text, see the link above.
    </e>
    <e id="7199">
       <lg>
-         <l pos="Num" rest="">kahcii</l>
+         <l pos="Num">kahcii</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">kahdeksan kertaa</t>
          </tg>
@@ -159,9 +142,9 @@ For the full license text, see the link above.
    </e>
    <e id="9494">
       <lg>
-         <l pos="Num" rest="">kuálmád</l>
+         <l pos="Num">kuálmád</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">kolmas</t>
          </tg>
@@ -169,9 +152,9 @@ For the full license text, see the link above.
    </e>
    <e id="9734">
       <lg>
-         <l pos="Num" rest="">kuávttáákooskâl</l>
+         <l pos="Num">kuávttáákooskâl</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">kahden kesken</t>
          </tg>
@@ -179,9 +162,9 @@ For the full license text, see the link above.
    </e>
    <e id="9915">
       <lg>
-         <l pos="Num" rest="kuulmâ">kulmâ</l>
+         <l pos="Num">kulmâ</l>
       </lg>
-      <mg>
+      <mg rest="kuulmâ">
          <tg xml:lang="fin">
             <t pos="Num">kolme</t>
          </tg>
@@ -189,9 +172,9 @@ For the full license text, see the link above.
    </e>
    <e id="9917">
       <lg>
-         <l pos="Num" rest="kuulmâlov">kulmâlov</l>
+         <l pos="Num">kulmâlov</l>
       </lg>
-      <mg>
+      <mg rest="kuulmâlov">
          <tg xml:lang="fin">
             <t pos="Num">kolmekymmentä</t>
          </tg>
@@ -199,9 +182,9 @@ For the full license text, see the link above.
    </e>
    <e id="9918">
       <lg>
-         <l pos="Num" rest="-nubálov">kulmânubáloh</l>
+         <l pos="Num">kulmânubáloh</l>
       </lg>
-      <mg>
+      <mg rest="-nubálov">
          <tg xml:lang="fin">
             <t pos="Num">kolmetoista</t>
          </tg>
@@ -209,9 +192,9 @@ For the full license text, see the link above.
    </e>
    <e id="9922">
       <lg>
-         <l pos="Num" rest="">kulmii</l>
+         <l pos="Num">kulmii</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">kolme kertaa</t>
          </tg>
@@ -219,9 +202,9 @@ For the full license text, see the link above.
    </e>
    <e id="10306">
       <lg>
-         <l pos="Num" rest="kuđâlov">kutlov</l>
+         <l pos="Num">kutlov</l>
       </lg>
-      <mg>
+      <mg rest="kuđâlov">
          <tg xml:lang="fin">
             <t pos="Num">kuusikymmentä</t>
          </tg>
@@ -229,9 +212,9 @@ For the full license text, see the link above.
    </e>
    <e id="10307">
       <lg>
-         <l pos="Num" rest="kuuđâ">kuttâ</l>
+         <l pos="Num">kuttâ</l>
       </lg>
-      <mg>
+      <mg rest="kuuđâ">
          <tg xml:lang="fin">
             <t pos="Num">kuusi</t>
          </tg>
@@ -239,9 +222,9 @@ For the full license text, see the link above.
    </e>
    <e id="10310">
       <lg>
-         <l pos="Num" rest="">kuuđâd</l>
+         <l pos="Num">kuuđâd</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">kuudes</t>
          </tg>
@@ -249,9 +232,9 @@ For the full license text, see the link above.
    </e>
    <e id="10313">
       <lg>
-         <l pos="Num" rest="kuttâs">kuuđâs</l>
+         <l pos="Num">kuuđâs</l>
       </lg>
-      <mg>
+      <mg rest="kuttâs">
          <tg xml:lang="fin">
             <t pos="Num">kuuden joukko</t>
          </tg>
@@ -259,9 +242,9 @@ For the full license text, see the link above.
    </e>
    <e id="10450">
       <lg>
-         <l pos="Num" rest="kyevti">kyehti</l>
+         <l pos="Num">kyehti</l>
       </lg>
-      <mg>
+      <mg rest="kyevti">
          <tg xml:lang="fin">
             <t pos="Num">kaksi</t>
          </tg>
@@ -269,9 +252,9 @@ For the full license text, see the link above.
    </e>
    <e id="10454">
       <lg>
-         <l pos="Num" rest="kyeh'tinubálov">kyehtinubáloh</l>
+         <l pos="Num">kyehtinubáloh</l>
       </lg>
-      <mg>
+      <mg rest="kyeh'tinubálov">
          <tg xml:lang="fin">
             <t pos="Num">kaksitoista</t>
          </tg>
@@ -279,9 +262,9 @@ For the full license text, see the link above.
    </e>
    <e id="10455">
       <lg>
-         <l pos="Num" rest="kyevtlov">kyehtlov</l>
+         <l pos="Num">kyehtlov</l>
       </lg>
-      <mg>
+      <mg rest="kyevtlov">
          <tg xml:lang="fin">
             <t pos="Num">kaksikymmentä</t>
          </tg>
@@ -289,9 +272,9 @@ For the full license text, see the link above.
    </e>
    <e id="10456">
       <lg>
-         <l pos="Num" rest="kyeh'tnubálov">kyehtnubáloh</l>
+         <l pos="Num">kyehtnubáloh</l>
       </lg>
-      <mg>
+      <mg rest="kyeh'tnubálov">
          <tg xml:lang="fin">
             <t pos="Num">kaksitoista</t>
          </tg>
@@ -299,9 +282,9 @@ For the full license text, see the link above.
    </e>
    <e id="10517">
       <lg>
-         <l pos="Num" rest="kuáh'tá kuáh'tás">kyevtis</l>
+         <l pos="Num">kyevtis</l>
       </lg>
-      <mg>
+      <mg rest="kuáh'tá kuáh'tás">
          <tg xml:lang="fin">
             <t pos="Num">kaksi ihmistä</t>
          </tg>
@@ -309,9 +292,9 @@ For the full license text, see the link above.
    </e>
    <e id="10527">
       <lg>
-         <l pos="Num" rest="">kyevtpeln</l>
+         <l pos="Num">kyevtpeln</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">kahden puolen</t>
          </tg>
@@ -319,9 +302,9 @@ For the full license text, see the link above.
    </e>
    <e id="10546">
       <lg>
-         <l pos="Num" rest="käävcilov">kähcilov</l>
+         <l pos="Num">kähcilov</l>
       </lg>
-      <mg>
+      <mg rest="käävcilov">
          <tg xml:lang="fin">
             <t pos="Num">kahdeksankymmentä</t>
          </tg>
@@ -329,9 +312,9 @@ For the full license text, see the link above.
    </e>
    <e id="10697">
       <lg>
-         <l pos="Num" rest="">käävci</l>
+         <l pos="Num">käävci</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">kahdeksan</t>
          </tg>
@@ -339,9 +322,9 @@ For the full license text, see the link above.
    </e>
    <e id="10698">
       <lg>
-         <l pos="Num" rest="káhcás káhtsâs">käävcis</l>
+         <l pos="Num">käävcis</l>
       </lg>
-      <mg>
+      <mg rest="káhcás káhtsâs">
          <tg xml:lang="fin">
             <t pos="Num">kahdeksan ihmisen joukko</t>
          </tg>
@@ -349,20 +332,29 @@ For the full license text, see the link above.
    </e>
    <e id="11788">
       <lg>
-         <l pos="Num" rest="lohháás">loves</l>
+         <l pos="Num">loves</l>
       </lg>
-      <mg>
+      <mg rest="lohháás">
          <tg xml:lang="fin">
             <t pos="Num">kymmenen (ihmistä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11789">
+      <lg>
+         <l pos="Num">loves</l>
+      </lg>
+      <mg rest="lohháás">
+         <tg xml:lang="fin">
             <t pos="Num">kymmenen ihmisen joukko</t>
          </tg>
       </mg>
    </e>
    <e id="11800">
       <lg>
-         <l pos="Num" rest="">lovváád</l>
+         <l pos="Num">lovváád</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">kymmenes</t>
          </tg>
@@ -370,9 +362,9 @@ For the full license text, see the link above.
    </e>
    <e id="11801">
       <lg>
-         <l pos="Num" rest="">lovvááh</l>
+         <l pos="Num">lovvááh</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">kymmenet (matem.)</t>
          </tg>
@@ -380,9 +372,9 @@ For the full license text, see the link above.
    </e>
    <e id="11802">
       <lg>
-         <l pos="Num" rest="lovváá">lovvááš</l>
+         <l pos="Num">lovvááš</l>
       </lg>
-      <mg>
+      <mg rest="lovváá">
          <tg xml:lang="fin">
             <t pos="Num">kymmenen (numero)</t>
          </tg>
@@ -390,9 +382,9 @@ For the full license text, see the link above.
    </e>
    <e id="11947">
       <lg>
-         <l pos="Num" rest="">luhhii</l>
+         <l pos="Num">luhhii</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">kymmenen kertaa</t>
          </tg>
@@ -400,9 +392,9 @@ For the full license text, see the link above.
    </e>
    <e id="12085">
       <lg>
-         <l pos="Num" rest="">luovâsvyeje</l>
+         <l pos="Num">luovâsvyeje</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">yhdellä porolla ajaen</t>
          </tg>
@@ -410,9 +402,9 @@ For the full license text, see the link above.
    </e>
    <e id="12253">
       <lg>
-         <l pos="Num" rest="läävi">lävvi</l>
+         <l pos="Num">lävvi</l>
       </lg>
-      <mg>
+      <mg rest="läävi">
          <tg xml:lang="fin">
             <t pos="Num">kahden verkon liitoskohta jadassa</t>
          </tg>
@@ -420,9 +412,9 @@ For the full license text, see the link above.
    </e>
    <e id="13500">
       <lg>
-         <l pos="Num" rest="">muáddilov</l>
+         <l pos="Num">muáddilov</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">parikymmentä</t>
          </tg>
@@ -430,9 +422,9 @@ For the full license text, see the link above.
    </e>
    <e id="13503">
       <lg>
-         <l pos="Num" rest="">muádlov</l>
+         <l pos="Num">muádlov</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">parikymmentä</t>
          </tg>
@@ -440,9 +432,9 @@ For the full license text, see the link above.
    </e>
    <e id="14192">
       <lg>
-         <l pos="Num" rest="neeljilov">neljilov</l>
+         <l pos="Num">neljilov</l>
       </lg>
-      <mg>
+      <mg rest="neeljilov">
          <tg xml:lang="fin">
             <t pos="Num">neljäkymmentä</t>
          </tg>
@@ -450,9 +442,9 @@ For the full license text, see the link above.
    </e>
    <e id="14193">
       <lg>
-         <l pos="Num" rest="-nubálov">neljinubáloh</l>
+         <l pos="Num">neljinubáloh</l>
       </lg>
-      <mg>
+      <mg rest="-nubálov">
          <tg xml:lang="fin">
             <t pos="Num">neljätoista</t>
          </tg>
@@ -460,9 +452,9 @@ For the full license text, see the link above.
    </e>
    <e id="14321">
       <lg>
-         <l pos="Num" rest="">niäljád</l>
+         <l pos="Num">niäljád</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">neljäs</t>
          </tg>
@@ -470,9 +462,9 @@ For the full license text, see the link above.
    </e>
    <e id="15139">
       <lg>
-         <l pos="Num" rest="nubálov">nubáloh</l>
+         <l pos="Num">nubáloh</l>
       </lg>
-      <mg>
+      <mg rest="nubálov">
          <tg xml:lang="fin">
             <t pos="Num">toistakymmentä</t>
          </tg>
@@ -480,9 +472,9 @@ For the full license text, see the link above.
    </e>
    <e id="15151">
       <lg>
-         <l pos="Num" rest="nube">nubbe</l>
+         <l pos="Num">nubbe</l>
       </lg>
-      <mg>
+      <mg rest="nube">
          <tg xml:lang="fin">
             <t pos="Num">toinen</t>
          </tg>
@@ -490,9 +482,9 @@ For the full license text, see the link above.
    </e>
    <e id="15478">
       <lg>
-         <l pos="Num" rest="oovcelov">ohcelov</l>
+         <l pos="Num">ohcelov</l>
       </lg>
-      <mg>
+      <mg rest="oovcelov">
          <tg xml:lang="fin">
             <t pos="Num">yhdeksänkymmentä</t>
          </tg>
@@ -500,9 +492,9 @@ For the full license text, see the link above.
    </e>
    <e id="15479">
       <lg>
-         <l pos="Num" rest="">ohcii</l>
+         <l pos="Num">ohcii</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">yhdeksän kertaa</t>
          </tg>
@@ -510,21 +502,39 @@ For the full license text, see the link above.
    </e>
    <e id="15485">
       <lg>
-         <l pos="Num" rest="oovtâ">ohtâ</l>
+         <l pos="Num">ohtâ</l>
       </lg>
-      <mg>
+      <mg rest="oovtâ">
          <tg xml:lang="fin">
             <t pos="Num">eräs (tiedetään kuka on kyseessä, muttei haluta mainita nimellä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15486">
+      <lg>
+         <l pos="Num">ohtâ</l>
+      </lg>
+      <mg rest="oovtâ">
+         <tg xml:lang="fin">
             <t pos="Num">muuan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15487">
+      <lg>
+         <l pos="Num">ohtâ</l>
+      </lg>
+      <mg rest="oovtâ">
+         <tg xml:lang="fin">
             <t pos="Num">yksi</t>
          </tg>
       </mg>
    </e>
    <e id="15522">
       <lg>
-         <l pos="Num" rest="-nubálov">ohtnubáloh</l>
+         <l pos="Num">ohtnubáloh</l>
       </lg>
-      <mg>
+      <mg rest="-nubálov">
          <tg xml:lang="fin">
             <t pos="Num">yksitoista</t>
          </tg>
@@ -532,9 +542,9 @@ For the full license text, see the link above.
    </e>
    <e id="15785">
       <lg>
-         <l pos="Num" rest="">oovcád</l>
+         <l pos="Num">oovcád</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">yhdeksäs</t>
          </tg>
@@ -542,9 +552,9 @@ For the full license text, see the link above.
    </e>
    <e id="15786">
       <lg>
-         <l pos="Num" rest="">oovce</l>
+         <l pos="Num">oovce</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">yhdeksän</t>
          </tg>
@@ -552,9 +562,9 @@ For the full license text, see the link above.
    </e>
    <e id="15787">
       <lg>
-         <l pos="Num" rest="-nubálov">oovcenubáloh</l>
+         <l pos="Num">oovcenubáloh</l>
       </lg>
-      <mg>
+      <mg rest="-nubálov">
          <tg xml:lang="fin">
             <t pos="Num">yhdeksäntoista</t>
          </tg>
@@ -562,20 +572,29 @@ For the full license text, see the link above.
    </e>
    <e id="15788">
       <lg>
-         <l pos="Num" rest="ohcás">oovces</l>
+         <l pos="Num">oovces</l>
       </lg>
-      <mg>
+      <mg rest="ohcás">
          <tg xml:lang="fin">
             <t pos="Num">yhdeksän (ihmistä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15789">
+      <lg>
+         <l pos="Num">oovces</l>
+      </lg>
+      <mg rest="ohcás">
+         <tg xml:lang="fin">
             <t pos="Num">yhdeksän ihmisen joukko</t>
          </tg>
       </mg>
    </e>
    <e id="15848">
       <lg>
-         <l pos="Num" rest="">oovtâst</l>
+         <l pos="Num">oovtâst</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">yhdessä</t>
          </tg>
@@ -583,9 +602,9 @@ For the full license text, see the link above.
    </e>
    <e id="21943">
       <lg>
-         <l pos="Num" rest="skáávtá">skáhtá</l>
+         <l pos="Num">skáhtá</l>
       </lg>
-      <mg>
+      <mg rest="skáávtá">
          <tg xml:lang="fin">
             <t pos="Num">kaksi purjeen alapuuhun kiinnitettyä köyttä, joilla ohjataan ja kiinnitetään purje</t>
          </tg>
@@ -593,9 +612,9 @@ For the full license text, see the link above.
    </e>
    <e id="26385">
       <lg>
-         <l pos="Num" rest="">tävjit-távjá</l>
+         <l pos="Num">tävjit-távjá</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">yhtenään</t>
          </tg>
@@ -603,9 +622,9 @@ For the full license text, see the link above.
    </e>
    <e id="27924">
       <lg>
-         <l pos="Num" rest="">viiđâd</l>
+         <l pos="Num">viiđâd</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">viides</t>
          </tg>
@@ -613,9 +632,9 @@ For the full license text, see the link above.
    </e>
    <e id="27925">
       <lg>
-         <l pos="Num" rest="vittâs">viiđâs</l>
+         <l pos="Num">viiđâs</l>
       </lg>
-      <mg>
+      <mg rest="vittâs">
          <tg xml:lang="fin">
             <t pos="Num">viisi (ihmistä)</t>
          </tg>
@@ -623,9 +642,9 @@ For the full license text, see the link above.
    </e>
    <e id="28189">
       <lg>
-         <l pos="Num" rest="viđâlov">vitlov</l>
+         <l pos="Num">vitlov</l>
       </lg>
-      <mg>
+      <mg rest="viđâlov">
          <tg xml:lang="fin">
             <t pos="Num">viisikymmentä</t>
          </tg>
@@ -633,9 +652,9 @@ For the full license text, see the link above.
    </e>
    <e id="28190">
       <lg>
-         <l pos="Num" rest="-nubálov">vitnubáloh</l>
+         <l pos="Num">vitnubáloh</l>
       </lg>
-      <mg>
+      <mg rest="-nubálov">
          <tg xml:lang="fin">
             <t pos="Num">viisitoista</t>
          </tg>
@@ -643,9 +662,9 @@ For the full license text, see the link above.
    </e>
    <e id="28191">
       <lg>
-         <l pos="Num" rest="viiđâ">vittâ</l>
+         <l pos="Num">vittâ</l>
       </lg>
-      <mg>
+      <mg rest="viiđâ">
          <tg xml:lang="fin">
             <t pos="Num">viisi</t>
          </tg>
@@ -653,9 +672,9 @@ For the full license text, see the link above.
    </e>
    <e id="28193">
       <lg>
-         <l pos="Num" rest="">vittâčyeđe</l>
+         <l pos="Num">vittâčyeđe</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">viisisataa</t>
          </tg>
@@ -663,9 +682,9 @@ For the full license text, see the link above.
    </e>
    <e id="28200">
       <lg>
-         <l pos="Num" rest="">vittii</l>
+         <l pos="Num">vittii</l>
       </lg>
-      <mg>
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">viisi kertaa</t>
          </tg>
@@ -673,9 +692,9 @@ For the full license text, see the link above.
    </e>
    <e id="28890">
       <lg>
-         <l pos="Num" rest="vuosmuu">vuosmuš</l>
+         <l pos="Num">vuosmuš</l>
       </lg>
-      <mg>
+      <mg rest="vuosmuu">
          <tg xml:lang="fin">
             <t pos="Num">ensimmäinen</t>
          </tg>
