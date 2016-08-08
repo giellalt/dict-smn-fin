@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+   <e id="234">
+      <lg>
+         <l pos="CC">adai</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">eli</t>
+         </tg>
+      </mg>
+   </e>
    <e id="235">
       <lg>
          <l pos="CC">adai</l>
@@ -7,6 +17,16 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">elikkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="237">
+      <lg>
+         <l pos="CC">ađai</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">eli</t>
          </tg>
       </mg>
    </e>
