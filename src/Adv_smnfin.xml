@@ -4680,6 +4680,16 @@
          </tg>
       </mg>
    </e>
+   <e id="15815">
+      <lg>
+         <l pos="Adv">oovdebpeivi</l>
+      </lg>
+      <mg rest="-peeivi">
+         <tg xml:lang="fin">
+            <t pos="X">toissapäivä</t>
+         </tg>
+      </mg>
+   </e>
    <e id="15816">
       <lg>
          <l pos="Adv">oovdeld</l>
