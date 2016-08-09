@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r>
-   <e id="95">
+<r xml:lang="smn">
+   <e>
       <lg>
          <l pos="Interj">aamen</l>
       </lg>
@@ -10,7 +10,7 @@
          </tg>
       </mg>
    </e>
-   <e id="244">
+   <e>
       <lg>
          <l pos="Interj">addâgâs</l>
       </lg>
@@ -20,7 +20,7 @@
          </tg>
       </mg>
    </e>
-   <e id="326">
+   <e>
       <lg>
          <l pos="Interj">ai</l>
       </lg>
@@ -30,7 +30,7 @@
          </tg>
       </mg>
    </e>
-   <e id="2609">
+   <e>
       <lg>
          <l pos="Interj">cuártti</l>
       </lg>
@@ -39,18 +39,13 @@
             <t pos="Interj">paholainen (kirosana, harv.)</t>
          </tg>
       </mg>
-   </e>
-   <e id="2610">
-      <lg>
-         <l pos="Interj">cuártti</l>
-      </lg>
       <mg rest="cuárti">
          <tg xml:lang="fin">
             <t pos="Interj">piru (kirosana, harv.)</t>
          </tg>
       </mg>
    </e>
-   <e id="3989">
+   <e>
       <lg>
          <l pos="Interj">faanin</l>
       </lg>
@@ -60,7 +55,7 @@
          </tg>
       </mg>
    </e>
-   <e id="4505">
+   <e>
       <lg>
          <l pos="Interj">hálvát</l>
       </lg>
@@ -70,7 +65,7 @@
          </tg>
       </mg>
    </e>
-   <e id="4745">
+   <e>
       <lg>
          <l pos="Interj">hei</l>
       </lg>
@@ -80,7 +75,7 @@
          </tg>
       </mg>
    </e>
-   <e id="4855">
+   <e>
       <lg>
          <l pos="Interj">het-het</l>
       </lg>
@@ -90,7 +85,7 @@
          </tg>
       </mg>
    </e>
-   <e id="4870">
+   <e>
       <lg>
          <l pos="Interj">hevvât</l>
       </lg>
@@ -100,7 +95,7 @@
          </tg>
       </mg>
    </e>
-   <e id="4871">
+   <e>
       <lg>
          <l pos="Interj">hevvet</l>
       </lg>
@@ -110,7 +105,7 @@
          </tg>
       </mg>
    </e>
-   <e id="4872">
+   <e>
       <lg>
          <l pos="Interj">hevvit</l>
       </lg>
@@ -120,7 +115,7 @@
          </tg>
       </mg>
    </e>
-   <e id="5096">
+   <e>
       <lg>
          <l pos="Interj">hos</l>
       </lg>
@@ -130,7 +125,7 @@
          </tg>
       </mg>
    </e>
-   <e id="5820">
+   <e>
       <lg>
          <l pos="Interj">itám</l>
       </lg>
@@ -140,7 +135,7 @@
          </tg>
       </mg>
    </e>
-   <e id="6010">
+   <e>
       <lg>
          <l pos="Interj">jáá</l>
       </lg>
@@ -149,28 +144,18 @@
             <t pos="Interj">jaa</t>
          </tg>
       </mg>
-   </e>
-   <e id="6011">
-      <lg>
-         <l pos="Interj">jáá</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">vai niin</t>
          </tg>
       </mg>
-   </e>
-   <e id="6012">
-      <lg>
-         <l pos="Interj">jáá</l>
-      </lg>
       <mg rest="nuuvt">
          <tg xml:lang="fin">
             <t pos="Interj">vai niin</t>
          </tg>
       </mg>
    </e>
-   <e id="6484">
+   <e>
       <lg>
          <l pos="Interj">joo-o</l>
       </lg>
@@ -180,7 +165,7 @@
          </tg>
       </mg>
    </e>
-   <e id="7196">
+   <e>
       <lg>
          <l pos="Interj">kah</l>
       </lg>
@@ -190,7 +175,7 @@
          </tg>
       </mg>
    </e>
-   <e id="8544">
+   <e>
       <lg>
          <l pos="Interj">kiäh</l>
       </lg>
@@ -200,7 +185,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10271">
+   <e>
       <lg>
          <l pos="Interj">kuš</l>
       </lg>
@@ -210,7 +195,7 @@
          </tg>
       </mg>
    </e>
-   <e id="11297">
+   <e>
       <lg>
          <l pos="Interj">liebbuš</l>
       </lg>
@@ -220,7 +205,7 @@
          </tg>
       </mg>
    </e>
-   <e id="13071">
+   <e>
       <lg>
          <l pos="Interj">miessârokke</l>
       </lg>
@@ -230,7 +215,7 @@
          </tg>
       </mg>
    </e>
-   <e id="13269">
+   <e>
       <lg>
          <l pos="Interj">moččârokke</l>
       </lg>
@@ -240,7 +225,7 @@
          </tg>
       </mg>
    </e>
-   <e id="13467">
+   <e>
       <lg>
          <l pos="Interj">motjanan</l>
       </lg>
@@ -250,7 +235,7 @@
          </tg>
       </mg>
    </e>
-   <e id="13988">
+   <e>
       <lg>
          <l pos="Interj">na</l>
       </lg>
@@ -260,7 +245,7 @@
          </tg>
       </mg>
    </e>
-   <e id="15002">
+   <e>
       <lg>
          <l pos="Interj">no</l>
       </lg>
@@ -270,7 +255,7 @@
          </tg>
       </mg>
    </e>
-   <e id="15463">
+   <e>
       <lg>
          <l pos="Interj">o</l>
       </lg>
@@ -279,28 +264,18 @@
             <t pos="Interj">ohhoh</t>
          </tg>
       </mg>
-   </e>
-   <e id="15464">
-      <lg>
-         <l pos="Interj">o</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">oi</t>
          </tg>
       </mg>
-   </e>
-   <e id="15465">
-      <lg>
-         <l pos="Interj">o</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">voi</t>
          </tg>
       </mg>
    </e>
-   <e id="15728">
+   <e>
       <lg>
          <l pos="Interj">oo</l>
       </lg>
@@ -310,7 +285,7 @@
          </tg>
       </mg>
    </e>
-   <e id="16568">
+   <e>
       <lg>
          <l pos="Interj">panjig</l>
       </lg>
@@ -320,7 +295,7 @@
          </tg>
       </mg>
    </e>
-   <e id="16572">
+   <e>
       <lg>
          <l pos="Interj">pannâhâs</l>
       </lg>
@@ -330,7 +305,7 @@
          </tg>
       </mg>
    </e>
-   <e id="17108">
+   <e>
       <lg>
          <l pos="Interj">peŋgâluh</l>
       </lg>
@@ -340,7 +315,7 @@
          </tg>
       </mg>
    </e>
-   <e id="17109">
+   <e>
       <lg>
          <l pos="Interj">peŋgiluh</l>
       </lg>
@@ -350,7 +325,7 @@
          </tg>
       </mg>
    </e>
-   <e id="18232">
+   <e>
       <lg>
          <l pos="Interj">puállunjune</l>
       </lg>
@@ -359,18 +334,13 @@
             <t pos="Interj">hiivatti (lievä kirosana)</t>
          </tg>
       </mg>
-   </e>
-   <e id="18233">
-      <lg>
-         <l pos="Interj">puállunjune</l>
-      </lg>
       <mg rest="-njune">
          <tg xml:lang="fin">
             <t pos="Interj">nappinenä</t>
          </tg>
       </mg>
    </e>
-   <e id="18711">
+   <e>
       <lg>
          <l pos="Interj">puurist</l>
       </lg>
@@ -380,7 +350,7 @@
          </tg>
       </mg>
    </e>
-   <e id="18785">
+   <e>
       <lg>
          <l pos="Interj">pyeŋes</l>
       </lg>
@@ -390,7 +360,7 @@
          </tg>
       </mg>
    </e>
-   <e id="20209">
+   <e>
       <lg>
          <l pos="Interj">ruomččâ</l>
       </lg>
@@ -399,18 +369,13 @@
             <t pos="Interj">räiskis</t>
          </tg>
       </mg>
-   </e>
-   <e id="20210">
-      <lg>
-         <l pos="Interj">ruomččâ</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">mäiskis</t>
          </tg>
       </mg>
    </e>
-   <e id="20212">
+   <e>
       <lg>
          <l pos="Interj">ruomčči</l>
       </lg>
@@ -419,18 +384,13 @@
             <t pos="Interj">mäiskis</t>
          </tg>
       </mg>
-   </e>
-   <e id="20213">
-      <lg>
-         <l pos="Interj">ruomčči</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">räiskis</t>
          </tg>
       </mg>
    </e>
-   <e id="20280">
+   <e>
       <lg>
          <l pos="Interj">ruoški</l>
       </lg>
@@ -440,7 +400,7 @@
          </tg>
       </mg>
    </e>
-   <e id="21048">
+   <e>
       <lg>
          <l pos="Interj">sáttán</l>
       </lg>
@@ -450,7 +410,7 @@
          </tg>
       </mg>
    </e>
-   <e id="21133">
+   <e>
       <lg>
          <l pos="Interj">še</l>
       </lg>
@@ -460,7 +420,7 @@
          </tg>
       </mg>
    </e>
-   <e id="22131">
+   <e>
       <lg>
          <l pos="Interj">skool</l>
       </lg>
@@ -470,7 +430,7 @@
          </tg>
       </mg>
    </e>
-   <e id="22841">
+   <e>
       <lg>
          <l pos="Interj">sottáán</l>
       </lg>
@@ -479,18 +439,13 @@
             <t pos="Interj">pahus</t>
          </tg>
       </mg>
-   </e>
-   <e id="22842">
-      <lg>
-         <l pos="Interj">sottáán</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">saatana (kirosana)</t>
          </tg>
       </mg>
    </e>
-   <e id="24012">
+   <e>
       <lg>
          <l pos="Interj">šyeijirokke</l>
       </lg>
@@ -500,7 +455,7 @@
          </tg>
       </mg>
    </e>
-   <e id="24419">
+   <e>
       <lg>
          <l pos="Interj">táh</l>
       </lg>
@@ -510,7 +465,7 @@
          </tg>
       </mg>
    </e>
-   <e id="24929">
+   <e>
       <lg>
          <l pos="Interj">tiegân</l>
       </lg>
@@ -520,7 +475,7 @@
          </tg>
       </mg>
    </e>
-   <e id="24948">
+   <e>
       <lg>
          <l pos="Interj">tiervâ</l>
       </lg>
@@ -529,38 +484,13 @@
             <t pos="Interj">hei (tervehdyksenä)</t>
          </tg>
       </mg>
-   </e>
-   <e id="24949">
-      <lg>
-         <l pos="Interj">tiervâ</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">terve (tervehdyksenä)</t>
          </tg>
       </mg>
    </e>
-   <e id="24950">
-      <lg>
-         <l pos="Interj">tiervâ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj">hei (tervehdyksenä)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="24951">
-      <lg>
-         <l pos="Interj">tiervâ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj">terve (tervehdyksenä)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="28689">
+   <e>
       <lg>
          <l pos="Interj">vuoi</l>
       </lg>
@@ -569,21 +499,11 @@
             <t pos="Interj">voi</t>
          </tg>
       </mg>
-   </e>
-   <e id="28690">
-      <lg>
-         <l pos="Interj">vuoi</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">jotta</t>
          </tg>
       </mg>
-   </e>
-   <e id="28691">
-      <lg>
-         <l pos="Interj">vuoi</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">vai</t>

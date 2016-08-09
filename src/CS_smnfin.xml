@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r>
-   <e id="717">
+<r xml:lang="smn">
+   <e>
       <lg>
          <l pos="CS">amas</l>
       </lg>
@@ -9,18 +9,13 @@
             <t pos="CS">ettei</t>
          </tg>
       </mg>
-   </e>
-   <e id="718">
-      <lg>
-         <l pos="CS">amas</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jottei</t>
          </tg>
       </mg>
    </e>
-   <e id="822">
+   <e>
       <lg>
          <l pos="CS">ansun</l>
       </lg>
@@ -30,7 +25,7 @@
          </tg>
       </mg>
    </e>
-   <e id="1101">
+   <e>
       <lg>
          <l pos="CS">asun</l>
       </lg>
@@ -40,17 +35,7 @@
          </tg>
       </mg>
    </e>
-   <e id="1104">
-      <lg>
-         <l pos="CS">asun</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CS">jotta</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="3746">
+   <e>
       <lg>
          <l pos="CS">emas</l>
       </lg>
@@ -60,7 +45,7 @@
          </tg>
       </mg>
    </e>
-   <e id="3806">
+   <e>
       <lg>
          <l pos="CS">ensun</l>
       </lg>
@@ -70,7 +55,7 @@
          </tg>
       </mg>
    </e>
-   <e id="3939">
+   <e>
       <lg>
          <l pos="CS">ete</l>
       </lg>
@@ -80,7 +65,7 @@
          </tg>
       </mg>
    </e>
-   <e id="6525">
+   <e>
       <lg>
          <l pos="CS">jos</l>
       </lg>
@@ -89,18 +74,13 @@
             <t pos="CS">jos</t>
          </tg>
       </mg>
-   </e>
-   <e id="6526">
-      <lg>
-         <l pos="CS">jos</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">vaikka</t>
          </tg>
       </mg>
    </e>
-   <e id="8702">
+   <e>
       <lg>
          <l pos="CS">ko</l>
       </lg>
@@ -109,48 +89,28 @@
             <t pos="CS">jolloin</t>
          </tg>
       </mg>
-   </e>
-   <e id="8703">
-      <lg>
-         <l pos="CS">ko</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">koska</t>
          </tg>
       </mg>
-   </e>
-   <e id="8704">
-      <lg>
-         <l pos="CS">ko</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kuin</t>
          </tg>
       </mg>
-   </e>
-   <e id="8705">
-      <lg>
-         <l pos="CS">ko</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kun</t>
          </tg>
       </mg>
-   </e>
-   <e id="8706">
-      <lg>
-         <l pos="CS">ko</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">milloin</t>
          </tg>
       </mg>
    </e>
-   <e id="8791">
+   <e>
       <lg>
          <l pos="CS">kođe</l>
       </lg>
@@ -159,18 +119,13 @@
             <t pos="CS">kun</t>
          </tg>
       </mg>
-   </e>
-   <e id="8792">
-      <lg>
-         <l pos="CS">kođe</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kun sitten</t>
          </tg>
       </mg>
    </e>
-   <e id="9605">
+   <e>
       <lg>
          <l pos="CS">kuás</l>
       </lg>
@@ -179,38 +134,23 @@
             <t pos="CS">jolloin</t>
          </tg>
       </mg>
-   </e>
-   <e id="9606">
-      <lg>
-         <l pos="CS">kuás</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">koska</t>
          </tg>
       </mg>
-   </e>
-   <e id="9607">
-      <lg>
-         <l pos="CS">kuás</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kun</t>
          </tg>
       </mg>
-   </e>
-   <e id="9608">
-      <lg>
-         <l pos="CS">kuás</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">milloin</t>
          </tg>
       </mg>
    </e>
-   <e id="10007">
+   <e>
       <lg>
          <l pos="CS">kuo</l>
       </lg>
@@ -219,28 +159,18 @@
             <t pos="CS">kuin</t>
          </tg>
       </mg>
-   </e>
-   <e id="10008">
-      <lg>
-         <l pos="CS">kuo</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kun</t>
          </tg>
       </mg>
-   </e>
-   <e id="10009">
-      <lg>
-         <l pos="CS">kuo</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kunpa</t>
          </tg>
       </mg>
    </e>
-   <e id="13840">
+   <e>
       <lg>
          <l pos="CS">mutâ</l>
       </lg>
@@ -249,18 +179,13 @@
             <t pos="CS">mutta</t>
          </tg>
       </mg>
-   </e>
-   <e id="13841">
-      <lg>
-         <l pos="CS">mutâ</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">vaan</t>
          </tg>
       </mg>
    </e>
-   <e id="24646">
+   <e>
       <lg>
          <l pos="CS">tassaaš</l>
       </lg>
@@ -269,58 +194,33 @@
             <t pos="CS">kunnes</t>
          </tg>
       </mg>
-   </e>
-   <e id="24647">
-      <lg>
-         <l pos="CS">tassaaš</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">siihen saakka</t>
          </tg>
       </mg>
-   </e>
-   <e id="24648">
-      <lg>
-         <l pos="CS">tassaaš</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">siihen asti</t>
          </tg>
       </mg>
-   </e>
-   <e id="24649">
-      <lg>
-         <l pos="CS">tassaaš</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">siitä asti</t>
          </tg>
       </mg>
-   </e>
-   <e id="24650">
-      <lg>
-         <l pos="CS">tassaaš</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">sitten (aikaisemmin)</t>
          </tg>
       </mg>
-   </e>
-   <e id="24651">
-      <lg>
-         <l pos="CS">tassaaš</l>
-      </lg>
       <mg rest="tassaa">
          <tg xml:lang="fin">
             <t pos="CS">silloinen</t>
          </tg>
       </mg>
    </e>
-   <e id="24756">
+   <e>
       <lg>
          <l pos="CS">te</l>
       </lg>
@@ -329,18 +229,13 @@
             <t pos="CS">niin</t>
          </tg>
       </mg>
-   </e>
-   <e id="24757">
-      <lg>
-         <l pos="CS">te</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">sitten</t>
          </tg>
       </mg>
    </e>
-   <e id="24790">
+   <e>
       <lg>
          <l pos="CS">tegu</l>
       </lg>
@@ -349,18 +244,13 @@
             <t pos="CS">kuin</t>
          </tg>
       </mg>
-   </e>
-   <e id="24791">
-      <lg>
-         <l pos="CS">tegu</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">niin kuin</t>
          </tg>
       </mg>
    </e>
-   <e id="27260">
+   <e>
       <lg>
          <l pos="CS">vâik</l>
       </lg>
@@ -370,7 +260,7 @@
          </tg>
       </mg>
    </e>
-   <e id="27616">
+   <e>
       <lg>
          <l pos="CS">veik</l>
       </lg>
@@ -380,7 +270,7 @@
          </tg>
       </mg>
    </e>
-   <e id="27617">
+   <e>
       <lg>
          <l pos="CS">veikkâ</l>
       </lg>

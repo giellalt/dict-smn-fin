@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r>
-   <e id="1746">
+<r xml:lang="smn">
+   <e>
       <lg>
          <l pos="Num">čiččâd</l>
       </lg>
@@ -10,7 +10,7 @@
          </tg>
       </mg>
    </e>
-   <e id="1747">
+   <e>
       <lg>
          <l pos="Num">čiččâm</l>
       </lg>
@@ -20,7 +20,7 @@
          </tg>
       </mg>
    </e>
-   <e id="1748">
+   <e>
       <lg>
          <l pos="Num">čiččâmâs</l>
       </lg>
@@ -29,18 +29,13 @@
             <t pos="Num">seitsemän ihmistä</t>
          </tg>
       </mg>
-   </e>
-   <e id="1749">
-      <lg>
-         <l pos="Num">čiččâmâs</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">seitsemän ihmisen joukko</t>
          </tg>
       </mg>
    </e>
-   <e id="1750">
+   <e>
       <lg>
          <l pos="Num">čiččâmčyeđe</l>
       </lg>
@@ -50,7 +45,7 @@
          </tg>
       </mg>
    </e>
-   <e id="1751">
+   <e>
       <lg>
          <l pos="Num">čiččâmlov</l>
       </lg>
@@ -60,7 +55,7 @@
          </tg>
       </mg>
    </e>
-   <e id="1752">
+   <e>
       <lg>
          <l pos="Num">čiččâmnubáloh</l>
       </lg>
@@ -70,7 +65,7 @@
          </tg>
       </mg>
    </e>
-   <e id="1756">
+   <e>
       <lg>
          <l pos="Num">čiččid</l>
       </lg>
@@ -80,7 +75,7 @@
          </tg>
       </mg>
    </e>
-   <e id="1757">
+   <e>
       <lg>
          <l pos="Num">čiččii</l>
       </lg>
@@ -90,7 +85,7 @@
          </tg>
       </mg>
    </e>
-   <e id="2472">
+   <e>
       <lg>
          <l pos="Num">čuákkáá</l>
       </lg>
@@ -100,7 +95,7 @@
          </tg>
       </mg>
    </e>
-   <e id="3316">
+   <e>
       <lg>
          <l pos="Num">čyeti</l>
       </lg>
@@ -110,7 +105,7 @@
          </tg>
       </mg>
    </e>
-   <e id="6333">
+   <e>
       <lg>
          <l pos="Num">jiešiäluid</l>
       </lg>
@@ -120,7 +115,7 @@
          </tg>
       </mg>
    </e>
-   <e id="7127">
+   <e>
       <lg>
          <l pos="Num">káávcád</l>
       </lg>
@@ -130,7 +125,7 @@
          </tg>
       </mg>
    </e>
-   <e id="7199">
+   <e>
       <lg>
          <l pos="Num">kahcii</l>
       </lg>
@@ -140,7 +135,7 @@
          </tg>
       </mg>
    </e>
-   <e id="9494">
+   <e>
       <lg>
          <l pos="Num">kuálmád</l>
       </lg>
@@ -150,7 +145,7 @@
          </tg>
       </mg>
    </e>
-   <e id="9734">
+   <e>
       <lg>
          <l pos="Num">kuávttáákooskâl</l>
       </lg>
@@ -160,7 +155,7 @@
          </tg>
       </mg>
    </e>
-   <e id="9915">
+   <e>
       <lg>
          <l pos="Num">kulmâ</l>
       </lg>
@@ -170,7 +165,7 @@
          </tg>
       </mg>
    </e>
-   <e id="9917">
+   <e>
       <lg>
          <l pos="Num">kulmâlov</l>
       </lg>
@@ -180,7 +175,7 @@
          </tg>
       </mg>
    </e>
-   <e id="9918">
+   <e>
       <lg>
          <l pos="Num">kulmânubáloh</l>
       </lg>
@@ -190,7 +185,7 @@
          </tg>
       </mg>
    </e>
-   <e id="9922">
+   <e>
       <lg>
          <l pos="Num">kulmii</l>
       </lg>
@@ -200,7 +195,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10306">
+   <e>
       <lg>
          <l pos="Num">kutlov</l>
       </lg>
@@ -210,7 +205,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10307">
+   <e>
       <lg>
          <l pos="Num">kuttâ</l>
       </lg>
@@ -220,7 +215,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10310">
+   <e>
       <lg>
          <l pos="Num">kuuđâd</l>
       </lg>
@@ -230,7 +225,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10313">
+   <e>
       <lg>
          <l pos="Num">kuuđâs</l>
       </lg>
@@ -240,7 +235,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10450">
+   <e>
       <lg>
          <l pos="Num">kyehti</l>
       </lg>
@@ -250,7 +245,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10454">
+   <e>
       <lg>
          <l pos="Num">kyehtinubáloh</l>
       </lg>
@@ -260,7 +255,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10455">
+   <e>
       <lg>
          <l pos="Num">kyehtlov</l>
       </lg>
@@ -270,7 +265,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10456">
+   <e>
       <lg>
          <l pos="Num">kyehtnubáloh</l>
       </lg>
@@ -280,7 +275,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10517">
+   <e>
       <lg>
          <l pos="Num">kyevtis</l>
       </lg>
@@ -290,7 +285,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10527">
+   <e>
       <lg>
          <l pos="Num">kyevtpeln</l>
       </lg>
@@ -300,7 +295,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10546">
+   <e>
       <lg>
          <l pos="Num">kähcilov</l>
       </lg>
@@ -310,7 +305,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10697">
+   <e>
       <lg>
          <l pos="Num">käävci</l>
       </lg>
@@ -320,7 +315,7 @@
          </tg>
       </mg>
    </e>
-   <e id="10698">
+   <e>
       <lg>
          <l pos="Num">käävcis</l>
       </lg>
@@ -330,7 +325,7 @@
          </tg>
       </mg>
    </e>
-   <e id="11788">
+   <e>
       <lg>
          <l pos="Num">loves</l>
       </lg>
@@ -339,18 +334,13 @@
             <t pos="Num">kymmenen (ihmistä)</t>
          </tg>
       </mg>
-   </e>
-   <e id="11789">
-      <lg>
-         <l pos="Num">loves</l>
-      </lg>
       <mg rest="lohháás">
          <tg xml:lang="fin">
             <t pos="Num">kymmenen ihmisen joukko</t>
          </tg>
       </mg>
    </e>
-   <e id="11800">
+   <e>
       <lg>
          <l pos="Num">lovváád</l>
       </lg>
@@ -360,7 +350,7 @@
          </tg>
       </mg>
    </e>
-   <e id="11801">
+   <e>
       <lg>
          <l pos="Num">lovvááh</l>
       </lg>
@@ -370,7 +360,7 @@
          </tg>
       </mg>
    </e>
-   <e id="11802">
+   <e>
       <lg>
          <l pos="Num">lovvááš</l>
       </lg>
@@ -380,7 +370,7 @@
          </tg>
       </mg>
    </e>
-   <e id="11947">
+   <e>
       <lg>
          <l pos="Num">luhhii</l>
       </lg>
@@ -390,7 +380,7 @@
          </tg>
       </mg>
    </e>
-   <e id="12085">
+   <e>
       <lg>
          <l pos="Num">luovâsvyeje</l>
       </lg>
@@ -400,7 +390,7 @@
          </tg>
       </mg>
    </e>
-   <e id="12253">
+   <e>
       <lg>
          <l pos="Num">lävvi</l>
       </lg>
@@ -410,7 +400,7 @@
          </tg>
       </mg>
    </e>
-   <e id="13500">
+   <e>
       <lg>
          <l pos="Num">muáddilov</l>
       </lg>
@@ -420,7 +410,7 @@
          </tg>
       </mg>
    </e>
-   <e id="13503">
+   <e>
       <lg>
          <l pos="Num">muádlov</l>
       </lg>
@@ -430,7 +420,7 @@
          </tg>
       </mg>
    </e>
-   <e id="14192">
+   <e>
       <lg>
          <l pos="Num">neljilov</l>
       </lg>
@@ -440,7 +430,7 @@
          </tg>
       </mg>
    </e>
-   <e id="14193">
+   <e>
       <lg>
          <l pos="Num">neljinubáloh</l>
       </lg>
@@ -450,7 +440,7 @@
          </tg>
       </mg>
    </e>
-   <e id="14321">
+   <e>
       <lg>
          <l pos="Num">niäljád</l>
       </lg>
@@ -460,7 +450,7 @@
          </tg>
       </mg>
    </e>
-   <e id="15139">
+   <e>
       <lg>
          <l pos="Num">nubáloh</l>
       </lg>
@@ -470,7 +460,7 @@
          </tg>
       </mg>
    </e>
-   <e id="15151">
+   <e>
       <lg>
          <l pos="Num">nubbe</l>
       </lg>
@@ -480,7 +470,7 @@
          </tg>
       </mg>
    </e>
-   <e id="15478">
+   <e>
       <lg>
          <l pos="Num">ohcelov</l>
       </lg>
@@ -490,7 +480,7 @@
          </tg>
       </mg>
    </e>
-   <e id="15479">
+   <e>
       <lg>
          <l pos="Num">ohcii</l>
       </lg>
@@ -500,7 +490,7 @@
          </tg>
       </mg>
    </e>
-   <e id="15485">
+   <e>
       <lg>
          <l pos="Num">ohtâ</l>
       </lg>
@@ -509,28 +499,18 @@
             <t pos="Num">eräs (tiedetään kuka on kyseessä, muttei haluta mainita nimellä)</t>
          </tg>
       </mg>
-   </e>
-   <e id="15486">
-      <lg>
-         <l pos="Num">ohtâ</l>
-      </lg>
       <mg rest="oovtâ">
          <tg xml:lang="fin">
             <t pos="Num">muuan</t>
          </tg>
       </mg>
-   </e>
-   <e id="15487">
-      <lg>
-         <l pos="Num">ohtâ</l>
-      </lg>
       <mg rest="oovtâ">
          <tg xml:lang="fin">
             <t pos="Num">yksi</t>
          </tg>
       </mg>
    </e>
-   <e id="15522">
+   <e>
       <lg>
          <l pos="Num">ohtnubáloh</l>
       </lg>
@@ -540,7 +520,7 @@
          </tg>
       </mg>
    </e>
-   <e id="15785">
+   <e>
       <lg>
          <l pos="Num">oovcád</l>
       </lg>
@@ -550,7 +530,7 @@
          </tg>
       </mg>
    </e>
-   <e id="15786">
+   <e>
       <lg>
          <l pos="Num">oovce</l>
       </lg>
@@ -560,7 +540,7 @@
          </tg>
       </mg>
    </e>
-   <e id="15787">
+   <e>
       <lg>
          <l pos="Num">oovcenubáloh</l>
       </lg>
@@ -570,7 +550,7 @@
          </tg>
       </mg>
    </e>
-   <e id="15788">
+   <e>
       <lg>
          <l pos="Num">oovces</l>
       </lg>
@@ -579,18 +559,13 @@
             <t pos="Num">yhdeksän (ihmistä)</t>
          </tg>
       </mg>
-   </e>
-   <e id="15789">
-      <lg>
-         <l pos="Num">oovces</l>
-      </lg>
       <mg rest="ohcás">
          <tg xml:lang="fin">
             <t pos="Num">yhdeksän ihmisen joukko</t>
          </tg>
       </mg>
    </e>
-   <e id="15848">
+   <e>
       <lg>
          <l pos="Num">oovtâst</l>
       </lg>
@@ -600,7 +575,7 @@
          </tg>
       </mg>
    </e>
-   <e id="21943">
+   <e>
       <lg>
          <l pos="Num">skáhtá</l>
       </lg>
@@ -610,7 +585,7 @@
          </tg>
       </mg>
    </e>
-   <e id="26385">
+   <e>
       <lg>
          <l pos="Num">tävjit-távjá</l>
       </lg>
@@ -620,7 +595,7 @@
          </tg>
       </mg>
    </e>
-   <e id="27924">
+   <e>
       <lg>
          <l pos="Num">viiđâd</l>
       </lg>
@@ -630,7 +605,7 @@
          </tg>
       </mg>
    </e>
-   <e id="27925">
+   <e>
       <lg>
          <l pos="Num">viiđâs</l>
       </lg>
@@ -640,7 +615,7 @@
          </tg>
       </mg>
    </e>
-   <e id="28189">
+   <e>
       <lg>
          <l pos="Num">vitlov</l>
       </lg>
@@ -650,7 +625,7 @@
          </tg>
       </mg>
    </e>
-   <e id="28190">
+   <e>
       <lg>
          <l pos="Num">vitnubáloh</l>
       </lg>
@@ -660,7 +635,7 @@
          </tg>
       </mg>
    </e>
-   <e id="28191">
+   <e>
       <lg>
          <l pos="Num">vittâ</l>
       </lg>
@@ -670,7 +645,7 @@
          </tg>
       </mg>
    </e>
-   <e id="28193">
+   <e>
       <lg>
          <l pos="Num">vittâčyeđe</l>
       </lg>
@@ -680,7 +655,7 @@
          </tg>
       </mg>
    </e>
-   <e id="28200">
+   <e>
       <lg>
          <l pos="Num">vittii</l>
       </lg>
@@ -690,7 +665,7 @@
          </tg>
       </mg>
    </e>
-   <e id="28890">
+   <e>
       <lg>
          <l pos="Num">vuosmuš</l>
       </lg>
