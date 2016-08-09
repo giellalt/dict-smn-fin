@@ -13502,7 +13502,7 @@
       </lg>
       <mg rest="čuuvčá">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="(uros) Tetrao urogallus">metso</t>
+            <t pos="N" tt_auto="Tetrao urogallus">metso (uros)</t>
          </tg>
       </mg>
    </e>
@@ -38993,7 +38993,7 @@
       </lg>
       <mg rest="-uLo">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Eriophorum angustifolium ( E. polystachyum)">luhtavilla</t>
+            <t pos="N" tt_auto="Eriophorum angustifolium (E. polystachyum)">luhtavilla</t>
          </tg>
       </mg>
    </e>
@@ -46674,7 +46674,7 @@
       </lg>
       <mg rest="-leeibi">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Alnus incana kolaënsis">kuolanharmaaleppä</t>
+            <t pos="N" tt_auto="Alnus incana spp. kolaënsis">kuolanharmaaleppä</t>
          </tg>
       </mg>
    </e>
@@ -46684,7 +46684,7 @@
       </lg>
       <mg rest="-leeibi">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Alnus incana ssp. kolaÙnsis">kuolanharmaaleppä</t>
+            <t pos="N" tt_auto="Alnus incana ssp. kolaënsis">kuolanharmaaleppä</t>
          </tg>
       </mg>
    </e>
@@ -50004,7 +50004,8 @@
       </lg>
       <mg rest="-miehi">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Iris pseudacorus, keltakurjenmiekka">kurjenmiekka</t>
+            <t pos="N" tt_auto="Iris pseudacorus">kurjenmiekka</t>
+            <t pos="N" tt_auto="Iris pseudacorus">keltakurjenmiekka</t>
          </tg>
       </mg>
    </e>
@@ -50094,7 +50095,7 @@
       </lg>
       <mg rest="kuosâ">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="(puu) Picea abies">kuusi</t>
+            <t pos="N" tt_auto="Picea abies">kuusi (puu)</t>
          </tg>
       </mg>
    </e>
@@ -51634,7 +51635,7 @@
       </mg>
       <mg rest="kye'le">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="(arkikielessä) Coregonus lavaretus">siika</t>
+            <t pos="N" tt_auto="Coregonus lavaretus">siika (arkikielessä)</t>
          </tg>
       </mg>
    </e>
@@ -58759,12 +58760,8 @@
       </lg>
       <mg rest="-mááđu -máđo">
          <tg xml:lang="fin">
-            <t pos="N">lehtimato (tunturimittarin toukka)</t>
-         </tg>
-      </mg>
-      <mg rest="-mááđu -máđo">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="toukka Epirrita autumnata">tunturimittarin</t>
+            <t pos="N" tt_auto="Epirrita autumnata">lehtimato</t>
+            <t pos="N" tt_auto="Epirrita autumnata">tunturimittarin toukka</t>
          </tg>
       </mg>
    </e>
@@ -62694,7 +62691,8 @@
       </mg>
       <mg rest="maaivâ">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Coregonus albula (muikku)">maiva</t>
+            <t pos="N" tt_auto="Coregonus albula">maiva</t>
+            <t pos="N" tt_auto="Coregonus albula">muikku></t>
          </tg>
       </mg>
       <mg rest="maaivâ">
@@ -64089,7 +64087,7 @@
       </lg>
       <mg rest="-rääsi -rääsi">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Lycopodium annotium (alalaji)">metsäriidenlieko</t>
+            <t pos="N" tt_auto="Lycopodium annotium" rest="(alalaji)">metsäriidenlieko</t>
          </tg>
       </mg>
    </e>
@@ -66340,7 +66338,7 @@
       </lg>
       <mg rest="-vääLi">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Pernis apivorus)">mehiläishaukka</t>
+            <t pos="N" tt_auto="Pernis apivorus">mehiläishaukka</t>
          </tg>
       </mg>
    </e>
@@ -73270,17 +73268,9 @@
       </lg>
       <mg rest="-porruu">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="nenäsaivartaja Cephonomyia trompe">poron</t>
-         </tg>
-      </mg>
-      <mg rest="-porruu">
-         <tg xml:lang="fin">
+            <t pos="N" tt_auto="Cephonomyia trompe">poron nenäsaivartaja</t>
             <t pos="N" tt_auto="Cephonomyia trompe">saulakka</t>
-         </tg>
-      </mg>
-      <mg rest="-porruu">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="(porolla) Cephonomyia trompe">nenäsaivartaja</t>
+            <t pos="N" tt_auto="Cephonomyia trompe">nenäsaivartaja (porolla)</t>
          </tg>
       </mg>
    </e>
@@ -73290,17 +73280,9 @@
       </lg>
       <mg rest="-porruu">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="nenäsaivartaja Cephonomyia trompe">poron</t>
-         </tg>
-      </mg>
-      <mg rest="-porruu">
-         <tg xml:lang="fin">
+            <t pos="N" tt_auto="Cephonomyia trompe">poron nenäsaivartaja</t>
             <t pos="N" tt_auto="Cephonomyia trompe">saulakka</t>
-         </tg>
-      </mg>
-      <mg rest="-porruu">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="(porolla) Cephonomyia trompe">nenäsaivartaja</t>
+            <t pos="N" tt_auto="Cephonomyia trompe">nenäsaivartaja (porolla)</t>
          </tg>
       </mg>
    </e>
@@ -96795,11 +96777,7 @@
       </lg>
       <mg rest="reeppâs">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="(kääpiösiika) Coregonus lavaretus">rääpys</t>
-         </tg>
-      </mg>
-      <mg rest="reeppâs">
-         <tg xml:lang="fin">
+            <t pos="N" tt_auto="Coregonus lavaretus">rääpys</t>
             <t pos="N" tt_auto="Coregonus lavaretus">kääpiösiika</t>
          </tg>
       </mg>
@@ -98925,11 +98903,7 @@
       </lg>
       <mg rest="riäská">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="(kääpiösiika) Coregonus lavaretus f. wartmanni">reeska</t>
-         </tg>
-      </mg>
-      <mg rest="riäská">
-         <tg xml:lang="fin">
+            <t pos="N" tt_auto="Coregonus lavaretus f. wartmanni">reeska</t>
             <t pos="N" tt_auto="Coregonus lavaretus f. wartmanni">kääpiösiika</t>
          </tg>
       </mg>
@@ -101055,7 +101029,7 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Ribes rubrum -ryhmän nimitys">punaherukka</t>
+            <t pos="N" tt_auto="Ribes rubrum" rest="-ryhmän nimitys">punaherukka</t>
          </tg>
       </mg>
    </e>
@@ -103450,11 +103424,8 @@
       </lg>
       <mg rest="-nuárju">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="(hylje) Halichoerus grypus">halli</t>
-         </tg>
-      </mg>
-      <mg rest="-nuárju">
-         <tg xml:lang="fin">
+            <t pos="N" tt_auto="Halichoerus grypus">halli</t>
+            <t pos="N" tt_auto="Halichoerus grypus">hylje</t>
             <t pos="N" tt_auto="Halichoerus grypus">harmaahylje</t>
          </tg>
       </mg>
@@ -104840,12 +104811,12 @@
       </lg>
       <mg rest="saVe">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="toukka Simulium reptans">mäkärän</t>
+            <t pos="N" tt_auto="Simulium reptans">mäkärän toukka</t>
          </tg>
       </mg>
       <mg rest="saVe">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="toukka Ceratopogonidae culicoides">polttiaisen</t>
+            <t pos="N" tt_auto="Ceratopogonidae culicoides">polttiaisen toukka</t>
          </tg>
       </mg>
       <mg rest="saVe">
@@ -115445,7 +115416,7 @@
       </lg>
       <mg rest="stavluu">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="toukka Cephenomyia trompe">nenäsaivartajan</t>
+            <t pos="N" tt_auto="Cephenomyia trompe">nenäsaivartajan toukka</t>
          </tg>
       </mg>
    </e>
@@ -116200,7 +116171,7 @@
       </lg>
       <mg rest="- riävdu">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="kesä, -kevätpukuinen, Lagopus lagopus">riekko</t>
+            <t pos="N" tt_auto="Lagopus lagopus" rest="kesä, -kevätpukuinen">riekko</t>
          </tg>
       </mg>
    </e>
@@ -138590,12 +138561,8 @@
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="pieni Salmo trutta fario">tammukka</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="pieni Salmo trutta fario">purotaimen</t>
+            <t pos="N" tt_auto="Salmo trutta fario">tammukka pieni</t>
+            <t pos="N" tt_auto="Salmo trutta fario">purotaimen pieni</t>
          </tg>
       </mg>
    </e>
