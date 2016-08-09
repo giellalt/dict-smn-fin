@@ -41777,7 +41777,8 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">kissapöllö (lehtopöllö Strix aluco)</t>
+            <t pos="N">kissapöllö Strix aluco</t>
+            <t pos="N">lehtopöllö Strix aluco</t>
          </tg>
       </mg>
    </e>
@@ -44462,7 +44463,7 @@
       </lg>
       <mg rest="kolmuu">
          <tg xml:lang="fin">
-            <t pos="N">katava,kova lumi</t>
+            <t pos="N">katava, kova lumi</t>
          </tg>
       </mg>
    </e>
@@ -49632,7 +49633,7 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">ahomansikka Frangaria vesca</t>
+            <t pos="N">ahomansikka Fragaria vesca</t>
          </tg>
       </mg>
    </e>
@@ -133857,7 +133858,7 @@
       </lg>
       <mg rest="-syeini">
          <tg xml:lang="fin">
-            <t pos="N">lännenmaarianheinä HIerochloe odorata</t>
+            <t pos="N">lännenmaarianheinä Hierochloe odorata</t>
          </tg>
       </mg>
    </e>
@@ -149198,6 +149199,16 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">niisi (kangaspuissa)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">uánihissuájásâškirdeekiivsah</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">lyhytsiipiset Staphylinidae</t>
          </tg>
       </mg>
    </e>
