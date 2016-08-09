@@ -70,6 +70,16 @@
          </tg>
       </mg>
    </e>
+   <e id="4745">
+      <lg>
+         <l pos="Interj">hei</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">voi (interjektio)</t>
+         </tg>
+      </mg>
+   </e>
    <e id="4855">
       <lg>
          <l pos="Interj">het-het</l>
@@ -117,6 +127,16 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">hus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5820">
+      <lg>
+         <l pos="Interj">itám</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">Voi että</t>
          </tg>
       </mg>
    </e>

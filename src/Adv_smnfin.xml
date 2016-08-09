@@ -480,6 +480,16 @@
          </tg>
       </mg>
    </e>
+   <e id="2137">
+      <lg>
+         <l pos="Adv">čiärun</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">itkien</t>
+         </tg>
+      </mg>
+   </e>
    <e id="2181">
       <lg>
          <l pos="Adv">cogâsnjalmij</l>
@@ -730,6 +740,16 @@
          </tg>
       </mg>
    </e>
+   <e id="2831">
+      <lg>
+         <l pos="Adv">cullânjui</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">kuiskaillen</t>
+         </tg>
+      </mg>
+   </e>
    <e id="2888">
       <lg>
          <l pos="Adv">čuođij</l>
@@ -737,6 +757,26 @@
       <mg rest="mild">
          <tg xml:lang="fin">
             <t pos="Adv">sadoittain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2925">
+      <lg>
+         <l pos="Adv">čuoigân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">hiihtäen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2958">
+      <lg>
+         <l pos="Adv">čuolâi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">päittäin (ei poikittain)</t>
          </tg>
       </mg>
    </e>
@@ -940,6 +980,16 @@
          </tg>
       </mg>
    </e>
+   <e id="3674">
+      <lg>
+         <l pos="Adv">eissigin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ensinkään</t>
+         </tg>
+      </mg>
+   </e>
    <e id="3676">
       <lg>
          <l pos="Adv">eivi</l>
@@ -1130,6 +1180,16 @@
          </tg>
       </mg>
    </e>
+   <e id="3985">
+      <lg>
+         <l pos="Adv">fáálun</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">tarjottavana</t>
+         </tg>
+      </mg>
+   </e>
    <e id="3986">
       <lg>
          <l pos="Adv">fáálun</l>
@@ -1200,6 +1260,16 @@
          </tg>
       </mg>
    </e>
+   <e id="4158">
+      <lg>
+         <l pos="Adv">fijnásávt</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">hienosti</t>
+         </tg>
+      </mg>
+   </e>
    <e id="4159">
       <lg>
          <l pos="Adv">fijnásávt</l>
@@ -1257,6 +1327,16 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">harvoin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4637">
+      <lg>
+         <l pos="Adv">háská</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">hukkaan</t>
          </tg>
       </mg>
    </e>
