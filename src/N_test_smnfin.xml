@@ -3,7 +3,7 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="smnfin" xml:lang="smn">
+<r id="smesmn" xml:lang="smn">   
    <lics xml:space="preserve">
   <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -14,8 +14,7 @@ proper attribution using the attribution text below.
 
 For the full license text, see the link above.
 </lic>
-<ref>Work by Marja-Liisa Olthuis and Taarna Valtonen, and by Giellatekno at UiT,
-          and members of the language communities. Source code
+<ref>Work by Giellatekno at UiT. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
