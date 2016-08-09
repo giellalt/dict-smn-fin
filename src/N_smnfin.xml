@@ -2366,6 +2366,16 @@
          </tg>
       </mg>
    </e>
+   <e id="350">
+      <lg>
+         <l pos="N">áigádeijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ajastin</t>
+         </tg>
+      </mg>
+   </e>
    <e id="354">
       <lg>
          <l pos="N">áigápuátu</l>
@@ -4613,6 +4623,16 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">ilmoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="681">
+      <lg>
+         <l pos="N">almottus</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ilmoitus</t>
          </tg>
       </mg>
    </e>
@@ -6913,6 +6933,16 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">ahdistus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1108">
+      <lg>
+         <l pos="N">atâštus</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ahdistus</t>
          </tg>
       </mg>
    </e>
@@ -9693,6 +9723,16 @@
       <mg rest="-skiäRu">
          <tg xml:lang="fin">
             <t pos="N">CD-levy</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1599">
+      <lg>
+         <l pos="N">čee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">tee</t>
          </tg>
       </mg>
    </e>
@@ -12486,6 +12526,16 @@
          </tg>
       </mg>
    </e>
+   <e id="2244">
+      <lg>
+         <l pos="N">cokkiitteijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">sytytin</t>
+         </tg>
+      </mg>
+   </e>
    <e id="2245">
       <lg>
          <l pos="N">cokkiittem</l>
@@ -14513,6 +14563,16 @@
       <mg rest="čuás'ká čuás'kásist">
          <tg xml:lang="fin">
             <t pos="N">kylmä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2659">
+      <lg>
+         <l pos="N">čuáskudeijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">jäähdytin</t>
          </tg>
       </mg>
    </e>
@@ -21076,6 +21136,26 @@
          </tg>
       </mg>
    </e>
+   <e id="3734">
+      <lg>
+         <l pos="N">ellee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">elukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3735">
+      <lg>
+         <l pos="N">ellee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">eläin</t>
+         </tg>
+      </mg>
+   </e>
    <e id="3737">
       <lg>
          <l pos="N">elleekove</l>
@@ -22043,6 +22123,16 @@
       <mg rest="e'stâttesvuođâ">
          <tg xml:lang="fin">
             <t pos="N">esteettömyys</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3922">
+      <lg>
+         <l pos="N">estee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">estin</t>
          </tg>
       </mg>
    </e>
@@ -62916,6 +63006,16 @@
          </tg>
       </mg>
    </e>
+   <e id="11399">
+      <lg>
+         <l pos="N">lijgešoddâm</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">rehevöityminen</t>
+         </tg>
+      </mg>
+   </e>
    <e id="11400">
       <lg>
          <l pos="N">lijgestâh</l>
@@ -86683,6 +86783,16 @@
       <mg rest="-ki'rje">
          <tg xml:lang="fin">
             <t pos="N">oppikirja</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15884">
+      <lg>
+         <l pos="N">oppâm</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">oppiminen</t>
          </tg>
       </mg>
    </e>

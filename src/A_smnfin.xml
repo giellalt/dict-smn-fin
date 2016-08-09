@@ -280,6 +280,46 @@
          </tg>
       </mg>
    </e>
+   <e id="255">
+      <lg>
+         <l pos="A">addiitteijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ymmärrettävissä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="256">
+      <lg>
+         <l pos="A">addiitteijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ymmärrettävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="257">
+      <lg>
+         <l pos="A">addiittijjee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ymmärrettävissä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="258">
+      <lg>
+         <l pos="A">addiittijjee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ymmärrettävä</t>
+         </tg>
+      </mg>
+   </e>
    <e id="260">
       <lg>
          <l pos="A">adelâš</l>
@@ -1110,6 +1150,16 @@
          </tg>
       </mg>
    </e>
+   <e id="1009">
+      <lg>
+         <l pos="A">árvuštellee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">arvosteleva</t>
+         </tg>
+      </mg>
+   </e>
    <e id="1012">
       <lg>
          <l pos="A">árvuttem</l>
@@ -1610,6 +1660,16 @@
          </tg>
       </mg>
    </e>
+   <e id="1460">
+      <lg>
+         <l pos="A">čannee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">sitova</t>
+         </tg>
+      </mg>
+   </e>
    <e id="1514">
       <lg>
          <l pos="A">čappâd</l>
@@ -2010,6 +2070,26 @@
          </tg>
       </mg>
    </e>
+   <e id="2067">
+      <lg>
+         <l pos="A">čiähádettee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">peittyvä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2068">
+      <lg>
+         <l pos="A">čiähádettee</l>
+      </lg>
+      <mg rest="jiešvuotâ -vuođâ">
+         <tg xml:lang="fin">
+            <t pos="V">peittyvä ominaisuus (perinn. tiede)</t>
+         </tg>
+      </mg>
+   </e>
    <e id="2107">
       <lg>
          <l pos="A">čiäŋudâh</l>
@@ -2097,6 +2177,26 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">suoritettu</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2184">
+      <lg>
+         <l pos="A">cogâttettee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ohjailtava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2230">
+      <lg>
+         <l pos="A">cokkâneijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">syttyvä</t>
          </tg>
       </mg>
    </e>
@@ -2287,6 +2387,16 @@
       <mg rest="# čuá'sidâs čuá'sidis">
          <tg xml:lang="fin">
             <t pos="A">viileä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2676">
+      <lg>
+         <l pos="A">čuávdihánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">avaamaton (esim. solmu)</t>
          </tg>
       </mg>
    </e>
@@ -2547,6 +2657,26 @@
       <mg rest="# ču'rgis čurgâdis">
          <tg xml:lang="fin">
             <t pos="A">siivo</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3196">
+      <lg>
+         <l pos="A">čurgiihánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">siistimätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3197">
+      <lg>
+         <l pos="A">čurgiihánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">siivoamaton</t>
          </tg>
       </mg>
    </e>
@@ -3017,6 +3147,26 @@
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">öljyinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3732">
+      <lg>
+         <l pos="A">ellee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">elollinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3733">
+      <lg>
+         <l pos="A">ellee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">elävä</t>
          </tg>
       </mg>
    </e>
@@ -4160,6 +4310,26 @@
          </tg>
       </mg>
    </e>
+   <e id="4589">
+      <lg>
+         <l pos="A">hardâšuttee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ärsyttävä (härnäävä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4590">
+      <lg>
+         <l pos="A">hardâšuttee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">härnäävä</t>
+         </tg>
+      </mg>
+   </e>
    <e id="4599">
       <lg>
          <l pos="A">hárjánâm</l>
@@ -4890,6 +5060,36 @@
          </tg>
       </mg>
    </e>
+   <e id="5164">
+      <lg>
+         <l pos="A">huávráá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">malttamaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5165">
+      <lg>
+         <l pos="A">huávráá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">mankuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5166">
+      <lg>
+         <l pos="A">huávráá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">ruinaava</t>
+         </tg>
+      </mg>
+   </e>
    <e id="5230">
       <lg>
          <l pos="A">humoristlâš</l>
@@ -4987,6 +5187,16 @@
       <mg rest="# huo'lâttes huo'lâttemes">
          <tg xml:lang="fin">
             <t pos="A">hutiloiva</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5281">
+      <lg>
+         <l pos="A">hurráá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">kiirehtivä (turhan päiten, ihmisestä)</t>
          </tg>
       </mg>
    </e>
@@ -6260,6 +6470,16 @@
          </tg>
       </mg>
    </e>
+   <e id="6392">
+      <lg>
+         <l pos="A">jiäggáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">soinen</t>
+         </tg>
+      </mg>
+   </e>
    <e id="6396">
       <lg>
          <l pos="A">jiäháttellee</l>
@@ -6880,6 +7100,26 @@
          </tg>
       </mg>
    </e>
+   <e id="6988">
+      <lg>
+         <l pos="A">jyevihánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">jakamaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6990">
+      <lg>
+         <l pos="A">jämihánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">kuolematon (adj.)</t>
+         </tg>
+      </mg>
+   </e>
    <e id="6992">
       <lg>
          <l pos="A">jämimântyemmejum</l>
@@ -7110,6 +7350,16 @@
          </tg>
       </mg>
    </e>
+   <e id="7475">
+      <lg>
+         <l pos="A">karree</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">helposti kovettuva</t>
+         </tg>
+      </mg>
+   </e>
    <e id="7482">
       <lg>
          <l pos="A">karriinallii</l>
@@ -7257,6 +7507,16 @@
       <mg rest="-áigásii">
          <tg xml:lang="fin">
             <t pos="A">kivikautinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7721">
+      <lg>
+         <l pos="A">keejâthánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">katsastamaton</t>
          </tg>
       </mg>
    </e>
@@ -7800,6 +8060,16 @@
          </tg>
       </mg>
    </e>
+   <e id="8336">
+      <lg>
+         <l pos="A">killájeijee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">kestävä</t>
+         </tg>
+      </mg>
+   </e>
    <e id="8338">
       <lg>
          <l pos="A">killeel</l>
@@ -8057,6 +8327,16 @@
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">kesäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8683">
+      <lg>
+         <l pos="A">kiävláá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">taivutettu (liian voimakkaasti)</t>
          </tg>
       </mg>
    </e>
@@ -8530,6 +8810,16 @@
          </tg>
       </mg>
    </e>
+   <e id="9319">
+      <lg>
+         <l pos="A">kovdee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">kuohuvainen (kiehuu helposti yli)</t>
+         </tg>
+      </mg>
+   </e>
    <e id="9341">
       <lg>
          <l pos="A">kovjii</l>
@@ -8847,6 +9137,16 @@
       <mg rest="kuhe # kuhes">
          <tg xml:lang="fin">
             <t pos="A">pitkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9854">
+      <lg>
+         <l pos="A">kukkee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">kukkiva</t>
          </tg>
       </mg>
    </e>
@@ -9480,6 +9780,16 @@
          </tg>
       </mg>
    </e>
+   <e id="10929">
+      <lg>
+         <l pos="A">lakkaahánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">lakkaamaton (ei lakattu)</t>
+         </tg>
+      </mg>
+   </e>
    <e id="10945">
       <lg>
          <l pos="A">laktoosittem</l>
@@ -9590,6 +9900,16 @@
          </tg>
       </mg>
    </e>
+   <e id="11195">
+      <lg>
+         <l pos="A">leehâsthánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">avaamaton (esim. paketti, ovi tms.)</t>
+         </tg>
+      </mg>
+   </e>
    <e id="11209">
       <lg>
          <l pos="A">leevvâd</l>
@@ -9610,6 +9930,16 @@
          </tg>
       </mg>
    </e>
+   <e id="11219">
+      <lg>
+         <l pos="A">lehâhánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">avaamaton (esim. paketin, oven tms.)</t>
+         </tg>
+      </mg>
+   </e>
    <e id="11240">
       <lg>
          <l pos="A">leikkii</l>
@@ -9617,6 +9947,16 @@
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">leikkisä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11298">
+      <lg>
+         <l pos="A">lieđđee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">kukkiva</t>
          </tg>
       </mg>
    </e>
@@ -9697,6 +10037,16 @@
       <mg rest="lihtás">
          <tg xml:lang="fin">
             <t pos="A">pehmeäntuntuinen (esim. kangas)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11398">
+      <lg>
+         <l pos="A">lijgešoddâm</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">rehevöitynyt</t>
          </tg>
       </mg>
    </e>
@@ -11520,6 +11870,16 @@
          </tg>
       </mg>
    </e>
+   <e id="13430">
+      <lg>
+         <l pos="A">morâtteijee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">murrettava</t>
+         </tg>
+      </mg>
+   </e>
    <e id="13471">
       <lg>
          <l pos="A">mottáá</l>
@@ -11867,6 +12227,16 @@
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">multainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13692">
+      <lg>
+         <l pos="A">mulžáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">jäätynyt (kivestä, jossa jääkuori)</t>
          </tg>
       </mg>
    </e>
@@ -12230,6 +12600,16 @@
          </tg>
       </mg>
    </e>
+   <e id="14093">
+      <lg>
+         <l pos="A">najâhánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">naimaton</t>
+         </tg>
+      </mg>
+   </e>
    <e id="14097">
       <lg>
          <l pos="A">nakkanttem</l>
@@ -12527,6 +12907,16 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">imelä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14367">
+      <lg>
+         <l pos="A">njaddee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">maistuva</t>
          </tg>
       </mg>
    </e>
@@ -12897,6 +13287,16 @@
       <mg rest="njuol'gâs">
          <tg xml:lang="fin">
             <t pos="A">oijus (suoraan menevä poro)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14856">
+      <lg>
+         <l pos="A">njuorâdeijee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">heikentävä</t>
          </tg>
       </mg>
    </e>
@@ -14210,6 +14610,26 @@
          </tg>
       </mg>
    </e>
+   <e id="15885">
+      <lg>
+         <l pos="A">oppâm</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">oppinut</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15886">
+      <lg>
+         <l pos="A">oppâm</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">kokenut</t>
+         </tg>
+      </mg>
+   </e>
    <e id="15898">
       <lg>
          <l pos="A">optisâš</l>
@@ -14237,6 +14657,16 @@
       <mg rest="orgaanlii">
          <tg xml:lang="fin">
             <t pos="A">orgaaninen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15936">
+      <lg>
+         <l pos="A">ornijduuhánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">järjestymätön</t>
          </tg>
       </mg>
    </e>
@@ -14970,6 +15400,16 @@
          </tg>
       </mg>
    </e>
+   <e id="16751">
+      <lg>
+         <l pos="A">párudeijee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">aaltoileva</t>
+         </tg>
+      </mg>
+   </e>
    <e id="16804">
       <lg>
          <l pos="A">passaa</l>
@@ -15230,6 +15670,26 @@
          </tg>
       </mg>
    </e>
+   <e id="17406">
+      <lg>
+         <l pos="A">pilláá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">turmeleva</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17407">
+      <lg>
+         <l pos="A">pilláá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">pilaava</t>
+         </tg>
+      </mg>
+   </e>
    <e id="17412">
       <lg>
          <l pos="A">pillâšum</l>
@@ -15247,6 +15707,26 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">pilaantunut</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17417">
+      <lg>
+         <l pos="A">pilledeijee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">pilaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17418">
+      <lg>
+         <l pos="A">pilledeijee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">turmeleva</t>
          </tg>
       </mg>
    </e>
@@ -15447,6 +15927,16 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">turpea</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17815">
+      <lg>
+         <l pos="A">polâttettee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">pelottava</t>
          </tg>
       </mg>
    </e>
@@ -17250,6 +17740,16 @@
          </tg>
       </mg>
    </e>
+   <e id="20015">
+      <lg>
+         <l pos="A">ruánzáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">koukeroinen</t>
+         </tg>
+      </mg>
+   </e>
    <e id="20016">
       <lg>
          <l pos="A">ruánzáá</l>
@@ -18077,6 +18577,16 @@
       <mg rest="siäŋŋás">
          <tg xml:lang="fin">
             <t pos="A">raemainen (lumi)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="21311">
+      <lg>
+         <l pos="A">šeštee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">säästäväinen</t>
          </tg>
       </mg>
    </e>
@@ -19390,6 +19900,16 @@
          </tg>
       </mg>
    </e>
+   <e id="22815">
+      <lg>
+         <l pos="A">sorráá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">sotkeutuvainen (helposti sotkeutuva)</t>
+         </tg>
+      </mg>
+   </e>
    <e id="22828">
       <lg>
          <l pos="A">sosiaallâš</l>
@@ -19760,6 +20280,16 @@
          </tg>
       </mg>
    </e>
+   <e id="23497">
+      <lg>
+         <l pos="A">suálssáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">kuolaava (imeväisikäisestä tai eläimestä)</t>
+         </tg>
+      </mg>
+   </e>
    <e id="23505">
       <lg>
          <l pos="A">suámálâš</l>
@@ -20057,6 +20587,16 @@
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">hapan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="23997">
+      <lg>
+         <l pos="A">suvrodhánnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">hapattamaton</t>
          </tg>
       </mg>
    </e>
@@ -21700,6 +22240,16 @@
          </tg>
       </mg>
    </e>
+   <e id="25808">
+      <lg>
+         <l pos="A">tuhhiittettee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">hyväksyttävä</t>
+         </tg>
+      </mg>
+   </e>
    <e id="25809">
       <lg>
          <l pos="A">tuhhiittettee</l>
@@ -21757,6 +22307,26 @@
       <mg rest="-čievvâg">
          <tg xml:lang="fin">
             <t pos="A">tylppäkulmainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25840">
+      <lg>
+         <l pos="A">tulkkâdijjee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">tylsistyttävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="25841">
+      <lg>
+         <l pos="A">tulkkâdijjee</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">ikävystyttävä</t>
          </tg>
       </mg>
    </e>
@@ -22197,6 +22767,16 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">unelias</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26457">
+      <lg>
+         <l pos="A">uáinihinnáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">tuntematon ihminen (jota ei ole ennen nähnyt)</t>
          </tg>
       </mg>
    </e>
@@ -24177,6 +24757,16 @@
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">voimakas (esim. ruuasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="28479">
+      <lg>
+         <l pos="A">vuáimáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="V">ravitseva (esim. ruuasta)</t>
          </tg>
       </mg>
    </e>
