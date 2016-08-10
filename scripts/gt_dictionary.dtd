@@ -1,9 +1,9 @@
 <!ELEMENT r (lics?, e+, xhtml:script?) >
 <!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"      
-	  xml:lang ( nob | sme | smn | fin ) #IMPLIED
+	  xml:lang ( nob | sme | sma | swe | eng | deu | smn | fin | sms | myv | mhr | sjd | rus ) #IMPLIED
 >
 <!ATTLIST r 
-      id ( smnfin ) #IMPLIED >
+      id ( smenob | nobsme | smnfin | finsmn ) #IMPLIED >
 
       
 <!-- the header -->
@@ -16,26 +16,26 @@
 <!ELEMENT a (#PCDATA)>
 <!ELEMENT i (#PCDATA)>
 
-<!ELEMENT e (lg, stem*, sources?, mg+) >
+<!ELEMENT e (lg, source?, semantics?, stem*, sources?, mg+) >
 <!ATTLIST e 
       usage ( mt | vd | dict | other ) #IMPLIED
       src ( nj | sk | SvSt | gt_fad | gt | fad | other ) #IMPLIED
       exclude ( smanob | nobsma ) #IMPLIED
       reverse ( yes | no ) #IMPLIED
       illpl ( yes | no ) #IMPLIED
-      id CDATA #IMPLIED
 >      
 <!ELEMENT lg (l, l_ref*, lsub*, lc*, stem*) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l 
-      pos ( A | N | V | Adv | Po | Pr | Pron | Interj | Pcle |
-            Num | CC | CS | Mwe | X ) #REQUIRED
+      pos ( A | N | V | Adv | Po | Pr | Pron | Rel | Pers | Det | I | Interj | Pcle |
+            Num | CC | CS | Prop | Proppl | G3 | Actor | Npl |
+            Prsprc | Fp-Cmp | Lp-Cmp | Cmp | Mwe | X | Xxx | Qu | Abbr | Clt |
+            Phrase_N | Phrase_A | Phrase_V | Phrase_Adv ) #REQUIRED
       attr ( ok | no ) #IMPLIED
       decl ( 1 | 2 | 3 | 4 | 5 | x | i ) #IMPLIED 
       nr ( Sg | Pl ) #IMPLIED
       gen_only CDATA #IMPLIED
       context CDATA #IMPLIED
-      rest CDATA #IMPLIED
       type ( rel | pers | indef | refl | dem | interr | 
       pre | post | ord | TV | IV | actor | g3 | NomAg ) #IMPLIED
       class ( I | II | III | IV | V | VI | xxx ) #IMPLIED 
@@ -57,7 +57,6 @@
       umlaut ( full ) #IMPLIED
       num ( pl ) #IMPLIED
       val ( IV | TV ) #IMPLIED
-
 >      
 
 <!-- decl: i indeclineable -->
@@ -83,6 +82,14 @@
 
 <!-- lc = lemma comment, misused as stem field -->
 <!ELEMENT lc (#PCDATA) >
+<!ELEMENT source (book) >
+<!ATTLIST book
+	  name CDATA #IMPLIED >
+<!ELEMENT semantics (sem) >
+<!ATTLIST sem 
+	  name CDATA #IMPLIED >
+
+
 
 <!-- the real stem field -->
 <!ELEMENT stem (#PCDATA) >
@@ -93,8 +100,9 @@
 <!ELEMENT sources (book*, frequency?, geography*) >
 <!ELEMENT book EMPTY >
 <!ATTLIST book 
-      name ( a1 | dej | s1 | s2 | s3 | s4 | åa1 | åa2 | åa3 | åa4 | åa5 | åa6 | xxx ) #IMPLIED
->      
+	  name CDATA #IMPLIED >
+<!--      name ( a1 | dej | s1 | s2 | s3 | s4 | åa1 | åa2 | åa3 | åa4 | åa5 | åa6 | xxx ) #IMPLIED -->
+
 <!ELEMENT frequency EMPTY >
 <!ATTLIST frequency
       class ( common | rare ) #IMPLIED
@@ -113,19 +121,18 @@
 
 <!ELEMENT mg (semantics?,  tg+, xg* ) >
 <!ATTLIST mg 
-      xml:lang ( sme | nob ) #IMPLIED
+      xml:lang ( sme | nob | fin | swe | rus | smn ) #IMPLIED
 >      
 <!ATTLIST mg re CDATA #IMPLIED >
 
-<!ELEMENT tg (semantics?, re?,  (t, stem*, l_ref?)+, xg*, syng?) >
+<!ELEMENT tg (semantics?, re?,  ( ((t, stem*, l_ref?) | tf | te ))+, xg*, syng?) >
 <!ATTLIST tg 
-      xml:lang ( fin ) #IMPLIED
+      xml:lang ( sme | sma | smn | nob | swe | eng | deu | fin | rus) #IMPLIED
       check CDATA #IMPLIED
-      re CDATA #IMPLIED
 >
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re 
-	  xml:lang ( nob | sme | smn | fin ) #IMPLIED
+	  xml:lang ( nob | sme | sma | smn | swe | eng | deu ) #IMPLIED
 >
 
 <!ELEMENT t (#PCDATA) >
@@ -134,9 +141,9 @@
 <!ATTLIST t t_type ( Pers | expl ) #IMPLIED  >
 <!ATTLIST t nr ( Sg | Pl ) #IMPLIED  >
 <!ATTLIST t pos ( A | S  | N  | V | 
-            Adv | P | Pr | Po | 
-            Pron | Prop | Interj | CC | CS | Num |
-            Pcle | X  |
+            Adv | P | Pr | Po | Det |
+            Pron | Prop | I | Interj | CC | CS | Im | Npl | Num |
+            Pcle | Prsprc | Phrase | Fp-Cmp | Lp-Cmp | Cmp | X  | Xxx |
 	    phrase_N | phrase_A | phrase_V | phrase_Adv | g3 | NomAg | mwe | fp-cmp ) #IMPLIED > 
 	    
 <!--
@@ -147,8 +154,13 @@
 	    phrase_n | phrase_a | phrase_v | phrase_adv | g3 | NomAg | mwe ) #IMPLIED > 
 -->
 <!ATTLIST t type ( expl ) #IMPLIED >
+<!ATTLIST t decl ( 1 | 2 | 3 | 4 | 5 | x | irr | i | yyy ) #IMPLIED> <!-- irr irregular -->
+<!ATTLIST t gen ( m | f | n | xxx ) #IMPLIED >
 <!ATTLIST t lang ( swe | nob ) #IMPLIED >
 <!ATTLIST t xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
+<!ATTLIST t dialect CDATA #IMPLIED >
+<!ATTLIST t var ( sw | no | fi )  #IMPLIED >
+<!ATTLIST t nob-stat CDATA #IMPLIED >
 <!ATTLIST t sem-cl CDATA #IMPLIED >
 <!ATTLIST t src CDATA #IMPLIED >
 <!ATTLIST t alt_str CDATA #IMPLIED >
@@ -159,6 +171,26 @@
 
 <!ELEMENT l_ref (#PCDATA) >
 
+<!-- translation_comment = for Oahpa use -->
+
+<!ELEMENT tf (#PCDATA) > <!-- Translation phrase -->
+<!ATTLIST tf oa ( first | yes | no ) #IMPLIED >
+<!ATTLIST tf dict (yes | no ) #IMPLIED >
+<!ATTLIST tf pos ( phrase  | phrase_n | phrase_a | phrase_v | phrase_adv ) #IMPLIED >
+<!ATTLIST tf gen ( m | f | n ) #IMPLIED >
+<!ATTLIST tf lang ( swe | nob ) #IMPLIED >
+<!ATTLIST tf xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
+<!ATTLIST tf tcomm ( yes | no ) #IMPLIED >
+<!ATTLIST tf stat ( pref ) #IMPLIED >
+
+
+<!ELEMENT te (#PCDATA) > <!-- Translation explanation -->
+<!ATTLIST te lang ( swe | nob ) #IMPLIED >
+<!ATTLIST te xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
+<!ATTLIST te dict (yes | no ) #IMPLIED >
+<!ATTLIST te oa ( first | yes | no ) #IMPLIED >
+<!ATTLIST te stat ( pref ) #IMPLIED >
+<!ATTLIST te pos ( phrase  | phrase_n | phrase_a | phrase_v | phrase_adv ) #IMPLIED >
 
 
 <!ELEMENT xg ((x, xt+)+)>
@@ -174,8 +206,6 @@
 <!ATTLIST xhtml:script type CDATA #FIXED "text/javascript" >
 <!ATTLIST xhtml:script src  CDATA #IMPLIED >
 <!ATTLIST xhtml:script xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml" >
-
-
 
 <!--
 This document is not quite finished yet...
