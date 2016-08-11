@@ -83,69 +83,37 @@
       
       <xsl:value-of select="'ID SMN lemma pos: mg1 (=t1,t2,tX) _ mg2 (=t1,t2,tX)_ mgX  (=t1,t2,tX)_ placeholder for action tag'"/>
       <xsl:value-of select="$nl"/>
-      
-      <!--r>
-	<xsl:copy-of select="$file/r/@*"/-->
 	<xsl:for-each select="$file//e">
-	  <xsl:variable name="current_l" select="./lg/l"/>
-	  <xsl:variable name="current_pos" select="./lg/l/@pos"/>
-	  <xsl:variable name="all_mgs" select="./mg"/>
 	  <xsl:message terminate="no">
 	    <xsl:value-of select="concat('Processing e: ', ./lg/l, $nl)"/>
 	  </xsl:message> 
-	  <xsl:variable name="c_e">
-	    <e>
-	      <l>
-		<xsl:copy-of copy-namespaces="no" select="./lg/l/@pos"/>
-		<xsl:value-of select="./lg/l"/>
-	      </l>
-	      <fad>
-		<xsl:for-each select="./mg">
-		  <xsl:for-each select="./tg/t">
-		    <!--xsl:value-of select="."/-->
-		    <xsl:value-of select="concat(., ' ', ./@pos)"/>
-		    <xsl:if test="not(position()=last())">
-		      <xsl:value-of select="', '"/>
-		    </xsl:if>
-		  </xsl:for-each>
-		  <xsl:if test="not(position()=last())">
-		    <xsl:value-of select="'; '"/>
-		  </xsl:if>
-		</xsl:for-each>
-	      </fad>
-	      <xsl:variable name="c_gt">
-		<gt>
-		  <xsl:for-each select="$parallelDir//e[./lg/l = $current_l]/mg">
-		    <xsl:for-each select="./tg/t">
-		      <!--xsl:value-of select="."/-->
-		      <xsl:value-of select="concat(., ' ', ./@pos)"/>
-		      <xsl:if test="not(position()=last())">
-			<xsl:value-of select="', '"/>
-		      </xsl:if>
-		    </xsl:for-each>
-		    <xsl:if test="not(position()=last())">
-		      <xsl:value-of select="'; '"/>
-		    </xsl:if>
-		  </xsl:for-each>
-		</gt>
-	      </xsl:variable>
-	      <xsl:if test="not(normalize-space($c_gt/gt)='')">
-		<xsl:copy-of select="$c_gt"/>
+	  <xsl:variable name="c_l" select="./lg/l"/>
+	  <xsl:variable name="c_pos" select="./lg/l/@pos"/>
+
+	  <xsl:variable name="all_mgs">
+	    <xsl:for-each select="./mg">
+	      <xsl:if test="./@rest and not(./@rest='')">
+		<xsl:value-of select="concat('[LEMMA', ./@rest, '] '"/>
 	      </xsl:if>
-	    </e>
+	      <xsl:for-each select="./tg/t">
+		<xsl:value-of select="concat(., ' ', ./@pos)"/>
+		<xsl:if test="not(position()=last())">
+		  <xsl:value-of select="', '"/>
+		</xsl:if>
+	      </xsl:for-each>
+	      <xsl:if test="not(position()=last())">
+		<xsl:value-of select="'; '"/>
+	      </xsl:if>
+	    </xsl:for-each>
 	  </xsl:variable>
-	  <xsl:if test="$c_e/e/gt">
-	    <!--xsl:copy-of select="$c_e"/-->
-	    <!--xsl:if test="not($c_e/e/fad=$c_e/e/gt)"-->
-	      <xsl:value-of select="concat($c_e/e/l, ' ', $c_e/e/l/@pos,
-				    ': ', $c_e/e/fad, ' _ ',
-				    $c_e/e/gt, ' _ ')"/>
-	    <!--/xsl:if-->
-	    <xsl:value-of select="$nl"/>
-	  </xsl:if>
+
+	  <!-- output csv -->
+	  <xsl:value-of select="concat($id, '_', $c_l, ' ', $c_@pos,
+				': ', $all_mgs, ' _ ')"/>
+	  <xsl:value-of select="$nl"/>
 	  
 	</xsl:for-each>
-      <!--/r-->
+
     </xsl:result-document>
     
     <xsl:if test="$debug">
