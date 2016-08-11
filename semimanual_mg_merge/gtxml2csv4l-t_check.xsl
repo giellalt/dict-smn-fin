@@ -34,7 +34,7 @@
   <xsl:variable name="this_name" select="(tokenize($this, '/'))[last()]"/>
 
   <!-- out -->
-  <xsl:param name="cIndex" select="'2'"/>
+  <xsl:param name="cIndex" select="'3'"/>
   <xsl:param name="outDir" select="concat('out_stuff_', $cIndex)"/>
   
   <xsl:variable name="oe" select="'txt'"/>
@@ -78,10 +78,11 @@
       
       <xsl:value-of select="'ID SMN lemma pos: mg1 (=t1,t2,tX); mg2 (=t1,t2,tX); mgX  (=t1,t2,tX); placeholder for action tag'"/>
       <xsl:value-of select="$nl"/>
-	<xsl:for-each select="$file//e">
+	<xsl:for-each select="$file//e[count(./mg)&gt;1]">
 	  <xsl:variable name="c_id" select="./@id"/>
 	  <xsl:variable name="c_l" select="./lg/l"/>
 	  <xsl:variable name="c_pos" select="./lg/l/@pos"/>
+	  <xsl:variable name="a_f_c" select="count(./mg)" as="xs:integer"/>
 	  
 	  <xsl:message terminate="no">
 	    <xsl:value-of select="concat('Processing e: ', $c_id, $nl)"/>
@@ -109,9 +110,18 @@
 	    </xsl:for-each>
 	  </xsl:variable>
 
+	  <xsl:variable name="action_field">
+	    <xsl:for-each select="1 to $a_f_c">
+	      <xsl:value-of select="."/>
+	      <xsl:if test="not(position()=last())">
+		<xsl:value-of select="' = '"/>
+	      </xsl:if>
+	    </xsl:for-each>
+	  </xsl:variable>
+	  
 	  <!-- output csv -->
 	  <xsl:value-of select="concat($c_id, ' ', $c_l,
-				': ', $all_mgs, ' _ ')"/>
+				': ', $all_mgs, ' : ', $action_field)"/>
 	  <xsl:value-of select="$nl"/>
 	  
 	</xsl:for-each>
