@@ -17,8 +17,8 @@
 	      omit-xml-declaration="no"
 	      indent="yes"/>
   
-  <xsl:param name="inDir" select="'indira'"/>
-  <xsl:variable name="outDir" select="'gandhi'"/>
+  <xsl:param name="inDir" select="'0_inc'"/>
+  <xsl:variable name="outDir" select="'1_eid'"/>
   <xsl:variable name="of" select="'xml'"/>
   <xsl:variable name="e" select="$of"/>
   <xsl:variable name="debug" select="true()"/>

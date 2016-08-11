@@ -29,13 +29,13 @@
 	      encoding="UTF-8"/>
   
   <!-- in -->
-  <xsl:param name="inDir" select="'indira'"/>
+  <xsl:param name="inDir" select="'1_eid'"/>
   <xsl:param name="this" select="base-uri(document(''))"/>
   <xsl:variable name="this_name" select="(tokenize($this, '/'))[last()]"/>
 
   <!-- out -->
   <xsl:param name="cIndex" select="'3'"/>
-  <xsl:param name="outDir" select="concat('out_stuff_', $cIndex)"/>
+  <xsl:param name="outDir" select="'2_csv'"/>
   
   <xsl:variable name="oe" select="'txt'"/>
   <xsl:variable name="tb" select="'&#9;'"/>
