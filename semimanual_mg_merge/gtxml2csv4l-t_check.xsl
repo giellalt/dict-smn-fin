@@ -79,9 +79,9 @@
     </xsl:message>      
     
     <!-- out -->
-    <xsl:result-document href="{$outDir}/{replace($name,'_fad_','_fad-vs-gt_') }.{$oe}" format="{$oe}">
+    <xsl:result-document href="{$outDir}/{$name}.{$oe}" format="{$oe}">
       
-      <xsl:value-of select="'SME lemma pos: fad NOB lemma pos _ gt NOB lemma pos _ placeholder for action tag'"/>
+      <xsl:value-of select="'ID SMN lemma pos: mg1 (=t1,t2,tX) _ mg2 (=t1,t2,tX)_ mgX  (=t1,t2,tX)_ placeholder for action tag'"/>
       <xsl:value-of select="$nl"/>
       
       <!--r>
