@@ -29,15 +29,12 @@
 	      encoding="UTF-8"/>
   
   <!-- in -->
-  <xsl:param name="inDir" select="'_filtered_fad_1'"/>
-  <xsl:param name="inFile" select="'xfilex'"/>
-  <xsl:param name="parallel_dir" select="'src'"/>
+  <xsl:param name="inDir" select="'indira'"/>
   <xsl:param name="this" select="base-uri(document(''))"/>
   <xsl:variable name="this_name" select="(tokenize($this, '/'))[last()]"/>
-  <xsl:variable name="file_name" select="substring-before((tokenize($inFile, '/'))[last()], '.xml')"/> 
 
   <!-- out -->
-  <xsl:param name="cIndex" select="'end'"/>
+  <xsl:param name="cIndex" select="'2'"/>
   <xsl:param name="outDir" select="concat('out_stuff_', $cIndex)"/>
   
   <xsl:variable name="oe" select="'txt'"/>
@@ -59,7 +56,6 @@
 	  <xsl:with-param name="name" select="$current_file"/>
 	  <xsl:with-param name="ie" select="'xml'"/>
 	  <xsl:with-param name="relPath" select="$current_location"/>
-	  <xsl:with-param name="parallelDir" select="document(concat($parallel_dir, '/', replace($current_file,'_fad',''), '.xml'))"/>
 	  
 	</xsl:call-template>
       </xsl:for-each>
@@ -72,7 +68,6 @@
     <xsl:param name="name"/>
     <xsl:param name="ie"/>
     <xsl:param name="relPath"/>
-    <xsl:param name="parallelDir"/>
 
     <xsl:message terminate="no">
       <xsl:value-of select="concat('Processing file: ', $relPath, $name, '.', $ie)"/>
@@ -93,10 +88,15 @@
 	  <xsl:variable name="all_mgs">
 	    <xsl:for-each select="./mg">
 	      <xsl:if test="./@rest and not(./@rest='')">
-		<xsl:value-of select="concat('[LEMMA', ./@rest, '] '"/>
+		<xsl:value-of select="concat('[LEMMA ', ./@rest, '] ')"/>
 	      </xsl:if>
 	      <xsl:for-each select="./tg/t">
-		<xsl:value-of select="concat(., ' ', ./@pos)"/>
+		<xsl:if test="./@pos=$c_pos">
+		  <xsl:value-of select="."/>
+		</xsl:if>
+		<xsl:if test="not(./@pos=$c_pos)">
+		  <xsl:value-of select="concat(., ' ', ./@pos)"/>
+		</xsl:if>
 		<xsl:if test="not(position()=last())">
 		  <xsl:value-of select="', '"/>
 		</xsl:if>
@@ -108,7 +108,7 @@
 	  </xsl:variable>
 
 	  <!-- output csv -->
-	  <xsl:value-of select="concat($id, '_', $c_l, ' ', $c_@pos,
+	  <xsl:value-of select="concat($c_l, ' ', $c_pos,
 				': ', $all_mgs, ' _ ')"/>
 	  <xsl:value-of select="$nl"/>
 	  
