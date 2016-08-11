@@ -76,7 +76,7 @@
     <!-- out -->
     <xsl:result-document href="{$outDir}/{$name}.{$oe}" format="{$oe}">
       
-      <xsl:value-of select="'ID SMN lemma pos: mg1 (=t1,t2,tX); mg2 (=t1,t2,tX); mgX  (=t1,t2,tX); placeholder for action tag'"/>
+      <xsl:value-of select="'ID SMN lemma: mg1 (=t1,t2,tX); mg2 (=t1,t2,tX); mgX  (=t1,t2,tX) : 1 = 2 = X _ placeholder for action tag'"/>
       <xsl:value-of select="$nl"/>
 	<xsl:for-each select="$file//e[count(./mg)&gt;1]">
 	  <xsl:variable name="c_id" select="./@id"/>
@@ -121,7 +121,7 @@
 	  
 	  <!-- output csv -->
 	  <xsl:value-of select="concat($c_id, ' ', $c_l,
-				': ', $all_mgs, ' : ', $action_field)"/>
+				': ', $all_mgs, ' : ', $action_field, ' _ ')"/>
 	  <xsl:value-of select="$nl"/>
 	  
 	</xsl:for-each>
