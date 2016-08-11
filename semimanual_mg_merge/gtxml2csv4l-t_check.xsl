@@ -76,14 +76,16 @@
     <!-- out -->
     <xsl:result-document href="{$outDir}/{$name}.{$oe}" format="{$oe}">
       
-      <xsl:value-of select="'ID SMN lemma pos: mg1 (=t1,t2,tX) _ mg2 (=t1,t2,tX)_ mgX  (=t1,t2,tX)_ placeholder for action tag'"/>
+      <xsl:value-of select="'ID SMN lemma pos: mg1 (=t1,t2,tX); mg2 (=t1,t2,tX); mgX  (=t1,t2,tX); placeholder for action tag'"/>
       <xsl:value-of select="$nl"/>
 	<xsl:for-each select="$file//e">
-	  <xsl:message terminate="no">
-	    <xsl:value-of select="concat('Processing e: ', ./lg/l, $nl)"/>
-	  </xsl:message> 
+	  <xsl:variable name="c_id" select="./@id"/>
 	  <xsl:variable name="c_l" select="./lg/l"/>
 	  <xsl:variable name="c_pos" select="./lg/l/@pos"/>
+	  
+	  <xsl:message terminate="no">
+	    <xsl:value-of select="concat('Processing e: ', $c_id, $nl)"/>
+	  </xsl:message> 
 
 	  <xsl:variable name="all_mgs">
 	    <xsl:for-each select="./mg">
@@ -95,7 +97,7 @@
 		  <xsl:value-of select="."/>
 		</xsl:if>
 		<xsl:if test="not(./@pos=$c_pos)">
-		  <xsl:value-of select="concat(., ' ', ./@pos)"/>
+		  <xsl:value-of select="concat(., ' /', ./@pos, '/')"/>
 		</xsl:if>
 		<xsl:if test="not(position()=last())">
 		  <xsl:value-of select="', '"/>
@@ -108,7 +110,7 @@
 	  </xsl:variable>
 
 	  <!-- output csv -->
-	  <xsl:value-of select="concat($c_l, ' ', $c_pos,
+	  <xsl:value-of select="concat($c_id, ' ', $c_l,
 				': ', $all_mgs, ' _ ')"/>
 	  <xsl:value-of select="$nl"/>
 	  
