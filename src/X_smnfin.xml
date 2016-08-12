@@ -28,31 +28,35 @@ For the full license text, see the link above.
      </sourcenote></lics>
    <e>
       <lg>
-         <l pos="X">čohhoom</l>
+         <l pos="N">čohhoom</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">kampa</t>
+            <t pos="N">kampa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="X">uulgah</l>
+         <l pos="N">uulgah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="X">ulut</t>
+            <t pos="N">ulut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="X">vuávnus</l>
+         <l pos="N">vuávnus</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="X">jk näköinen</t>
+            <t pos="N">jk näköinen</t>
+         <xg>
+         <x>Son lea muu vuávnus</x>
+         <xt>Hän on minun näköinen</xt>
+         </xg>
          </tg>
       </mg>
    </e>
