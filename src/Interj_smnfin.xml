@@ -536,4 +536,34 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Interj">pinnâhâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">vietävä (lievä voimasana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">tuonârokke</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">vietävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">váiván</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">vaivattu (lievä voimasana)</t>
+         </tg>
+      </mg>
+   </e>
 </r>
