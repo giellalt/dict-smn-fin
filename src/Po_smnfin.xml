@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../scripts/gt_dictionary_smnfin.css" type="text/css"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
@@ -26,7 +26,7 @@ For the full license text, see the link above.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote></lics>
-   <e>
+   <e id="Po_1">
       <lg>
          <l pos="Po">aldasijn</l>
       </lg>
@@ -41,7 +41,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_2">
       <lg>
          <l pos="Po">alne</l>
       </lg>
@@ -56,7 +56,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_3">
       <lg>
          <l pos="Po">čoođâ</l>
       </lg>
@@ -71,7 +71,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_4">
       <lg>
          <l pos="Po">fáárun</l>
       </lg>
@@ -81,7 +81,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_5">
       <lg>
          <l pos="Po">fáárust</l>
       </lg>
@@ -91,7 +91,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_6">
       <lg>
          <l pos="Po">haaldun</l>
       </lg>
@@ -101,7 +101,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_7">
       <lg>
          <l pos="Po">haaldust</l>
       </lg>
@@ -116,7 +116,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_8">
       <lg>
          <l pos="Po">háárán</l>
       </lg>
@@ -126,7 +126,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_9">
       <lg>
          <l pos="Po">kaskoo</l>
       </lg>
@@ -161,7 +161,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_10">
       <lg>
          <l pos="Po">keččin</l>
       </lg>
@@ -196,7 +196,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_11">
       <lg>
          <l pos="Po">keežild</l>
       </lg>
@@ -221,7 +221,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_12">
       <lg>
          <l pos="Po">kiäčán</l>
       </lg>
@@ -231,7 +231,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_13">
       <lg>
          <l pos="Po">kiäččá</l>
       </lg>
@@ -241,7 +241,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_14">
       <lg>
          <l pos="Po">kooskâst</l>
       </lg>
@@ -256,7 +256,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_15">
       <lg>
          <l pos="Po">kuáttá</l>
       </lg>
@@ -281,7 +281,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_16">
       <lg>
          <l pos="Po">kulen</l>
       </lg>
@@ -296,7 +296,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_17">
       <lg>
          <l pos="Po">kuuvl</l>
       </lg>
@@ -321,7 +321,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_18">
       <lg>
          <l pos="Po">kuvlân</l>
       </lg>
@@ -331,7 +331,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_19">
       <lg>
          <l pos="Po">kyevtkooskân</l>
       </lg>
@@ -341,7 +341,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_20">
       <lg>
          <l pos="Po">luus</l>
       </lg>
@@ -351,7 +351,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_21">
       <lg>
          <l pos="Po">luusâ</l>
       </lg>
@@ -366,7 +366,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_22">
       <lg>
          <l pos="Po">maajaabeln</l>
       </lg>
@@ -391,7 +391,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_23">
       <lg>
          <l pos="Po">maŋa</l>
       </lg>
@@ -411,7 +411,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_24">
       <lg>
          <l pos="Po">maŋas</l>
       </lg>
@@ -426,7 +426,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_25">
       <lg>
          <l pos="Po">maŋŋaal</l>
       </lg>
@@ -436,7 +436,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_26">
       <lg>
          <l pos="Po">maŋŋaalsis</l>
       </lg>
@@ -446,7 +446,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_27">
       <lg>
          <l pos="Po">náál</l>
       </lg>
@@ -461,7 +461,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_28">
       <lg>
          <l pos="Po">njeigâ</l>
       </lg>
@@ -486,7 +486,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_29">
       <lg>
          <l pos="Po">oolâ</l>
       </lg>
@@ -506,7 +506,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_30">
       <lg>
          <l pos="Po">oovdân</l>
       </lg>
@@ -531,7 +531,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_31">
       <lg>
          <l pos="Po">oovdâst</l>
       </lg>
@@ -546,7 +546,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_32">
       <lg>
          <l pos="Po">ovdiibel</l>
       </lg>
@@ -561,7 +561,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_33">
       <lg>
          <l pos="Po">ovdiibeln</l>
       </lg>
@@ -591,7 +591,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_34">
       <lg>
          <l pos="Po">ovdil</l>
       </lg>
@@ -601,7 +601,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_35">
       <lg>
          <l pos="Po">paaldâst</l>
       </lg>
@@ -616,7 +616,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_36">
       <lg>
          <l pos="Po">paijeel</l>
       </lg>
@@ -631,7 +631,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_37">
       <lg>
          <l pos="Po">pajas</l>
       </lg>
@@ -641,7 +641,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_38">
       <lg>
          <l pos="Po">peeleest</l>
       </lg>
@@ -651,7 +651,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_39">
       <lg>
          <l pos="Po">peht</l>
       </lg>
@@ -661,7 +661,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_40">
       <lg>
          <l pos="Po">pel</l>
       </lg>
@@ -671,7 +671,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_41">
       <lg>
          <l pos="Po">peln</l>
       </lg>
@@ -686,7 +686,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_42">
       <lg>
          <l pos="Po">pirrâ</l>
       </lg>
@@ -696,7 +696,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_43">
       <lg>
          <l pos="Po">piällás</l>
       </lg>
@@ -706,7 +706,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_44">
       <lg>
          <l pos="Po">piällást</l>
       </lg>
@@ -721,7 +721,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_45">
       <lg>
          <l pos="Po">piärán</l>
       </lg>
@@ -736,7 +736,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_46">
       <lg>
          <l pos="Po">puotâ</l>
       </lg>
@@ -751,7 +751,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_47">
       <lg>
          <l pos="Po">rááján</l>
       </lg>
@@ -766,7 +766,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_48">
       <lg>
          <l pos="Po">rasta</l>
       </lg>
@@ -781,7 +781,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_49">
       <lg>
          <l pos="Po">räi</l>
       </lg>
@@ -796,7 +796,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_50">
       <lg>
          <l pos="Po">siisâ</l>
       </lg>
@@ -811,7 +811,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_51">
       <lg>
          <l pos="Po">sistáád</l>
       </lg>
@@ -836,7 +836,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_52">
       <lg>
          <l pos="Po">sistáán</l>
       </lg>
@@ -861,7 +861,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_53">
       <lg>
          <l pos="Po">siste</l>
       </lg>
@@ -886,7 +886,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_54">
       <lg>
          <l pos="Po">sistees</l>
       </lg>
@@ -911,7 +911,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_55">
       <lg>
          <l pos="Po">siälgálâs</l>
       </lg>
@@ -921,7 +921,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_56">
       <lg>
          <l pos="Po">suulâst</l>
       </lg>
@@ -936,7 +936,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_57">
       <lg>
          <l pos="Po">tabbeláá</l>
       </lg>
@@ -951,7 +951,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_58">
       <lg>
          <l pos="Po">tabbeláhháá</l>
       </lg>
@@ -966,7 +966,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_59">
       <lg>
          <l pos="Po">tagopeht</l>
       </lg>
@@ -981,7 +981,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_60">
       <lg>
          <l pos="Po">tet</l>
       </lg>
@@ -996,7 +996,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_61">
       <lg>
          <l pos="Po">tiet</l>
       </lg>
@@ -1016,7 +1016,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_62">
       <lg>
          <l pos="Po">tuáhá</l>
       </lg>
@@ -1026,7 +1026,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_63">
       <lg>
          <l pos="Po">tuáhásis</l>
       </lg>
@@ -1041,7 +1041,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_64">
       <lg>
          <l pos="Po">tyehin</l>
       </lg>
@@ -1051,7 +1051,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_65">
       <lg>
          <l pos="Po">várás</l>
       </lg>
@@ -1061,7 +1061,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_66">
       <lg>
          <l pos="Po">veerrin</l>
       </lg>
@@ -1071,7 +1071,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_67">
       <lg>
          <l pos="Po">verd</l>
       </lg>
@@ -1081,7 +1081,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_68">
       <lg>
          <l pos="Po">verrin</l>
       </lg>
@@ -1091,7 +1091,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_69">
       <lg>
          <l pos="Po">viđá</l>
       </lg>
@@ -1111,7 +1111,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_70">
       <lg>
          <l pos="Po">vuál</l>
       </lg>
@@ -1121,7 +1121,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_71">
       <lg>
          <l pos="Po">vuálá</l>
       </lg>
@@ -1131,7 +1131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_72">
       <lg>
          <l pos="Po">vyele</l>
       </lg>
@@ -1141,7 +1141,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_73">
       <lg>
          <l pos="Po">vyeleeld</l>
       </lg>
@@ -1151,7 +1151,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_74">
       <lg>
          <l pos="Po">vyeln</l>
       </lg>
@@ -1161,7 +1161,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Po_75">
       <lg>
          <l pos="Po">vyelni</l>
       </lg>

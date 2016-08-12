@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../scripts/gt_dictionary_smnfin.css" type="text/css"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
@@ -26,7 +26,7 @@ For the full license text, see the link above.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote></lics>
-   <e>
+   <e id="Num_1">
       <lg>
          <l pos="Num">čiččâd</l>
       </lg>
@@ -36,7 +36,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_2">
       <lg>
          <l pos="Num">čiččâm</l>
       </lg>
@@ -46,7 +46,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_3">
       <lg>
          <l pos="Num">čiččâmâs</l>
       </lg>
@@ -61,7 +61,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_4">
       <lg>
          <l pos="Num">čiččâmčyeđe</l>
       </lg>
@@ -71,7 +71,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_5">
       <lg>
          <l pos="Num">čiččâmlov</l>
       </lg>
@@ -81,7 +81,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_6">
       <lg>
          <l pos="Num">čiččâmnubáloh</l>
       </lg>
@@ -91,7 +91,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_7">
       <lg>
          <l pos="Num">čiččid</l>
       </lg>
@@ -101,7 +101,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_8">
       <lg>
          <l pos="Num">čiččii</l>
       </lg>
@@ -111,7 +111,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_9">
       <lg>
          <l pos="Num">čuákkáá</l>
       </lg>
@@ -121,7 +121,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_10">
       <lg>
          <l pos="Num">čyeti</l>
       </lg>
@@ -131,7 +131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_11">
       <lg>
          <l pos="Num">jiešiäluid</l>
       </lg>
@@ -141,7 +141,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_12">
       <lg>
          <l pos="Num">káávcád</l>
       </lg>
@@ -151,7 +151,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_13">
       <lg>
          <l pos="Num">kahcii</l>
       </lg>
@@ -161,7 +161,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_14">
       <lg>
          <l pos="Num">kuálmád</l>
       </lg>
@@ -171,7 +171,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_15">
       <lg>
          <l pos="Num">kuávttáákooskâl</l>
       </lg>
@@ -181,7 +181,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_16">
       <lg>
          <l pos="Num">kulmâ</l>
       </lg>
@@ -191,7 +191,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_17">
       <lg>
          <l pos="Num">kulmâlov</l>
       </lg>
@@ -201,7 +201,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_18">
       <lg>
          <l pos="Num">kulmânubáloh</l>
       </lg>
@@ -211,7 +211,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_19">
       <lg>
          <l pos="Num">kulmii</l>
       </lg>
@@ -221,7 +221,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_20">
       <lg>
          <l pos="Num">kutlov</l>
       </lg>
@@ -231,7 +231,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_21">
       <lg>
          <l pos="Num">kuttâ</l>
       </lg>
@@ -241,7 +241,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_22">
       <lg>
          <l pos="Num">kuuđâd</l>
       </lg>
@@ -251,7 +251,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_23">
       <lg>
          <l pos="Num">kuuđâs</l>
       </lg>
@@ -261,7 +261,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_24">
       <lg>
          <l pos="Num">kyehti</l>
       </lg>
@@ -271,7 +271,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_25">
       <lg>
          <l pos="Num">kyehtinubáloh</l>
       </lg>
@@ -281,7 +281,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_26">
       <lg>
          <l pos="Num">kyehtlov</l>
       </lg>
@@ -291,7 +291,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_27">
       <lg>
          <l pos="Num">kyehtnubáloh</l>
       </lg>
@@ -301,7 +301,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_28">
       <lg>
          <l pos="Num">kyevtis</l>
       </lg>
@@ -311,7 +311,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_29">
       <lg>
          <l pos="Num">kyevtpeln</l>
       </lg>
@@ -321,7 +321,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_30">
       <lg>
          <l pos="Num">kähcilov</l>
       </lg>
@@ -331,7 +331,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_31">
       <lg>
          <l pos="Num">käävci</l>
       </lg>
@@ -341,7 +341,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_32">
       <lg>
          <l pos="Num">käävcis</l>
       </lg>
@@ -351,7 +351,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_33">
       <lg>
          <l pos="Num">loves</l>
       </lg>
@@ -366,7 +366,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_34">
       <lg>
          <l pos="Num">lovváád</l>
       </lg>
@@ -376,7 +376,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_35">
       <lg>
          <l pos="Num">lovvááh</l>
       </lg>
@@ -386,7 +386,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_36">
       <lg>
          <l pos="Num">lovvááš</l>
       </lg>
@@ -396,7 +396,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_37">
       <lg>
          <l pos="Num">luhhii</l>
       </lg>
@@ -406,7 +406,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_38">
       <lg>
          <l pos="Num">luovâsvyeje</l>
       </lg>
@@ -416,7 +416,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_39">
       <lg>
          <l pos="Num">lävvi</l>
       </lg>
@@ -426,7 +426,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_40">
       <lg>
          <l pos="Num">muáddilov</l>
       </lg>
@@ -436,7 +436,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_41">
       <lg>
          <l pos="Num">muádlov</l>
       </lg>
@@ -446,7 +446,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_42">
       <lg>
          <l pos="Num">neljilov</l>
       </lg>
@@ -456,7 +456,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_43">
       <lg>
          <l pos="Num">neljinubáloh</l>
       </lg>
@@ -466,7 +466,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_44">
       <lg>
          <l pos="Num">niäljád</l>
       </lg>
@@ -476,7 +476,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_45">
       <lg>
          <l pos="Num">nubáloh</l>
       </lg>
@@ -486,7 +486,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_46">
       <lg>
          <l pos="Num">nubbe</l>
       </lg>
@@ -496,7 +496,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_47">
       <lg>
          <l pos="Num">ohcelov</l>
       </lg>
@@ -506,7 +506,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_48">
       <lg>
          <l pos="Num">ohcii</l>
       </lg>
@@ -516,7 +516,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_49">
       <lg>
          <l pos="Num">ohtâ</l>
       </lg>
@@ -536,7 +536,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_50">
       <lg>
          <l pos="Num">ohtnubáloh</l>
       </lg>
@@ -546,7 +546,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_51">
       <lg>
          <l pos="Num">oovcád</l>
       </lg>
@@ -556,7 +556,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_52">
       <lg>
          <l pos="Num">oovce</l>
       </lg>
@@ -566,7 +566,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_53">
       <lg>
          <l pos="Num">oovcenubáloh</l>
       </lg>
@@ -576,7 +576,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_54">
       <lg>
          <l pos="Num">oovces</l>
       </lg>
@@ -591,7 +591,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_55">
       <lg>
          <l pos="Num">oovtâst</l>
       </lg>
@@ -601,7 +601,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_56">
       <lg>
          <l pos="Num">skáhtá</l>
       </lg>
@@ -611,7 +611,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_57">
       <lg>
          <l pos="Num">tävjit-távjá</l>
       </lg>
@@ -621,7 +621,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_58">
       <lg>
          <l pos="Num">viiđâd</l>
       </lg>
@@ -631,7 +631,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_59">
       <lg>
          <l pos="Num">viiđâs</l>
       </lg>
@@ -641,7 +641,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_60">
       <lg>
          <l pos="Num">vitlov</l>
       </lg>
@@ -651,7 +651,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_61">
       <lg>
          <l pos="Num">vitnubáloh</l>
       </lg>
@@ -661,7 +661,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_62">
       <lg>
          <l pos="Num">vittâ</l>
       </lg>
@@ -671,7 +671,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_63">
       <lg>
          <l pos="Num">vittâčyeđe</l>
       </lg>
@@ -681,7 +681,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_64">
       <lg>
          <l pos="Num">vittii</l>
       </lg>
@@ -691,7 +691,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Num_65">
       <lg>
          <l pos="Num">vuosmuš</l>
       </lg>

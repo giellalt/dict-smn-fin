@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../scripts/gt_dictionary_smnfin.css" type="text/css"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
@@ -26,7 +26,7 @@ For the full license text, see the link above.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote></lics>
-   <e>
+   <e id="CC_1">
       <lg>
          <l pos="CC">adai</l>
       </lg>
@@ -41,7 +41,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_2">
       <lg>
          <l pos="CC">ađai</l>
       </lg>
@@ -56,7 +56,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_3">
       <lg>
          <l pos="CC">ansun</l>
       </lg>
@@ -66,7 +66,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_4">
       <lg>
          <l pos="CC">asun</l>
       </lg>
@@ -76,7 +76,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_5">
       <lg>
          <l pos="CC">ege</l>
       </lg>
@@ -86,7 +86,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_6">
       <lg>
          <l pos="CC">emas</l>
       </lg>
@@ -96,7 +96,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_7">
       <lg>
          <l pos="CC">ensun</l>
       </lg>
@@ -106,7 +106,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_8">
       <lg>
          <l pos="CC">et</l>
       </lg>
@@ -116,7 +116,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_9">
       <lg>
          <l pos="CC">ige</l>
       </lg>
@@ -126,7 +126,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_10">
       <lg>
          <l pos="CC">it</l>
       </lg>
@@ -136,7 +136,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_11">
       <lg>
          <l pos="CC">ja</l>
       </lg>
@@ -146,7 +146,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_12">
       <lg>
          <l pos="CC">já</l>
       </lg>
@@ -156,7 +156,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_13">
       <lg>
          <l pos="CC">jeđe</l>
       </lg>
@@ -166,7 +166,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_14">
       <lg>
          <l pos="CC">jis</l>
       </lg>
@@ -176,7 +176,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_15">
       <lg>
          <l pos="CC">jite</l>
       </lg>
@@ -186,7 +186,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_16">
       <lg>
          <l pos="CC">juo</l>
       </lg>
@@ -196,7 +196,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_17">
       <lg>
          <l pos="CC">meid</l>
       </lg>
@@ -211,7 +211,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_18">
       <lg>
          <l pos="CC">mut</l>
       </lg>
@@ -226,7 +226,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_19">
       <lg>
          <l pos="CC">naa</l>
       </lg>
@@ -246,7 +246,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_20">
       <lg>
          <l pos="CC">pic</l>
       </lg>
@@ -261,7 +261,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_21">
       <lg>
          <l pos="CC">sehe</l>
       </lg>
@@ -281,7 +281,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_22">
       <lg>
          <l pos="CC">setináálá</l>
       </lg>
@@ -291,7 +291,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_23">
       <lg>
          <l pos="CC">sätináálá</l>
       </lg>
@@ -301,7 +301,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_24">
       <lg>
          <l pos="CC">tâi</l>
       </lg>
@@ -311,7 +311,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_25">
       <lg>
          <l pos="CC">taihe</l>
       </lg>
@@ -321,7 +321,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_26">
       <lg>
          <l pos="CC">tastko</l>
       </lg>
@@ -346,7 +346,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_27">
       <lg>
          <l pos="CC">teikâ</l>
       </lg>
@@ -356,7 +356,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_28">
       <lg>
          <l pos="CC">teikkâ</l>
       </lg>
@@ -366,7 +366,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_29">
       <lg>
          <l pos="CC">váá</l>
       </lg>
@@ -376,7 +376,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_30">
       <lg>
          <l pos="CC">vâi</l>
       </lg>
@@ -401,7 +401,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="CC_31">
       <lg>
          <l pos="CC">taihe</l>
       </lg>

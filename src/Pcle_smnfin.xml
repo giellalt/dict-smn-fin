@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../scripts/gt_dictionary_smnfin.css" type="text/css"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
@@ -26,7 +26,7 @@ For the full license text, see the link above.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote></lics>
-   <e>
+   <e id="Pcle_1">
       <lg>
          <l pos="Pcle">alda</l>
       </lg>
@@ -41,7 +41,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_2">
       <lg>
          <l pos="Pcle">aldasáid</l>
       </lg>
@@ -56,7 +56,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_3">
       <lg>
          <l pos="Pcle">ama</l>
       </lg>
@@ -71,7 +71,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_4">
       <lg>
          <l pos="Pcle">amahân</l>
       </lg>
@@ -86,7 +86,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_5">
       <lg>
          <l pos="Pcle">amal</l>
       </lg>
@@ -111,7 +111,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_6">
       <lg>
          <l pos="Pcle">ašt</l>
       </lg>
@@ -121,7 +121,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_7">
       <lg>
          <l pos="Pcle">ašta</l>
       </lg>
@@ -131,7 +131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_8">
       <lg>
          <l pos="Pcle">čäciláhháá</l>
       </lg>
@@ -141,7 +141,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_9">
       <lg>
          <l pos="Pcle">eeidu</l>
       </lg>
@@ -151,7 +151,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_10">
       <lg>
          <l pos="Pcle">eereeb</l>
       </lg>
@@ -161,7 +161,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_11">
       <lg>
          <l pos="Pcle">eidu</l>
       </lg>
@@ -191,7 +191,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_12">
       <lg>
          <l pos="Pcle">eissigin</l>
       </lg>
@@ -201,7 +201,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_13">
       <lg>
          <l pos="Pcle">ereb</l>
       </lg>
@@ -211,7 +211,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_14">
       <lg>
          <l pos="Pcle">eromâšávt</l>
       </lg>
@@ -226,7 +226,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_15">
       <lg>
          <l pos="Pcle">ihánes</l>
       </lg>
@@ -236,7 +236,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_16">
       <lg>
          <l pos="Pcle">ihánis</l>
       </lg>
@@ -246,7 +246,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_17">
       <lg>
          <l pos="Pcle">ihenis</l>
       </lg>
@@ -261,7 +261,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_18">
       <lg>
          <l pos="Pcle">jieš</l>
       </lg>
@@ -271,7 +271,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_19">
       <lg>
          <l pos="Pcle">jobâ</l>
       </lg>
@@ -281,7 +281,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_20">
       <lg>
          <l pos="Pcle">joo</l>
       </lg>
@@ -296,7 +296,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_21">
       <lg>
          <l pos="Pcle">joo-o</l>
       </lg>
@@ -306,7 +306,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_22">
       <lg>
          <l pos="Pcle">juáháš</l>
       </lg>
@@ -316,7 +316,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_23">
       <lg>
          <l pos="Pcle">juáhháávuoigâdvuotâ</l>
       </lg>
@@ -326,7 +326,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_24">
       <lg>
          <l pos="Pcle">juo-uv-teikkâ</l>
       </lg>
@@ -336,7 +336,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_25">
       <lg>
          <l pos="Pcle">jyehi</l>
       </lg>
@@ -351,7 +351,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_26">
       <lg>
          <l pos="Pcle">kenski</l>
       </lg>
@@ -361,7 +361,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_27">
       <lg>
          <l pos="Pcle">kiitiätá</l>
       </lg>
@@ -371,7 +371,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_28">
       <lg>
          <l pos="Pcle">kote</l>
       </lg>
@@ -381,7 +381,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_29">
       <lg>
          <l pos="Pcle">liijká</l>
       </lg>
@@ -396,7 +396,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_30">
       <lg>
          <l pos="Pcle">mahte</l>
       </lg>
@@ -416,7 +416,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_31">
       <lg>
          <l pos="Pcle">mai</l>
       </lg>
@@ -436,7 +436,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_32">
       <lg>
          <l pos="Pcle">maka</l>
       </lg>
@@ -451,7 +451,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_33">
       <lg>
          <l pos="Pcle">melgâd</l>
       </lg>
@@ -466,7 +466,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_34">
       <lg>
          <l pos="Pcle">mestâ</l>
       </lg>
@@ -476,7 +476,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_35">
       <lg>
          <l pos="Pcle">mieldi</l>
       </lg>
@@ -501,7 +501,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_36">
       <lg>
          <l pos="Pcle">miinii</l>
       </lg>
@@ -521,7 +521,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_37">
       <lg>
          <l pos="Pcle">mild</l>
       </lg>
@@ -536,7 +536,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_38">
       <lg>
          <l pos="Pcle">muájus</l>
       </lg>
@@ -546,7 +546,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_39">
       <lg>
          <l pos="Pcle">muidego</l>
       </lg>
@@ -556,7 +556,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_40">
       <lg>
          <l pos="Pcle">naba</l>
       </lg>
@@ -566,7 +566,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_41">
       <lg>
          <l pos="Pcle">nabai</l>
       </lg>
@@ -576,7 +576,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_42">
       <lg>
          <l pos="Pcle">nubijkulij</l>
       </lg>
@@ -586,7 +586,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_43">
       <lg>
          <l pos="Pcle">nuottii</l>
       </lg>
@@ -596,7 +596,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_44">
       <lg>
          <l pos="Pcle">nuuvt</l>
       </lg>
@@ -626,7 +626,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_45">
       <lg>
          <l pos="Pcle">nyevt</l>
       </lg>
@@ -636,7 +636,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_46">
       <lg>
          <l pos="Pcle">oovtnáál</l>
       </lg>
@@ -651,7 +651,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_47">
       <lg>
          <l pos="Pcle">ovdeláhháá</l>
       </lg>
@@ -661,7 +661,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_48">
       <lg>
          <l pos="Pcle">ovdláhháá</l>
       </lg>
@@ -676,7 +676,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_49">
       <lg>
          <l pos="Pcle">passaamus</l>
       </lg>
@@ -686,7 +686,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_50">
       <lg>
          <l pos="Pcle">peeicâ</l>
       </lg>
@@ -696,7 +696,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_51">
       <lg>
          <l pos="Pcle">penttâ</l>
       </lg>
@@ -736,7 +736,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_52">
       <lg>
          <l pos="Pcle">poi</l>
       </lg>
@@ -746,7 +746,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_53">
       <lg>
          <l pos="Pcle">puoh</l>
       </lg>
@@ -776,7 +776,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_54">
       <lg>
          <l pos="Pcle">puohânissii</l>
       </lg>
@@ -786,7 +786,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_55">
       <lg>
          <l pos="Pcle">puohnissii</l>
       </lg>
@@ -796,7 +796,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_56">
       <lg>
          <l pos="Pcle">pyereestpuáttim</l>
       </lg>
@@ -806,7 +806,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_57">
       <lg>
          <l pos="Pcle">pyeripuáttim</l>
       </lg>
@@ -816,7 +816,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_58">
       <lg>
          <l pos="Pcle">rakkân</l>
       </lg>
@@ -826,7 +826,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_59">
       <lg>
          <l pos="Pcle">rei</l>
       </lg>
@@ -841,7 +841,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_60">
       <lg>
          <l pos="Pcle">rekkân</l>
       </lg>
@@ -851,7 +851,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_61">
       <lg>
          <l pos="Pcle">šât</l>
       </lg>
@@ -866,7 +866,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_62">
       <lg>
          <l pos="Pcle">sierânâs</l>
       </lg>
@@ -876,7 +876,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_63">
       <lg>
          <l pos="Pcle">sijđo</l>
       </lg>
@@ -886,7 +886,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_64">
       <lg>
          <l pos="Pcle">sittá</l>
       </lg>
@@ -901,7 +901,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_65">
       <lg>
          <l pos="Pcle">sittágin</l>
       </lg>
@@ -911,7 +911,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_66">
       <lg>
          <l pos="Pcle">siämmáánáál</l>
       </lg>
@@ -921,7 +921,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_67">
       <lg>
          <l pos="Pcle">ta</l>
       </lg>
@@ -931,7 +931,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_68">
       <lg>
          <l pos="Pcle">taste</l>
       </lg>
@@ -941,7 +941,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_69">
       <lg>
          <l pos="Pcle">tastmaŋa</l>
       </lg>
@@ -951,7 +951,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_70">
       <lg>
          <l pos="Pcle">teđet</l>
       </lg>
@@ -961,7 +961,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_71">
       <lg>
          <l pos="Pcle">tego</l>
       </lg>
@@ -976,7 +976,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_72">
       <lg>
          <l pos="Pcle">tie</l>
       </lg>
@@ -986,7 +986,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_73">
       <lg>
          <l pos="Pcle">tieđe</l>
       </lg>
@@ -996,7 +996,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_74">
       <lg>
          <l pos="Pcle">tieđee</l>
       </lg>
@@ -1006,7 +1006,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_75">
       <lg>
          <l pos="Pcle">tiegu</l>
       </lg>
@@ -1016,7 +1016,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_76">
       <lg>
          <l pos="Pcle">tiemmit</l>
       </lg>
@@ -1026,7 +1026,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_77">
       <lg>
          <l pos="Pcle">tienuuvt</l>
       </lg>
@@ -1036,7 +1036,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_78">
       <lg>
          <l pos="Pcle">tiervâpuáttim</l>
       </lg>
@@ -1046,7 +1046,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_79">
       <lg>
          <l pos="Pcle">tiestân</l>
       </lg>
@@ -1056,7 +1056,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_80">
       <lg>
          <l pos="Pcle">tietogo</l>
       </lg>
@@ -1071,7 +1071,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_81">
       <lg>
          <l pos="Pcle">tiiláá</l>
       </lg>
@@ -1081,7 +1081,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_82">
       <lg>
          <l pos="Pcle">tijmá</l>
       </lg>
@@ -1091,7 +1091,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_83">
       <lg>
          <l pos="Pcle">tissáá</l>
       </lg>
@@ -1101,7 +1101,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_84">
       <lg>
          <l pos="Pcle">togo</l>
       </lg>
@@ -1116,7 +1116,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_85">
       <lg>
          <l pos="Pcle">togopeht</l>
       </lg>
@@ -1131,7 +1131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_86">
       <lg>
          <l pos="Pcle">tommit</l>
       </lg>
@@ -1151,7 +1151,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_87">
       <lg>
          <l pos="Pcle">tommittáá</l>
       </lg>
@@ -1161,7 +1161,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_88">
       <lg>
          <l pos="Pcle">tondiet</l>
       </lg>
@@ -1171,7 +1171,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_89">
       <lg>
          <l pos="Pcle">tuš</l>
       </lg>
@@ -1181,7 +1181,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_90">
       <lg>
          <l pos="Pcle">tääl</l>
       </lg>
@@ -1191,7 +1191,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_91">
       <lg>
          <l pos="Pcle">uálináál</l>
       </lg>
@@ -1201,7 +1201,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_92">
       <lg>
          <l pos="Pcle">ubâ</l>
       </lg>
@@ -1231,7 +1231,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_93">
       <lg>
          <l pos="Pcle">ucánjihhii</l>
       </lg>
@@ -1241,7 +1241,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_94">
       <lg>
          <l pos="Pcle">uccást</l>
       </lg>
@@ -1251,7 +1251,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_95">
       <lg>
          <l pos="Pcle">váá</l>
       </lg>
@@ -1261,7 +1261,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_96">
       <lg>
          <l pos="Pcle">val</l>
       </lg>
@@ -1276,7 +1276,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_97">
       <lg>
          <l pos="Pcle">vala</l>
       </lg>
@@ -1291,7 +1291,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_98">
       <lg>
          <l pos="Pcle">vest</l>
       </lg>
@@ -1301,7 +1301,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_99">
       <lg>
          <l pos="Pcle">viehâ</l>
       </lg>
@@ -1341,7 +1341,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_100">
       <lg>
          <l pos="Pcle">vuod</l>
       </lg>
@@ -1351,7 +1351,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_101">
       <lg>
          <l pos="Pcle">vuot</l>
       </lg>
@@ -1361,7 +1361,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pcle_102">
       <lg>
          <l pos="Pcle">väri</l>
       </lg>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../scripts/gt_dictionary_smnfin.css" type="text/css"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
@@ -26,7 +26,7 @@ For the full license text, see the link above.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote></lics>
-   <e>
+   <e id="Interj_1">
       <lg>
          <l pos="Interj">aamen</l>
       </lg>
@@ -36,7 +36,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_2">
       <lg>
          <l pos="Interj">addâgâs</l>
       </lg>
@@ -46,7 +46,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_3">
       <lg>
          <l pos="Interj">ai</l>
       </lg>
@@ -56,7 +56,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_4">
       <lg>
          <l pos="Interj">cuártti</l>
       </lg>
@@ -71,7 +71,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_5">
       <lg>
          <l pos="Interj">faanin</l>
       </lg>
@@ -81,7 +81,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_6">
       <lg>
          <l pos="Interj">hálvát</l>
       </lg>
@@ -91,7 +91,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_7">
       <lg>
          <l pos="Interj">hei</l>
       </lg>
@@ -101,7 +101,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_8">
       <lg>
          <l pos="Interj">het-het</l>
       </lg>
@@ -111,7 +111,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_9">
       <lg>
          <l pos="Interj">hevvât</l>
       </lg>
@@ -121,7 +121,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_10">
       <lg>
          <l pos="Interj">hevvet</l>
       </lg>
@@ -131,7 +131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_11">
       <lg>
          <l pos="Interj">hevvit</l>
       </lg>
@@ -141,7 +141,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_12">
       <lg>
          <l pos="Interj">hos</l>
       </lg>
@@ -151,7 +151,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_13">
       <lg>
          <l pos="Interj">itám</l>
       </lg>
@@ -161,7 +161,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_14">
       <lg>
          <l pos="Interj">jáá</l>
       </lg>
@@ -181,7 +181,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_15">
       <lg>
          <l pos="Interj">joo-o</l>
       </lg>
@@ -191,7 +191,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_16">
       <lg>
          <l pos="Interj">kah</l>
       </lg>
@@ -201,7 +201,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_17">
       <lg>
          <l pos="Interj">kiäh</l>
       </lg>
@@ -211,7 +211,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_18">
       <lg>
          <l pos="Interj">kuš</l>
       </lg>
@@ -221,7 +221,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_19">
       <lg>
          <l pos="Interj">liebbuš</l>
       </lg>
@@ -231,7 +231,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_20">
       <lg>
          <l pos="Interj">miessârokke</l>
       </lg>
@@ -241,7 +241,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_21">
       <lg>
          <l pos="Interj">moččârokke</l>
       </lg>
@@ -251,7 +251,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_22">
       <lg>
          <l pos="Interj">motjanan</l>
       </lg>
@@ -261,7 +261,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_23">
       <lg>
          <l pos="Interj">na</l>
       </lg>
@@ -271,7 +271,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_24">
       <lg>
          <l pos="Interj">no</l>
       </lg>
@@ -281,7 +281,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_25">
       <lg>
          <l pos="Interj">o</l>
       </lg>
@@ -301,7 +301,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_26">
       <lg>
          <l pos="Interj">oo</l>
       </lg>
@@ -311,7 +311,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_27">
       <lg>
          <l pos="Interj">panjig</l>
       </lg>
@@ -321,7 +321,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_28">
       <lg>
          <l pos="Interj">pannâhâs</l>
       </lg>
@@ -331,7 +331,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_29">
       <lg>
          <l pos="Interj">peŋgâluh</l>
       </lg>
@@ -341,7 +341,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_30">
       <lg>
          <l pos="Interj">peŋgiluh</l>
       </lg>
@@ -351,7 +351,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_31">
       <lg>
          <l pos="Interj">puállunjune</l>
       </lg>
@@ -366,7 +366,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_32">
       <lg>
          <l pos="Interj">puurist</l>
       </lg>
@@ -376,7 +376,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_33">
       <lg>
          <l pos="Interj">pyeŋes</l>
       </lg>
@@ -386,7 +386,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_34">
       <lg>
          <l pos="Interj">ruomččâ</l>
       </lg>
@@ -401,7 +401,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_35">
       <lg>
          <l pos="Interj">ruomčči</l>
       </lg>
@@ -416,7 +416,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_36">
       <lg>
          <l pos="Interj">ruoški</l>
       </lg>
@@ -426,7 +426,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_37">
       <lg>
          <l pos="Interj">sáttán</l>
       </lg>
@@ -436,7 +436,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_38">
       <lg>
          <l pos="Interj">še</l>
       </lg>
@@ -446,7 +446,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_39">
       <lg>
          <l pos="Interj">skool</l>
       </lg>
@@ -456,7 +456,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_40">
       <lg>
          <l pos="Interj">sottáán</l>
       </lg>
@@ -471,7 +471,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_41">
       <lg>
          <l pos="Interj">šyeijirokke</l>
       </lg>
@@ -481,7 +481,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_42">
       <lg>
          <l pos="Interj">táh</l>
       </lg>
@@ -491,7 +491,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_43">
       <lg>
          <l pos="Interj">tiegân</l>
       </lg>
@@ -501,7 +501,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_44">
       <lg>
          <l pos="Interj">tiervâ</l>
       </lg>
@@ -516,7 +516,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_45">
       <lg>
          <l pos="Interj">vuoi</l>
       </lg>
@@ -536,7 +536,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_46">
       <lg>
          <l pos="Interj">pinnâhâš</l>
       </lg>
@@ -546,7 +546,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_47">
       <lg>
          <l pos="Interj">tuonârokke</l>
       </lg>
@@ -556,7 +556,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Interj_48">
       <lg>
          <l pos="Interj">váiván</l>
       </lg>

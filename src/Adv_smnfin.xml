@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../scripts/gt_dictionary_smnfin.css" type="text/css"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
@@ -26,7 +26,7 @@ For the full license text, see the link above.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote></lics>
-   <e>
+   <e id="Adv_1">
       <lg>
          <l pos="Adv">aa-a</l>
       </lg>
@@ -36,7 +36,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_2">
       <lg>
          <l pos="Adv">aaibâs</l>
       </lg>
@@ -51,7 +51,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_3">
       <lg>
          <l pos="Adv">aainâs</l>
       </lg>
@@ -71,7 +71,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_4">
       <lg>
          <l pos="Adv">aainâs-uv</l>
       </lg>
@@ -81,7 +81,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_5">
       <lg>
          <l pos="Adv">aarriiđeed</l>
       </lg>
@@ -101,7 +101,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_6">
       <lg>
          <l pos="Adv">áavus</l>
       </lg>
@@ -111,7 +111,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_7">
       <lg>
          <l pos="Adv">áávus</l>
       </lg>
@@ -131,7 +131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_8">
       <lg>
          <l pos="Adv">ain</l>
       </lg>
@@ -156,7 +156,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_9">
       <lg>
          <l pos="Adv">áinoo</l>
       </lg>
@@ -171,7 +171,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_10">
       <lg>
          <l pos="Adv">ain-uv</l>
       </lg>
@@ -191,7 +191,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_11">
       <lg>
          <l pos="Adv">ájáttâlhánnáá</l>
       </lg>
@@ -201,7 +201,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_12">
       <lg>
          <l pos="Adv">aldaaš</l>
       </lg>
@@ -211,7 +211,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_13">
       <lg>
          <l pos="Adv">aldaluvâi</l>
       </lg>
@@ -221,7 +221,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_14">
       <lg>
          <l pos="Adv">aldeláá</l>
       </lg>
@@ -231,7 +231,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_15">
       <lg>
          <l pos="Adv">aldeláhháá</l>
       </lg>
@@ -241,7 +241,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_16">
       <lg>
          <l pos="Adv">aldemust</l>
       </lg>
@@ -251,7 +251,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_17">
       <lg>
          <l pos="Adv">aldemustáá</l>
       </lg>
@@ -261,7 +261,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_18">
       <lg>
          <l pos="Adv">aleláá</l>
       </lg>
@@ -271,7 +271,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_19">
       <lg>
          <l pos="Adv">aleláhháá</l>
       </lg>
@@ -281,7 +281,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_20">
       <lg>
          <l pos="Adv">avalávt</l>
       </lg>
@@ -291,7 +291,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_21">
       <lg>
          <l pos="Adv">avepiäiván</l>
       </lg>
@@ -301,7 +301,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_22">
       <lg>
          <l pos="Adv">ávus</l>
       </lg>
@@ -321,7 +321,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_23">
       <lg>
          <l pos="Adv">ávussoolâi</l>
       </lg>
@@ -331,7 +331,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_24">
       <lg>
          <l pos="Adv">cabzeeht</l>
       </lg>
@@ -341,7 +341,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_25">
       <lg>
          <l pos="Adv">čeeppiht</l>
       </lg>
@@ -356,7 +356,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_26">
       <lg>
          <l pos="Adv">čiččii</l>
       </lg>
@@ -366,7 +366,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_27">
       <lg>
          <l pos="Adv">čielgâsávt</l>
       </lg>
@@ -381,7 +381,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_28">
       <lg>
          <l pos="Adv">čiälgusoivij</l>
       </lg>
@@ -391,7 +391,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_29">
       <lg>
          <l pos="Adv">čiäppáht</l>
       </lg>
@@ -406,7 +406,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_30">
       <lg>
          <l pos="Adv">čiärun</l>
       </lg>
@@ -416,7 +416,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_31">
       <lg>
          <l pos="Adv">cogâsnjalmij</l>
       </lg>
@@ -431,7 +431,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_32">
       <lg>
          <l pos="Adv">čohčuv</l>
       </lg>
@@ -446,7 +446,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_33">
       <lg>
          <l pos="Adv">čokkod</l>
       </lg>
@@ -466,7 +466,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_34">
       <lg>
          <l pos="Adv">čokoppođâi</l>
       </lg>
@@ -486,7 +486,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_35">
       <lg>
          <l pos="Adv">čokoppoođâi</l>
       </lg>
@@ -506,7 +506,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_36">
       <lg>
          <l pos="Adv">čolgâdeijee</l>
       </lg>
@@ -516,7 +516,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_37">
       <lg>
          <l pos="Adv">čonâsân</l>
       </lg>
@@ -526,7 +526,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_38">
       <lg>
          <l pos="Adv">čonâsist</l>
       </lg>
@@ -536,7 +536,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_39">
       <lg>
          <l pos="Adv">čoođâg</l>
       </lg>
@@ -546,7 +546,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_40">
       <lg>
          <l pos="Adv">čuákán</l>
       </lg>
@@ -561,7 +561,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_41">
       <lg>
          <l pos="Adv">čuákist</l>
       </lg>
@@ -576,7 +576,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_42">
       <lg>
          <l pos="Adv">čuáskimávt</l>
       </lg>
@@ -586,7 +586,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_43">
       <lg>
          <l pos="Adv">čuávudeijee</l>
       </lg>
@@ -596,7 +596,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_44">
       <lg>
          <l pos="Adv">čuávudijjee</l>
       </lg>
@@ -606,7 +606,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_45">
       <lg>
          <l pos="Adv">čuávulâs</l>
       </lg>
@@ -616,7 +616,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_46">
       <lg>
          <l pos="Adv">cullânjui</l>
       </lg>
@@ -626,7 +626,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_47">
       <lg>
          <l pos="Adv">čuođij</l>
       </lg>
@@ -636,7 +636,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_48">
       <lg>
          <l pos="Adv">čuoigân</l>
       </lg>
@@ -646,7 +646,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_49">
       <lg>
          <l pos="Adv">čuolâi</l>
       </lg>
@@ -656,7 +656,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_50">
       <lg>
          <l pos="Adv">čuottii</l>
       </lg>
@@ -666,7 +666,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_51">
       <lg>
          <l pos="Adv">cuovhâs</l>
       </lg>
@@ -676,7 +676,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_52">
       <lg>
          <l pos="Adv">čuožžâd</l>
       </lg>
@@ -691,7 +691,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_53">
       <lg>
          <l pos="Adv">čurgâ</l>
       </lg>
@@ -711,7 +711,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_54">
       <lg>
          <l pos="Adv">čurgâdávt</l>
       </lg>
@@ -731,7 +731,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_55">
       <lg>
          <l pos="Adv">čuulâi</l>
       </lg>
@@ -741,7 +741,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_56">
       <lg>
          <l pos="Adv">čuumâl</l>
       </lg>
@@ -751,7 +751,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_57">
       <lg>
          <l pos="Adv">čuuvtij</l>
       </lg>
@@ -766,7 +766,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_58">
       <lg>
          <l pos="Adv">čyerbiht</l>
       </lg>
@@ -786,7 +786,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_59">
       <lg>
          <l pos="Adv">čyevtib</l>
       </lg>
@@ -796,7 +796,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_60">
       <lg>
          <l pos="Adv">eehidláá</l>
       </lg>
@@ -806,7 +806,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_61">
       <lg>
          <l pos="Adv">eeidu</l>
       </lg>
@@ -816,7 +816,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_62">
       <lg>
          <l pos="Adv">eissigin</l>
       </lg>
@@ -826,7 +826,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_63">
       <lg>
          <l pos="Adv">eivi</l>
       </lg>
@@ -846,7 +846,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_64">
       <lg>
          <l pos="Adv">enâmustáá</l>
       </lg>
@@ -856,7 +856,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_65">
       <lg>
          <l pos="Adv">eres</l>
       </lg>
@@ -871,7 +871,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_66">
       <lg>
          <l pos="Adv">eresnáál</l>
       </lg>
@@ -886,7 +886,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_67">
       <lg>
          <l pos="Adv">erinis</l>
       </lg>
@@ -896,7 +896,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_68">
       <lg>
          <l pos="Adv">eromâš</l>
       </lg>
@@ -916,7 +916,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_69">
       <lg>
          <l pos="Adv">eskân</l>
       </lg>
@@ -926,7 +926,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_70">
       <lg>
          <l pos="Adv">eskenpalij</l>
       </lg>
@@ -951,7 +951,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_71">
       <lg>
          <l pos="Adv">fáállun</l>
       </lg>
@@ -966,7 +966,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_72">
       <lg>
          <l pos="Adv">fáálun</l>
       </lg>
@@ -981,7 +981,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_73">
       <lg>
          <l pos="Adv">fakkâ</l>
       </lg>
@@ -996,7 +996,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_74">
       <lg>
          <l pos="Adv">fakkist</l>
       </lg>
@@ -1011,7 +1011,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_75">
       <lg>
          <l pos="Adv">fijnáht</l>
       </lg>
@@ -1026,7 +1026,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_76">
       <lg>
          <l pos="Adv">fijnásávt</l>
       </lg>
@@ -1046,7 +1046,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_77">
       <lg>
          <l pos="Adv">forgâ</l>
       </lg>
@@ -1061,7 +1061,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_78">
       <lg>
          <l pos="Adv">hárráht</l>
       </lg>
@@ -1071,7 +1071,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_79">
       <lg>
          <l pos="Adv">harvii</l>
       </lg>
@@ -1081,7 +1081,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_80">
       <lg>
          <l pos="Adv">háská</l>
       </lg>
@@ -1091,7 +1091,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_81">
       <lg>
          <l pos="Adv">hellâ</l>
       </lg>
@@ -1101,7 +1101,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_82">
       <lg>
          <l pos="Adv">hilui hálui</l>
       </lg>
@@ -1116,7 +1116,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_83">
       <lg>
          <l pos="Adv">hirmâd</l>
       </lg>
@@ -1131,7 +1131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_84">
       <lg>
          <l pos="Adv">hirmâdávt</l>
       </lg>
@@ -1151,7 +1151,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_85">
       <lg>
          <l pos="Adv">hitásávt</l>
       </lg>
@@ -1161,7 +1161,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_86">
       <lg>
          <l pos="Adv">hittáht</l>
       </lg>
@@ -1171,7 +1171,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_87">
       <lg>
          <l pos="Adv">hiäjuht</l>
       </lg>
@@ -1181,7 +1181,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_88">
       <lg>
          <l pos="Adv">hiälpust</l>
       </lg>
@@ -1191,7 +1191,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_89">
       <lg>
          <l pos="Adv">huáppust</l>
       </lg>
@@ -1206,7 +1206,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_90">
       <lg>
          <l pos="Adv">huolâlávt</l>
       </lg>
@@ -1216,7 +1216,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_91">
       <lg>
          <l pos="Adv">hyeneeht</l>
       </lg>
@@ -1226,7 +1226,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_92">
       <lg>
          <l pos="Adv">häppilávt</l>
       </lg>
@@ -1246,7 +1246,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_93">
       <lg>
          <l pos="Adv">häärviht</l>
       </lg>
@@ -1256,7 +1256,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_94">
       <lg>
          <l pos="Adv">ihánâs</l>
       </lg>
@@ -1271,7 +1271,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_95">
       <lg>
          <l pos="Adv">ihásávt</l>
       </lg>
@@ -1281,7 +1281,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_96">
       <lg>
          <l pos="Adv">iho</l>
       </lg>
@@ -1291,7 +1291,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_97">
       <lg>
          <l pos="Adv">ilbâdávt</l>
       </lg>
@@ -1311,7 +1311,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_98">
       <lg>
          <l pos="Adv">illá</l>
       </lg>
@@ -1326,7 +1326,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_99">
       <lg>
          <l pos="Adv">illámielâi</l>
       </lg>
@@ -1341,7 +1341,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_100">
       <lg>
          <l pos="Adv">illávaje</l>
       </lg>
@@ -1366,7 +1366,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_101">
       <lg>
          <l pos="Adv">innig</l>
       </lg>
@@ -1376,7 +1376,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_102">
       <lg>
          <l pos="Adv">ište</l>
       </lg>
@@ -1391,7 +1391,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_103">
       <lg>
          <l pos="Adv">itoi</l>
       </lg>
@@ -1411,7 +1411,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_104">
       <lg>
          <l pos="Adv">itten</l>
       </lg>
@@ -1426,7 +1426,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_105">
       <lg>
          <l pos="Adv">iänáá</l>
       </lg>
@@ -1436,7 +1436,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_106">
       <lg>
          <l pos="Adv">iänááš</l>
       </lg>
@@ -1466,7 +1466,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_107">
       <lg>
          <l pos="Adv">iävtulávt</l>
       </lg>
@@ -1476,7 +1476,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_108">
       <lg>
          <l pos="Adv">jaamâs</l>
       </lg>
@@ -1491,7 +1491,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_109">
       <lg>
          <l pos="Adv">jáválávt</l>
       </lg>
@@ -1501,7 +1501,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_110">
       <lg>
          <l pos="Adv">jávuttáá</l>
       </lg>
@@ -1511,7 +1511,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_111">
       <lg>
          <l pos="Adv">jiečânis</l>
       </lg>
@@ -1521,7 +1521,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_112">
       <lg>
          <l pos="Adv">jieggâpeelijn</l>
       </lg>
@@ -1531,7 +1531,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_113">
       <lg>
          <l pos="Adv">jieggâtoorijn</l>
       </lg>
@@ -1541,7 +1541,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_114">
       <lg>
          <l pos="Adv">jieht</l>
       </lg>
@@ -1551,7 +1551,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_115">
       <lg>
          <l pos="Adv">jiermittemeht</l>
       </lg>
@@ -1561,7 +1561,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_116">
       <lg>
          <l pos="Adv">jiešalnees</l>
       </lg>
@@ -1576,7 +1576,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_117">
       <lg>
          <l pos="Adv">jiešiäluid</l>
       </lg>
@@ -1586,7 +1586,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_118">
       <lg>
          <l pos="Adv">jiešmeidlist</l>
       </lg>
@@ -1596,7 +1596,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_119">
       <lg>
          <l pos="Adv">jiänusân</l>
       </lg>
@@ -1606,7 +1606,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_120">
       <lg>
          <l pos="Adv">jiärmáht</l>
       </lg>
@@ -1616,7 +1616,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_121">
       <lg>
          <l pos="Adv">jo</l>
       </lg>
@@ -1646,7 +1646,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_122">
       <lg>
          <l pos="Adv">joollâht</l>
       </lg>
@@ -1656,7 +1656,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_123">
       <lg>
          <l pos="Adv">jorgod</l>
       </lg>
@@ -1666,7 +1666,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_124">
       <lg>
          <l pos="Adv">jotelávt</l>
       </lg>
@@ -1681,7 +1681,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_125">
       <lg>
          <l pos="Adv">juhâlum</l>
       </lg>
@@ -1691,7 +1691,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_126">
       <lg>
          <l pos="Adv">julgâ</l>
       </lg>
@@ -1701,7 +1701,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_127">
       <lg>
          <l pos="Adv">julgâlávt</l>
       </lg>
@@ -1711,7 +1711,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_128">
       <lg>
          <l pos="Adv">jävriláá</l>
       </lg>
@@ -1721,7 +1721,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_129">
       <lg>
          <l pos="Adv">káávvud</l>
       </lg>
@@ -1736,7 +1736,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_130">
       <lg>
          <l pos="Adv">kahcii</l>
       </lg>
@@ -1746,7 +1746,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_131">
       <lg>
          <l pos="Adv">kal</l>
       </lg>
@@ -1756,7 +1756,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_132">
       <lg>
          <l pos="Adv">kale</l>
       </lg>
@@ -1766,7 +1766,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_133">
       <lg>
          <l pos="Adv">kalle</l>
       </lg>
@@ -1776,7 +1776,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_134">
       <lg>
          <l pos="Adv">kávukkoozâi</l>
       </lg>
@@ -1791,7 +1791,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_135">
       <lg>
          <l pos="Adv">kávukkozâi</l>
       </lg>
@@ -1806,7 +1806,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_136">
       <lg>
          <l pos="Adv">keessiv</l>
       </lg>
@@ -1821,7 +1821,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_137">
       <lg>
          <l pos="Adv">keppâdávt</l>
       </lg>
@@ -1836,7 +1836,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_138">
       <lg>
          <l pos="Adv">keppisávt</l>
       </lg>
@@ -1851,7 +1851,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_139">
       <lg>
          <l pos="Adv">kesipieggâláá</l>
       </lg>
@@ -1861,7 +1861,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_140">
       <lg>
          <l pos="Adv">kiddâ</l>
       </lg>
@@ -1871,7 +1871,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_141">
       <lg>
          <l pos="Adv">kieđâkeččee</l>
       </lg>
@@ -1881,7 +1881,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_142">
       <lg>
          <l pos="Adv">kieskâd</l>
       </lg>
@@ -1906,7 +1906,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_143">
       <lg>
          <l pos="Adv">kietâluvâi</l>
       </lg>
@@ -1916,7 +1916,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_144">
       <lg>
          <l pos="Adv">kirjálávt</l>
       </lg>
@@ -1926,7 +1926,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_145">
       <lg>
          <l pos="Adv">kirrâsávt</l>
       </lg>
@@ -1941,7 +1941,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_146">
       <lg>
          <l pos="Adv">kivkked</l>
       </lg>
@@ -1951,7 +1951,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_147">
       <lg>
          <l pos="Adv">kiähnuht</l>
       </lg>
@@ -1961,7 +1961,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_148">
       <lg>
          <l pos="Adv">kiäigud</l>
       </lg>
@@ -1981,7 +1981,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_149">
       <lg>
          <l pos="Adv">kiävvoo</l>
       </lg>
@@ -1991,7 +1991,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_150">
       <lg>
          <l pos="Adv">koggoon</l>
       </lg>
@@ -2001,7 +2001,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_151">
       <lg>
          <l pos="Adv">kogo</l>
       </lg>
@@ -2021,7 +2021,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_152">
       <lg>
          <l pos="Adv">komálávt</l>
       </lg>
@@ -2031,7 +2031,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_153">
       <lg>
          <l pos="Adv">kommood</l>
       </lg>
@@ -2056,7 +2056,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_154">
       <lg>
          <l pos="Adv">kooskâin</l>
       </lg>
@@ -2066,7 +2066,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_155">
       <lg>
          <l pos="Adv">korâdávt</l>
       </lg>
@@ -2081,7 +2081,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_156">
       <lg>
          <l pos="Adv">korrâsávt</l>
       </lg>
@@ -2091,7 +2091,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_157">
       <lg>
          <l pos="Adv">korrâsubbooht</l>
       </lg>
@@ -2101,7 +2101,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_158">
       <lg>
          <l pos="Adv">koskânis</l>
       </lg>
@@ -2111,7 +2111,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_159">
       <lg>
          <l pos="Adv">koskâstuvâi</l>
       </lg>
@@ -2121,7 +2121,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_160">
       <lg>
          <l pos="Adv">koskâstuvvâi</l>
       </lg>
@@ -2131,7 +2131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_161">
       <lg>
          <l pos="Adv">koskâttuvâi</l>
       </lg>
@@ -2156,7 +2156,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_162">
       <lg>
          <l pos="Adv">koskâttuvvâi</l>
       </lg>
@@ -2176,7 +2176,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_163">
       <lg>
          <l pos="Adv">kost</l>
       </lg>
@@ -2201,7 +2201,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_164">
       <lg>
          <l pos="Adv">kosten</l>
       </lg>
@@ -2211,7 +2211,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_165">
       <lg>
          <l pos="Adv">kostnii</l>
       </lg>
@@ -2226,7 +2226,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_166">
       <lg>
          <l pos="Adv">kuáhtulávt</l>
       </lg>
@@ -2236,7 +2236,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_167">
       <lg>
          <l pos="Adv">kuál</l>
       </lg>
@@ -2246,7 +2246,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_168">
       <lg>
          <l pos="Adv">kuásij</l>
       </lg>
@@ -2256,7 +2256,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_169">
       <lg>
          <l pos="Adv">kuássin</l>
       </lg>
@@ -2266,7 +2266,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_170">
       <lg>
          <l pos="Adv">kuávdoo</l>
       </lg>
@@ -2281,7 +2281,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_171">
       <lg>
          <l pos="Adv">kuhás</l>
       </lg>
@@ -2296,7 +2296,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_172">
       <lg>
          <l pos="Adv">kuhe</l>
       </lg>
@@ -2306,7 +2306,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_173">
       <lg>
          <l pos="Adv">kuhemustáá</l>
       </lg>
@@ -2321,7 +2321,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_174">
       <lg>
          <l pos="Adv">kuhháá</l>
       </lg>
@@ -2336,7 +2336,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_175">
       <lg>
          <l pos="Adv">kuhháásiähá</l>
       </lg>
@@ -2346,7 +2346,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_176">
       <lg>
          <l pos="Adv">kuittâg</l>
       </lg>
@@ -2361,7 +2361,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_177">
       <lg>
          <l pos="Adv">kukkáluvâi</l>
       </lg>
@@ -2371,7 +2371,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_178">
       <lg>
          <l pos="Adv">kukkeláá</l>
       </lg>
@@ -2381,7 +2381,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_179">
       <lg>
          <l pos="Adv">kukken</l>
       </lg>
@@ -2406,7 +2406,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_180">
       <lg>
          <l pos="Adv">kukkod</l>
       </lg>
@@ -2421,7 +2421,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_181">
       <lg>
          <l pos="Adv">kukkodkulij</l>
       </lg>
@@ -2436,7 +2436,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_182">
       <lg>
          <l pos="Adv">kulmii</l>
       </lg>
@@ -2446,7 +2446,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_183">
       <lg>
          <l pos="Adv">kulottem</l>
       </lg>
@@ -2456,7 +2456,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_184">
       <lg>
          <l pos="Adv">kuohtii</l>
       </lg>
@@ -2471,7 +2471,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_185">
       <lg>
          <l pos="Adv">kuovdin</l>
       </lg>
@@ -2481,7 +2481,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_186">
       <lg>
          <l pos="Adv">kustoo</l>
       </lg>
@@ -2496,7 +2496,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_187">
       <lg>
          <l pos="Adv">kuuhijn</l>
       </lg>
@@ -2511,7 +2511,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_188">
       <lg>
          <l pos="Adv">kuuloold</l>
       </lg>
@@ -2536,7 +2536,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_189">
       <lg>
          <l pos="Adv">kuus</l>
       </lg>
@@ -2561,7 +2561,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_190">
       <lg>
          <l pos="Adv">kuusnii</l>
       </lg>
@@ -2576,7 +2576,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_191">
       <lg>
          <l pos="Adv">kuussân</l>
       </lg>
@@ -2591,7 +2591,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_192">
       <lg>
          <l pos="Adv">kyessist</l>
       </lg>
@@ -2601,7 +2601,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_193">
       <lg>
          <l pos="Adv">kyevtikáávnán</l>
       </lg>
@@ -2611,7 +2611,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_194">
       <lg>
          <l pos="Adv">kääržiht</l>
       </lg>
@@ -2621,7 +2621,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_195">
       <lg>
          <l pos="Adv">lappâd</l>
       </lg>
@@ -2636,7 +2636,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_196">
       <lg>
          <l pos="Adv">lavâlávt</l>
       </lg>
@@ -2646,7 +2646,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_197">
       <lg>
          <l pos="Adv">lavvâ</l>
       </lg>
@@ -2656,7 +2656,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_198">
       <lg>
          <l pos="Adv">liijkás</l>
       </lg>
@@ -2681,7 +2681,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_199">
       <lg>
          <l pos="Adv">liävulávt</l>
       </lg>
@@ -2691,7 +2691,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_200">
       <lg>
          <l pos="Adv">liävuttemeht</l>
       </lg>
@@ -2701,7 +2701,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_201">
       <lg>
          <l pos="Adv">lohđuttemeht</l>
       </lg>
@@ -2711,7 +2711,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_202">
       <lg>
          <l pos="Adv">lopâlávt</l>
       </lg>
@@ -2721,7 +2721,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_203">
       <lg>
          <l pos="Adv">luámádâs</l>
       </lg>
@@ -2736,7 +2736,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_204">
       <lg>
          <l pos="Adv">luhhii</l>
       </lg>
@@ -2746,7 +2746,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_205">
       <lg>
          <l pos="Adv">luoihâs</l>
       </lg>
@@ -2771,7 +2771,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_206">
       <lg>
          <l pos="Adv">luovâs</l>
       </lg>
@@ -2786,7 +2786,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_207">
       <lg>
          <l pos="Adv">luus</l>
       </lg>
@@ -2796,7 +2796,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_208">
       <lg>
          <l pos="Adv">lyeddejum</l>
       </lg>
@@ -2806,7 +2806,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_209">
       <lg>
          <l pos="Adv">maajeeldkietân</l>
       </lg>
@@ -2816,7 +2816,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_210">
       <lg>
          <l pos="Adv">maaŋaabeln</l>
       </lg>
@@ -2831,7 +2831,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_211">
       <lg>
          <l pos="Adv">maasâd</l>
       </lg>
@@ -2846,7 +2846,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_212">
       <lg>
          <l pos="Adv">maht</l>
       </lg>
@@ -2866,7 +2866,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_213">
       <lg>
          <l pos="Adv">mahten</l>
       </lg>
@@ -2876,7 +2876,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_214">
       <lg>
          <l pos="Adv">majaskulij</l>
       </lg>
@@ -2886,7 +2886,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_215">
       <lg>
          <l pos="Adv">majemustáá</l>
       </lg>
@@ -2906,7 +2906,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_216">
       <lg>
          <l pos="Adv">maŋadist</l>
       </lg>
@@ -2926,7 +2926,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_217">
       <lg>
          <l pos="Adv">maŋaluvâi</l>
       </lg>
@@ -2936,7 +2936,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_218">
       <lg>
          <l pos="Adv">masa</l>
       </lg>
@@ -2951,7 +2951,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_219">
       <lg>
          <l pos="Adv">mecciláá</l>
       </lg>
@@ -2976,7 +2976,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_220">
       <lg>
          <l pos="Adv">meččiláá</l>
       </lg>
@@ -2991,7 +2991,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_221">
       <lg>
          <l pos="Adv">meddâl</l>
       </lg>
@@ -3006,7 +3006,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_222">
       <lg>
          <l pos="Adv">meiddei</l>
       </lg>
@@ -3021,7 +3021,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_223">
       <lg>
          <l pos="Adv">melgâdáid</l>
       </lg>
@@ -3031,7 +3031,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_224">
       <lg>
          <l pos="Adv">melgâdávt</l>
       </lg>
@@ -3041,7 +3041,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_225">
       <lg>
          <l pos="Adv">mielâstubbooht</l>
       </lg>
@@ -3051,7 +3051,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_226">
       <lg>
          <l pos="Adv">mieldis</l>
       </lg>
@@ -3066,7 +3066,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_227">
       <lg>
          <l pos="Adv">mietimái</l>
       </lg>
@@ -3081,7 +3081,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_228">
       <lg>
          <l pos="Adv">mietipiäiván</l>
       </lg>
@@ -3091,7 +3091,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_229">
       <lg>
          <l pos="Adv">mild</l>
       </lg>
@@ -3106,7 +3106,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_230">
       <lg>
          <l pos="Adv">minttâ</l>
       </lg>
@@ -3116,7 +3116,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_231">
       <lg>
          <l pos="Adv">miäldád</l>
       </lg>
@@ -3131,7 +3131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_232">
       <lg>
          <l pos="Adv">miäldáluvâi</l>
       </lg>
@@ -3141,7 +3141,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_233">
       <lg>
          <l pos="Adv">miäldán</l>
       </lg>
@@ -3156,7 +3156,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_234">
       <lg>
          <l pos="Adv">miälgui</l>
       </lg>
@@ -3166,7 +3166,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_235">
       <lg>
          <l pos="Adv">miätá</l>
       </lg>
@@ -3176,7 +3176,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_236">
       <lg>
          <l pos="Adv">mondiet</l>
       </lg>
@@ -3186,7 +3186,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_237">
       <lg>
          <l pos="Adv">motten</l>
       </lg>
@@ -3196,7 +3196,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_238">
       <lg>
          <l pos="Adv">mottoomnáál</l>
       </lg>
@@ -3211,7 +3211,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_239">
       <lg>
          <l pos="Adv">muččâdávt</l>
       </lg>
@@ -3231,7 +3231,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_240">
       <lg>
          <l pos="Adv">mudágávt</l>
       </lg>
@@ -3246,7 +3246,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_241">
       <lg>
          <l pos="Adv">naalijn</l>
       </lg>
@@ -3261,7 +3261,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_242">
       <lg>
          <l pos="Adv">naggâ</l>
       </lg>
@@ -3271,7 +3271,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_243">
       <lg>
          <l pos="Adv">nánnáht</l>
       </lg>
@@ -3281,7 +3281,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_244">
       <lg>
          <l pos="Adv">návt</l>
       </lg>
@@ -3291,7 +3291,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_245">
       <lg>
          <l pos="Adv">neljii</l>
       </lg>
@@ -3306,7 +3306,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_246">
       <lg>
          <l pos="Adv">nievriht</l>
       </lg>
@@ -3316,7 +3316,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_247">
       <lg>
          <l pos="Adv">njálgásávt</l>
       </lg>
@@ -3326,7 +3326,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_248">
       <lg>
          <l pos="Adv">njuásiht</l>
       </lg>
@@ -3336,7 +3336,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_249">
       <lg>
          <l pos="Adv">njunáluvâi</l>
       </lg>
@@ -3356,7 +3356,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_250">
       <lg>
          <l pos="Adv">njuolgist</l>
       </lg>
@@ -3366,7 +3366,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_251">
       <lg>
          <l pos="Adv">nokko</l>
       </lg>
@@ -3381,7 +3381,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_252">
       <lg>
          <l pos="Adv">nomâlâs</l>
       </lg>
@@ -3391,7 +3391,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_253">
       <lg>
          <l pos="Adv">nubás</l>
       </lg>
@@ -3406,7 +3406,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_254">
       <lg>
          <l pos="Adv">nuorttiibeln</l>
       </lg>
@@ -3421,7 +3421,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_255">
       <lg>
          <l pos="Adv">nuuvtá</l>
       </lg>
@@ -3436,7 +3436,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_256">
       <lg>
          <l pos="Adv">nuuvttii</l>
       </lg>
@@ -3451,7 +3451,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_257">
       <lg>
          <l pos="Adv">nuváhánnáá</l>
       </lg>
@@ -3481,7 +3481,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_258">
       <lg>
          <l pos="Adv">nälittemeht</l>
       </lg>
@@ -3491,7 +3491,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_259">
       <lg>
          <l pos="Adv">ohcii</l>
       </lg>
@@ -3501,7 +3501,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_260">
       <lg>
          <l pos="Adv">ohtânmaanoost</l>
       </lg>
@@ -3521,7 +3521,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_261">
       <lg>
          <l pos="Adv">ohtânnjunij</l>
       </lg>
@@ -3536,7 +3536,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_262">
       <lg>
          <l pos="Adv">ohtânnjuunij</l>
       </lg>
@@ -3551,7 +3551,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_263">
       <lg>
          <l pos="Adv">ohtâsávt</l>
       </lg>
@@ -3561,7 +3561,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_264">
       <lg>
          <l pos="Adv">ohtii</l>
       </lg>
@@ -3576,7 +3576,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_265">
       <lg>
          <l pos="Adv">ohtsis</l>
       </lg>
@@ -3586,7 +3586,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_266">
       <lg>
          <l pos="Adv">ohtuu</l>
       </lg>
@@ -3596,7 +3596,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_267">
       <lg>
          <l pos="Adv">olán</l>
       </lg>
@@ -3611,7 +3611,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_268">
       <lg>
          <l pos="Adv">olgoláá</l>
       </lg>
@@ -3631,7 +3631,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_269">
       <lg>
          <l pos="Adv">olgomustáá</l>
       </lg>
@@ -3641,7 +3641,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_270">
       <lg>
          <l pos="Adv">olgon</l>
       </lg>
@@ -3651,7 +3651,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_271">
       <lg>
          <l pos="Adv">olgos</l>
       </lg>
@@ -3666,7 +3666,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_272">
       <lg>
          <l pos="Adv">ollâgávt</l>
       </lg>
@@ -3676,7 +3676,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_273">
       <lg>
          <l pos="Adv">ollágin</l>
       </lg>
@@ -3701,7 +3701,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_274">
       <lg>
          <l pos="Adv">onne</l>
       </lg>
@@ -3711,7 +3711,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_275">
       <lg>
          <l pos="Adv">oohtân</l>
       </lg>
@@ -3721,7 +3721,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_276">
       <lg>
          <l pos="Adv">ooleest</l>
       </lg>
@@ -3736,7 +3736,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_277">
       <lg>
          <l pos="Adv">oolmân</l>
       </lg>
@@ -3746,7 +3746,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_278">
       <lg>
          <l pos="Adv">oolmâs</l>
       </lg>
@@ -3756,7 +3756,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_279">
       <lg>
          <l pos="Adv">oovdâs</l>
       </lg>
@@ -3786,7 +3786,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_280">
       <lg>
          <l pos="Adv">oovdebpeeivi</l>
       </lg>
@@ -3796,7 +3796,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_281">
       <lg>
          <l pos="Adv">oovdebpeivi</l>
       </lg>
@@ -3806,7 +3806,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_282">
       <lg>
          <l pos="Adv">oovdeld</l>
       </lg>
@@ -3826,7 +3826,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_283">
       <lg>
          <l pos="Adv">oppeet</l>
       </lg>
@@ -3841,7 +3841,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_284">
       <lg>
          <l pos="Adv">orjâlâšpiegâpeln</l>
       </lg>
@@ -3851,7 +3851,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_285">
       <lg>
          <l pos="Adv">ovdâl</l>
       </lg>
@@ -3861,7 +3861,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_286">
       <lg>
          <l pos="Adv">ovdâláhháá</l>
       </lg>
@@ -3871,7 +3871,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_287">
       <lg>
          <l pos="Adv">ovdâlist</l>
       </lg>
@@ -3881,7 +3881,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_288">
       <lg>
          <l pos="Adv">ovdâskuávlui</l>
       </lg>
@@ -3891,7 +3891,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_289">
       <lg>
          <l pos="Adv">ovdâskulâi</l>
       </lg>
@@ -3901,7 +3901,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_290">
       <lg>
          <l pos="Adv">ovdâskulij</l>
       </lg>
@@ -3911,7 +3911,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_291">
       <lg>
          <l pos="Adv">ovdebist</l>
       </lg>
@@ -3926,7 +3926,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_292">
       <lg>
          <l pos="Adv">ovdeláá</l>
       </lg>
@@ -3936,7 +3936,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_293">
       <lg>
          <l pos="Adv">ovdiist</l>
       </lg>
@@ -3946,7 +3946,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_294">
       <lg>
          <l pos="Adv">ovtâi</l>
       </lg>
@@ -3961,7 +3961,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_295">
       <lg>
          <l pos="Adv">ovttuu</l>
       </lg>
@@ -3976,7 +3976,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_296">
       <lg>
          <l pos="Adv">pááikán</l>
       </lg>
@@ -3986,7 +3986,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_297">
       <lg>
          <l pos="Adv">paajaabeln</l>
       </lg>
@@ -3996,7 +3996,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_298">
       <lg>
          <l pos="Adv">paajeeld</l>
       </lg>
@@ -4021,7 +4021,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_299">
       <lg>
          <l pos="Adv">paaldâi</l>
       </lg>
@@ -4031,7 +4031,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_300">
       <lg>
          <l pos="Adv">paifakkist</l>
       </lg>
@@ -4041,7 +4041,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_301">
       <lg>
          <l pos="Adv">paijeelittáá</l>
       </lg>
@@ -4051,7 +4051,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_302">
       <lg>
          <l pos="Adv">paijeelmiärálávt</l>
       </lg>
@@ -4061,7 +4061,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_303">
       <lg>
          <l pos="Adv">pajalist</l>
       </lg>
@@ -4071,7 +4071,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_304">
       <lg>
          <l pos="Adv">pajaluvâi</l>
       </lg>
@@ -4081,7 +4081,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_305">
       <lg>
          <l pos="Adv">pajaluvvâi</l>
       </lg>
@@ -4091,7 +4091,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_306">
       <lg>
          <l pos="Adv">pajaskulij</l>
       </lg>
@@ -4101,7 +4101,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_307">
       <lg>
          <l pos="Adv">pajeláá</l>
       </lg>
@@ -4111,7 +4111,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_308">
       <lg>
          <l pos="Adv">pajeláhháá</l>
       </lg>
@@ -4121,7 +4121,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_309">
       <lg>
          <l pos="Adv">paldâluvâi</l>
       </lg>
@@ -4131,7 +4131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_310">
       <lg>
          <l pos="Adv">pannaal</l>
       </lg>
@@ -4146,7 +4146,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_311">
       <lg>
          <l pos="Adv">peiviv</l>
       </lg>
@@ -4161,7 +4161,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_312">
       <lg>
          <l pos="Adv">pelijieggâst</l>
       </lg>
@@ -4171,7 +4171,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_313">
       <lg>
          <l pos="Adv">pellduvváid</l>
       </lg>
@@ -4181,7 +4181,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_314">
       <lg>
          <l pos="Adv">peri</l>
       </lg>
@@ -4196,7 +4196,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_315">
       <lg>
          <l pos="Adv">persovnlávt</l>
       </lg>
@@ -4206,7 +4206,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_316">
       <lg>
          <l pos="Adv">pietittem</l>
       </lg>
@@ -4216,7 +4216,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_317">
       <lg>
          <l pos="Adv">pirrâppirrâ</l>
       </lg>
@@ -4226,7 +4226,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_318">
       <lg>
          <l pos="Adv">piäđgud</l>
       </lg>
@@ -4236,7 +4236,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_319">
       <lg>
          <l pos="Adv">piäđgui</l>
       </lg>
@@ -4246,7 +4246,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_320">
       <lg>
          <l pos="Adv">piättáá</l>
       </lg>
@@ -4261,7 +4261,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_321">
       <lg>
          <l pos="Adv">pođoi</l>
       </lg>
@@ -4271,7 +4271,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_322">
       <lg>
          <l pos="Adv">pođos</l>
       </lg>
@@ -4281,7 +4281,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_323">
       <lg>
          <l pos="Adv">polkkoluvâi</l>
       </lg>
@@ -4296,7 +4296,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_324">
       <lg>
          <l pos="Adv">puáidudekes</l>
       </lg>
@@ -4306,7 +4306,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_325">
       <lg>
          <l pos="Adv">puáidudeves</l>
       </lg>
@@ -4316,7 +4316,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_326">
       <lg>
          <l pos="Adv">puotâluvâi</l>
       </lg>
@@ -4331,7 +4331,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_327">
       <lg>
          <l pos="Adv">puttáht</l>
       </lg>
@@ -4341,7 +4341,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_328">
       <lg>
          <l pos="Adv">puustavlávt</l>
       </lg>
@@ -4351,7 +4351,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_329">
       <lg>
          <l pos="Adv">pyereest</l>
       </lg>
@@ -4361,7 +4361,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_330">
       <lg>
          <l pos="Adv">päljis</l>
       </lg>
@@ -4371,7 +4371,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_331">
       <lg>
          <l pos="Adv">pääihist</l>
       </lg>
@@ -4381,7 +4381,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_332">
       <lg>
          <l pos="Adv">ráájust</l>
       </lg>
@@ -4396,7 +4396,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_333">
       <lg>
          <l pos="Adv">raddaag</l>
       </lg>
@@ -4406,7 +4406,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_334">
       <lg>
          <l pos="Adv">rákkásávt</l>
       </lg>
@@ -4416,7 +4416,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_335">
       <lg>
          <l pos="Adv">rávhálávt</l>
       </lg>
@@ -4426,7 +4426,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_336">
       <lg>
          <l pos="Adv">rávhulávt</l>
       </lg>
@@ -4436,7 +4436,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_337">
       <lg>
          <l pos="Adv">reehâst</l>
       </lg>
@@ -4451,7 +4451,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_338">
       <lg>
          <l pos="Adv">rehelávt</l>
       </lg>
@@ -4461,7 +4461,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_339">
       <lg>
          <l pos="Adv">rekkâ</l>
       </lg>
@@ -4471,7 +4471,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_340">
       <lg>
          <l pos="Adv">riddoláá</l>
       </lg>
@@ -4481,7 +4481,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_341">
       <lg>
          <l pos="Adv">rijjâ</l>
       </lg>
@@ -4496,7 +4496,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_342">
       <lg>
          <l pos="Adv">riävtui</l>
       </lg>
@@ -4511,7 +4511,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_343">
       <lg>
          <l pos="Adv">roobdâ</l>
       </lg>
@@ -4526,7 +4526,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_344">
       <lg>
          <l pos="Adv">ruáptud</l>
       </lg>
@@ -4536,7 +4536,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_345">
       <lg>
          <l pos="Adv">ruokkâdávt</l>
       </lg>
@@ -4546,7 +4546,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_346">
       <lg>
          <l pos="Adv">ruossâlâs</l>
       </lg>
@@ -4566,7 +4566,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_347">
       <lg>
          <l pos="Adv">ruubâi</l>
       </lg>
@@ -4576,7 +4576,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_348">
       <lg>
          <l pos="Adv">sahâdávt</l>
       </lg>
@@ -4586,7 +4586,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_349">
       <lg>
          <l pos="Adv">saigâneijee</l>
       </lg>
@@ -4596,7 +4596,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_350">
       <lg>
          <l pos="Adv">sálvulâs</l>
       </lg>
@@ -4611,7 +4611,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_351">
       <lg>
          <l pos="Adv">sámás</l>
       </lg>
@@ -4626,7 +4626,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_352">
       <lg>
          <l pos="Adv">seelgij</l>
       </lg>
@@ -4636,7 +4636,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_353">
       <lg>
          <l pos="Adv">seelviht</l>
       </lg>
@@ -4646,7 +4646,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_354">
       <lg>
          <l pos="Adv">šet</l>
       </lg>
@@ -4661,7 +4661,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_355">
       <lg>
          <l pos="Adv">setitoho</l>
       </lg>
@@ -4676,7 +4676,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_356">
       <lg>
          <l pos="Adv">šiettuht</l>
       </lg>
@@ -4686,7 +4686,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_357">
       <lg>
          <l pos="Adv">šievnáál</l>
       </lg>
@@ -4696,7 +4696,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_358">
       <lg>
          <l pos="Adv">siijvost</l>
       </lg>
@@ -4711,7 +4711,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_359">
       <lg>
          <l pos="Adv">sijvuht</l>
       </lg>
@@ -4731,7 +4731,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_360">
       <lg>
          <l pos="Adv">siskáluvâi</l>
       </lg>
@@ -4741,7 +4741,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_361">
       <lg>
          <l pos="Adv">šiäđust</l>
       </lg>
@@ -4756,7 +4756,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_362">
       <lg>
          <l pos="Adv">siähán</l>
       </lg>
@@ -4766,7 +4766,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_363">
       <lg>
          <l pos="Adv">siämmást</l>
       </lg>
@@ -4781,7 +4781,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_364">
       <lg>
          <l pos="Adv">šleđgâlávt</l>
       </lg>
@@ -4791,7 +4791,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_365">
       <lg>
          <l pos="Adv">sollâluvâi</l>
       </lg>
@@ -4801,7 +4801,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_366">
       <lg>
          <l pos="Adv">sovláá</l>
       </lg>
@@ -4811,7 +4811,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_367">
       <lg>
          <l pos="Adv">suámálávt</l>
       </lg>
@@ -4826,7 +4826,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_368">
       <lg>
          <l pos="Adv">suámittemeht</l>
       </lg>
@@ -4836,7 +4836,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_369">
       <lg>
          <l pos="Adv">suolgâi</l>
       </lg>
@@ -4851,7 +4851,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_370">
       <lg>
          <l pos="Adv">suomâs</l>
       </lg>
@@ -4866,7 +4866,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_371">
       <lg>
          <l pos="Adv">suottâsávt</l>
       </lg>
@@ -4876,7 +4876,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_372">
       <lg>
          <l pos="Adv">suttâlâs</l>
       </lg>
@@ -4886,7 +4886,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_373">
       <lg>
          <l pos="Adv">suulân</l>
       </lg>
@@ -4911,7 +4911,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_374">
       <lg>
          <l pos="Adv">syele</l>
       </lg>
@@ -4921,7 +4921,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_375">
       <lg>
          <l pos="Adv">taa</l>
       </lg>
@@ -4931,7 +4931,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_376">
       <lg>
          <l pos="Adv">táá</l>
       </lg>
@@ -4941,7 +4941,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_377">
       <lg>
          <l pos="Adv">táágu</l>
       </lg>
@@ -4961,7 +4961,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_378">
       <lg>
          <l pos="Adv">táágupeht</l>
       </lg>
@@ -4971,7 +4971,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_379">
       <lg>
          <l pos="Adv">táássán</l>
       </lg>
@@ -4981,7 +4981,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_380">
       <lg>
          <l pos="Adv">tallan</l>
       </lg>
@@ -4991,7 +4991,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_381">
       <lg>
          <l pos="Adv">tállán</l>
       </lg>
@@ -5001,7 +5001,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_382">
       <lg>
          <l pos="Adv">tállân</l>
       </lg>
@@ -5011,7 +5011,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_383">
       <lg>
          <l pos="Adv">talle</l>
       </lg>
@@ -5026,7 +5026,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_384">
       <lg>
          <l pos="Adv">tánávt</l>
       </lg>
@@ -5036,7 +5036,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_385">
       <lg>
          <l pos="Adv">tárkká</l>
       </lg>
@@ -5056,7 +5056,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_386">
       <lg>
          <l pos="Adv">tassaažist</l>
       </lg>
@@ -5066,7 +5066,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_387">
       <lg>
          <l pos="Adv">tastan</l>
       </lg>
@@ -5081,7 +5081,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_388">
       <lg>
          <l pos="Adv">tástán</l>
       </lg>
@@ -5096,7 +5096,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_389">
       <lg>
          <l pos="Adv">tástân</l>
       </lg>
@@ -5111,7 +5111,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_390">
       <lg>
          <l pos="Adv">tastoo</l>
       </lg>
@@ -5121,7 +5121,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_391">
       <lg>
          <l pos="Adv">tátulâd</l>
       </lg>
@@ -5131,7 +5131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_392">
       <lg>
          <l pos="Adv">tátulân</l>
       </lg>
@@ -5141,7 +5141,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_393">
       <lg>
          <l pos="Adv">tátulis</l>
       </lg>
@@ -5151,7 +5151,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_394">
       <lg>
          <l pos="Adv">tavepiegâpeln</l>
       </lg>
@@ -5161,7 +5161,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_395">
       <lg>
          <l pos="Adv">teđet</l>
       </lg>
@@ -5171,7 +5171,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_396">
       <lg>
          <l pos="Adv">teegâs</l>
       </lg>
@@ -5181,7 +5181,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_397">
       <lg>
          <l pos="Adv">teehi</l>
       </lg>
@@ -5191,7 +5191,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_398">
       <lg>
          <l pos="Adv">teehin</l>
       </lg>
@@ -5201,7 +5201,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_399">
       <lg>
          <l pos="Adv">tehân</l>
       </lg>
@@ -5216,7 +5216,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_400">
       <lg>
          <l pos="Adv">tekkâs</l>
       </lg>
@@ -5226,7 +5226,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_401">
       <lg>
          <l pos="Adv">tekkis</l>
       </lg>
@@ -5236,7 +5236,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_402">
       <lg>
          <l pos="Adv">tervi</l>
       </lg>
@@ -5246,7 +5246,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_403">
       <lg>
          <l pos="Adv">tettee</l>
       </lg>
@@ -5256,7 +5256,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_404">
       <lg>
          <l pos="Adv">tibbii</l>
       </lg>
@@ -5266,7 +5266,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_405">
       <lg>
          <l pos="Adv">tibi</l>
       </lg>
@@ -5276,7 +5276,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_406">
       <lg>
          <l pos="Adv">tiebbin</l>
       </lg>
@@ -5291,7 +5291,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_407">
       <lg>
          <l pos="Adv">tieđâlávt</l>
       </lg>
@@ -5301,7 +5301,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_408">
       <lg>
          <l pos="Adv">tiehu</l>
       </lg>
@@ -5311,7 +5311,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_409">
       <lg>
          <l pos="Adv">tiervân</l>
       </lg>
@@ -5321,7 +5321,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_410">
       <lg>
          <l pos="Adv">tuárvi</l>
       </lg>
@@ -5341,7 +5341,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_411">
       <lg>
          <l pos="Adv">tiessân</l>
       </lg>
@@ -5351,7 +5351,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_412">
       <lg>
          <l pos="Adv">tievâ</l>
       </lg>
@@ -5361,7 +5361,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_413">
       <lg>
          <l pos="Adv">tievâloostâst</l>
       </lg>
@@ -5371,7 +5371,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_414">
       <lg>
          <l pos="Adv">tiäđulávt</l>
       </lg>
@@ -5381,7 +5381,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_415">
       <lg>
          <l pos="Adv">tobbeen</l>
       </lg>
@@ -5396,7 +5396,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_416">
       <lg>
          <l pos="Adv">toho</l>
       </lg>
@@ -5406,7 +5406,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_417">
       <lg>
          <l pos="Adv">tohon</l>
       </lg>
@@ -5416,7 +5416,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_418">
       <lg>
          <l pos="Adv">tolemužžân</l>
       </lg>
@@ -5426,7 +5426,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_419">
       <lg>
          <l pos="Adv">tooleeh</l>
       </lg>
@@ -5436,7 +5436,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_420">
       <lg>
          <l pos="Adv">toos</l>
       </lg>
@@ -5446,7 +5446,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_421">
       <lg>
          <l pos="Adv">toossân</l>
       </lg>
@@ -5456,7 +5456,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_422">
       <lg>
          <l pos="Adv">toovl</l>
       </lg>
@@ -5466,7 +5466,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_423">
       <lg>
          <l pos="Adv">tovben</l>
       </lg>
@@ -5476,7 +5476,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_424">
       <lg>
          <l pos="Adv">tovgo</l>
       </lg>
@@ -5486,7 +5486,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_425">
       <lg>
          <l pos="Adv">tovho</l>
       </lg>
@@ -5496,7 +5496,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_426">
       <lg>
          <l pos="Adv">tovhon</l>
       </lg>
@@ -5506,7 +5506,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_427">
       <lg>
          <l pos="Adv">tovl</l>
       </lg>
@@ -5516,7 +5516,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_428">
       <lg>
          <l pos="Adv">tovle</l>
       </lg>
@@ -5531,7 +5531,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_429">
       <lg>
          <l pos="Adv">tovnpeeivi</l>
       </lg>
@@ -5541,7 +5541,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_430">
       <lg>
          <l pos="Adv">tuáhunteehin</l>
       </lg>
@@ -5551,7 +5551,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_431">
       <lg>
          <l pos="Adv">tuáhuteehin</l>
       </lg>
@@ -5561,7 +5561,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_432">
       <lg>
          <l pos="Adv">tuáriskulij</l>
       </lg>
@@ -5571,7 +5571,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_433">
       <lg>
          <l pos="Adv">tuárispeln</l>
       </lg>
@@ -5586,7 +5586,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_434">
       <lg>
          <l pos="Adv">tuárrást</l>
       </lg>
@@ -5596,7 +5596,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_435">
       <lg>
          <l pos="Adv">tuárván</l>
       </lg>
@@ -5606,7 +5606,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_436">
       <lg>
          <l pos="Adv">tuđâttetteht</l>
       </lg>
@@ -5616,7 +5616,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_437">
       <lg>
          <l pos="Adv">tuo</l>
       </lg>
@@ -5631,7 +5631,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_438">
       <lg>
          <l pos="Adv">tuođâi</l>
       </lg>
@@ -5656,7 +5656,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_439">
       <lg>
          <l pos="Adv">tuođee</l>
       </lg>
@@ -5666,7 +5666,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_440">
       <lg>
          <l pos="Adv">tuogu</l>
       </lg>
@@ -5681,7 +5681,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_441">
       <lg>
          <l pos="Adv">tuohu</l>
       </lg>
@@ -5691,7 +5691,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_442">
       <lg>
          <l pos="Adv">tuohun</l>
       </lg>
@@ -5701,7 +5701,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_443">
       <lg>
          <l pos="Adv">tuotâ</l>
       </lg>
@@ -5711,7 +5711,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_444">
       <lg>
          <l pos="Adv">tuše</l>
       </lg>
@@ -5726,7 +5726,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_445">
       <lg>
          <l pos="Adv">tyebbiláá</l>
       </lg>
@@ -5736,7 +5736,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_446">
       <lg>
          <l pos="Adv">tyebbin</l>
       </lg>
@@ -5746,7 +5746,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_447">
       <lg>
          <l pos="Adv">täbbiláá</l>
       </lg>
@@ -5756,7 +5756,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_448">
       <lg>
          <l pos="Adv">tälviv</l>
       </lg>
@@ -5766,7 +5766,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_449">
       <lg>
          <l pos="Adv">tästpalij</l>
       </lg>
@@ -5781,7 +5781,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_450">
       <lg>
          <l pos="Adv">tääbbin</l>
       </lg>
@@ -5791,7 +5791,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_451">
       <lg>
          <l pos="Adv">tääl-uv</l>
       </lg>
@@ -5801,7 +5801,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_452">
       <lg>
          <l pos="Adv">täävjib</l>
       </lg>
@@ -5811,7 +5811,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_453">
       <lg>
          <l pos="Adv">uáináh</l>
       </lg>
@@ -5821,7 +5821,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_454">
       <lg>
          <l pos="Adv">uáinimnáál</l>
       </lg>
@@ -5836,7 +5836,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_455">
       <lg>
          <l pos="Adv">uáivist</l>
       </lg>
@@ -5846,7 +5846,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_456">
       <lg>
          <l pos="Adv">uáli</l>
       </lg>
@@ -5906,7 +5906,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_457">
       <lg>
          <l pos="Adv">uávŋild</l>
       </lg>
@@ -5916,7 +5916,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_458">
       <lg>
          <l pos="Adv">uávun</l>
       </lg>
@@ -5926,7 +5926,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_459">
       <lg>
          <l pos="Adv">ubbân</l>
       </lg>
@@ -5936,7 +5936,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_460">
       <lg>
          <l pos="Adv">ucánjáhháá</l>
       </lg>
@@ -5961,7 +5961,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_461">
       <lg>
          <l pos="Adv">ucánjihhii</l>
       </lg>
@@ -5971,7 +5971,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_462">
       <lg>
          <l pos="Adv">ucceeb</l>
       </lg>
@@ -5986,7 +5986,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_463">
       <lg>
          <l pos="Adv">ulguubeln</l>
       </lg>
@@ -5996,7 +5996,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_464">
       <lg>
          <l pos="Adv">ušom</l>
       </lg>
@@ -6011,7 +6011,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_465">
       <lg>
          <l pos="Adv">ustevlávt</l>
       </lg>
@@ -6021,7 +6021,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_466">
       <lg>
          <l pos="Adv">vááijuv</l>
       </lg>
@@ -6041,7 +6041,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_467">
       <lg>
          <l pos="Adv">vaarâ</l>
       </lg>
@@ -6076,7 +6076,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_468">
       <lg>
          <l pos="Adv">vaidâlitteht</l>
       </lg>
@@ -6086,7 +6086,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_469">
       <lg>
          <l pos="Adv">vaijaht</l>
       </lg>
@@ -6096,7 +6096,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_470">
       <lg>
          <l pos="Adv">vaimuu</l>
       </lg>
@@ -6106,7 +6106,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_471">
       <lg>
          <l pos="Adv">valjeeht</l>
       </lg>
@@ -6121,7 +6121,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_472">
       <lg>
          <l pos="Adv">varâinis</l>
       </lg>
@@ -6131,7 +6131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_473">
       <lg>
          <l pos="Adv">várugávt</l>
       </lg>
@@ -6141,7 +6141,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_474">
       <lg>
          <l pos="Adv">vasteeht</l>
       </lg>
@@ -6151,7 +6151,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_475">
       <lg>
          <l pos="Adv">veerdi</l>
       </lg>
@@ -6176,7 +6176,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_476">
       <lg>
          <l pos="Adv">veltihánnáá</l>
       </lg>
@@ -6191,7 +6191,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_477">
       <lg>
          <l pos="Adv">viehârâš</l>
       </lg>
@@ -6201,7 +6201,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_478">
       <lg>
          <l pos="Adv">vienâlâs</l>
       </lg>
@@ -6216,7 +6216,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_479">
       <lg>
          <l pos="Adv">viestârpeln</l>
       </lg>
@@ -6231,7 +6231,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_480">
       <lg>
          <l pos="Adv">viijmâg</l>
       </lg>
@@ -6246,7 +6246,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_481">
       <lg>
          <l pos="Adv">vijđáht</l>
       </lg>
@@ -6256,7 +6256,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_482">
       <lg>
          <l pos="Adv">vijđásávt</l>
       </lg>
@@ -6266,7 +6266,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_483">
       <lg>
          <l pos="Adv">vijnáttum</l>
       </lg>
@@ -6276,7 +6276,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_484">
       <lg>
          <l pos="Adv">vinnoostuh</l>
       </lg>
@@ -6286,7 +6286,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_485">
       <lg>
          <l pos="Adv">vissâ</l>
       </lg>
@@ -6296,7 +6296,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_486">
       <lg>
          <l pos="Adv">vissásávt</l>
       </lg>
@@ -6306,7 +6306,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_487">
       <lg>
          <l pos="Adv">vist</l>
       </lg>
@@ -6321,7 +6321,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_488">
       <lg>
          <l pos="Adv">vistig</l>
       </lg>
@@ -6341,7 +6341,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_489">
       <lg>
          <l pos="Adv">vittii</l>
       </lg>
@@ -6351,7 +6351,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_490">
       <lg>
          <l pos="Adv">viälgás</l>
       </lg>
@@ -6361,7 +6361,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_491">
       <lg>
          <l pos="Adv">viäštun</l>
       </lg>
@@ -6371,7 +6371,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_492">
       <lg>
          <l pos="Adv">viäštust</l>
       </lg>
@@ -6381,7 +6381,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_493">
       <lg>
          <l pos="Adv">vuáimálávt</l>
       </lg>
@@ -6391,7 +6391,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_494">
       <lg>
          <l pos="Adv">vuájus</l>
       </lg>
@@ -6401,7 +6401,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_495">
       <lg>
          <l pos="Adv">vuáláluvâi</l>
       </lg>
@@ -6411,7 +6411,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_496">
       <lg>
          <l pos="Adv">vuálás</l>
       </lg>
@@ -6421,7 +6421,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_497">
       <lg>
          <l pos="Adv">vuáláskulij</l>
       </lg>
@@ -6431,7 +6431,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_498">
       <lg>
          <l pos="Adv">vuálásoivij</l>
       </lg>
@@ -6441,7 +6441,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_499">
       <lg>
          <l pos="Adv">vuálos</l>
       </lg>
@@ -6451,7 +6451,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_500">
       <lg>
          <l pos="Adv">vuáloskulij</l>
       </lg>
@@ -6461,7 +6461,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_501">
       <lg>
          <l pos="Adv">vuálosoivij</l>
       </lg>
@@ -6471,7 +6471,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_502">
       <lg>
          <l pos="Adv">vuálus</l>
       </lg>
@@ -6481,7 +6481,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_503">
       <lg>
          <l pos="Adv">vuálusoivij</l>
       </lg>
@@ -6491,7 +6491,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_504">
       <lg>
          <l pos="Adv">vuávdáht</l>
       </lg>
@@ -6501,7 +6501,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_505">
       <lg>
          <l pos="Adv">vuoččin</l>
       </lg>
@@ -6511,7 +6511,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_506">
       <lg>
          <l pos="Adv">vuod</l>
       </lg>
@@ -6521,7 +6521,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_507">
       <lg>
          <l pos="Adv">vuohâsávt</l>
       </lg>
@@ -6541,7 +6541,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_508">
       <lg>
          <l pos="Adv">vuosâsaajeest</l>
       </lg>
@@ -6551,7 +6551,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_509">
       <lg>
          <l pos="Adv">vuosâsajasávt</l>
       </lg>
@@ -6561,7 +6561,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_510">
       <lg>
          <l pos="Adv">vuosmuštáá</l>
       </lg>
@@ -6576,7 +6576,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_511">
       <lg>
          <l pos="Adv">vuossâmuštáá</l>
       </lg>
@@ -6586,7 +6586,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_512">
       <lg>
          <l pos="Adv">vuot</l>
       </lg>
@@ -6596,7 +6596,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_513">
       <lg>
          <l pos="Adv">vyellin</l>
       </lg>
@@ -6606,7 +6606,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_514">
       <lg>
          <l pos="Adv">vyeln</l>
       </lg>
@@ -6626,7 +6626,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_515">
       <lg>
          <l pos="Adv">vääiviht</l>
       </lg>
@@ -6646,7 +6646,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_516">
       <lg>
          <l pos="Adv">vääniht</l>
       </lg>
@@ -6661,7 +6661,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_517">
       <lg>
          <l pos="Adv">vääzin</l>
       </lg>
@@ -6681,7 +6681,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_518">
       <lg>
          <l pos="Adv">älkkeht</l>
       </lg>
@@ -6691,7 +6691,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_519">
       <lg>
          <l pos="Adv">älkkest</l>
       </lg>
@@ -6701,7 +6701,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_520">
       <lg>
          <l pos="Adv">čepibiššááht</l>
       </lg>
@@ -6711,7 +6711,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_521">
       <lg>
          <l pos="Adv">čovgâ</l>
       </lg>
@@ -6726,7 +6726,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_522">
       <lg>
          <l pos="Adv">falttâ</l>
       </lg>
@@ -6736,7 +6736,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_523">
       <lg>
          <l pos="Adv">hellâ</l>
       </lg>
@@ -6746,7 +6746,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_524">
       <lg>
          <l pos="Adv">kollii</l>
       </lg>
@@ -6756,7 +6756,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_525">
       <lg>
          <l pos="Adv">koskâlduuhánnáá</l>
       </lg>
@@ -6766,7 +6766,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_526">
       <lg>
          <l pos="Adv">kulâmân</l>
       </lg>
@@ -6776,7 +6776,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_527">
       <lg>
          <l pos="Adv">kyedin</l>
       </lg>
@@ -6791,7 +6791,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_528">
       <lg>
          <l pos="Adv">ložžâ</l>
       </lg>
@@ -6801,7 +6801,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_529">
       <lg>
          <l pos="Adv">luvâhánnáá</l>
       </lg>
@@ -6811,7 +6811,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_530">
       <lg>
          <l pos="Adv">macâi</l>
       </lg>
@@ -6826,7 +6826,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_531">
       <lg>
          <l pos="Adv">minttâ</l>
       </lg>
@@ -6836,7 +6836,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_532">
       <lg>
          <l pos="Adv">miälgui</l>
       </lg>
@@ -6846,7 +6846,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_533">
       <lg>
          <l pos="Adv">muálhun</l>
       </lg>
@@ -6857,7 +6857,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_534">
       <lg>
          <l pos="Adv">mäcidijn</l>
       </lg>
@@ -6867,7 +6867,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_535">
       <lg>
          <l pos="Adv">náávt</l>
       </lg>
@@ -6877,7 +6877,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_536">
       <lg>
          <l pos="Adv">nubenáál</l>
       </lg>
@@ -6887,7 +6887,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_537">
       <lg>
          <l pos="Adv">nubetove</l>
       </lg>
@@ -6897,7 +6897,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_538">
       <lg>
          <l pos="Adv">nubetuv</l>
       </lg>
@@ -6907,7 +6907,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_539">
       <lg>
          <l pos="Adv">nuorbân</l>
       </lg>
@@ -6917,7 +6917,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_540">
       <lg>
          <l pos="Adv">nuubij</l>
       </lg>
@@ -6927,7 +6927,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_541">
       <lg>
          <l pos="Adv">näävt</l>
       </lg>
@@ -6937,7 +6937,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_542">
       <lg>
          <l pos="Adv">pajalist</l>
       </lg>
@@ -6947,7 +6947,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_543">
       <lg>
          <l pos="Adv">poggâ</l>
       </lg>
@@ -6962,7 +6962,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_544">
       <lg>
          <l pos="Adv">ruotân</l>
       </lg>
@@ -6982,7 +6982,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_545">
       <lg>
          <l pos="Adv">rääigin</l>
       </lg>
@@ -6992,7 +6992,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_546">
       <lg>
          <l pos="Adv">šaddaaš</l>
       </lg>
@@ -7002,7 +7002,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_547">
       <lg>
          <l pos="Adv">sattummild</l>
       </lg>
@@ -7012,7 +7012,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_548">
       <lg>
          <l pos="Adv">sattuumist</l>
       </lg>
@@ -7022,7 +7022,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_549">
       <lg>
          <l pos="Adv">šooddâg</l>
       </lg>
@@ -7032,7 +7032,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_550">
       <lg>
          <l pos="Adv">taste</l>
       </lg>
@@ -7042,7 +7042,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_551">
       <lg>
          <l pos="Adv">togo</l>
       </lg>
@@ -7052,7 +7052,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_552">
       <lg>
          <l pos="Adv">toohâmnáál</l>
       </lg>
@@ -7062,7 +7062,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_553">
       <lg>
          <l pos="Adv">tyemmit</l>
       </lg>
@@ -7072,7 +7072,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_554">
       <lg>
          <l pos="Adv">uáivist</l>
       </lg>
@@ -7082,7 +7082,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_555">
       <lg>
          <l pos="Adv">ubbân</l>
       </lg>
@@ -7097,7 +7097,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_556">
       <lg>
          <l pos="Adv">vuáruluvâi</l>
       </lg>
@@ -7107,7 +7107,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_557">
       <lg>
          <l pos="Adv">vuáruttuvâi</l>
       </lg>
@@ -7117,7 +7117,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_558">
       <lg>
          <l pos="Adv">vuoččin</l>
       </lg>
@@ -7127,7 +7127,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_559">
       <lg>
          <l pos="Adv">vuossâmuštáá</l>
       </lg>
@@ -7137,7 +7137,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_560">
       <lg>
          <l pos="Adv">vyebditteppen</l>
       </lg>
@@ -7147,7 +7147,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_561">
       <lg>
          <l pos="Adv">vyejen</l>
       </lg>
@@ -7157,7 +7157,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Adv_562">
       <lg>
          <l pos="Adv">äärgiht</l>
       </lg>

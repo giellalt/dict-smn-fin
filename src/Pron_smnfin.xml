@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../scripts/gt_dictionary_smnfin.css" type="text/css"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
@@ -26,7 +26,7 @@ For the full license text, see the link above.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote></lics>
-   <e>
+   <e id="Pron_1">
       <lg>
          <l pos="Pron">alnaad</l>
       </lg>
@@ -41,7 +41,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_2">
       <lg>
          <l pos="Pron">alnaan</l>
       </lg>
@@ -56,7 +56,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_3">
       <lg>
          <l pos="Pron">alnees</l>
       </lg>
@@ -71,7 +71,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_4">
       <lg>
          <l pos="Pron">čuoigâmsaaveeh</l>
       </lg>
@@ -81,7 +81,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_5">
       <lg>
          <l pos="Pron">ennâgâs</l>
       </lg>
@@ -96,7 +96,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_6">
       <lg>
          <l pos="Pron">jieččâd</l>
       </lg>
@@ -106,7 +106,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_7">
       <lg>
          <l pos="Pron">jieččân</l>
       </lg>
@@ -116,7 +116,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_8">
       <lg>
          <l pos="Pron">jieijâs</l>
       </lg>
@@ -131,7 +131,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_9">
       <lg>
          <l pos="Pron">jieškii-uv</l>
       </lg>
@@ -141,7 +141,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_10">
       <lg>
          <l pos="Pron">jieškote-uv</l>
       </lg>
@@ -151,7 +151,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_11">
       <lg>
          <l pos="Pron">jieškotteev</l>
       </lg>
@@ -161,7 +161,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_12">
       <lg>
          <l pos="Pron">juáháš</l>
       </lg>
@@ -171,7 +171,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_13">
       <lg>
          <l pos="Pron">kales</l>
       </lg>
@@ -181,7 +181,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_14">
       <lg>
          <l pos="Pron">kallaad</l>
       </lg>
@@ -191,7 +191,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_15">
       <lg>
          <l pos="Pron">kihheen</l>
       </lg>
@@ -201,7 +201,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_16">
       <lg>
          <l pos="Pron">kii</l>
       </lg>
@@ -221,7 +221,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_17">
       <lg>
          <l pos="Pron">kiinii</l>
       </lg>
@@ -231,7 +231,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_18">
       <lg>
          <l pos="Pron">koggoon</l>
       </lg>
@@ -241,7 +241,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_19">
       <lg>
          <l pos="Pron">kosten</l>
       </lg>
@@ -251,7 +251,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_20">
       <lg>
          <l pos="Pron">kotemuš</l>
       </lg>
@@ -266,7 +266,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_21">
       <lg>
          <l pos="Pron">kuábás</l>
       </lg>
@@ -281,7 +281,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_22">
       <lg>
          <l pos="Pron">kuábbáš</l>
       </lg>
@@ -291,7 +291,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_23">
       <lg>
          <l pos="Pron">kuábbáškin</l>
       </lg>
@@ -306,7 +306,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_24">
       <lg>
          <l pos="Pron">kuábbášnii</l>
       </lg>
@@ -316,7 +316,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_25">
       <lg>
          <l pos="Pron">kuábbáš-uv</l>
       </lg>
@@ -331,7 +331,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_26">
       <lg>
          <l pos="Pron">maacij</l>
       </lg>
@@ -346,7 +346,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_27">
       <lg>
          <l pos="Pron">mađe</l>
       </lg>
@@ -366,7 +366,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_28">
       <lg>
          <l pos="Pron">maggaar</l>
       </lg>
@@ -386,7 +386,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_29">
       <lg>
          <l pos="Pron">maggaargin</l>
       </lg>
@@ -396,7 +396,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_30">
       <lg>
          <l pos="Pron">mánuvaajâs</l>
       </lg>
@@ -406,7 +406,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_31">
       <lg>
          <l pos="Pron">mánuvuáđu</l>
       </lg>
@@ -416,7 +416,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_32">
       <lg>
          <l pos="Pron">maŋgâ</l>
       </lg>
@@ -431,7 +431,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_33">
       <lg>
          <l pos="Pron">maŋgii</l>
       </lg>
@@ -446,7 +446,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_34">
       <lg>
          <l pos="Pron">mihheen</l>
       </lg>
@@ -456,7 +456,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_35">
       <lg>
          <l pos="Pron">mii</l>
       </lg>
@@ -471,7 +471,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_36">
       <lg>
          <l pos="Pron">mij</l>
       </lg>
@@ -481,7 +481,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_37">
       <lg>
          <l pos="Pron">mommit</l>
       </lg>
@@ -491,7 +491,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_38">
       <lg>
          <l pos="Pron">monmit</l>
       </lg>
@@ -501,7 +501,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_39">
       <lg>
          <l pos="Pron">mottoom</l>
       </lg>
@@ -521,7 +521,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_40">
       <lg>
          <l pos="Pron">muáddi</l>
       </lg>
@@ -536,7 +536,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_41">
       <lg>
          <l pos="Pron">muádis</l>
       </lg>
@@ -546,7 +546,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_42">
       <lg>
          <l pos="Pron">mulde</l>
       </lg>
@@ -556,7 +556,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_43">
       <lg>
          <l pos="Pron">mun</l>
       </lg>
@@ -566,7 +566,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_44">
       <lg>
          <l pos="Pron">muoi</l>
       </lg>
@@ -576,7 +576,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_45">
       <lg>
          <l pos="Pron">nubijdis</l>
       </lg>
@@ -586,7 +586,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_46">
       <lg>
          <l pos="Pron">olssâd</l>
       </lg>
@@ -596,7 +596,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_47">
       <lg>
          <l pos="Pron">olssân</l>
       </lg>
@@ -606,7 +606,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_48">
       <lg>
          <l pos="Pron">olssis</l>
       </lg>
@@ -616,7 +616,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_49">
       <lg>
          <l pos="Pron">puáskulâs</l>
       </lg>
@@ -626,7 +626,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_50">
       <lg>
          <l pos="Pron">puohah</l>
       </lg>
@@ -636,7 +636,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_51">
       <lg>
          <l pos="Pron">puohnâssân</l>
       </lg>
@@ -646,7 +646,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_52">
       <lg>
          <l pos="Pron">puohrekkân</l>
       </lg>
@@ -656,7 +656,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_53">
       <lg>
          <l pos="Pron">saaveeh</l>
       </lg>
@@ -666,7 +666,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_54">
       <lg>
          <l pos="Pron">sij</l>
       </lg>
@@ -676,7 +676,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_55">
       <lg>
          <l pos="Pron">sijdâkyeimi</l>
       </lg>
@@ -691,7 +691,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_56">
       <lg>
          <l pos="Pron">siämmáánáál</l>
       </lg>
@@ -701,7 +701,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_57">
       <lg>
          <l pos="Pron">siämmáš</l>
       </lg>
@@ -711,7 +711,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_58">
       <lg>
          <l pos="Pron">suámis</l>
       </lg>
@@ -726,7 +726,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_59">
       <lg>
          <l pos="Pron">sun</l>
       </lg>
@@ -736,7 +736,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_60">
       <lg>
          <l pos="Pron">suoi</l>
       </lg>
@@ -746,7 +746,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_61">
       <lg>
          <l pos="Pron">taađaat</l>
       </lg>
@@ -756,7 +756,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_62">
       <lg>
          <l pos="Pron">taammittáá</l>
       </lg>
@@ -766,7 +766,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_63">
       <lg>
          <l pos="Pron">taas</l>
       </lg>
@@ -776,7 +776,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_64">
       <lg>
          <l pos="Pron">taat</l>
       </lg>
@@ -786,7 +786,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_65">
       <lg>
          <l pos="Pron">táát</l>
       </lg>
@@ -796,7 +796,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_66">
       <lg>
          <l pos="Pron">tađe</l>
       </lg>
@@ -811,7 +811,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_67">
       <lg>
          <l pos="Pron">taggaar</l>
       </lg>
@@ -826,7 +826,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_68">
       <lg>
          <l pos="Pron">tággáár</l>
       </lg>
@@ -836,7 +836,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_69">
       <lg>
          <l pos="Pron">tast</l>
       </lg>
@@ -851,7 +851,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_70">
       <lg>
          <l pos="Pron">távjá</l>
       </lg>
@@ -861,7 +861,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_71">
       <lg>
          <l pos="Pron">tietot</l>
       </lg>
@@ -871,7 +871,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_72">
       <lg>
          <l pos="Pron">tij</l>
       </lg>
@@ -881,7 +881,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_73">
       <lg>
          <l pos="Pron">tot</l>
       </lg>
@@ -891,7 +891,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_74">
       <lg>
          <l pos="Pron">tun</l>
       </lg>
@@ -901,7 +901,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_75">
       <lg>
          <l pos="Pron">tunnâ</l>
       </lg>
@@ -911,7 +911,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_76">
       <lg>
          <l pos="Pron">tuoi</l>
       </lg>
@@ -921,7 +921,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_77">
       <lg>
          <l pos="Pron">tuot</l>
       </lg>
@@ -931,7 +931,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_78">
       <lg>
          <l pos="Pron">tämmit</l>
       </lg>
@@ -941,7 +941,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_79">
       <lg>
          <l pos="Pron">tämmittáá</l>
       </lg>
@@ -951,7 +951,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_80">
       <lg>
          <l pos="Pron">täst</l>
       </lg>
@@ -966,7 +966,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_81">
       <lg>
          <l pos="Pron">tävjit-távjá</l>
       </lg>
@@ -976,7 +976,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e>
+   <e id="Pron_82">
       <lg>
          <l pos="Pron">viisut</l>
       </lg>
