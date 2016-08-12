@@ -1,27 +1,27 @@
 ID SMN lemma: mg1 (=t1,t2,tX); mg2 (=t1,t2,tX); mgX  (=t1,t2,tX) : 1 = 2 = X _ placeholder for action tag
-Adv_2 aaibâs: aivan; ihan : 1 = 2 _ 
+Adv_2 aaibâs: aivan; ihan : 1 = 2 _ 1+2
 Adv_3 aainâs: toki; ainakin; etenkin : 1 = 2 = 3 _ 
-Adv_5 aarriiđeed: aamuvarhaisella; aamuvarhain; varhaisaamu : 1 = 2 = 3 _ 
-Adv_7 áávus: auki; avoinna; avonainen : 1 = 2 = 3 _ 
-Adv_8 ain: aina; kulloinkin; yhä; edelleen : 1 = 2 = 3 = 4 _ 
-Adv_9 áinoo: ainoa; ainut : 1 = 2 _ 
-Adv_10 ain-uv: kuitenkin; yhä vieläkin; edelleen : 1 = 2 = 3 _ 
-Adv_22 ávus: auki; avoinna; avonainen : 1 = 2 = 3 _ 
-Adv_25 čeeppiht: taitavasti; osaavasti : 1 = 2 _ 
-Adv_27 čielgâsávt: selkeästi; selvästi : 1 = 2 _ 
-Adv_29 čiäppáht: osaavasti; taitavasti : 1 = 2 _ 
-Adv_31 cogâsnjalmij: avosuin; suu ammollaan : 1 = 2 _ 
-Adv_32 čohčuv: syksyllä; syksyisin : 1 = 2 _ 
-Adv_33 čokkod: istuallaan; istualtaan; istualleen : 1 = 2 = 3 _ 
-Adv_34 čokoppođâi: istuallaan; istualleen; takamuksilleen : 1 = 2 = 3 _ 
-Adv_35 čokoppoođâi: istuallaan; istualleen; takamuksilleen : 1 = 2 = 3 _ 
-Adv_40 čuákán: koolle; kokoon : 1 = 2 _ 
-Adv_41 čuákist: koolla; koossa : 1 = 2 _ 
-Adv_52 čuožžâd: seisaallaan; seisaalleen : 1 = 2 _ 
-Adv_53 čurgâ: huolellisesti; kunnolla; siististi : 1 = 2 = 3 _ 
-Adv_54 čurgâdávt: siististi; kunnolla; huolellisesti : 1 = 2 = 3 _ 
+Adv_5 aarriiđeed: aamuvarhaisella; aamuvarhain; varhaisaamu : 1 = 2 = 3 _ 1+2 _ 3 is not an adverb it is a noun
+Adv_7 áávus: auki; avoinna; avonainen : 1 = 2 = 3 _ 1+2 _ 3 is an adjectiv
+Adv_8 ain: aina; kulloinkin; yhä; edelleen : 1 = 2 = 3 = 4 _ 3+4
+Adv_9 áinoo: ainoa; ainut : 1 = 2 _ 1+2
+Adv_10 ain-uv: kuitenkin; yhä vieläkin; edelleen : 1 = 2 = 3 _ 2+3
+Adv_22 ávus: auki; avoinna; avonainen : 1 = 2 = 3 _ 1+2 _ 3 is an adjectiv
+Adv_25 čeeppiht: taitavasti; osaavasti : 1 = 2 _ 1+2
+Adv_27 čielgâsávt: selkeästi; selvästi : 1 = 2 _ 1+2
+Adv_29 čiäppáht: osaavasti; taitavasti : 1 = 2 _ 1+2
+Adv_31 cogâsnjalmij: avosuin; suu ammollaan : 1 = 2 _ 1+2
+Adv_32 čohčuv: syksyllä; syksyisin : 1 = 2 _ singular-plural issue
+Adv_33 čokkod: istuallaan; istualtaan; istualleen : 1 = 2 = 3 _ ws
+Adv_34 čokoppođâi: istuallaan; istualleen; takamuksilleen : 1 = 2 = 3 _ 1+2 ws and 2+3
+Adv_35 čokoppoođâi: istuallaan; istualleen; takamuksilleen : 1 = 2 = 3 _ 1+2 ws and 2+3
+Adv_40 čuákán: koolle; kokoon : 1 = 2 _ ws
+Adv_41 čuákist: koolla; koossa : 1 = 2 _ ws
+Adv_52 čuožžâd: seisaallaan; seisaalleen : 1 = 2 _ ws
+Adv_53 čurgâ: huolellisesti; kunnolla; siististi : 1 = 2 = 3 _ 1+2+3
+Adv_54 čurgâdávt: siististi; kunnolla; huolellisesti : 1 = 2 = 3 _ 1+2+3
 Adv_57 čuuvtij: hyvin; kovasti : 1 = 2 _ 
-Adv_58 čyerbiht: taitamattomasti; osaamattomasti; tökerösti : 1 = 2 = 3 _ 
+Adv_58 čyerbiht: taitamattomasti; osaamattomasti; tökerösti : 1 = 2 = 3 _ 1+2
 Adv_63 eivi: aina; alituiseen; jatkuvasti : 1 = 2 = 3 _ 
 Adv_65 eres: [LEMMA iärrás iärrâs] eri; [LEMMA iärrás iärrâs] muu : 1 = 2 _ 
 Adv_66 eresnáál: eri tavoin; toisin : 1 = 2 _ 
