@@ -1,10 +1,10 @@
 ID SMN lemma: mg1 (=t1,t2,tX); mg2 (=t1,t2,tX); mgX  (=t1,t2,tX) : 1 = 2 = X _ placeholder for action tag
-CC_1 adai: eli /V/; elikkä : 1 = 2 _ 
-CC_2 ađai: eli /V/; elikkä : 1 = 2 _ 
+CC_1 adai: eli /V/; elikkä : 1 = 2 _ 1+2 not verb
+CC_2 ađai: eli /V/; elikkä : 1 = 2 _ 1+2 not verb
 CC_17 meid: kanssa; myös : 1 = 2 _ 
-CC_18 mut: mutta; vaan : 1 = 2 _ 
-CC_19 naa: joo; kyllä; niin : 1 = 2 = 3 _ 
-CC_20 pic: mutta; vaan : 1 = 2 _ 
-CC_21 sehe: sekä; [LEMMA - ete] sekä - että; [LEMMA - já] sekä - että : 1 = 2 = 3 _ 
-CC_26 tastko: sillä; koska; sen vuoksi; siksi että : 1 = 2 = 3 = 4 _ 
-CC_30 vâi: jotta; vai; ettei (syytä ilmoittamassa); jottei (syytä ilmoittamassa) : 1 = 2 = 3 = 4 _ 
+CC_18 mut: mutta; vaan : 1 = 2 _ 1+2
+CC_19 naa: joo; kyllä; niin : 1 = 2 = 3 _ 1+2+3
+CC_20 pic: mutta; vaan : 1 = 2 _ 1+2
+CC_21 sehe: sekä; [LEMMA - ete] sekä - että; [LEMMA - já] sekä - että : 1 = 2 = 3 _ [LEMMA sehe - ete] sekä - että; [LEMMA sehe - já] sekä - että 2+3
+CC_26 tastko: sillä; koska; sen vuoksi; siksi että : 1 = 2 = 3 = 4 _ 3 sen vuoksi että _ 1+2+3+4
+CC_30 vâi: jotta; vai; ettei (syytä ilmoittamassa); jottei (syytä ilmoittamassa) : 1 = 2 = 3 = 4 _ 3+4
