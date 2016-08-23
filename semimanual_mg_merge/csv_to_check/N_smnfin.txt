@@ -1,85 +1,86 @@
 ID SMN lemma: mg1 (=t1,t2,tX); mg2 (=t1,t2,tX); mgX  (=t1,t2,tX) : 1 = 2 = X _ placeholder for action tag
 N_4 aaččân: kramppi; heinäsirkka : 1 = 2 _ 
-N_11 aaigâ: [LEMMA aiguu] aie; [LEMMA aiguu] aikomus : 1 = 2 _ 
-N_21 aairâs: [LEMMA airâs] airut; [LEMMA airâs] edustaja : 1 = 2 _ 
+N_11 aaigâ: [LEMMA aiguu] aie; [LEMMA aiguu] aikomus : 1 = 2 _ 1+2
+N_21 aairâs: [LEMMA airâs] airut; [LEMMA airâs] edustaja : 1 = 2 _ 1+2
 N_22 aajâ: [LEMMA aijuu] lähde; [LEMMA aijuu] oja; [LEMMA aijuu] puro : 1 = 2 = 3 _ 
 N_24 áálááš: alasin; uuninpankko : 1 = 2 _ 
 N_37 aalmug: kansa; väestö : 1 = 2 _ 
-N_39 aalmugčuovviittâs: kansansivistys; kansanvalistus : 1 = 2 _ 
+N_39 aalmugčuovviittâs: kansansivistys; kansanvalistus : 1 = 2 _ 1+2
 N_45 aalmugkielâ: [LEMMA -kielâ] kansalliskieli; [LEMMA -kielâ] kansankieli : 1 = 2 _ 
-N_95 aamnâs: [LEMMA amnâs] aine; [LEMMA amnâs] aines; [LEMMA amnâs] oppiaine (esim. koulussa); [LEMMA amnâs] raaka-aine; [LEMMA amnâs] tarvike; [LEMMA amnâs] materiaali (jnk tekemiseen) : 1 = 2 = 3 = 4 = 5 = 6 _ 
-N_101 ááŋáás: polvijänne (poron etujalassa polven etupuolella); [LEMMA ááŋás] jänne (poron etujalassa oleva kolmihaarainen) : 1 = 2 _ 
-N_109 aarnihävdi: [LEMMA -häävdi] aarnihauta; [LEMMA -häävdi] aarrehauta : 1 = 2 _ 
-N_111 aarrân: arina; tulisija : 1 = 2 _ 
+N_95 aamnâs: [LEMMA amnâs] aine; [LEMMA amnâs] aines; [LEMMA amnâs] oppiaine (esim. koulussa); [LEMMA amnâs] raaka-aine; [LEMMA amnâs] tarvike; [LEMMA amnâs] materiaali (jnk tekemiseen) : 1 = 2 = 3 = 4 = 5 = 6 _ 1+2
+N_101 ááŋáás: polvijänne (poron etujalassa polven etupuolella); [LEMMA ááŋás] jänne (poron etujalassa oleva kolmihaarainen) : 1 = 2 _ 1+2
+N_109 aarnihävdi: [LEMMA -häävdi] aarnihauta; [LEMMA -häävdi] aarrehauta : 1 = 2 _ 1+2
+N_111 aarrân: arina; tulisija : 1 = 2 _ 1+2
 N_112 ááru: [LEMMA ááru] este; [LEMMA ááru] haitta : 1 = 2 _ 
-N_113 aarvâs: [LEMMA arvâs # a'rvâs] avokätinen; [LEMMA arvâs # a'rvâs] runsas; [LEMMA arvâs # a'rvâs] reilu : 1 = 2 = 3 _ 
+N_113 aarvâs: [LEMMA arvâs # a'rvâs] avokätinen; [LEMMA arvâs # a'rvâs] runsas; [LEMMA arvâs # a'rvâs] reilu : 1 = 2 = 3 _ 1+3 all adjectives
 N_129 aaštâ: [LEMMA aštuu] uhkaus; [LEMMA aštuu] uhka : 1 = 2 _ 
-N_139 aavžâ: [LEMMA avžuu] kehotus; [LEMMA avžuu] suositus : 1 = 2 _ 
+N_139 aavžâ: [LEMMA avžuu] kehotus; [LEMMA avžuu] suositus : 1 = 2 _ 1+2
 N_144 aččân: kramppi; heinäsirkka : 1 = 2 _ 
 N_148 aččin: kramppi; heinäsirkka : 1 = 2 _ 
 N_149 aččinj: kramppi; heinäsirkka : 1 = 2 _ 
-N_151 aččinjkálgu: [LEMMA -káálgu] noita-akka; [LEMMA -káálgu] syöjätär; [LEMMA -káálgu] staalon vaimo : 1 = 2 = 3 _ 
-N_155 adaldâh: [LEMMA adaldoh adalduh adalduv] lahja; [LEMMA adaldoh adalduh adalduv] anti; [LEMMA adaldoh adalduh adalduv] almu; [LEMMA adaldoh adalduh adalduv] lahjakkuus (taito, osaaminen) : 1 = 2 = 3 = 4 _ 
-N_165 aforism: aforismi; ajatelma : 1 = 2 _ 
-N_166 aforismâ: [LEMMA aforiismâ] aforismi; [LEMMA aforiismâ] ajatelma : 1 = 2 _ 
-N_168 aggâ: [LEMMA aagâ] este; [LEMMA aagâ] syy, tekosyy; [LEMMA aagâ] peruste; [LEMMA aagâ] veruke : 1 = 2 = 3 = 4 _ 
+N_151 aččinjkálgu: [LEMMA -káálgu] noita-akka; [LEMMA -káálgu] syöjätär; [LEMMA -káálgu] staalon vaimo : 1 = 2 = 3 _ 1+2+3
+N_155 adaldâh: [LEMMA adaldoh adalduh adalduv] lahja; [LEMMA adaldoh adalduh adalduv] anti; [LEMMA adaldoh adalduh adalduv] almu; [LEMMA adaldoh adalduh adalduv] lahjakkuus (taito, osaaminen) : 1 = 2 = 3 = 4 _ 1+2+3
+N_165 aforism: aforismi; ajatelma : 1 = 2 _ 1+2
+N_166 aforismâ: [LEMMA aforiismâ] aforismi; [LEMMA aforiismâ] ajatelma : 1 = 2 _ 1+2
+N_168 aggâ: [LEMMA aagâ] este; [LEMMA aagâ] syy, tekosyy; [LEMMA aagâ] peruste; [LEMMA aagâ] veruke : 1 = 2 = 3 = 4 _ 2 two separate things ; syy+3 ; tekosyy+4
 N_177 ahevâšmâš: kaipuu; kaipaus : 1 = 2 _ 
-N_195 áigádâh: [LEMMA áigáduv] ajanjakso; [LEMMA áigáduv] jakso (ajasta) : 1 = 2 _ 
-N_197 áigápuátu: [LEMMA -puáđu -puáđo] saavutus; [LEMMA -puáđu -puáđo] toimeentulo; [LEMMA -puáđu -puáđo] elanto : 1 = 2 = 3 _ 
-N_202 aikkâ: [LEMMA aaihâ] aihkimänty; [LEMMA aaihâ] petäjä (iso, oksainen kelottuva, mutta vielä elossa); [LEMMA aaihâ] mänty (iso, oksainen kelottuva, mutta vielä elossa) : 1 = 2 = 3 _ 
-N_205 áimu: [LEMMA ááimu] ilma; [LEMMA ááimu] tallellaolo; [LEMMA ááimu] olemassaolo : 1 = 2 = 3 _ 
-N_231 áimuvirde: [LEMMA -vi'rde] ilmavirta; [LEMMA -vi'rde] ilmavirtaus : 1 = 2 _ 
-N_249 ájánem: viive; viivytys; viipymä : 1 = 2 = 3 _ 
-N_251 ájáttâllâm: hidastelu; viivyttely : 1 = 2 _ 
-N_253 ákku: [LEMMA ááhu] eukko; [LEMMA ááhu] isoäiti; [LEMMA ááhu] mummo; [LEMMA já äijih] isovanhemmat : 1 = 2 = 3 = 4 _ 
+N_195 áigádâh: [LEMMA áigáduv] ajanjakso; [LEMMA áigáduv] jakso (ajasta) : 1 = 2 _ 1+2
+N_197 áigápuátu: [LEMMA -puáđu -puáđo] saavutus; [LEMMA -puáđu -puáđo] toimeentulo; [LEMMA -puáđu -puáđo] elanto : 1 = 2 = 3 _ 2+3
+N_202 aikkâ: [LEMMA aaihâ] aihkimänty; [LEMMA aaihâ] petäjä (iso, oksainen kelottuva, mutta vielä elossa); [LEMMA aaihâ] mänty (iso, oksainen kelottuva, mutta vielä elossa) : 1 = 2 = 3 _ 1+2+3
+N_205 áimu: [LEMMA ááimu] ilma; [LEMMA ááimu] tallellaolo; [LEMMA ááimu] olemassaolo : 1 = 2 = 3 _ 2+3
+N_231 áimuvirde: [LEMMA -vi'rde] ilmavirta; [LEMMA -vi'rde] ilmavirtaus : 1 = 2 _ 1+2
+N_249 ájánem: viive; viivytys; viipymä : 1 = 2 = 3 _ 1+3
+N_251 ájáttâllâm: hidastelu; viivyttely : 1 = 2 _ 1+2
+N_253 ákku: [LEMMA ááhu] eukko; [LEMMA ááhu] isoäiti; [LEMMA ááhu] mummo; [LEMMA já äijih] isovanhemmat : 1 = 2 = 3 = 4 _ 2+3
 N_265 aladâs: koroke; korotus : 1 = 2 _ 
-N_273 áldu: [LEMMA ááldu] porolehmä; [LEMMA ááldu] vaadin : 1 = 2 _ 
+N_273 áldu: [LEMMA ááldu] porolehmä; [LEMMA ááldu] vaadin : 1 = 2 _ 1+2
 N_278 algâ: [LEMMA aalgâ] alkio; [LEMMA aalgâ] alku : 1 = 2 _ 
-N_279 algâaalgâst: alkujaan; alun perin : 1 = 2 _ 
-N_296 algâolmooš: [LEMMA -ulmuu] esi-ihminen; [LEMMA -ulmuu] alkuihminen : 1 = 2 _ 
-N_310 algâttâs: aloitus; johdanto : 1 = 2 _ 
-N_318 alghuuvsâš: [LEMMA alghuuvsáá] uunilintu; [LEMMA alghuuvsáá] pajulintu : 1 = 2 _ 
+N_279 algâaalgâst: alkujaan; alun perin : 1 = 2 _ 1+2
+N_296 algâolmooš: [LEMMA -ulmuu] esi-ihminen; [LEMMA -ulmuu] alkuihminen : 1 = 2 _ 1+2
+N_310 algâttâs: aloitus; johdanto : 1 = 2 _ 1+2
+N_318 alghuuvsâš: [LEMMA alghuuvsáá] uunilintu; [LEMMA alghuuvsáá] pajulintu : 1 = 2 _ 1+2
 N_319 álgu: [LEMMA áálgu] alkio; [LEMMA áálgu] alku : 1 = 2 _ 
-N_320 álguáálgust: alun perin; alkujaan : 1 = 2 _ 
-N_334 álguolmooš: [LEMMA -ulmuu] esi-ihminen; [LEMMA -ulmuu] alkuihminen : 1 = 2 _ 
-N_353 alkkuuvsâš: [LEMMA alkkuvsáá] uunilintu; [LEMMA alkkuvsáá] pajulintu : 1 = 2 _ 
-N_357 almaa: kai; varmaankin : 1 = 2 _ 
-N_358 almai: [LEMMA almaa] mies; [LEMMA mááccuh] puku (miesten) : 1 = 2 _ 
-N_362 almaš: [LEMMA almaažii] miekkonen; [LEMMA almaažii] heppu : 1 = 2 _ 
+N_320 álguáálgust: alun perin; alkujaan : 1 = 2 _ 1+2
+N_334 álguolmooš: [LEMMA -ulmuu] esi-ihminen; [LEMMA -ulmuu] alkuihminen : 1 = 2 _ 1+2
+N_353 alkkuuvsâš: [LEMMA alkkuvsáá] uunilintu; [LEMMA alkkuvsáá] pajulintu : 1 = 2 _ 1+2
+N_357 almaa: kai; varmaankin : 1 = 2 _ 1+2 particle
+N_358 almai: [LEMMA almaa] mies; [LEMMA mááccuh] puku (miesten) : 1 = 2 _ [LEMMA almai mááccuh] puku (miesten)
+N_362 almaš: [LEMMA almaažii] miekkonen; [LEMMA almaažii] heppu : 1 = 2 _ 1+2
 N_363 alme: [LEMMA a'lme] taivas; [LEMMA väldikodde -kode] taivaan valtakunta : 1 = 2 _ 
-N_367 almerobdâ: [LEMMA -roobdâ] horisontti; [LEMMA -roobdâ] taivaanranta : 1 = 2 _ 
-N_368 almetuulâš: [LEMMA -tuulii] tähdenlento; [LEMMA -tuulii] meteori (tähdenlento) : 1 = 2 _ 
-N_373 almos: ilmi; [LEMMA almoos] ilmeinen; [LEMMA almoos] julkinen; [LEMMA almoos] yleinen : 1 = 2 = 3 = 4 _ 
-N_404 ambulans: ambulanssi; sairasauto : 1 = 2 _ 
-N_421 anamâš: käytettävä; käyttäminen; jnak pidettävä; jnak pitäminen : 1 = 2 = 3 = 4 _ 
-N_422 anamuš: käytettävä; käyttäminen; jnak pidettävä; jnak pitäminen : 1 = 2 = 3 = 4 _ 
-N_427 ánnoo: anova; anoja; kerjääjä : 1 = 2 = 3 _ 
-N_429 anokálvu: [LEMMA -káálvu] hyödyke; [LEMMA -káálvu] kulutustavara : 1 = 2 _ 
-N_430 anokävni: [LEMMA -käävni] käyttötavara; [LEMMA -käävni] käyttöesine : 1 = 2 _ 
-N_434 anotiŋgâ: [LEMMA -tiiŋgâ] käyttöesine; [LEMMA -tiiŋgâ] tarvekalu : 1 = 2 _ 
-N_451 áŋkkár: leili; tynnyri (pieni); nassakka : 1 = 2 = 3 _ 
-N_454 áŋupelgi: [LEMMA -peelgi] hankapeukalo; [LEMMA -peelgi] hankaintappi : 1 = 2 _ 
+N_367 almerobdâ: [LEMMA -roobdâ] horisontti; [LEMMA -roobdâ] taivaanranta : 1 = 2 _ 1+2
+N_368 almetuulâš: [LEMMA -tuulii] tähdenlento; [LEMMA -tuulii] meteori (tähdenlento) : 1 = 2 _ 1+2
+N_373 almos: ilmi; [LEMMA almoos] ilmeinen; [LEMMA almoos] julkinen; [LEMMA almoos] yleinen : 1 = 2 = 3 = 4 _ 3+4
+N_404 ambulans: ambulanssi; sairasauto : 1 = 2 _ 1+2
+N_421 anamâš: käytettävä; käyttäminen; jnak pidettävä; jnak pitäminen : 1 = 2 = 3 = 4 _ 1+3 ; 2+4
+N_422 anamuš: käytettävä; käyttäminen; jnak pidettävä; jnak pitäminen : 1 = 2 = 3 = 4 _ 1+3 ; 2+4
+N_427 ánnoo: anova; anoja; kerjääjä : 1 = 2 = 3 _ 2+3 ; 1 is an adjective
+N_429 anokálvu: [LEMMA -káálvu] hyödyke; [LEMMA -káálvu] kulutustavara : 1 = 2 _ 1+2
+N_430 anokävni: [LEMMA -käävni] käyttötavara; [LEMMA -käävni] käyttöesine : 1 = 2 _ 1+2
+N_434 anotiŋgâ: [LEMMA -tiiŋgâ] käyttöesine; [LEMMA -tiiŋgâ] tarvekalu : 1 = 2 _ 1+2
+N_451 áŋkkár: leili; tynnyri (pieni); nassakka : 1 = 2 = 3 _ 1+2+3
+N_454 áŋupelgi: [LEMMA -peelgi] hankapeukalo; [LEMMA -peelgi] hankaintappi : 1 = 2 _ 1+2
 N_479 árdu: [LEMMA áárdu] aarto (arttukatos); [LEMMA áárdu] kuivausteline (katettu) : 1 = 2 _ 
-N_483 argument: argumentti; peruste : 1 = 2 _ 
-N_491 ármugâs: armias; armollinen : 1 = 2 _ 
+N_483 argument: argumentti; peruste : 1 = 2 _ 1+2
+N_491 ármugâs: armias; armollinen : 1 = 2 _ 1+2
 N_500 artikkâl: artikkeli (kirjoitus); artikkeli (kielitiet.); artikla : 1 = 2 = 3 _ 
-N_503 árvádâs: arvaus; arvelu; mielipide : 1 = 2 = 3 _ 
-N_504 árvádus: arvaus; arvelu; mielipide : 1 = 2 = 3 _ 
+N_503 árvádâs: arvaus; arvelu; mielipide : 1 = 2 = 3 _ 1+2
+N_504 árvádus: arvaus; arvelu; mielipide : 1 = 2 = 3 _ 1+2
 N_505 arvâlâs: mielipide; arvelu; epäily : 1 = 2 = 3 _ 
 N_507 arvâlus: arvelu; lausunto; luonnos; epäily : 1 = 2 = 3 = 4 _ 
-N_514 arvepuuvsah: sadehousut; kurahousut : 1 = 2 _ 
+N_514 arvepuuvsah: sadehousut; kurahousut : 1 = 2 _ 1+2
 N_522 árvu: [LEMMA áárvu] arvio; [LEMMA áárvu] arvo : 1 = 2 _ 
-N_526 árvunommâ: [LEMMA -noomâ] arvonimi; [LEMMA -noomâ] titteli : 1 = 2 _ 
-N_538 ášásteijee: asioija; asiakas : 1 = 2 _ 
-N_543 asâttâs: asetus; säädös : 1 = 2 _ 
-N_544 ase: nahkapuoli (turkiksessa); pinta (jk kiinteän); taivaankansi; yläpinta : 1 = 2 = 3 = 4 _ 
-N_545 asfalt: asfaltti; kestopäällyste : 1 = 2 _ 
-N_554 assimilaatio: assimilaatio; sulautuminen (kulttuurinen) : 1 = 2 _ 
-N_555 assistent: assistentti; avustaja : 1 = 2 _ 
-N_557 astel: [LEMMA # -is] joutilas (jolla on paljon aikaa); [LEMMA # -is] ehtivä (jolla on paljon aikaa) : 1 = 2 _ 
-N_563 asto: [LEMMA a'sto] aika (jhk, jk tekemiseen); [LEMMA a'sto] jouto : 1 = 2 _ 
-N_565 astottesvuotâ: [LEMMA a'stottesvuođâ] joutamattomuus; [LEMMA a'stottesvuođâ] kiire : 1 = 2 _ 
-N_567 astoäigi: [LEMMA -ääigi] vapaa-aika; [LEMMA -ääigi] joutoaika : 1 = 2 _ 
+N_526 árvunommâ: [LEMMA -noomâ] arvonimi; [LEMMA -noomâ] titteli : 1 = 2 _ 1+2
+N_538 ášásteijee: asioija; asiakas : 1 = 2 _ 1+2
+N_543 asâttâs: asetus; säädös : 1 = 2 _ 1+2
+N_544 ase: nahkapuoli (turkiksessa); pinta (jk kiinteän); taivaankansi; yläpinta : 1 = 2 = 3 = 4 _ 2+4
+N_545 asfalt: asfaltti; kestopäällyste : 1 = 2 _ 1+2
+N_554 assimilaatio: assimilaatio; sulautuminen (kulttuurinen) : 1 = 2 _ 1+2
+N_555 assistent: assistentti; avustaja : 1 = 2 _ 1+2
+N_557 astel: [LEMMA # -is] joutilas (jolla on paljon aikaa); [LEMMA # -is] ehtivä (jolla on paljon aikaa) : 1 = 2 _ all adjectives
+N_563 asto: [LEMMA a'sto] aika (jhk, jk tekemiseen); [LEMMA a'sto] jouto : 1 = 2 _ 1+2
+N_565 astottesvuotâ: [LEMMA a'stottesvuođâ] joutamattomuus; [LEMMA a'stottesvuođâ] kiire : 1 = 2 _ 1+2
+N_567 astoäigi: [LEMMA -ääigi] vapaa-aika; [LEMMA -ääigi] joutoaika : 1 = 2 _ 1+2
+
 N_594 avalâšvuotâ: [LEMMA aValâšvuođâ] ikuisuus; [LEMMA aValâšvuođâ] iäisyys : 1 = 2 _ 
 N_601 avepeeivi: ikänään; ikipäivänä : 1 = 2 _ 
 N_602 avepeeivist: ikänään; ikipäivänä : 1 = 2 _ 
