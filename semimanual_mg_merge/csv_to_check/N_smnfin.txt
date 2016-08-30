@@ -895,427 +895,427 @@ N_5000 leggâ: [LEMMA leegâ] varsi (piipun, saappaan tms.); [LEMMA leegâ] hous
 N_5004 lehâstâh: [LEMMA lehâstuv] avaus (oven); [LEMMA lehâstuv] ovenkahva : 1 = 2 _ 
 N_5007 leibi: [LEMMA leeibi] harmaaleppä; [LEMMA leeibi] leipä; [LEMMA leeibi] leppä : 1 = 2 = 3 _ 1+3
 N_5018 leivosâš: [LEMMA leivosii] kiuru; [LEMMA leivosii] leivonen : 1 = 2 _ 1+2
-
 N_5029 lenzi: [LEMMA leenzi] laakkosarvi; [LEMMA leenzi] vinosarvi (lyhyt) : 1 = 2 _ 
-N_5034 lettu: räiskäle; lettu : 1 = 2 _ 
-N_5047 lieggimviste: [LEMMA -vi'ste] lämmityshuone; [LEMMA -vi'ste] pannuhuone : 1 = 2 _ 
-N_5048 liekkičielgi: notkoselkäinen (poro); [LEMMA -čielgi] poroselkäinen (poro) : 1 = 2 _ 
-N_5050 liemâs: [LEMMA liemmâs] karjanrehu (keitetty); [LEMMA liemmâs] liemus : 1 = 2 _ 
-N_5053 lieppi: [LEMMA liepi] huki (lyötävä kalakoukku); [LEMMA liepi] hukki (lyötävä kalakoukku); [LEMMA liepi] kalakoukku (lyötävä) : 1 = 2 = 3 _ 
-N_5054 liestâš: [LEMMA lies'tii] loukku (kahdesta laudasta tehty); [LEMMA lies'tii] sadin : 1 = 2 _ 
-N_5057 lievlâ: [LEMMA lievlâ] höyry; [LEMMA lievlâ] löyly : 1 = 2 _ 
+N_5034 lettu: räiskäle; lettu : 1 = 2 _ 1+2
+N_5047 lieggimviste: [LEMMA -vi'ste] lämmityshuone; [LEMMA -vi'ste] pannuhuone : 1 = 2 _ 1+2
+N_5048 liekkičielgi: notkoselkäinen (poro); [LEMMA -čielgi] poroselkäinen (poro) : 1 = 2 _ 2 can´t be right, delete it
+N_5050 liemâs: [LEMMA liemmâs] karjanrehu (keitetty); [LEMMA liemmâs] liemus : 1 = 2 _ 1+2
+N_5053 lieppi: [LEMMA liepi] huki (lyötävä kalakoukku); [LEMMA liepi] hukki (lyötävä kalakoukku); [LEMMA liepi] kalakoukku (lyötävä) : 1 = 2 = 3 _ 1+2+3
+N_5054 liestâš: [LEMMA lies'tii] loukku (kahdesta laudasta tehty); [LEMMA lies'tii] sadin : 1 = 2 _ 1+2
+N_5057 lievlâ: [LEMMA lievlâ] höyry; [LEMMA lievlâ] löyly : 1 = 2 _ 1+2
 N_5062 lihâdem: liikkuminen; liikunta : 1 = 2 _ 
 N_5072 liivâr: [LEMMA livvâr] viiri (lippumainen); [LEMMA livvâr] heltta (sienen) : 1 = 2 _ 
-N_5073 liivkâs: [LEMMA livkkâs] vilinä; [LEMMA livkkâs] vipinä : 1 = 2 _ 
+N_5073 liivkâs: [LEMMA livkkâs] vilinä; [LEMMA livkkâs] vipinä : 1 = 2 _ 1+2
 N_5074 liivzâs: [LEMMA livzâs] hyytelö; [LEMMA livzâs] hervoton (veltto) : 1 = 2 _ 
 N_5076 lijgekerris: raitoahkio; tavara-ahkio; vara-ahkio : 1 = 2 = 3 _ 
 N_5087 lijne: [LEMMA liijne] huivi; [LEMMA liijne] liina; [LEMMA liijne] pellava : 1 = 2 = 3 _ 
-N_5088 lijnepággu: [LEMMA -páágu] liinapinkka; [LEMMA -páágu] liinapakka : 1 = 2 _ 
+N_5088 lijnepággu: [LEMMA -páágu] liinapinkka; [LEMMA -páágu] liinapakka : 1 = 2 _ 1+2
 N_5090 likkuš: [LEMMA # -is -âs] ontuva; [LEMMA # -is -âs] rampa : 1 = 2 _ 
-N_5092 limonaad: limonadi; virvoitusjuoma : 1 = 2 _ 
-N_5094 linjâšauto: linja-auto; bussi : 1 = 2 _ 
-N_5095 linjâšauto-orostâh: [LEMMA -orostuv] bussipysäkki; [LEMMA -orostuv] linja-autopysäkki : 1 = 2 _ 
+N_5092 limonaad: limonadi; virvoitusjuoma : 1 = 2 _ 1+2
+N_5094 linjâšauto: linja-auto; bussi : 1 = 2 _ 1+2
+N_5095 linjâšauto-orostâh: [LEMMA -orostuv] bussipysäkki; [LEMMA -orostuv] linja-autopysäkki : 1 = 2 _ 1+2
 N_5096 linssâ: [LEMMA liinsâ] linssi; [LEMMA liinsâ] mykiö : 1 = 2 _ 
 N_5098 lippâr: riepu; vaippa (lapsen) : 1 = 2 _ 
 N_5100 lippu: [LEMMA liipu] lippu (esim. jk maan); [LEMMA liipu] lippu (esim. teatteriin tai matkalippu) : 1 = 2 _ 
-N_5106 liškeivne: [LEMMA -iivne -i'vne] ihonväri; [LEMMA i'vne iivne] ihonväri : 1 = 2 _ 
-N_5110 liškemáátu: [LEMMA -mááđu máđo] ihomato; [LEMMA -mááđu máđo] mustapää (ihossa) : 1 = 2 _ 
+N_5106 liškeivne: [LEMMA -iivne -i'vne] ihonväri; [LEMMA i'vne iivne] ihonväri : 1 = 2 _ 1+2 maybe other lemma is wrong
+N_5110 liškemáátu: [LEMMA -mááđu máđo] ihomato; [LEMMA -mááđu máđo] mustapää (ihossa) : 1 = 2 _ 1+2
 N_5121 litte: [LEMMA lite] astia; [LEMMA lite] maljakko : 1 = 2 _ 
-N_5122 littepoossâmmaašin: tiskikone; astianpesukone : 1 = 2 _ 
-N_5124 littepoossâmääldis: tiskiallas; astianpesuallas : 1 = 2 _ 
+N_5122 littepoossâmmaašin: tiskikone; astianpesukone : 1 = 2 _ 1+2
+N_5124 littepoossâmääldis: tiskiallas; astianpesuallas : 1 = 2 _ 1+2
 N_5126 litto: [LEMMA lito] liitto; [LEMMA lito] tapaamissopimus : 1 = 2 _ 
-N_5130 livđe: [LEMMA li'vđe liivđe] joiku (hienostunut); [LEMMA li'vđe liivđe] laulu : 1 = 2 _ 
-N_5135 liäddud: levällään; levälleen : 1 = 2 _ 
-N_5141 liähtu: [LEMMA liävtu] haipakka; [LEMMA liävtu] nopeus; [LEMMA liävtu] vauhti : 1 = 2 = 3 _ 
-N_5153 liäpčud: levällään; levälleen : 1 = 2 _ 
+N_5130 livđe: [LEMMA li'vđe liivđe] joiku (hienostunut); [LEMMA li'vđe liivđe] laulu : 1 = 2 _ 1+2
+N_5135 liäddud: levällään; levälleen : 1 = 2 _ 1+2 ws adverbs
+N_5141 liähtu: [LEMMA liävtu] haipakka; [LEMMA liävtu] nopeus; [LEMMA liävtu] vauhti : 1 = 2 = 3 _ 1+2+3
+N_5153 liäpčud: levällään; levälleen : 1 = 2 _ 1+2 ws adverbs
 N_5154 liäpu: [LEMMA liävu liä'vo] lepo; [LEMMA liävu liä'vo] rauha : 1 = 2 _ 
 N_5159 liävuttemesvuotâ: [LEMMA liä'vuttemesvuođâ] levottomuus; [LEMMA liä'vuttemesvuođâ] mellakka : 1 = 2 _ 
-N_5160 loccâ: [LEMMA loocâ] lakinresu; [LEMMA loocâ] lätsä; [LEMMA loocâ] hatturesu : 1 = 2 = 3 _ 
+N_5160 loccâ: [LEMMA loocâ] lakinresu; [LEMMA loocâ] lätsä; [LEMMA loocâ] hatturesu : 1 = 2 = 3 _ 1+2+3
 N_5168 loddááš: [LEMMA loddáá] lintunen; [LEMMA loddáá] näppylä (silmässä) : 1 = 2 _ 
 N_5169 lodde: [LEMMA lode] lentävä eläin; [LEMMA lode] lintu : 1 = 2 _ 
-N_5181 lodetikke: [LEMMA -tihe] linnun; [LEMMA -tihe] lintutäi : 1 = 2 _ 
+N_5181 lodetikke: [LEMMA -tihe] linnun; [LEMMA -tihe] lintutäi : 1 = 2 _ 1 is wrong
 N_5184 lohhee: lukeva (ihminen, CD-asema tms.); lukija : 1 = 2 _ 
-N_5188 lohtâ: [LEMMA loovtâ] liitos; [LEMMA loovtâ] sauma (kovassa aineessa) : 1 = 2 _ 
+N_5188 lohtâ: [LEMMA loovtâ] liitos; [LEMMA loovtâ] sauma (kovassa aineessa) : 1 = 2 _ 1+2
 N_5198 lonnjâ: [LEMMA loonjâ] huone; [LEMMA loonjâ] väli (samanlaisten esineiden) : 1 = 2 _ 
-N_5206 loová: laatikko; loota : 1 = 2 _ 
+N_5206 loová: laatikko; loota : 1 = 2 _ 1+2
 N_5207 loovdâ: [LEMMA lovduu] kate; [LEMMA lovduu] peite; [LEMMA lovduu] peitto : 1 = 2 = 3 _ 
-N_5212 loovnâs: lainaksi (hupenevasta lainattavasta); lainaan (hupenevasta lainattavasta) : 1 = 2 _ 
-N_5213 loovtâ: [LEMMA lohtuu] liitos; [LEMMA lohtuu] sauma (kovassa aineessa) : 1 = 2 _ 
-N_5220 loppâkeeči: [LEMMA -keeji] jälkipuoli; [LEMMA -keeji] jälkipuolisko : 1 = 2 _ 
-N_5221 loppâpargo: [LEMMA -pa'rgo] päättötyö; [LEMMA -pa'rgo] lopputyö : 1 = 2 _ 
-N_5223 loppiittâs: juoksute (juuston); juuri (viilin tms. hapanmaitotuotteen); siemen (viilin tms. hapanmaitotuotteen) : 1 = 2 = 3 _ 
+N_5212 loovnâs: lainaksi (hupenevasta lainattavasta); lainaan (hupenevasta lainattavasta) : 1 = 2 _ 1+2 wd adverbs
+N_5213 loovtâ: [LEMMA lohtuu] liitos; [LEMMA lohtuu] sauma (kovassa aineessa) : 1 = 2 _ 1+2
+N_5220 loppâkeeči: [LEMMA -keeji] jälkipuoli; [LEMMA -keeji] jälkipuolisko : 1 = 2 _ 1+2
+N_5221 loppâpargo: [LEMMA -pa'rgo] päättötyö; [LEMMA -pa'rgo] lopputyö : 1 = 2 _ 1+2
+N_5223 loppiittâs: juoksute (juuston); juuri (viilin tms. hapanmaitotuotteen); siemen (viilin tms. hapanmaitotuotteen) : 1 = 2 = 3 _ 2+3
 N_5224 loppimmielkki: [LEMMA -mielhi] viili; [LEMMA -mielhi] piimä : 1 = 2 _ 
 N_5246 lote: [LEMMA lođe] kiila; [LEMMA lođe] vaaja : 1 = 2 _ 
-N_5259 luáđjá: [LEMMA luáđjá] vene (vanha ja huono); [LEMMA luáđjá] veneenlotja : 1 = 2 _ 
-N_5261 luáduttâh: [LEMMA luá'duttuv] kolotus; [LEMMA luá'duttuv] särky : 1 = 2 _ 
-N_5265 luákká: [LEMMA luáhá] mäki; [LEMMA luáhá] luokka (ahkion valjaiden vatsapuu); [LEMMA luáhá] vatsapuu (ahkion valjaissa) : 1 = 2 = 3 _ 
-N_5271 luámi: [LEMMA luámi] loma (väli); [LEMMA luámi] rako : 1 = 2 _ 
+N_5259 luáđjá: [LEMMA luáđjá] vene (vanha ja huono); [LEMMA luáđjá] veneenlotja : 1 = 2 _ 1+2
+N_5261 luáduttâh: [LEMMA luá'duttuv] kolotus; [LEMMA luá'duttuv] särky : 1 = 2 _ 1+2
+N_5265 luákká: [LEMMA luáhá] mäki; [LEMMA luáhá] luokka (ahkion valjaiden vatsapuu); [LEMMA luáhá] vatsapuu (ahkion valjaissa) : 1 = 2 = 3 _ 2+3
+N_5271 luámi: [LEMMA luámi] loma (väli); [LEMMA luámi] rako : 1 = 2 _ 1+2
 N_5272 luámu: [LEMMA = luándumuá'đusâš)] luomu (= luonnonmukainen); [LEMMA luámu] loma (vapaa-aika) : 1 = 2 _ 
 N_5279 luándu: [LEMMA luándu] luonne; [LEMMA luándu] luonto : 1 = 2 _ 
 N_5290 luástu: [LEMMA luástu] purtilo; [LEMMA luástu] rove (kookas) : 1 = 2 _ 
-N_5296 luáváttâh: [LEMMA luá'váttuv] pauloittamaton kenkä; [LEMMA luá'váttuv] avokas; [LEMMA luá'váttuv] tohveli; [LEMMA luá'váttuv] tossu : 1 = 2 = 3 = 4 _ 
-N_5297 luáváttus: avokas; tohveli; tossu : 1 = 2 = 3 _ 
-N_5298 luávkku: [LEMMA luávhu] kolo; [LEMMA luávhu] loukko : 1 = 2 _ 
-N_5301 luččâ: [LEMMA luuJâ] loka; [LEMMA luuJâ] ripuliuloste; [LEMMA luuJâ] ruikku : 1 = 2 = 3 _ 
-N_5302 luccááttâs: hemmottelu; lellittely : 1 = 2 _ 
-N_5304 luggo: [LEMMA lugo] kömmänä; [LEMMA lugo] loukko; [LEMMA lugo] röttelö : 1 = 2 = 3 _ 
+N_5296 luáváttâh: [LEMMA luá'váttuv] pauloittamaton kenkä; [LEMMA luá'váttuv] avokas; [LEMMA luá'váttuv] tohveli; [LEMMA luá'váttuv] tossu : 1 = 2 = 3 = 4 _ 1+2+3+4
+N_5297 luáváttus: avokas; tohveli; tossu : 1 = 2 = 3 _ 1+2+3
+N_5298 luávkku: [LEMMA luávhu] kolo; [LEMMA luávhu] loukko : 1 = 2 _ 1+2
+N_5301 luččâ: [LEMMA luuJâ] loka; [LEMMA luuJâ] ripuliuloste; [LEMMA luuJâ] ruikku : 1 = 2 = 3 _ 2+3
+N_5302 luccááttâs: hemmottelu; lellittely : 1 = 2 _ 1+2
+N_5304 luggo: [LEMMA lugo] kömmänä; [LEMMA lugo] loukko; [LEMMA lugo] röttelö : 1 = 2 = 3 _ 1+3
 N_5305 luhottesvuotâ: [LEMMA luhottesvuođâ] onnettomuus; [LEMMA -vuođâ] epäonni : 1 = 2 _ 
 N_5324 luksâ: [LEMMA luuvsâ] vana (vedessä); [LEMMA luuvsâ] väreily (liikkeen aiheuttama veden pinnalla) : 1 = 2 _ 
-N_5330 lunnáád: luonasi; luotasi : 1 = 2 _ 
-N_5331 lunnáán: luonani; luotani : 1 = 2 _ 
-N_5332 lunnees: luonaan; luotaan : 1 = 2 _ 
+N_5330 lunnáád: luonasi; luotasi : 1 = 2 _ 1+2 ws adverbs
+N_5331 lunnáán: luonani; luotani : 1 = 2 _ 1+2 ws adverbs
+N_5332 lunnees: luonaan; luotaan : 1 = 2 _ 1+2 ws adverbs
 N_5337 luobbâsk: lumme; pohjanlumme : 1 = 2 _ 
 N_5343 luoddâ: [LEMMA luodâ] jälki; [LEMMA luodâ] tie : 1 = 2 _ 
-N_5346 luoddânem: halkeama; railo : 1 = 2 _ 
-N_5347 luoddânim: halkeama; railo : 1 = 2 _ 
-N_5366 luosâveejeeh: titti (pieni, yhden vuoden meressä ollut nousulohi); tintti (pieni, yhden vuoden meressä ollut nousulohi) : 1 = 2 _ 
-N_5374 luovâspeenuv: [LEMMA -pennuu] irtokoira; [LEMMA -pennuu] kulkukoira : 1 = 2 _ 
-N_5375 luovâsvuotâ: [LEMMA luo'vâsvuođâ] irrallaanolo; [LEMMA luo'vâsvuođâ] irtonaisuus; [LEMMA luo'vâsvuođâ] vapaus : 1 = 2 = 3 _ 
-N_5376 luptâ: [LEMMA luuptâ] ullakko; [LEMMA luuptâ] vintti : 1 = 2 _ 
-N_5378 luptâstâh: [LEMMA lu'ptâstuv] lehteri; [LEMMA lu'ptâstuv] parveke; [LEMMA lu'ptâstuv] parvi (nukkumapaikka) : 1 = 2 = 3 _ 
-N_5381 lusme: [LEMMA lu'sme] luusua; [LEMMA lu'sme] joenniska : 1 = 2 _ 
-N_5383 luthâš: [LEMMA lutháá] lude; [LEMMA lutháá] lutikka : 1 = 2 _ 
-N_5384 luttâhâš: [LEMMA luttâháá] lude; [LEMMA luttâháá] lutikka : 1 = 2 _ 
-N_5385 lutthâš: [LEMMA luttháá] lude; [LEMMA luttháá] lutikka : 1 = 2 _ 
+N_5346 luoddânem: halkeama; railo : 1 = 2 _ 1+2
+N_5347 luoddânim: halkeama; railo : 1 = 2 _ 1+2
+N_5366 luosâveejeeh: titti (pieni, yhden vuoden meressä ollut nousulohi); tintti (pieni, yhden vuoden meressä ollut nousulohi) : 1 = 2 _ 1+2 same thing twice
+N_5374 luovâspeenuv: [LEMMA -pennuu] irtokoira; [LEMMA -pennuu] kulkukoira : 1 = 2 _ 1+2
+N_5375 luovâsvuotâ: [LEMMA luo'vâsvuođâ] irrallaanolo; [LEMMA luo'vâsvuođâ] irtonaisuus; [LEMMA luo'vâsvuođâ] vapaus : 1 = 2 = 3 _ 1+2
+N_5376 luptâ: [LEMMA luuptâ] ullakko; [LEMMA luuptâ] vintti : 1 = 2 _ 1+2
+N_5378 luptâstâh: [LEMMA lu'ptâstuv] lehteri; [LEMMA lu'ptâstuv] parveke; [LEMMA lu'ptâstuv] parvi (nukkumapaikka) : 1 = 2 = 3 _ 1+2+3
+N_5381 lusme: [LEMMA lu'sme] luusua; [LEMMA lu'sme] joenniska : 1 = 2 _ 1+2
+N_5383 luthâš: [LEMMA lutháá] lude; [LEMMA lutháá] lutikka : 1 = 2 _ 1+2
+N_5384 luttâhâš: [LEMMA luttâháá] lude; [LEMMA luttâháá] lutikka : 1 = 2 _ 1+2
+N_5385 lutthâš: [LEMMA luttháá] lude; [LEMMA luttháá] lutikka : 1 = 2 _ 1+2
 N_5386 luubbâsk: lumme; pohjanlumme : 1 = 2 _ 
-N_5409 lyeme: [LEMMA luámmán luám'mán luám'mân] hilla; [LEMMA luámmán luám'mán luám'mân] lakka; [LEMMA luámmán luám'mán luám'mân] suomuurain : 1 = 2 = 3 _ 
-N_5411 lyememáátu: [LEMMA -mááđu -máđo] kenttämittarintoukka; [LEMMA -mááđu -máđo] hillamato (kenttämittarin toukka) : 1 = 2 _ 
+N_5409 lyeme: [LEMMA luámmán luám'mán luám'mân] hilla; [LEMMA luámmán luám'mán luám'mân] lakka; [LEMMA luámmán luám'mán luám'mân] suomuurain : 1 = 2 = 3 _ 1+2+3
+N_5411 lyememáátu: [LEMMA -mááđu -máđo] kenttämittarintoukka; [LEMMA -mááđu -máđo] hillamato (kenttämittarin toukka) : 1 = 2 _ 1+2
 N_5424 lyevi: [LEMMA lye've] lava; [LEMMA lye've] suova : 1 = 2 _ 
-N_5426 läbži: [LEMMA lääbži] hihna; [LEMMA lääbži] remmi : 1 = 2 _ 
-N_5428 läbžimáátu: [LEMMA -mááđu -máđo] heisimato; [LEMMA -mááđu -máđo] lapamato : 1 = 2 _ 
+N_5426 läbži: [LEMMA lääbži] hihna; [LEMMA lääbži] remmi : 1 = 2 _ 1+2
+N_5428 läbžimáátu: [LEMMA -mááđu -máđo] heisimato; [LEMMA -mááđu -máđo] lapamato : 1 = 2 _ 1+2
 N_5432 läđđee: selaaja (esim. kirjan, internetin tms.); verka : 1 = 2 _ 
 N_5433 läddi: [LEMMA läädi # lädi-] suomalais-; [LEMMA läädi # lädi-] suomalaisseutu : 1 = 2 _ 
 N_5434 läddilâš: [LEMMA läddiláá] lantalainen (ei-saamelainen); [LEMMA läddiláá] suomalainen : 1 = 2 _ 
-N_5435 läddin: käsin (suunnalla, suunnalta); suunnalla; suunnalta : 1 = 2 = 3 _ 
-N_5443 läđisvuotâ: [LEMMA läđisvuođâ] laupeus; [LEMMA läđisvuođâ] lempeys : 1 = 2 _ 
+N_5435 läddin: käsin (suunnalla, suunnalta); suunnalla; suunnalta : 1 = 2 = 3 _ 1+2+3 ws adverbs
+N_5443 läđisvuotâ: [LEMMA läđisvuođâ] laupeus; [LEMMA läđisvuođâ] lempeys : 1 = 2 _ 1+2
 N_5451 lättee: lattia; latu : 1 = 2 _ 
-N_5459 läämi: [LEMMA láámmás # lämis] raajarikko; [LEMMA láámmás # lämis] rampa; [LEMMA láámmás # lämis] vaivainen; [LEMMA láámmás # lämis] vammautunut; [LEMMA läämi] sulkasato : 1 = 2 = 3 = 4 = 5 _ 
+N_5459 läämi: [LEMMA láámmás # lämis] raajarikko; [LEMMA láámmás # lämis] rampa; [LEMMA láámmás # lämis] vaivainen; [LEMMA láámmás # lämis] vammautunut; [LEMMA läämi] sulkasato : 1 = 2 = 3 = 4 = 5 _ 1+2
 N_5460 lääni: lääni; [LEMMA lääni läne] lana; [LEMMA lääni läne] risumerta : 1 = 2 = 3 _ 
-N_5463 läättinrassi: piippurassi (piipun puhdistamiseen); pyssynrassi; rassi (pyssyn tai piipun) : 1 = 2 = 3 _ 
+N_5463 läättinrassi: piippurassi (piipun puhdistamiseen); pyssynrassi; rassi (pyssyn tai piipun) : 1 = 2 = 3 _ 1+2+3
 N_5465 mááccuh: takki; puku (miehen); saamenpuku : 1 = 2 = 3 _ 
 N_5471 maadâr: [LEMMA maddâr] esivanhempi; [LEMMA maddâr] kanta : 1 = 2 _ 
-N_5484 maađijrobdâ: [LEMMA -roobdâ] piennar; [LEMMA -roobdâ] tienpiennar : 1 = 2 _ 
-N_5495 mááináš: [LEMMA máináá] finni; [LEMMA máináá] näppylä; [LEMMA máináá] näppy : 1 = 2 = 3 _ 
-N_5496 maainâs: [LEMMA mainâs] juttu; [LEMMA mainâs] satu; [LEMMA mainâs] tarina : 1 = 2 = 3 _ 
-N_5499 maajaakeččin: peräpäässä; takapäässä : 1 = 2 _ 
-N_5500 maajeeld: jäljessä; jäljestä; perässä : 1 = 2 = 3 _ 
-N_5503 maajeeldpuáttee: jälkeläinen; perässätulija; seuraaja : 1 = 2 = 3 _ 
-N_5504 maajooš: jälkiosa (raidossa); viimeinen (härkä raidossa tai kuvannollisesti) : 1 = 2 _ 
-N_5509 maaldâs: [LEMMA maldâs # maldâs] hiljainen (ihmisestä); [LEMMA maldâs # maldâs] melko kesy (eläimestä) : 1 = 2 _ 
-N_5511 mááná: [LEMMA mááná] pesye; [LEMMA mááná] poikue : 1 = 2 _ 
+N_5484 maađijrobdâ: [LEMMA -roobdâ] piennar; [LEMMA -roobdâ] tienpiennar : 1 = 2 _ 1+2
+N_5495 mááináš: [LEMMA máináá] finni; [LEMMA máináá] näppylä; [LEMMA máináá] näppy : 1 = 2 = 3 _ 1+2+3
+N_5496 maainâs: [LEMMA mainâs] juttu; [LEMMA mainâs] satu; [LEMMA mainâs] tarina : 1 = 2 = 3 _ 1+2+3
+N_5499 maajaakeččin: peräpäässä; takapäässä : 1 = 2 _ 1+2 adverbs
+N_5500 maajeeld: jäljessä; jäljestä; perässä : 1 = 2 = 3 _ 1+2+3 ws adverbs
+N_5503 maajeeldpuáttee: jälkeläinen; perässätulija; seuraaja : 1 = 2 = 3 _ 2+3
+N_5504 maajooš: jälkiosa (raidossa); viimeinen (härkä raidossa tai kuvannollisesti) : 1 = 2 _ 1+2
+N_5509 maaldâs: [LEMMA maldâs # maldâs] hiljainen (ihmisestä); [LEMMA maldâs # maldâs] melko kesy (eläimestä) : 1 = 2 _ adjectives
+N_5511 mááná: [LEMMA mááná] pesye; [LEMMA mááná] poikue : 1 = 2 _ 1+2
 N_5514 máánu: [LEMMA máánu] kuu (taivaankappale); [LEMMA máánu] kuukausi : 1 = 2 _ 
-N_5519 maaŋgâs: [LEMMA maŋgâs] moni (ihmisistä); [LEMMA maŋgâs] monet (ihmisistä) : 1 = 2 _ 
-N_5521 mááŋgus: [LEMMA máŋ'gus] luentomoniste; [LEMMA máŋ'gus] jäljennös; [LEMMA máŋ'gus] moniste : 1 = 2 = 3 _ 
+N_5519 maaŋgâs: [LEMMA maŋgâs] moni (ihmisistä); [LEMMA maŋgâs] monet (ihmisistä) : 1 = 2 _ 1+2
+N_5521 mááŋgus: [LEMMA máŋ'gus] luentomoniste; [LEMMA máŋ'gus] jäljennös; [LEMMA máŋ'gus] moniste : 1 = 2 = 3 _ 1+2+3
 N_5524 maarun: maruna; pujo : 1 = 2 _ 
-N_5529 maassâd: kotiin; takaisin : 1 = 2 _ 
-N_5536 maastur: maastoauto; maasturi : 1 = 2 _ 
-N_5537 máášu: [LEMMA máášu] maltti; [LEMMA máášu] rauha : 1 = 2 _ 
-N_5541 mabdem: jollainen; millainen; minkälainen : 1 = 2 = 3 _ 
+N_5529 maassâd: kotiin; takaisin : 1 = 2 _ adverbs
+N_5536 maastur: maastoauto; maasturi : 1 = 2 _ 1+2
+N_5537 máášu: [LEMMA máášu] maltti; [LEMMA máášu] rauha : 1 = 2 _ 1+2
+N_5541 mabdem: jollainen; millainen; minkälainen : 1 = 2 = 3 _ 1+2+3 particle
 N_5545 maccâm: akanvirta (joessa); paluu : 1 = 2 _ 
-N_5547 máccud: poimulla; taitteella (ei pysyvästi) : 1 = 2 _ 
-N_5548 macij: edestakaisin; mutkin : 1 = 2 _ 
-N_5550 madâpääni: [LEMMA -pääni -päne] poskihammas; [LEMMA -pääni -päne] takahammas : 1 = 2 _ 
-N_5556 máddá: [LEMMA máádá] paltsa (kulunut peski); [LEMMA máádá] peski (kulunut); [LEMMA máádá] peskikulu : 1 = 2 = 3 _ 
+N_5547 máccud: poimulla; taitteella (ei pysyvästi) : 1 = 2 _ 1+2 adverbs
+N_5548 macij: edestakaisin; mutkin : 1 = 2 _ 1+2 adverbs
+N_5550 madâpääni: [LEMMA -pääni -päne] poskihammas; [LEMMA -pääni -päne] takahammas : 1 = 2 _ 1+2
+N_5556 máddá: [LEMMA máádá] paltsa (kulunut peski); [LEMMA máádá] peski (kulunut); [LEMMA máádá] peskikulu : 1 = 2 = 3 _ 1+2+3
 N_5566 máhástâh: [LEMMA máhástuv] taivaanvuohi; [LEMMA máhástuv] kurppa : 1 = 2 _ 
-N_5583 maivâ: [LEMMA maaivâ] kuore; [LEMMA maaivâ] maiva, muikku>; [LEMMA maaivâ] muikku : 1 = 2 = 3 _ 
-N_5585 majemuš: [LEMMA majemuu] viimeinen; [LEMMA majemuu] jälkimmäinen : 1 = 2 _ 
-N_5594 málgánááváár: hirsipora; kaira; malkuri : 1 = 2 = 3 _ 
-N_5604 mane: miksi; [LEMMA mane] muna : 1 = 2 _ 
-N_5620 manjepeeli: [LEMMA -pele] veljenvaimo (nuoremman veljen vaimo); [LEMMA -pele] käly (nuoremman veljen vaimo) : 1 = 2 _ 
+N_5583 maivâ: [LEMMA maaivâ] kuore; [LEMMA maaivâ] maiva, muikku>; [LEMMA maaivâ] muikku : 1 = 2 = 3 _ 2+3
+N_5585 majemuš: [LEMMA majemuu] viimeinen; [LEMMA majemuu] jälkimmäinen : 1 = 2 _ 1+2
+N_5594 málgánááváár: hirsipora; kaira; malkuri : 1 = 2 = 3 _ 1+2+3
+N_5604 mane: miksi; [LEMMA mane] muna : 1 = 2 _ 2 is a noun ; 1 is an askingword
+N_5620 manjepeeli: [LEMMA -pele] veljenvaimo (nuoremman veljen vaimo); [LEMMA -pele] käly (nuoremman veljen vaimo) : 1 = 2 _ 1+2
 N_5622 mannee: menijä; [LEMMA # -s] menevä : 1 = 2 _ 
-N_5623 mannekiin: mannekiini; malli (esim. valokuvamalli) : 1 = 2 _ 
-N_5638 mánutavdâčonâstâh: [LEMMA čonâstoh čonâstuh -čonâstuv] terveysside; [LEMMA čonâstoh čonâstuh -čonâstuv] kuukautisside : 1 = 2 _ 
-N_5641 mánuvuáđu: [LEMMA vuáđu] uusikuu (kuuton aika); [LEMMA -vuáđu] vähevän kuun viimeinen sirppi (vielä ohut reuna näkyvissä ennen pimenemistä) : 1 = 2 _ 
-N_5646 maŋŋaalsis: jälkeensä; peräänsä : 1 = 2 _ 
-N_5649 mappi: [LEMMA maapi] kansio; [LEMMA maapi] mappi : 1 = 2 _ 
+N_5623 mannekiin: mannekiini; malli (esim. valokuvamalli) : 1 = 2 _ 1+2
+N_5638 mánutavdâčonâstâh: [LEMMA čonâstoh čonâstuh -čonâstuv] terveysside; [LEMMA čonâstoh čonâstuh -čonâstuv] kuukautisside : 1 = 2 _ 1+2
+N_5641 mánuvuáđu: [LEMMA vuáđu] uusikuu (kuuton aika); [LEMMA -vuáđu] vähevän kuun viimeinen sirppi (vielä ohut reuna näkyvissä ennen pimenemistä) : 1 = 2 _ 1+2
+N_5646 maŋŋaalsis: jälkeensä; peräänsä : 1 = 2 _ 1+2 adverbs
+N_5649 mappi: [LEMMA maapi] kansio; [LEMMA maapi] mappi : 1 = 2 _ 1+2
 N_5653 markkân: kirkonkylä; markkina : 1 = 2 _ 
-N_5667 materiaal: materiaali; raaka-aine; aines : 1 = 2 = 3 _ 
+N_5667 materiaal: materiaali; raaka-aine; aines : 1 = 2 = 3 _ 1+2+3
 N_5676 mecci: [LEMMA meeci] maasto; [LEMMA meeci] metsä; [LEMMA meeci] asumaton seutu : 1 = 2 = 3 _ 
-N_5677 mecciauto: maastoauto; maasturi : 1 = 2 _ 
+N_5677 mecciauto: maastoauto; maasturi : 1 = 2 _ 1+2
 N_5680 meccihaldâttâs: metsähallitus; metsähallinto : 1 = 2 _ 
-N_5726 meehkâs: jyminä; jytinä; jylinä; kumina : 1 = 2 = 3 = 4 _ 
+N_5726 meehkâs: jyminä; jytinä; jylinä; kumina : 1 = 2 = 3 = 4 _ 1+2+3+4
 N_5730 meerâ: [LEMMA meerâ] meri; [LEMMA meerâ] rannikkoseutu : 1 = 2 _ 
-N_5740 meidim: nuijinta; pehmitys (nuijalla) : 1 = 2 _ 
-N_5778 merettes: [LEMMA paLo palo] kammo; [LEMMA purâdem] ylensyönti : 1 = 2 _ 
+N_5740 meidim: nuijinta; pehmitys (nuijalla) : 1 = 2 _ 1+2
+N_5778 merettes: [LEMMA paLo palo] kammo; [LEMMA purâdem] ylensyönti : 1 = 2 _ [LEMMA merettes paLo palo] ; [LEMMA merettes purâdem]
 N_5780 merhâšem: merkitseminen; merkitys : 1 = 2 _ 
-N_5784 merikoskâsâš: [LEMMA -koskâsii] tasavälein oleva tai tapahtuva; [LEMMA -koskâsii] tasavälein toistuva : 1 = 2 _ 
+N_5784 merikoskâsâš: [LEMMA -koskâsii] tasavälein oleva tai tapahtuva; [LEMMA -koskâsii] tasavälein toistuva : 1 = 2 _ 1+2
 N_5786 meripittá: [LEMMA -pitá] annos; [LEMMA -pitá] määräala : 1 = 2 _ 
-N_5795 meteor: tähdenlento; meteori (tähdenlento) : 1 = 2 _ 
+N_5795 meteor: tähdenlento; meteori (tähdenlento) : 1 = 2 _ 1+2
 N_5802 miehtâ: [LEMMA mievtâ] keko (esim. muurahaiskeko tai muu mätäsmäinen); [LEMMA mievtâ] mätäs : 1 = 2 _ 
 N_5810 mielâ: [LEMMA mielâ] halu; [LEMMA mielâ] mieli : 1 = 2 _ 
-N_5815 mielâst: mielessä; mielissään; mielellään : 1 = 2 = 3 _ 
-N_5823 mielâvääni: [LEMMA -vääni] hulluus; [LEMMA -vääni] mielisairaus; [LEMMA -vääni] mielenvika : 1 = 2 = 3 _ 
-N_5836 mielkkisukkâr: laktoosi; maitosokeri : 1 = 2 _ 
-N_5838 mielli: [LEMMA mieLi] mella (hiekkatörmä); [LEMMA mieLi] törmä (tav. hiekkainen) : 1 = 2 _ 
-N_5845 mieskâm: lahoaminen; maatuminen (eloperäisen) : 1 = 2 _ 
-N_5855 miestâmaadâ: [LEMMA -madduu] pensaanjuuri; [LEMMA -madduu] pensaantyvi : 1 = 2 _ 
-N_5858 miestâs: [LEMMA mies'tâs] kesy (erit. koirasta); [LEMMA mies'tâs] koulutettu (erit. koirasta) : 1 = 2 _ 
+N_5815 mielâst: mielessä; mielissään; mielellään : 1 = 2 = 3 _ 2+3 ws adverbs
+N_5823 mielâvääni: [LEMMA -vääni] hulluus; [LEMMA -vääni] mielisairaus; [LEMMA -vääni] mielenvika : 1 = 2 = 3 _ 1+2+3
+N_5836 mielkkisukkâr: laktoosi; maitosokeri : 1 = 2 _ 1+2
+N_5838 mielli: [LEMMA mieLi] mella (hiekkatörmä); [LEMMA mieLi] törmä (tav. hiekkainen) : 1 = 2 _ 1+2
+N_5845 mieskâm: lahoaminen; maatuminen (eloperäisen) : 1 = 2 _ 1+2
+N_5855 miestâmaadâ: [LEMMA -madduu] pensaanjuuri; [LEMMA -madduu] pensaantyvi : 1 = 2 _ 1+2
+N_5858 miestâs: [LEMMA mies'tâs] kesy (erit. koirasta); [LEMMA mies'tâs] koulutettu (erit. koirasta) : 1 = 2 _ 1+2
 N_5861 mietâ: [LEMMA mieđâ] hunaja; [LEMMA mieđâ] mesi : 1 = 2 _ 
-N_5870 miinstâr: [LEMMA minstâr] kaava (tav. abstr.); [LEMMA minstâr] malli (tav. abstr.) : 1 = 2 _ 
-N_5887 mineraal: kivennäinen; mineraali : 1 = 2 _ 
+N_5870 miinstâr: [LEMMA minstâr] kaava (tav. abstr.); [LEMMA minstâr] malli (tav. abstr.) : 1 = 2 _ 1+2
+N_5887 mineraal: kivennäinen; mineraali : 1 = 2 _ 1+2
 N_5896 mirkkâkuobâr: [LEMMA -kuob'bâr] kärpässieni; [LEMMA -kuob'bâr] myrkkysieni : 1 = 2 _ 
-N_5909 mittomeeri: [LEMMA -mere] tavoite; [LEMMA -mere] päämäärä : 1 = 2 _ 
+N_5909 mittomeeri: [LEMMA -mere] tavoite; [LEMMA -mere] päämäärä : 1 = 2 _ 1+2
 N_5914 miäcástem: metsästys; eränkäynti : 1 = 2 _ 
-N_5916 miäđáábeln: alapuolella (tuulen); alapuolelta (tuulen) : 1 = 2 _ 
+N_5916 miäđáábeln: alapuolella (tuulen); alapuolelta (tuulen) : 1 = 2 _ 1+2 ws adverbs
 N_5926 miähástâh: [LEMMA miä'hástuv] taivaanvuohi; [LEMMA miä'hástuv] kurppa : 1 = 2 _ 
-N_5930 miäldus: [LEMMA miäl'dus] saate; [LEMMA miäl'dus] moniste; [LEMMA miäl'dus] jäljennös : 1 = 2 = 3 _ 
-N_5936 miänu: [LEMMA miänu] meno; [LEMMA miänu] hulina : 1 = 2 _ 
-N_5937 miärádâs: määräys; päätös : 1 = 2 _ 
-N_5955 moive: [LEMMA mooive mo'ive] sekasorto; [LEMMA mooive mo'ive] epäjärjestys; [LEMMA mooive mo'ive] sotku (sekamelska); [LEMMA mooive mo'ive] muru (heinä, jäkälän tms.); [LEMMA mooive mo'ive] mullistus; [LEMMA mooive mo'ive] hämminki; [LEMMA mooive mo'ive] kaaos : 1 = 2 = 3 = 4 = 5 = 6 = 7 _ 
-N_5959 mokke: [LEMMA mohe] lenkki; [LEMMA mohe] matka; [LEMMA mohe] mutka; [LEMMA mohe] reissu : 1 = 2 = 3 = 4 _ 
-N_5961 mollâ: [LEMMA mooLâ] pilkka (maali tarkkuusammunnassa); [LEMMA moolâ] maali (otteluissa) : 1 = 2 _ 
+N_5930 miäldus: [LEMMA miäl'dus] saate; [LEMMA miäl'dus] moniste; [LEMMA miäl'dus] jäljennös : 1 = 2 = 3 _ 2+3
+N_5936 miänu: [LEMMA miänu] meno; [LEMMA miänu] hulina : 1 = 2 _ 1+2
+N_5937 miärádâs: määräys; päätös : 1 = 2 _ 1+2
+N_5955 moive: [LEMMA mooive mo'ive] sekasorto; [LEMMA mooive mo'ive] epäjärjestys; [LEMMA mooive mo'ive] sotku (sekamelska); [LEMMA mooive mo'ive] muru (heinä, jäkälän tms.); [LEMMA mooive mo'ive] mullistus; [LEMMA mooive mo'ive] hämminki; [LEMMA mooive mo'ive] kaaos : 1 = 2 = 3 = 4 = 5 = 6 = 7 _ 1+2+3+5+6+7
+N_5959 mokke: [LEMMA mohe] lenkki; [LEMMA mohe] matka; [LEMMA mohe] mutka; [LEMMA mohe] reissu : 1 = 2 = 3 = 4 _ 2+4 ; 1+3 maybe all are synonyms
+N_5961 mollâ: [LEMMA mooLâ] pilkka (maali tarkkuusammunnassa); [LEMMA moolâ] maali (otteluissa) : 1 = 2 _ 1+2
 N_5962 molsom: vaihtelu; vaihdos; vaihde; vaihtaminen (jk tilalle) : 1 = 2 = 3 = 4 _ 
-N_5971 monnjâkeeči: [LEMMA -keeJi] ahteri; [LEMMA -keeJi] takapää; [LEMMA -keeJi] peräpää : 1 = 2 = 3 _ 
-N_5990 moolâ: [LEMMA moolâ] mooli; [LEMMA moolâ] maali (pelissä); [LEMMA moolâ] pilkka (maali tarkkuusammunnassa) : 1 = 2 = 3 _ 
-N_5991 moolhij: kiero; mutkainen : 1 = 2 _ 
-N_5993 moonjiikeeči: [LEMMA -keeJi] ahteri; [LEMMA -keeJi] peräpää; [LEMMA -keeJi] takapää : 1 = 2 = 3 _ 
-N_5996 moonjiškeeči: [LEMMA -keeJi] ahteri; [LEMMA -keeJi] peräpää; [LEMMA -keeJi] takapää : 1 = 2 = 3 _ 
-N_5999 moopeed: mopo; mopedi : 1 = 2 _ 
-N_6000 moorâst: marasto (korkeahko koivukangas); morosto (korkeahko koivukangas) : 1 = 2 _ 
-N_6010 moovgâr: leka; moukari : 1 = 2 _ 
-N_6013 mopo: mopo; mopedi : 1 = 2 _ 
+N_5971 monnjâkeeči: [LEMMA -keeJi] ahteri; [LEMMA -keeJi] takapää; [LEMMA -keeJi] peräpää : 1 = 2 = 3 _ 1+2+3
+N_5990 moolâ: [LEMMA moolâ] mooli; [LEMMA moolâ] maali (pelissä); [LEMMA moolâ] pilkka (maali tarkkuusammunnassa) : 1 = 2 = 3 _ 2+3
+N_5991 moolhij: kiero; mutkainen : 1 = 2 _ 1+2 adjective
+N_5993 moonjiikeeči: [LEMMA -keeJi] ahteri; [LEMMA -keeJi] peräpää; [LEMMA -keeJi] takapää : 1 = 2 = 3 _ 1+2+3
+N_5996 moonjiškeeči: [LEMMA -keeJi] ahteri; [LEMMA -keeJi] peräpää; [LEMMA -keeJi] takapää : 1 = 2 = 3 _ 1+2+3
+N_5999 moopeed: mopo; mopedi : 1 = 2 _ 1+2
+N_6000 moorâst: marasto (korkeahko koivukangas); morosto (korkeahko koivukangas) : 1 = 2 _ 1+2
+N_6010 moovgâr: leka; moukari : 1 = 2 _ 1+2
+N_6013 mopo: mopo; mopedi : 1 = 2 _ 1+2
 N_6015 morčes: [LEMMA morččá] laskimo; [LEMMA morččá] sydänlaskimo : 1 = 2 _ 
-N_6023 moskos: [LEMMA moskos # mo'sko-] pimeä; [LEMMA moskos # mo'sko-] tunkkainen; [LEMMA moskos # mo'sko-] ummehtunut; [LEMMA moskos # mo'sko-] umpinainen : 1 = 2 = 3 = 4 _ 
-N_6026 motomin: joskus; kerran : 1 = 2 _ 
-N_6028 movgár: leka; moukari : 1 = 2 _ 
-N_6031 muáddá: [LEMMA muádá] peski (kulunut); [LEMMA muádá] peskikulu : 1 = 2 _ 
-N_6034 muáđoi: kasvokkain; silmätyksin; silmätysten : 1 = 2 = 3 _ 
-N_6036 muáđui: kasvokkain; silmätyksin; silmätysten : 1 = 2 = 3 _ 
+N_6023 moskos: [LEMMA moskos # mo'sko-] pimeä; [LEMMA moskos # mo'sko-] tunkkainen; [LEMMA moskos # mo'sko-] ummehtunut; [LEMMA moskos # mo'sko-] umpinainen : 1 = 2 = 3 = 4 _ 2+3 adjectives
+N_6026 motomin: joskus; kerran : 1 = 2 _ adverb
+N_6028 movgár: leka; moukari : 1 = 2 _ 1+2
+N_6031 muáddá: [LEMMA muádá] peski (kulunut); [LEMMA muádá] peskikulu : 1 = 2 _ 1+2
+N_6034 muáđoi: kasvokkain; silmätyksin; silmätysten : 1 = 2 = 3 _ 1+2+3 adverbs
+N_6036 muáđui: kasvokkain; silmätyksin; silmätysten : 1 = 2 = 3 _ 1+2+3 adverbs
 N_6037 muáiđoo: [LEMMA muáiđoo] metalli (raskas, ruostumaton); [LEMMA muáiđoo] läkkipelti; [LEMMA muáiđoo] tinaus (esim. kupariastiassa) : 1 = 2 = 3 _ 
-N_6041 muákkár: moukari; leka : 1 = 2 _ 
-N_6043 muálkki: [LEMMA muálhi] koukero; [LEMMA muálhi] kiemura; [LEMMA muálhi] mutka : 1 = 2 = 3 _ 
-N_6048 muálunem: mureneminen; rapautuminen : 1 = 2 _ 
-N_6051 muári: [LEMMA muári] hanki (ohuehko, kantamaton, joka ei kanna poroa eikä kävelijää vain hiihtäjän); [LEMMA muári] raivo; [LEMMA muári] hankiainen (ohuehko, kantamaton, joka ei kanna poroa eikä kävelijää vain hiihtäjän); [LEMMA muári] murtohanki (ohuehko, kantamaton, joka ei kanna poroa eikä kävelijää vain hiihtäjän); [LEMMA muári] suuttumus : 1 = 2 = 3 = 4 = 5 _ 
+N_6041 muákkár: moukari; leka : 1 = 2 _ 1+2
+N_6043 muálkki: [LEMMA muálhi] koukero; [LEMMA muálhi] kiemura; [LEMMA muálhi] mutka : 1 = 2 = 3 _ 1+2+3
+N_6048 muálunem: mureneminen; rapautuminen : 1 = 2 _ 1+2
+N_6051 muári: [LEMMA muári] hanki (ohuehko, kantamaton, joka ei kanna poroa eikä kävelijää vain hiihtäjän); [LEMMA muári] raivo; [LEMMA muári] hankiainen (ohuehko, kantamaton, joka ei kanna poroa eikä kävelijää vain hiihtäjän); [LEMMA muári] murtohanki (ohuehko, kantamaton, joka ei kanna poroa eikä kävelijää vain hiihtäjän); [LEMMA muári] suuttumus : 1 = 2 = 3 = 4 = 5 _ 1+3+4 ; 2+5
 N_6056 muáti: [LEMMA muáđi muá'đe] lintuparvi (iso); [LEMMA muáđi muá'đe] parvi (iso) : 1 = 2 _ 
-N_6057 muátu: [LEMMA muáđu] naama; [LEMMA muáđu] pärstä : 1 = 2 _ 
-N_6061 muččâdvuotâ: [LEMMA muččâdvuođâ] kauneus; [LEMMA muččâdvuođâ] komeus : 1 = 2 _ 
-N_6065 muddo: [LEMMA mudo] aste (vaihe); [LEMMA mudo] vaihe : 1 = 2 _ 
-N_6066 mudoi: muuten; muutoin : 1 = 2 _ 
-N_6070 muldesäplig: peltomyyrä; maamyyrä; kontiainen : 1 = 2 = 3 _ 
-N_6071 mullân: mölinä; murina; karjunta; epäselvä puhuminen : 1 = 2 = 3 = 4 _ 
+N_6057 muátu: [LEMMA muáđu] naama; [LEMMA muáđu] pärstä : 1 = 2 _ 1+2
+N_6061 muččâdvuotâ: [LEMMA muččâdvuođâ] kauneus; [LEMMA muččâdvuođâ] komeus : 1 = 2 _ 1+2
+N_6065 muddo: [LEMMA mudo] aste (vaihe); [LEMMA mudo] vaihe : 1 = 2 _ 1+2
+N_6066 mudoi: muuten; muutoin : 1 = 2 _ 1+2 particle
+N_6070 muldesäplig: peltomyyrä; maamyyrä; kontiainen : 1 = 2 = 3 _ 2+3
+N_6071 mullân: mölinä; murina; karjunta; epäselvä puhuminen : 1 = 2 = 3 = 4 _ 1+4
 N_6077 munejuurdâ: [LEMMA -jurduu] asenne; [LEMMA -jurduu] ennakkoasenne : 1 = 2 _ 
-N_6086 muoldâg: maamyyrä; kontiainen : 1 = 2 _ 
+N_6086 muoldâg: maamyyrä; kontiainen : 1 = 2 _ 1+2
 N_6087 muorâ: [LEMMA muorâ] puu; [LEMMA iheriegis -riäg'gá] lusto : 1 = 2 _ 
-N_6114 muošnu: [LEMMA muošnu] mahdollisuus; [LEMMA muošnu] tilaisuus : 1 = 2 _ 
-N_6141 murriš: [LEMMA # murrišâs] aamuvirkku; [LEMMA # murrišâs] herkkäuninen; [LEMMA # murrišâs] helposti heräävä : 1 = 2 = 3 _ 
+N_6114 muošnu: [LEMMA muošnu] mahdollisuus; [LEMMA muošnu] tilaisuus : 1 = 2 _ 1+2
+N_6141 murriš: [LEMMA # murrišâs] aamuvirkku; [LEMMA # murrišâs] herkkäuninen; [LEMMA # murrišâs] helposti heräävä : 1 = 2 = 3 _ 2+3
 N_6152 mušto: [LEMMA mu'što] muisti; [LEMMA mu'što] muisto : 1 = 2 _ 
-N_6159 muttiittâs: murske; rouhe : 1 = 2 _ 
+N_6159 muttiittâs: murske; rouhe : 1 = 2 _ 1+2
 N_6160 muttojeijee: muuttuva; muuttuja (matem.) : 1 = 2 _ 
 N_6161 muudâr: [LEMMA muddâr] kateturve; [LEMMA muddâr] multapenkki : 1 = 2 _ 
-N_6162 muullân: mölinä; murina; karjunta; epäselvä puhuminen : 1 = 2 = 3 = 4 _ 
-N_6169 muuneeld: ennakkoon; ennakolta; etukäteen; varalta : 1 = 2 = 3 = 4 _ 
-N_6171 muurâš: [LEMMA muurrâš] murhe; [LEMMA muurrâš] suru; [LEMMA muurrâš] laskimo : 1 = 2 = 3 _ 
-N_6186 myenster: kaava (konkr., esim. vaatteen kaava ja abstr.); malli (konkr. ja abstr.) : 1 = 2 _ 
+N_6162 muullân: mölinä; murina; karjunta; epäselvä puhuminen : 1 = 2 = 3 = 4 _ 1+4
+N_6169 muuneeld: ennakkoon; ennakolta; etukäteen; varalta : 1 = 2 = 3 = 4 _ 1+2+3 adverb
+N_6171 muurâš: [LEMMA muurrâš] murhe; [LEMMA muurrâš] suru; [LEMMA muurrâš] laskimo : 1 = 2 = 3 _ 1+2
+N_6186 myenster: kaava (konkr., esim. vaatteen kaava ja abstr.); malli (konkr. ja abstr.) : 1 = 2 _ 1+2
 N_6196 myesittemesvuotâ: [LEMMA mye'sittemesvuođâ] epäviihtyisyys; [LEMMA mye'sittemesvuođâ] rauhattomuus : 1 = 2 _ 
-N_6201 mäcci: [LEMMA määci] laskos; [LEMMA määci] poimu; [LEMMA määci] vekki; [LEMMA määci] taitos : 1 = 2 = 3 = 4 _ 
-N_6203 mäddin: etelässä; etelästä : 1 = 2 _ 
-N_6207 mäini: [LEMMA määini] finni; [LEMMA määini] näppy; [LEMMA määini] näppylä : 1 = 2 = 3 _ 
-N_6213 mälisteijee: keittäjä; kokki : 1 = 2 _ 
-N_6220 mätkipuhelin: matkapuhelin; kännykkä : 1 = 2 _ 
-N_6226 määli: [LEMMA määli mäle] keitto; [LEMMA määli mäle] velli : 1 = 2 _ 
+N_6201 mäcci: [LEMMA määci] laskos; [LEMMA määci] poimu; [LEMMA määci] vekki; [LEMMA määci] taitos : 1 = 2 = 3 = 4 _ 1+2+3+4
+N_6203 mäddin: etelässä; etelästä : 1 = 2 _ 1+2 ws adverbs
+N_6207 mäini: [LEMMA määini] finni; [LEMMA määini] näppy; [LEMMA määini] näppylä : 1 = 2 = 3 _ 1+2+3
+N_6213 mälisteijee: keittäjä; kokki : 1 = 2 _ 1+2
+N_6220 mätkipuhelin: matkapuhelin; kännykkä : 1 = 2 _ 1+2
+N_6226 määli: [LEMMA määli mäle] keitto; [LEMMA määli mäle] velli : 1 = 2 _ 1+2
 N_6227 määlis: [LEMMA máállás máállâs] ateria; [LEMMA máállás máállâs] keitto; [LEMMA máállás máállâs] ruoka : 1 = 2 = 3 _ 
-N_6231 naagâs: [LEMMA naggâs # naggâ] kireä; [LEMMA naggâs # naggâ] tiukka : 1 = 2 _ 
+N_6231 naagâs: [LEMMA naggâs # naggâ] kireä; [LEMMA naggâs # naggâ] tiukka : 1 = 2 _ 1+2 adjectives
 N_6232 náágus: [LEMMA nággus] väite; [LEMMA nággus] väitös (tiet.) : 1 = 2 _ 
-N_6233 naaijâm: avioliiton solmiminen; naimisiinmeno; avioituminen; naimisissa : 1 = 2 = 3 = 4 _ 
+N_6233 naaijâm: avioliiton solmiminen; naimisiinmeno; avioituminen; naimisissa : 1 = 2 = 3 = 4 _ 1+2+3 ; +4 ws
 N_6235 náálu: [LEMMA náálu] neula; [LEMMA náálu] pistin (hyönteisellä) : 1 = 2 _ 
-N_6237 naappâl: nappula; tappi : 1 = 2 _ 
-N_6240 naarvâ: [LEMMA narvuu] tuohen alapuolinen sisempi, ruskehtava kerros; [LEMMA narvuu] korkkijälsi (koivussa valkoisen tuohen alla oleva sisempi ruskea kerros) : 1 = 2 _ 
-N_6242 nááváár: näveri; pora : 1 = 2 _ 
-N_6243 naavcah: kyky; voima; voimavarat : 1 = 2 = 3 _ 
-N_6247 nabdettettee: odotettava; odotuksenmukainen : 1 = 2 _ 
-N_6250 nággár: [LEMMA # -is] itsepäinen; [LEMMA # -is] sinnikäs : 1 = 2 _ 
-N_6251 nággárvuotâ: [LEMMA nággárvuođâ] sisu; [LEMMA nággárvuođâ] sinni; [LEMMA nággárvuođâ] itsepäisyys; [LEMMA nággárvuođâ] jääräpäisyys; [LEMMA nággárvuođâ] härkäpäisyys : 1 = 2 = 3 = 4 = 5 _ 
-N_6253 naggâsist: ahtaalla; kireällä; tiukalla : 1 = 2 = 3 _ 
-N_6254 nággu: [LEMMA náágu] itsepäisyys; [LEMMA náágu] kina; [LEMMA náágu] väittely : 1 = 2 = 3 _ 
-N_6274 nanodâs: lujike; vahvike; vahvistus : 1 = 2 = 3 _ 
-N_6275 nanos: [LEMMA nannoos # noonâ] kestävä; [LEMMA nannoos # noonâ] luja; [LEMMA nannoos # noonâ] vahva : 1 = 2 = 3 _ 
-N_6283 naver: [LEMMA nahhaar] haave; [LEMMA nahhaar] unelma; [LEMMA nahhaar] uni : 1 = 2 = 3 _ 
-N_6288 neeljis: [LEMMA niäl'jás] neljä (ihmistä); [LEMMA niäl'jás] neljän ihmisen joukko; [LEMMA niäl'jás] nelikko (neljä ihmistä) : 1 = 2 = 3 _ 
+N_6237 naappâl: nappula; tappi : 1 = 2 _ 1+2
+N_6240 naarvâ: [LEMMA narvuu] tuohen alapuolinen sisempi, ruskehtava kerros; [LEMMA narvuu] korkkijälsi (koivussa valkoisen tuohen alla oleva sisempi ruskea kerros) : 1 = 2 _ 1+2
+N_6242 nááváár: näveri; pora : 1 = 2 _ 1+2
+N_6243 naavcah: kyky; voima; voimavarat : 1 = 2 = 3 _ 1+2+3
+N_6247 nabdettettee: odotettava; odotuksenmukainen : 1 = 2 _ 1+2
+N_6250 nággár: [LEMMA # -is] itsepäinen; [LEMMA # -is] sinnikäs : 1 = 2 _ adjectives
+N_6251 nággárvuotâ: [LEMMA nággárvuođâ] sisu; [LEMMA nággárvuođâ] sinni; [LEMMA nággárvuođâ] itsepäisyys; [LEMMA nággárvuođâ] jääräpäisyys; [LEMMA nággárvuođâ] härkäpäisyys : 1 = 2 = 3 = 4 = 5 _ 1+2 ; 3+4+5
+N_6253 naggâsist: ahtaalla; kireällä; tiukalla : 1 = 2 = 3 _ 1+2+3 adverbs
+N_6254 nággu: [LEMMA náágu] itsepäisyys; [LEMMA náágu] kina; [LEMMA náágu] väittely : 1 = 2 = 3 _ 2+3
+N_6274 nanodâs: lujike; vahvike; vahvistus : 1 = 2 = 3 _ 1+2+3
+N_6275 nanos: [LEMMA nannoos # noonâ] kestävä; [LEMMA nannoos # noonâ] luja; [LEMMA nannoos # noonâ] vahva : 1 = 2 = 3 _ 1+2+3 adjectives
+N_6283 naver: [LEMMA nahhaar] haave; [LEMMA nahhaar] unelma; [LEMMA nahhaar] uni : 1 = 2 = 3 _ 1+2
+N_6288 neeljis: [LEMMA niäl'jás] neljä (ihmistä); [LEMMA niäl'jás] neljän ihmisen joukko; [LEMMA niäl'jás] nelikko (neljä ihmistä) : 1 = 2 = 3 _ 1+2+3
 N_6295 nelgi: [LEMMA neelgi] nälkä (aik. erit. nälänhädän aiheuttama); [LEMMA neelgi] nälänhätä : 1 = 2 _ 
-N_6303 neppir: [LEMMA # -is] ketterä; [LEMMA # -is] nopsa; [LEMMA # -is] näppärä : 1 = 2 = 3 _ 
-N_6312 nieidâ: [LEMMA nieidâ] tyttö; [LEMMA nieidâ] tytär : 1 = 2 _ 
-N_6325 nievkki: [LEMMA nievhi] jätepala; [LEMMA nievhi] jäännöspala; [LEMMA nievhi] leike (jätepala) : 1 = 2 = 3 _ 
+N_6303 neppir: [LEMMA # -is] ketterä; [LEMMA # -is] nopsa; [LEMMA # -is] näppärä : 1 = 2 = 3 _ 1+2+3 adjectives
+N_6312 nieidâ: [LEMMA nieidâ] tyttö; [LEMMA nieidâ] tytär : 1 = 2 _ 1+2
+N_6325 nievkki: [LEMMA nievhi] jätepala; [LEMMA nievhi] jäännöspala; [LEMMA nievhi] leike (jätepala) : 1 = 2 = 3 _ 1+2+3
 N_6326 nievris: [LEMMA lukko] epäonni; [LEMMA mieLâ] mielipaha : 1 = 2 _ 
-N_6327 nievrivuotâ: [LEMMA niev'rivuođâ] huonous; [LEMMA niev'rivuođâ] kurjuus : 1 = 2 _ 
+N_6327 nievrivuotâ: [LEMMA niev'rivuođâ] huonous; [LEMMA niev'rivuođâ] kurjuus : 1 = 2 _ 1+2
 N_6329 niinimuorâ: [LEMMA -muorâ] lehmus; [LEMMA -muorâ] metsälehmus : 1 = 2 _ 
 N_6330 niisu: vehnä; pulla : 1 = 2 _ 
-N_6332 nijbe: [LEMMA niijbe] puukko; [LEMMA niijbe] veitsi : 1 = 2 _ 
-N_6348 nire: juoni (pahantahtoinen suunnitelma); pahantahtoinen suunnitelma; purnaus : 1 = 2 = 3 _ 
+N_6332 nijbe: [LEMMA niijbe] puukko; [LEMMA niijbe] veitsi : 1 = 2 _ 1+2
+N_6348 nire: juoni (pahantahtoinen suunnitelma); pahantahtoinen suunnitelma; purnaus : 1 = 2 = 3 _ 1+2
 N_6356 nisu: [LEMMA niisu] pulla; [LEMMA niisu] vehnä : 1 = 2 _ 
 N_6375 niävvu: [LEMMA niäVu] neuvo; [LEMMA niäVu] väline : 1 = 2 _ 
-N_6380 njaalgâhaisyeini: [LEMMA -syeini] hajuheinä; [LEMMA -syeini] maarianheinä : 1 = 2 _ 
+N_6380 njaalgâhaisyeini: [LEMMA -syeini] hajuheinä; [LEMMA -syeini] maarianheinä : 1 = 2 _ 1+2
 N_6387 njaddo: [LEMMA njado] maku; [LEMMA njado] mauste : 1 = 2 _ 
-N_6396 njajâlittetahhee: savenvalaja; keraamikko : 1 = 2 _ 
+N_6396 njajâlittetahhee: savenvalaja; keraamikko : 1 = 2 _ 1+2
 N_6397 njale: [LEMMA njale] jälsi; [LEMMA njale] mahla (koivun); [LEMMA njale] nila : 1 = 2 = 3 _ 
-N_6398 njálgáh: karkit; makeiset : 1 = 2 _ 
-N_6402 njamma: [LEMMA njaMa] nisä; [LEMMA njaMa] rinta; [LEMMA njaMa] tissi : 1 = 2 = 3 _ 
-N_6404 njammeemáátu: [LEMMA -mááđu -máđo] iilimato; [LEMMA -mááđu -máđo] verijuotikas : 1 = 2 _ 
-N_6414 njárbum: harsuuntuminen; harventuminen (esim. karvoituksen, neulasiston); ohentuminen (esim. karvoituksen, maalin tms.) : 1 = 2 = 3 _ 
-N_6420 njášku: [LEMMA njáášku] hongankolistaja; [LEMMA njáášku] hujoppi : 1 = 2 _ 
-N_6426 njeeijâm: lasku (esim. kurssien, korkojen tms.); laskeminen (esim. kurssien, korkojen tms.) : 1 = 2 _ 
-N_6430 nješši: [LEMMA njeeŠi] kosteikko; [LEMMA njeeŠi] rimpi; [LEMMA njeeŠi] tahdas; [LEMMA njeeŠi] loka; [LEMMA njeeŠi] lieju; [LEMMA njeeŠi] lammikko; [LEMMA njeeŠi] kura : 1 = 2 = 3 = 4 = 5 = 6 = 7 _ 
-N_6434 njetti: [LEMMA njeeti] loka; [LEMMA njeeti] tahdas; [LEMMA njeeti] kura; [LEMMA njeeti] lieju : 1 = 2 = 3 = 4 _ 
-N_6438 njiecâkkâs: konttiluu (alin takajalassa); ydinluu (alin takajalassa) : 1 = 2 _ 
-N_6440 njiesâs: [LEMMA njie'câseh # njie'câ] vettynyt (puusta); [LEMMA njie'câseh # njie'câ] laho (vettyneestä puusta) : 1 = 2 _ 
-N_6441 njihânjâš: [LEMMA njihânjáá] hikka; [LEMMA njihânjáá] nikka : 1 = 2 _ 
-N_6443 njihhood: kallellaan; kallelleen; etukenossa; etukenoon : 1 = 2 = 3 = 4 _ 
-N_6444 njihinjâš: [LEMMA njihinjáá] hikka; [LEMMA njihinjáá] nikka : 1 = 2 _ 
-N_6446 njirro: [LEMMA njiRo] vaadin; [LEMMA njiRo] naarasporo : 1 = 2 _ 
-N_6452 njivlom: rehevöityminen (veden); rehevöitynyt (vedestä) : 1 = 2 _ 
-N_6453 njižže: [LEMMA njiže] nisä; [LEMMA njiže] utare : 1 = 2 _ 
-N_6456 njiäšku: [LEMMA njiäšku] hongankolistaja; [LEMMA njiäšku] hujoppi : 1 = 2 _ 
-N_6457 njobžâ: [LEMMA njoobžâ] nalle (kiertoilmaus); [LEMMA njoobžâ] otso (kiertoilmaus) : 1 = 2 _ 
-N_6461 njolge: [LEMMA njo'lge] hölkkä; [LEMMA njo'lge] nulkka; [LEMMA njo'lge] ravi : 1 = 2 = 3 _ 
-N_6464 njolges: [LEMMA njolgáá # njo'lges] nulkkaavainen; [LEMMA njolgáá # njo'lges] ravuri (adj.); [LEMMA njolgáá # njo'lges] hyvä nulkkaamaan; [LEMMA njolgáá # njo'lges] hyvä hölkkäämään (porosta) : 1 = 2 = 3 = 4 _ 
-N_6467 njomâttâh: [LEMMA njomâttuv] kipu; [LEMMA njomâttuv] särky : 1 = 2 _ 
-N_6468 njomâtteijee: nisäkäs; imettäjä : 1 = 2 _ 
+N_6398 njálgáh: karkit; makeiset : 1 = 2 _ 1+2
+N_6402 njamma: [LEMMA njaMa] nisä; [LEMMA njaMa] rinta; [LEMMA njaMa] tissi : 1 = 2 = 3 _ 1+2+3
+N_6404 njammeemáátu: [LEMMA -mááđu -máđo] iilimato; [LEMMA -mááđu -máđo] verijuotikas : 1 = 2 _ 1+2
+N_6414 njárbum: harsuuntuminen; harventuminen (esim. karvoituksen, neulasiston); ohentuminen (esim. karvoituksen, maalin tms.) : 1 = 2 = 3 _ 1+2+3
+N_6420 njášku: [LEMMA njáášku] hongankolistaja; [LEMMA njáášku] hujoppi : 1 = 2 _ 1+2
+N_6426 njeeijâm: lasku (esim. kurssien, korkojen tms.); laskeminen (esim. kurssien, korkojen tms.) : 1 = 2 _ 1+2
+N_6430 nješši: [LEMMA njeeŠi] kosteikko; [LEMMA njeeŠi] rimpi; [LEMMA njeeŠi] tahdas; [LEMMA njeeŠi] loka; [LEMMA njeeŠi] lieju; [LEMMA njeeŠi] lammikko; [LEMMA njeeŠi] kura : 1 = 2 = 3 = 4 = 5 = 6 = 7 _ 1+2 ; 3+4+5+7
+N_6434 njetti: [LEMMA njeeti] loka; [LEMMA njeeti] tahdas; [LEMMA njeeti] kura; [LEMMA njeeti] lieju : 1 = 2 = 3 = 4 _ 1+2+3+4
+N_6438 njiecâkkâs: konttiluu (alin takajalassa); ydinluu (alin takajalassa) : 1 = 2 _ 1+2
+N_6440 njiesâs: [LEMMA njie'câseh # njie'câ] vettynyt (puusta); [LEMMA njie'câseh # njie'câ] laho (vettyneestä puusta) : 1 = 2 _ 1+2
+N_6441 njihânjâš: [LEMMA njihânjáá] hikka; [LEMMA njihânjáá] nikka : 1 = 2 _ 1+2
+N_6443 njihhood: kallellaan; kallelleen; etukenossa; etukenoon : 1 = 2 = 3 = 4 _ 1+2 ws ; 3+4 ws all adverbs
+N_6444 njihinjâš: [LEMMA njihinjáá] hikka; [LEMMA njihinjáá] nikka : 1 = 2 _ 1+2
+N_6446 njirro: [LEMMA njiRo] vaadin; [LEMMA njiRo] naarasporo : 1 = 2 _ 1+2
+N_6452 njivlom: rehevöityminen (veden); rehevöitynyt (vedestä) : 1 = 2 _ 1+2 ws
+N_6453 njižže: [LEMMA njiže] nisä; [LEMMA njiže] utare : 1 = 2 _ 1+2
+N_6456 njiäšku: [LEMMA njiäšku] hongankolistaja; [LEMMA njiäšku] hujoppi : 1 = 2 _ 1+2
+N_6457 njobžâ: [LEMMA njoobžâ] nalle (kiertoilmaus); [LEMMA njoobžâ] otso (kiertoilmaus) : 1 = 2 _ 1+2
+N_6461 njolge: [LEMMA njo'lge] hölkkä; [LEMMA njo'lge] nulkka; [LEMMA njo'lge] ravi : 1 = 2 = 3 _ 1+2+3
+N_6464 njolges: [LEMMA njolgáá # njo'lges] nulkkaavainen; [LEMMA njolgáá # njo'lges] ravuri (adj.); [LEMMA njolgáá # njo'lges] hyvä nulkkaamaan; [LEMMA njolgáá # njo'lges] hyvä hölkkäämään (porosta) : 1 = 2 = 3 = 4 _ 1+2+3+4 adjectives
+N_6467 njomâttâh: [LEMMA njomâttuv] kipu; [LEMMA njomâttuv] särky : 1 = 2 _ 1+2
+N_6468 njomâtteijee: nisäkäs; imettäjä : 1 = 2 _ 1+2
 N_6473 njoođâlm: ommel; sauma : 1 = 2 _ 
 N_6475 njoorrân: kurina (vatsan); lorina : 1 = 2 _ 
-N_6477 njoridiđ: [LEMMA njooriid] kurista (vatsasta, suolista); [LEMMA njooriid] liristä; [LEMMA njooriid] lorista : 1 = 2 = 3 _ 
-N_6479 njuággá: [LEMMA njuágá] kömpelö; [LEMMA njuágá] vetelys : 1 = 2 _ 
-N_6480 njuáidus: [LEMMA njuái'dus] luiska; [LEMMA njuái'dus] ramppi; [LEMMA njuái'dus # njuá'idus] loiva : 1 = 2 = 3 _ 
+N_6477 njoridiđ: [LEMMA njooriid] kurista (vatsasta, suolista); [LEMMA njooriid] liristä; [LEMMA njooriid] lorista : 1 = 2 = 3 _ 2+3
+N_6479 njuággá: [LEMMA njuágá] kömpelö; [LEMMA njuágá] vetelys : 1 = 2 _ 1+2
+N_6480 njuáidus: [LEMMA njuái'dus] luiska; [LEMMA njuái'dus] ramppi; [LEMMA njuái'dus # njuá'idus] loiva : 1 = 2 = 3 _ 1+2 ; 3 is an adjective
 N_6490 njuámmil: jänis; metsäjänis : 1 = 2 _ 
-N_6497 njuámmootavdâ: [LEMMA -taavdâ] kulkutauti; [LEMMA -taavdâ] tartuntatauti; [LEMMA -taavdâ] tarttuva tauti : 1 = 2 = 3 _ 
-N_6498 njuámmum: tartunta; infektio : 1 = 2 _ 
-N_6501 njuári: [LEMMA njuári] tuulenpyörre; [LEMMA njuári] kova tuuli : 1 = 2 _ 
-N_6506 njuáskáduh: [LEMMA njuá'skáduv] märkä sää; [LEMMA njuá'skáduv] sadesää : 1 = 2 _ 
-N_6507 njuáski: [LEMMA njuáski] notkelma; [LEMMA njuáski] notko; [LEMMA njuáski] sola : 1 = 2 = 3 _ 
+N_6497 njuámmootavdâ: [LEMMA -taavdâ] kulkutauti; [LEMMA -taavdâ] tartuntatauti; [LEMMA -taavdâ] tarttuva tauti : 1 = 2 = 3 _ 1+2+3
+N_6498 njuámmum: tartunta; infektio : 1 = 2 _ 1+2
+N_6501 njuári: [LEMMA njuári] tuulenpyörre; [LEMMA njuári] kova tuuli : 1 = 2 _ 1+2
+N_6506 njuáskáduh: [LEMMA njuá'skáduv] märkä sää; [LEMMA njuá'skáduv] sadesää : 1 = 2 _ 1+2
+N_6507 njuáski: [LEMMA njuáski] notkelma; [LEMMA njuáski] notko; [LEMMA njuáski] sola : 1 = 2 = 3 _ 1+2+3
 N_6509 njuhčâ: [LEMMA njuuvčâ] joutsen; [LEMMA njuuvčâ] laulujoutsen : 1 = 2 _ 
 N_6511 njuigo: [LEMMA nju'igo] liian kapea (esim. ahkiosta); [LEMMA nju'igo] liian pitkä (esim. kengän kärjestä) : 1 = 2 _ 
-N_6513 njulččel: niljakas; niljakkaanliukas : 1 = 2 _ 
-N_6514 njune: [LEMMA njune] kärki (esim. suksen, ahkion); [LEMMA njune] nenä; [LEMMA njune] nokka (esim. linnun) : 1 = 2 = 3 _ 
+N_6513 njulččel: niljakas; niljakkaanliukas : 1 = 2 _ 1+2
+N_6514 njune: [LEMMA njune] kärki (esim. suksen, ahkion); [LEMMA njune] nenä; [LEMMA njune] nokka (esim. linnun) : 1 = 2 = 3 _ 2+3
 N_6522 njunetubbáák: moite (abstr.); nuuska : 1 = 2 _ 
-N_6527 njunolâs: nenälleen; nenällään : 1 = 2 _ 
-N_6529 njunoš: [LEMMA njunnooš] etujoukko; [LEMMA njunnooš] johtava; [LEMMA njunnooš] etupää (tav. joukon); [LEMMA njunnooš] kärkipää : 1 = 2 = 3 = 4 _ 
-N_6530 njunošeh: johto (johtajisto); päällystö : 1 = 2 _ 
-N_6532 njunošist: johdossa (ensimmäisenä); kärjessä (ensimmäisenä) : 1 = 2 _ 
-N_6539 njuođain: sivellin; suti : 1 = 2 _ 
+N_6527 njunolâs: nenälleen; nenällään : 1 = 2 _ 1+2 ws adverbs
+N_6529 njunoš: [LEMMA njunnooš] etujoukko; [LEMMA njunnooš] johtava; [LEMMA njunnooš] etupää (tav. joukon); [LEMMA njunnooš] kärkipää : 1 = 2 = 3 = 4 _ 1+3+4
+N_6530 njunošeh: johto (johtajisto); päällystö : 1 = 2 _ 1+2
+N_6532 njunošist: johdossa (ensimmäisenä); kärjessä (ensimmäisenä) : 1 = 2 _ 1+2
+N_6539 njuođain: sivellin; suti : 1 = 2 _ 1+2
 N_6542 njuolâs: [LEMMA njuollâs] kaistale (puvussa); [LEMMA njuollâs] nuoli : 1 = 2 _ 
-N_6548 njuorâ: [LEMMA njuorâ] vesisammal; [LEMMA njuor'ruu] vesisammal : 1 = 2 _ 
+N_6548 njuorâ: [LEMMA njuorâ] vesisammal; [LEMMA njuor'ruu] vesisammal : 1 = 2 _ 1+2
 N_6555 njuoskâdeijee: kastelija; sadettaja : 1 = 2 _ 
-N_6557 njuoskân: märkänä; raakana (kalasta, lihasta); raakaa (kalasta, lihasta) : 1 = 2 = 3 _ 
+N_6557 njuoskân: märkänä; raakana (kalasta, lihasta); raakaa (kalasta, lihasta) : 1 = 2 = 3 _ 2+3 ws
 N_6559 njuoskâsvuotâ: [LEMMA njuo'skâsvuođâ] märkyys; [LEMMA njuo'skâsvuođâ] raakuus (lihan, kalan) : 1 = 2 _ 
 N_6560 njuovâ: [LEMMA njuov'vuu] sulju; [LEMMA njuov'vuu] teurasperkeet : 1 = 2 _ 
-N_6561 njuovâdâh: [LEMMA njuo'Vâduv] teurastamo; [LEMMA njuo'Vâduv] teurastuspaikka; [LEMMA njuo'VâduVah] kalanperkeet : 1 = 2 = 3 _ 
-N_6572 njuškiittâh: [LEMMA njuškiittuv] hyppyri; [LEMMA njuškiittuv] hyppyrimäki : 1 = 2 _ 
-N_6575 njuškom: tiuhta; pirta : 1 = 2 _ 
-N_6576 njuškottâh: [LEMMA nju'škottuv] paulakudonnainen (kuvioton); [LEMMA nju'škottuv] pirtanauha (kuvioton) : 1 = 2 _ 
-N_6584 njuvdos: [LEMMA njuvdos] muusi (esim. perunamuusi); [LEMMA njuvdos] sose : 1 = 2 _ 
-N_6585 njyebžil: [LEMMA # -is] joustava; [LEMMA # -is] sujuva; [LEMMA # -is] notkea; [LEMMA # -is] taipuisa : 1 = 2 = 3 = 4 _ 
-N_6588 njyevvee: nylkijä; teurastaja : 1 = 2 _ 
-N_6589 njäbbi: [LEMMA njääbi] lauha sää (talvella); [LEMMA njääbi] suojasää : 1 = 2 _ 
-N_6590 njäidi: [LEMMA njääidi] kenosarvi; [LEMMA njääidi] naiti (takakenosarvinen poro) : 1 = 2 _ 
+N_6561 njuovâdâh: [LEMMA njuo'Vâduv] teurastamo; [LEMMA njuo'Vâduv] teurastuspaikka; [LEMMA njuo'VâduVah] kalanperkeet : 1 = 2 = 3 _ 1+2
+N_6572 njuškiittâh: [LEMMA njuškiittuv] hyppyri; [LEMMA njuškiittuv] hyppyrimäki : 1 = 2 _ 1+2
+N_6575 njuškom: tiuhta; pirta : 1 = 2 _ 1+2
+N_6576 njuškottâh: [LEMMA nju'škottuv] paulakudonnainen (kuvioton); [LEMMA nju'škottuv] pirtanauha (kuvioton) : 1 = 2 _ 1+2
+N_6584 njuvdos: [LEMMA njuvdos] muusi (esim. perunamuusi); [LEMMA njuvdos] sose : 1 = 2 _ 1+2
+N_6585 njyebžil: [LEMMA # -is] joustava; [LEMMA # -is] sujuva; [LEMMA # -is] notkea; [LEMMA # -is] taipuisa : 1 = 2 = 3 = 4 _ 1+2+3+4 adjectives
+N_6588 njyevvee: nylkijä; teurastaja : 1 = 2 _ 1+2
+N_6589 njäbbi: [LEMMA njääbi] lauha sää (talvella); [LEMMA njääbi] suojasää : 1 = 2 _ 1+2
+N_6590 njäidi: [LEMMA njääidi] kenosarvi; [LEMMA njääidi] naiti (takakenosarvinen poro) : 1 = 2 _ 1+2
 N_6602 njävli: [LEMMA njäävli] päiväkorento; [LEMMA njäävli] polttiainen : 1 = 2 _ 
-N_6605 njäälgis: [LEMMA njálgá] karkki; [LEMMA njálgá] makeinen; [LEMMA njálgá # njä'lgis njaalgâ] hyvänmakuinen; [LEMMA njálgá # njä'lgis njaalgâ] makea; [LEMMA njálgá # njä'lgis njaalgâ] makoisa; [LEMMA njálgá # njä'lgis njaalgâ] maukas : 1 = 2 = 3 = 4 = 5 = 6 _ 
-N_6607 nocce: [LEMMA noce] härkäpäisyys; [LEMMA noce] jääräpäisyys; [LEMMA noce] itsepäisyys; [LEMMA noce] sinni; [LEMMA noce] sisu : 1 = 2 = 3 = 4 = 5 _ 
-N_6608 noccesekkâ: [LEMMA -seehâ] sisupussi (erit. lapsesta); [LEMMA -seehâ] hurjapää (erit. lapsesta) : 1 = 2 _ 
-N_6609 nocceuáivi: [LEMMA -uáivi] sisupussi; [LEMMA -uáivi] kuumakalle : 1 = 2 _ 
-N_6610 nohheemáánu: [LEMMA -máánu] vähenevä kuu; [LEMMA -máánu] alakuu : 1 = 2 _ 
-N_6618 noomaad: paimentolainen; nomadi : 1 = 2 _ 
-N_6621 norkkâ: [LEMMA noorhâ] katkosarvi (porosta, jolta sarven päähaarat poikki); [LEMMA noorhâ] poro, jonka sarvet on katkaistu päähaaroista : 1 = 2 _ 
-N_6623 novdâ: [LEMMA noovdâ] kahva (puukon); [LEMMA noovdâ] varsi (esim. kirveen, vasaran tms.) : 1 = 2 _ 
-N_6625 nuáđi: [LEMMA nuáđi] kuorma; [LEMMA nuáđi] taakka : 1 = 2 _ 
-N_6626 nuáidi: [LEMMA nuáidi] noita; [LEMMA nuáidi] šamaani; [LEMMA nuáidi] taikuri; [LEMMA nuáidi] velho : 1 = 2 = 3 = 4 _ 
-N_6628 nuáidikonstâ: [LEMMA -koonstâ] noitakonsti; [LEMMA -koonstâ] taikakonsti : 1 = 2 _ 
+N_6605 njäälgis: [LEMMA njálgá] karkki; [LEMMA njálgá] makeinen; [LEMMA njálgá # njä'lgis njaalgâ] hyvänmakuinen; [LEMMA njálgá # njä'lgis njaalgâ] makea; [LEMMA njálgá # njä'lgis njaalgâ] makoisa; [LEMMA njálgá # njä'lgis njaalgâ] maukas : 1 = 2 = 3 = 4 = 5 = 6 _ 1+2 ; 3+4+5+6
+N_6607 nocce: [LEMMA noce] härkäpäisyys; [LEMMA noce] jääräpäisyys; [LEMMA noce] itsepäisyys; [LEMMA noce] sinni; [LEMMA noce] sisu : 1 = 2 = 3 = 4 = 5 _ 1+2+3+4+5
+N_6608 noccesekkâ: [LEMMA -seehâ] sisupussi (erit. lapsesta); [LEMMA -seehâ] hurjapää (erit. lapsesta) : 1 = 2 _ 1+2
+N_6609 nocceuáivi: [LEMMA -uáivi] sisupussi; [LEMMA -uáivi] kuumakalle : 1 = 2 _ 1+2
+N_6610 nohheemáánu: [LEMMA -máánu] vähenevä kuu; [LEMMA -máánu] alakuu : 1 = 2 _ 1+2
+N_6618 noomaad: paimentolainen; nomadi : 1 = 2 _ 1+2
+N_6621 norkkâ: [LEMMA noorhâ] katkosarvi (porosta, jolta sarven päähaarat poikki); [LEMMA noorhâ] poro, jonka sarvet on katkaistu päähaaroista : 1 = 2 _ 1+2
+N_6623 novdâ: [LEMMA noovdâ] kahva (puukon); [LEMMA noovdâ] varsi (esim. kirveen, vasaran tms.) : 1 = 2 _ 1+2
+N_6625 nuáđi: [LEMMA nuáđi] kuorma; [LEMMA nuáđi] taakka : 1 = 2 _ 1+2
+N_6626 nuáidi: [LEMMA nuáidi] noita; [LEMMA nuáidi] šamaani; [LEMMA nuáidi] taikuri; [LEMMA nuáidi] velho : 1 = 2 = 3 = 4 _ 1+2+3+4
+N_6628 nuáidikonstâ: [LEMMA -koonstâ] noitakonsti; [LEMMA -koonstâ] taikakonsti : 1 = 2 _ 1+2
 N_6637 nuárju: [LEMMA nuárju] hylje; [LEMMA nuárju] kirjohylje : 1 = 2 _ 
-N_6640 nuárvi: [LEMMA nuárvi] piena; [LEMMA nuárvi] kahva (pienamainen) : 1 = 2 _ 
-N_6645 nuávlu: [LEMMA nuávlu] haavaside; [LEMMA nuávlu] side (haavalla) : 1 = 2 _ 
-N_6657 nuje: [LEMMA nuje] itsepäisyys; [LEMMA nuje] oma tahto; [LEMMA nuje] härkäpäisyys : 1 = 2 = 3 _ 
-N_6678 nuorttân: idässä; idästä : 1 = 2 _ 
+N_6640 nuárvi: [LEMMA nuárvi] piena; [LEMMA nuárvi] kahva (pienamainen) : 1 = 2 _ 1+2
+N_6645 nuávlu: [LEMMA nuávlu] haavaside; [LEMMA nuávlu] side (haavalla) : 1 = 2 _ 1+2
+N_6657 nuje: [LEMMA nuje] itsepäisyys; [LEMMA nuje] oma tahto; [LEMMA nuje] härkäpäisyys : 1 = 2 = 3 _ 1+2+3
+N_6678 nuorttân: idässä; idästä : 1 = 2 _ 1+2 ws adverbs
 N_6688 nuorttii: itätuuli; itä : 1 = 2 _ 
-N_6692 nuottâ: [LEMMA nuotâ] nuotti; [LEMMA nuotâ] sävel; [LEMMA nuotâ] sävellys; [LEMMA nuotâ] sävelmä; [LEMMA nuotâ] melodia : 1 = 2 = 3 = 4 = 5 _ 
-N_6698 nurâldâh: [LEMMA nurâlduv] keräelmä; [LEMMA nurâlduv] kokoelma : 1 = 2 _ 
-N_6700 nurâttâh: [LEMMA nurâttuv] keräyspaikka; [LEMMA nurâttuv] keräyspiste : 1 = 2 _ 
+N_6692 nuottâ: [LEMMA nuotâ] nuotti; [LEMMA nuotâ] sävel; [LEMMA nuotâ] sävellys; [LEMMA nuotâ] sävelmä; [LEMMA nuotâ] melodia : 1 = 2 = 3 = 4 = 5 _ 1+2 ; 3+4+5
+N_6698 nurâldâh: [LEMMA nurâlduv] keräelmä; [LEMMA nurâlduv] kokoelma : 1 = 2 _ 1+2
+N_6700 nurâttâh: [LEMMA nurâttuv] keräyspaikka; [LEMMA nurâttuv] keräyspiste : 1 = 2 _ 1+2
 N_6701 nurdâmâs: petkel; kuvatus : 1 = 2 _ 
-N_6705 nuske: [LEMMA nu'ske] kulma; [LEMMA nu'ske] nurkka : 1 = 2 _ 
-N_6708 nuurâs: [LEMMA nuurrâs] konttiluu (ylin lavassa tai paistissa); [LEMMA nuurrâs] nurus (ylin lavassa tai paistissa) : 1 = 2 _ 
-N_6709 nuurrâmsaje: [LEMMA -saje] keräyspiste; [LEMMA -saje] keräyspaikka : 1 = 2 _ 
-N_6712 nuvâhánnáávuotâ: [LEMMA nuVâhánnáávuođâ] iankaikkisuus; [LEMMA nuVâhánnáávuođâ] ikuisuus; [LEMMA nuVâhánnáávuođâ] loppumattomuus : 1 = 2 = 3 _ 
-N_6713 nuvgâ: [LEMMA nuuvgâ] aalto; [LEMMA nuuvgâ] maininki : 1 = 2 _ 
-N_6714 nyeri: [LEMMA nye're] nuora; [LEMMA nye're] nyöri; [LEMMA nye're] salmi (kapea tav. järvessä) : 1 = 2 = 3 _ 
-N_6717 nyeskivuotâ: [LEMMA nyes'kivuođâ] siivottomuus; [LEMMA nyes'kivuođâ] likaisuus; [LEMMA nyes'kivuođâ] säädyttömyys; [LEMMA nyes'kivuođâ] hävyttömyys : 1 = 2 = 3 = 4 _ 
-N_6724 nyevvi: [LEMMA nyeVi] hahtuva; [LEMMA nyeVi] nukka; [LEMMA nyeVi] nöyhtä : 1 = 2 = 3 _ 
-N_6726 nähki: [LEMMA näähki] nahka; [LEMMA näähki] vuota : 1 = 2 _ 
-N_6730 näidi: [LEMMA nääidi] kenosarvi; [LEMMA nääidi] naiti (takakenosarvinen poro) : 1 = 2 _ 
-N_6742 näimirähtee: kihlauksenjärjestäjä; puhemies (kosinnassa) : 1 = 2 _ 
-N_6748 nälittem: [LEMMA # nälittes] epämiellyttävä; [LEMMA # nälittes] epämukava : 1 = 2 _ 
-N_6751 näpihááh: maljasienet; maljakkaat : 1 = 2 _ 
-N_6755 näppi: [LEMMA nääpi] kulho; [LEMMA nääpi] lypsykauha; [LEMMA nääpi] naappu : 1 = 2 = 3 _ 
-N_6759 nävdi: [LEMMA näävdi] metsäneläin; [LEMMA näävdi] petoeläin (usein susi) : 1 = 2 _ 
-N_6760 nävli: [LEMMA näävli] naula (puinen); [LEMMA näävli] penis; [LEMMA näävli] siitin : 1 = 2 = 3 _ 
-N_6761 nääli: [LEMMA nääli näle] alarotu; [LEMMA nääli näle] kanta (eläinkanta); [LEMMA nääli näle] suku (jälkeläiset); [LEMMA nääli näle] tapa; [LEMMA nääli näle] tyyli; [LEMMA nääli näle] ulkonäkö; [LEMMA nääli näle] ulkomuoto : 1 = 2 = 3 = 4 = 5 = 6 = 7 _ 
-N_6766 occee: valvoja; etsijä; hakija : 1 = 2 = 3 _ 
-N_6768 oco: [LEMMA oso] etsintä (tav. porojen); [LEMMA oso] haku (tav. porojen); [LEMMA oso] etto : 1 = 2 = 3 _ 
+N_6705 nuske: [LEMMA nu'ske] kulma; [LEMMA nu'ske] nurkka : 1 = 2 _ 1+2
+N_6708 nuurâs: [LEMMA nuurrâs] konttiluu (ylin lavassa tai paistissa); [LEMMA nuurrâs] nurus (ylin lavassa tai paistissa) : 1 = 2 _ 1+2
+N_6709 nuurrâmsaje: [LEMMA -saje] keräyspiste; [LEMMA -saje] keräyspaikka : 1 = 2 _ 1+2
+N_6712 nuvâhánnáávuotâ: [LEMMA nuVâhánnáávuođâ] iankaikkisuus; [LEMMA nuVâhánnáávuođâ] ikuisuus; [LEMMA nuVâhánnáávuođâ] loppumattomuus : 1 = 2 = 3 _ 1+2+3
+N_6713 nuvgâ: [LEMMA nuuvgâ] aalto; [LEMMA nuuvgâ] maininki : 1 = 2 _ 1+2
+N_6714 nyeri: [LEMMA nye're] nuora; [LEMMA nye're] nyöri; [LEMMA nye're] salmi (kapea tav. järvessä) : 1 = 2 = 3 _ 1+2
+N_6717 nyeskivuotâ: [LEMMA nyes'kivuođâ] siivottomuus; [LEMMA nyes'kivuođâ] likaisuus; [LEMMA nyes'kivuođâ] säädyttömyys; [LEMMA nyes'kivuođâ] hävyttömyys : 1 = 2 = 3 = 4 _ 1+2+3+4
+N_6724 nyevvi: [LEMMA nyeVi] hahtuva; [LEMMA nyeVi] nukka; [LEMMA nyeVi] nöyhtä : 1 = 2 = 3 _ 1+2+3
+N_6726 nähki: [LEMMA näähki] nahka; [LEMMA näähki] vuota : 1 = 2 _ 1+2
+N_6730 näidi: [LEMMA nääidi] kenosarvi; [LEMMA nääidi] naiti (takakenosarvinen poro) : 1 = 2 _ 1+2
+N_6742 näimirähtee: kihlauksenjärjestäjä; puhemies (kosinnassa) : 1 = 2 _ 1+2
+N_6748 nälittem: [LEMMA # nälittes] epämiellyttävä; [LEMMA # nälittes] epämukava : 1 = 2 _ 1+2
+N_6751 näpihááh: maljasienet; maljakkaat : 1 = 2 _ 1+2
+N_6755 näppi: [LEMMA nääpi] kulho; [LEMMA nääpi] lypsykauha; [LEMMA nääpi] naappu : 1 = 2 = 3 _ 1+2+3
+N_6759 nävdi: [LEMMA näävdi] metsäneläin; [LEMMA näävdi] petoeläin (usein susi) : 1 = 2 _ 1+2
+N_6760 nävli: [LEMMA näävli] naula (puinen); [LEMMA näävli] penis; [LEMMA näävli] siitin : 1 = 2 = 3 _ 2+3
+N_6761 nääli: [LEMMA nääli näle] alarotu; [LEMMA nääli näle] kanta (eläinkanta); [LEMMA nääli näle] suku (jälkeläiset); [LEMMA nääli näle] tapa; [LEMMA nääli näle] tyyli; [LEMMA nääli näle] ulkonäkö; [LEMMA nääli näle] ulkomuoto : 1 = 2 = 3 = 4 = 5 = 6 = 7 _ 1+2+3 ; 4+5 ; 6+7
+N_6766 occee: valvoja; etsijä; hakija : 1 = 2 = 3 _ I think 1 should be "koccee" ask MLO ; 2+3
+N_6768 oco: [LEMMA oso] etsintä (tav. porojen); [LEMMA oso] haku (tav. porojen); [LEMMA oso] etto : 1 = 2 = 3 _ 1+2+3
 N_6782 ohtim: assimilaatio; yhteyttäminen : 1 = 2 _ 
 N_6794 oijâgâs: horros; unenpöpperö : 1 = 2 _ 
-N_6812 olesolmooš: [LEMMA -ulmuu] aikaihminen; [LEMMA -ulmuu] aikuinen : 1 = 2 _ 
-N_6816 olgiš: [LEMMA # -is] kova heittämään; [LEMMA # -is] vahvakätinen : 1 = 2 _ 
-N_6821 olgoldâs: ulkoinen; ulkonainen : 1 = 2 _ 
-N_6826 olgoold: pinnalta; ulkopuolelta : 1 = 2 _ 
-N_6830 olgosadeleijee: julkaisija; kustantaja : 1 = 2 _ 
-N_6836 olgoveeskir: [LEMMA -viäs'kár] ulkoeteinen; [LEMMA -viäs'kár] tuulikaappi; [LEMMA -viäs'kár] kuisti : 1 = 2 = 3 _ 
-N_6839 oljočievrâase: [LEMMA -ase] kestopäällyste; [LEMMA -ase] asfaltti : 1 = 2 _ 
-N_6845 oljosoráase: [LEMMA -ase] kestopäällyste; [LEMMA -ase] asfaltti : 1 = 2 _ 
-N_6853 ollee: nousuvesi; vuoksi; vuorovesi : 1 = 2 = 3 _ 
-N_6863 olmoošloho: [LEMMA -loVo] asukasluku; [LEMMA -loVo] väkiluku : 1 = 2 _ 
-N_6870 olmoošvuotâ: [LEMMA -vuođâ] ihmisyys; [LEMMA -vuođâ] inhimillisyys : 1 = 2 _ 
-N_6880 omâstemkiäjus: [LEMMA -kiäččus] omistusliite; [LEMMA -kiäččus] possessiivisuffiksi : 1 = 2 _ 
-N_6882 omo: [LEMMA omo] jääsumu; [LEMMA omo] sumu (talvella); [LEMMA omo] usva (talvella) : 1 = 2 = 3 _ 
-N_6884 onnâ: [LEMMA oonâ] vinkki; [LEMMA oonâ] vihi : 1 = 2 _ 
-N_6885 oobbiš: siskonsa kanssa; siskoineen : 1 = 2 _ 
-N_6892 oohtânrekinistem: yhteenlasku (laskutoimitus); yhteenlasku (yhteen laskeminen) : 1 = 2 _ 
-N_6896 oolâs: [LEMMA oollâs] pintarasva; [LEMMA oollâs] rasvakerros (nahan alla) : 1 = 2 _ 
-N_6900 oolgiš: poikansa kanssa; poikineen : 1 = 2 _ 
-N_6902 oommân: hella; uuni : 1 = 2 _ 
-N_6904 oonâ: [LEMMA oonâ] vihi; [LEMMA oonâ] vinkki : 1 = 2 _ 
-N_6907 oordel: määräys; sääntö : 1 = 2 _ 
-N_6908 oornig: instituutio; järjestys; kuri : 1 = 2 = 3 _ 
-N_6915 oovdânpyehtim: esitelmä; esittely; esitys : 1 = 2 = 3 _ 
-N_6916 oovdâš: [LEMMA ovdâš] edus (eläimen edessä oleva alue, josta syö); [LEMMA ovdâš] enne; [LEMMA ovdâš] etiäinen : 1 = 2 = 3 _ 
-N_6918 oovdâstmannee: edelläkävijä; edeltäjä : 1 = 2 _ 
-N_6956 ordo: [LEMMA o'rdo] uurto (syyspeuranpyynti); [LEMMA o'rdo] syyspeuranpyynti : 1 = 2 _ 
-N_6957 ores: [LEMMA orráás] koiras; [LEMMA orráás] uros : 1 = 2 _ 
-N_6963 orespeeci: [LEMMA -peesi] kovapuinen mänty; [LEMMA -peesi] urosmänty : 1 = 2 _ 
-N_6970 orjâlâš: [LEMMA orjâlii] pohjoissaamelainen; [LEMMA orjâlii] tunturisaamelainen : 1 = 2 _ 
-N_6979 orrâ: [LEMMA oorâ] naru; [LEMMA oorâ] nuora : 1 = 2 _ 
-N_6982 orrookuálkki: [LEMMA -kuálhi] peilityyni (vedenpinnasta); [LEMMA -kuálhi] rasvatyyni (vedenpinnasta) : 1 = 2 _ 
+N_6812 olesolmooš: [LEMMA -ulmuu] aikaihminen; [LEMMA -ulmuu] aikuinen : 1 = 2 _ 1+2
+N_6816 olgiš: [LEMMA # -is] kova heittämään; [LEMMA # -is] vahvakätinen : 1 = 2 _ 1+2 adjectives
+N_6821 olgoldâs: ulkoinen; ulkonainen : 1 = 2 _ 1+2 
+N_6826 olgoold: pinnalta; ulkopuolelta : 1 = 2 _ 1+2 adverbs
+N_6830 olgosadeleijee: julkaisija; kustantaja : 1 = 2 _ 1+2
+N_6836 olgoveeskir: [LEMMA -viäs'kár] ulkoeteinen; [LEMMA -viäs'kár] tuulikaappi; [LEMMA -viäs'kár] kuisti : 1 = 2 = 3 _ 1+2+3
+N_6839 oljočievrâase: [LEMMA -ase] kestopäällyste; [LEMMA -ase] asfaltti : 1 = 2 _ 1+2
+N_6845 oljosoráase: [LEMMA -ase] kestopäällyste; [LEMMA -ase] asfaltti : 1 = 2 _ 1+2
+N_6853 ollee: nousuvesi; vuoksi; vuorovesi : 1 = 2 = 3 _ 1+2
+N_6863 olmoošloho: [LEMMA -loVo] asukasluku; [LEMMA -loVo] väkiluku : 1 = 2 _ 1+2
+N_6870 olmoošvuotâ: [LEMMA -vuođâ] ihmisyys; [LEMMA -vuođâ] inhimillisyys : 1 = 2 _ 1+2
+N_6880 omâstemkiäjus: [LEMMA -kiäččus] omistusliite; [LEMMA -kiäččus] possessiivisuffiksi : 1 = 2 _ 1+2
+N_6882 omo: [LEMMA omo] jääsumu; [LEMMA omo] sumu (talvella); [LEMMA omo] usva (talvella) : 1 = 2 = 3 _ 1+2+3
+N_6884 onnâ: [LEMMA oonâ] vinkki; [LEMMA oonâ] vihi : 1 = 2 _ 1+2
+N_6885 oobbiš: siskonsa kanssa; siskoineen : 1 = 2 _ 1+2
+N_6892 oohtânrekinistem: yhteenlasku (laskutoimitus); yhteenlasku (yhteen laskeminen) : 1 = 2 _ 1+2
+N_6896 oolâs: [LEMMA oollâs] pintarasva; [LEMMA oollâs] rasvakerros (nahan alla) : 1 = 2 _ 1+2
+N_6900 oolgiš: poikansa kanssa; poikineen : 1 = 2 _ 1+2
+N_6902 oommân: hella; uuni : 1 = 2 _ 1+2
+N_6904 oonâ: [LEMMA oonâ] vihi; [LEMMA oonâ] vinkki : 1 = 2 _ 1+2
+N_6907 oordel: määräys; sääntö : 1 = 2 _ 1+2
+N_6908 oornig: instituutio; järjestys; kuri : 1 = 2 = 3 _ 2+3
+N_6915 oovdânpyehtim: esitelmä; esittely; esitys : 1 = 2 = 3 _ 1+2+3
+N_6916 oovdâš: [LEMMA ovdâš] edus (eläimen edessä oleva alue, josta syö); [LEMMA ovdâš] enne; [LEMMA ovdâš] etiäinen : 1 = 2 = 3 _ 2+3
+N_6918 oovdâstmannee: edelläkävijä; edeltäjä : 1 = 2 _ 1+2
+N_6956 ordo: [LEMMA o'rdo] uurto (syyspeuranpyynti); [LEMMA o'rdo] syyspeuranpyynti : 1 = 2 _ 1+2
+N_6957 ores: [LEMMA orráás] koiras; [LEMMA orráás] uros : 1 = 2 _ 1+2
+N_6963 orespeeci: [LEMMA -peesi] kovapuinen mänty; [LEMMA -peesi] urosmänty : 1 = 2 _ 1+2
+N_6970 orjâlâš: [LEMMA orjâlii] pohjoissaamelainen; [LEMMA orjâlii] tunturisaamelainen : 1 = 2 _ 1+2
+N_6979 orrâ: [LEMMA oorâ] naru; [LEMMA oorâ] nuora : 1 = 2 _ 1+2
+N_6982 orrookuálkki: [LEMMA -kuálhi] peilityyni (vedenpinnasta); [LEMMA -kuálhi] rasvatyyni (vedenpinnasta) : 1 = 2 _ 1+2
 N_6983 orroom: asutus; olemus; oleskelu : 1 = 2 = 3 _ 
-N_7001 osteoporoos: luukato; osteoporoosi : 1 = 2 _ 
-N_7006 ovdâdâs: etuus; etu : 1 = 2 _ 
-N_7010 ovdâjuurdâ: [LEMMA -jurduu] asenne; [LEMMA -jurduu] ennakkoasenne : 1 = 2 _ 
-N_7033 ovdánem: edistys; kehitys : 1 = 2 _ 
-N_7038 ovdâolmooš: [LEMMA -ulmuu] edustaja; [LEMMA -ulmuu] esimies : 1 = 2 _ 
-N_7045 ovdâšeh: enne; etiäinen : 1 = 2 _ 
+N_7001 osteoporoos: luukato; osteoporoosi : 1 = 2 _ 1+2
+N_7006 ovdâdâs: etuus; etu : 1 = 2 _ 1+2
+N_7010 ovdâjuurdâ: [LEMMA -jurduu] asenne; [LEMMA -jurduu] ennakkoasenne : 1 = 2 _ 1+2
+N_7033 ovdánem: edistys; kehitys : 1 = 2 _ 1+2
+N_7038 ovdâolmooš: [LEMMA -ulmuu] edustaja; [LEMMA -ulmuu] esimies : 1 = 2 _ 1+2
+N_7045 ovdâšeh: enne; etiäinen : 1 = 2 _ 1+2
 N_7055 ovdâsteijee: edustava; edustaja : 1 = 2 _ 
-N_7070 ovdedem: edistys; kehittäminen; jalostaminen (edelleen kehittäminen); kehitys : 1 = 2 = 3 = 4 _ 
-N_7080 ovtâskâs: [LEMMA ulmuu] yksilö; [LEMMA olmooš] yksilö : 1 = 2 _ 
-N_7089 ovttiih: ykköset (matem.); yhdet (matem.) : 1 = 2 _ 
-N_7097 paađur: karkuri; pakolainen : 1 = 2 _ 
+N_7070 ovdedem: edistys; kehittäminen; jalostaminen (edelleen kehittäminen); kehitys : 1 = 2 = 3 = 4 _ 1+4 ; 2+3
+N_7080 ovtâskâs: [LEMMA ulmuu] yksilö; [LEMMA olmooš] yksilö : 1 = 2 _ ? same meaning
+N_7089 ovttiih: ykköset (matem.); yhdet (matem.) : 1 = 2 _ 1+2
+N_7097 paađur: karkuri; pakolainen : 1 = 2 _ 1+2
 N_7098 pááhu: [LEMMA pááVu] sana (erit. ääneen lausuttu); [LEMMA pááVu] ääni : 1 = 2 _ 
-N_7110 paalgâs: [LEMMA palgâs] paliskunta; [LEMMA palgâs] palkinen; [LEMMA palgâs] elinpiiri (poron) : 1 = 2 = 3 _ 
-N_7111 páálhus: [LEMMA pálkkus] kuivausriuku (n. sylen pituinen, isojen kalojen kuivaukseen); [LEMMA pálkkus] irto-orsi (kuivatuskatoksessa) : 1 = 2 _ 
-N_7122 paargâs: [LEMMA pargâs] huuto; [LEMMA pargâs] karjunta; [LEMMA pargâs] mylvintä; [LEMMA pargâs] parkaisu : 1 = 2 = 3 = 4 _ 
-N_7123 paargišm: letti; palmikko : 1 = 2 _ 
-N_7128 paarrâl: parila; tuulaskoura : 1 = 2 _ 
-N_7129 pááru: [LEMMA pááru páro] aalto; [LEMMA pááru páro] maininki; [LEMMA pááru páro] laine : 1 = 2 = 3 _ 
-N_7131 paasnik: [LEMMA paasnikeh # pa'snikkâs] itsepäinen; [LEMMA paasnikeh # pa'snikkâs] oikukas (lapsesta) : 1 = 2 _ 
-N_7132 paast: pahasta; pahasti : 1 = 2 _ 
-N_7137 paavhâs: [LEMMA pavkkâs] kolistelu; [LEMMA pavkkâs] paukutus : 1 = 2 _ 
-N_7140 páčádâh: [LEMMA páčáduv] ampumaetäisyys; [LEMMA páčáduv] luodinkantama : 1 = 2 _ 
-N_7141 pačarâs: ahdinko; pinne : 1 = 2 _ 
-N_7148 pággu: [LEMMA páágu] pakka; [LEMMA páágu] pinkka; [LEMMA páágu] pakko : 1 = 2 = 3 _ 
-N_7168 paijeen: pystyssä; jalkeilla; ylhäällä; ylhäältä : 1 = 2 = 3 = 4 _ 
-N_7175 pajalâš: jälkiruoka; kaupanpäällinen; kaupantekiäinen; oheislahja (ostajalle); tippi; väliraha : 1 = 2 = 3 = 4 = 5 = 6 _ 
+N_7110 paalgâs: [LEMMA palgâs] paliskunta; [LEMMA palgâs] palkinen; [LEMMA palgâs] elinpiiri (poron) : 1 = 2 = 3 _ 1+2+3
+N_7111 páálhus: [LEMMA pálkkus] kuivausriuku (n. sylen pituinen, isojen kalojen kuivaukseen); [LEMMA pálkkus] irto-orsi (kuivatuskatoksessa) : 1 = 2 _ 1+2
+N_7122 paargâs: [LEMMA pargâs] huuto; [LEMMA pargâs] karjunta; [LEMMA pargâs] mylvintä; [LEMMA pargâs] parkaisu : 1 = 2 = 3 = 4 _ 1+2+3+4
+N_7123 paargišm: letti; palmikko : 1 = 2 _ 1+2
+N_7128 paarrâl: parila; tuulaskoura : 1 = 2 _ 1+2
+N_7129 pááru: [LEMMA pááru páro] aalto; [LEMMA pááru páro] maininki; [LEMMA pááru páro] laine : 1 = 2 = 3 _ 1+2+3
+N_7131 paasnik: [LEMMA paasnikeh # pa'snikkâs] itsepäinen; [LEMMA paasnikeh # pa'snikkâs] oikukas (lapsesta) : 1 = 2 _ 1+2
+N_7132 paast: pahasta; pahasti : 1 = 2 _ 1+2 ws adverbs
+N_7137 paavhâs: [LEMMA pavkkâs] kolistelu; [LEMMA pavkkâs] paukutus : 1 = 2 _ 1+2
+N_7140 páčádâh: [LEMMA páčáduv] ampumaetäisyys; [LEMMA páčáduv] luodinkantama : 1 = 2 _ 1+2
+N_7141 pačarâs: ahdinko; pinne : 1 = 2 _ 1+2
+N_7148 pággu: [LEMMA páágu] pakka; [LEMMA páágu] pinkka; [LEMMA páágu] pakko : 1 = 2 = 3 _ 1+2
+N_7168 paijeen: pystyssä; jalkeilla; ylhäällä; ylhäältä : 1 = 2 = 3 = 4 _ 1+2+3 ; +4 ws adverbs
+N_7175 pajalâš: jälkiruoka; kaupanpäällinen; kaupantekiäinen; oheislahja (ostajalle); tippi; väliraha : 1 = 2 = 3 = 4 = 5 = 6 _ 2+3+4
 N_7176 pajaldâs: jälkiruoka; päällyste : 1 = 2 _ 
-N_7182 pajalist: päällä; päältä : 1 = 2 _ 
-N_7186 pájáttâh: [LEMMA páJáttuv] ampuma-ansa; [LEMMA páJáttuv] pyssyansa : 1 = 2 _ 
-N_7187 paje: [LEMMA paje] ajanjakso; [LEMMA paje] jakso (ajasta); [LEMMA paje] aikakausi; [LEMMA paje] kausi; [LEMMA paje] periodi; [LEMMA paje] sykli : 1 = 2 = 3 = 4 = 5 = 6 _ 
-N_7195 pajeolmooš: [LEMMA -ulmuu] poromies; [LEMMA -ulmuu] poronhoitaja : 1 = 2 _ 
-N_7208 pajos: [LEMMA paJoseh] ylämaa; [LEMMA paJoseh] ylänkö : 1 = 2 _ 
-N_7209 pajoš: [LEMMA paJošeh] ylämaa; [LEMMA paJošeh] ylänkö : 1 = 2 _ 
-N_7211 pakkâ: [LEMMA paahâ] helle; [LEMMA paakâ] pakka; [LEMMA paakâ] pakkaus : 1 = 2 = 3 _ 
-N_7212 pakkâkáttu: [LEMMA -káátu] laipio; [LEMMA -káátu] sisäkatto : 1 = 2 _ 
-N_7219 paldattâs: peloke; pelätin; pelätti : 1 = 2 = 3 _ 
+N_7182 pajalist: päällä; päältä : 1 = 2 _ 1+2 ws adverbs
+N_7186 pájáttâh: [LEMMA páJáttuv] ampuma-ansa; [LEMMA páJáttuv] pyssyansa : 1 = 2 _ 1+2
+N_7187 paje: [LEMMA paje] ajanjakso; [LEMMA paje] jakso (ajasta); [LEMMA paje] aikakausi; [LEMMA paje] kausi; [LEMMA paje] periodi; [LEMMA paje] sykli : 1 = 2 = 3 = 4 = 5 = 6 _ 1+2+3+4+5+6
+N_7195 pajeolmooš: [LEMMA -ulmuu] poromies; [LEMMA -ulmuu] poronhoitaja : 1 = 2 _ 1+2
+N_7208 pajos: [LEMMA paJoseh] ylämaa; [LEMMA paJoseh] ylänkö : 1 = 2 _ 1+2
+N_7209 pajoš: [LEMMA paJošeh] ylämaa; [LEMMA paJošeh] ylänkö : 1 = 2 _ 1+2
+N_7211 pakkâ: [LEMMA paahâ] helle; [LEMMA paakâ] pakka; [LEMMA paakâ] pakkaus : 1 = 2 = 3 _ 2+3
+N_7212 pakkâkáttu: [LEMMA -káátu] laipio; [LEMMA -káátu] sisäkatto : 1 = 2 _ 1+2
+N_7219 paldattâs: peloke; pelätin; pelätti : 1 = 2 = 3 _ 1+2+3
+
 N_7225 pálhášume: [LEMMA pá'lhášume] palkkio (tav. muu kuin rahallinen); [LEMMA pá'lhášume] palkinto : 1 = 2 _ 
 N_7226 pálkku: [LEMMA páálhu] pasma (määrämittainen lankavyyhdin osa, n. 60 kierrosta lankaa vyyhdessä, joka erotettu omaksi osakseen pasmalangalla); [LEMMA páálhu] vyyhti (määrämittainen) : 1 = 2 _ 
 N_7227 palliš: [LEMMA # -âs -is] palelematon; [LEMMA # -âs -is] tarkeneva : 1 = 2 _ 
