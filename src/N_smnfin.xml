@@ -108198,11 +108198,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_9668">
       <lg>
-         <l pos="N">šiev</l>
+         <l pos="A">šiev</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">hyvä</t>
+            <t pos="A">hyvä</t>
          </tg>
       </mg>
    </e>
@@ -128117,7 +128117,11 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">kerralla</t>
+           <t pos="N">kerralla</t>
+	   <xg>
+	     <x>Lea taan tovváá.</x>
+	     <xt>Tällä kertaa.</xt>
+	   </xg>
          </tg>
       </mg>
    </e>
