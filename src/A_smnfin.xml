@@ -867,7 +867,7 @@ For the full license text, see the link above.
       </mg>
       <mg rest="á'rbálii">
          <tg xml:lang="fin">
-            <t pos="A">perillinen</t>
+            <t pos="N">perillinen</t>
          </tg>
       </mg>
    </e>
@@ -1042,12 +1042,12 @@ For the full license text, see the link above.
       </mg>
       <mg rest="ášálii">
          <tg xml:lang="fin">
-            <t pos="A">syyllinen (tuomioistuimessa)</t>
+            <t pos="N">syyllinen (tuomioistuimessa)</t>
          </tg>
       </mg>
       <mg rest="ášálii">
          <tg xml:lang="fin">
-            <t pos="A">syytetty (tuomioistuimessa)</t>
+            <t pos="N">syytetty (tuomioistuimessa)</t>
          </tg>
       </mg>
    </e>
@@ -2138,16 +2138,16 @@ For the full license text, see the link above.
    </e>
    <e id="A_173">
       <lg>
-         <l pos="A">čuávgádâh</l>
+         <l pos="N">čuávgádâh</l>
       </lg>
       <mg rest="čuáv'gáduv">
          <tg xml:lang="fin">
-            <t pos="A">kirkas sää</t>
+            <t pos="N">kirkas sää</t>
          </tg>
       </mg>
       <mg rest="čuáv'gáduv">
          <tg xml:lang="fin">
-            <t pos="A">valoisa aika</t>
+            <t pos="N">valoisa aika</t>
          </tg>
       </mg>
    </e>
@@ -2288,16 +2288,16 @@ For the full license text, see the link above.
    </e>
    <e id="A_187">
       <lg>
-         <l pos="A">čuovâdâs</l>
+         <l pos="N">čuovâdâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">kirkas sää</t>
+            <t pos="N">kirkas sää</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">valoisa sää</t>
+            <t pos="N">valoisa sää</t>
          </tg>
       </mg>
    </e>
@@ -2803,16 +2803,12 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">ikääntynyt</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="A">iäkäs</t>
          </tg>
       </mg>
       <mg rest="olmooš ulmuu">
          <tg xml:lang="fin">
-            <t pos="A">ikäihminen</t>
+            <t pos="N">ikäihminen</t>
          </tg>
       </mg>
    </e>
@@ -3572,7 +3568,7 @@ For the full license text, see the link above.
       </mg>
       <mg rest="terapia">
          <tg xml:lang="fin">
-            <t pos="A">fysioterapia</t>
+            <t pos="N">fysioterapia</t>
          </tg>
       </mg>
    </e>
