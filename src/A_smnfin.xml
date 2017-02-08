@@ -8117,7 +8117,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_679">
       <lg>
-         <l pos="A" comment="is it an A or an N?">kuoddâd</l>
+         <l pos="N">kuoddâd</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -8222,16 +8222,12 @@ For the full license text, see the link above.
    </e>
    <e id="A_687">
       <lg>
-         <l pos="A">kuškim</l>
+         <l pos="N">kuškim</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">kuivatus</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">kuivaus</t>
+            <t pos="N">kuivatus</t>
+            <t pos="N">kuivaus</t>
          </tg>
       </mg>
    </e>
