@@ -10960,16 +10960,16 @@ For the full license text, see the link above.
    </e>
    <e id="A_919">
       <lg>
-         <l pos="A">naggâsávt</l>
+         <l pos="Adv">naggâsávt</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">ahtaalla</t>
+            <t pos="Adv">ahtaalla</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">kireällä</t>
+            <t pos="Adv">kireällä</t>
          </tg>
       </mg>
    </e>
@@ -11540,16 +11540,16 @@ For the full license text, see the link above.
    </e>
    <e id="A_966">
       <lg>
-         <l pos="A">njuolgâ</l>
+         <l pos="Adv">njuolgâ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">suorastaan</t>
+            <t pos="Adv">suorastaan</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">suoraan</t>
+            <t pos="Adv">suoraan</t>
          </tg>
       </mg>
    </e>
@@ -11870,21 +11870,17 @@ For the full license text, see the link above.
    </e>
    <e id="A_991">
       <lg>
-         <l pos="A">nuhtán</l>
+         <l pos="Adv">nuhtán</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">ilman</t>
+            <t pos="Adv">ilman</t>
+            <t pos="Adv">tyhjin toimin</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">sellaisenaan</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">tyhjin toimin</t>
+            <t pos="Adv">sellaisenaan</t>
          </tg>
       </mg>
    </e>
@@ -12104,7 +12100,7 @@ For the full license text, see the link above.
       </mg>
       <mg rest="eellim">
          <tg xml:lang="fin">
-            <t pos="A">yhteiselämä</t>
+            <t pos="N">yhteiselämä</t>
          </tg>
       </mg>
    </e>
@@ -12190,46 +12186,34 @@ For the full license text, see the link above.
    </e>
    <e id="A_1013">
       <lg>
-         <l pos="A">olgoláhháá</l>
+         <l pos="Adv">olgoláhháá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">vähän etäämmäs (esim. rannasta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">vähän kauemmas (esim. rannasta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">vähän ulommaksi (esim. rannasta)</t>
+            <t pos="Adv">vähän etäämmäs (esim. rannasta)</t>
+            <t pos="Adv">vähän kauemmas (esim. rannasta)</t>
+            <t pos="Adv">vähän ulommaksi (esim. rannasta)</t>
          </tg>
       </mg>
    </e>
    <e id="A_1014">
       <lg>
-         <l pos="A">olgooš</l>
+         <l pos="N">olgooš</l>
       </lg>
       <mg rest="ulguu">
          <tg xml:lang="fin">
-            <t pos="A">päällinen</t>
+            <t pos="N">päällinen</t>
+            <t pos="N">päällys</t>
          </tg>
       </mg>
       <mg rest="ulguu">
          <tg xml:lang="fin">
-            <t pos="A">päällys</t>
+            <t pos="N">kansi (painotuotteen)</t>
          </tg>
       </mg>
       <mg rest="ulguu">
          <tg xml:lang="fin">
-            <t pos="A">kansi (painotuotteen)</t>
-         </tg>
-      </mg>
-      <mg rest="ulguu">
-         <tg xml:lang="fin">
-            <t pos="A">ulkopinta</t>
+            <t pos="N">ulkopinta</t>
          </tg>
       </mg>
    </e>
