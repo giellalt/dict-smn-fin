@@ -9087,12 +9087,12 @@ For the full license text, see the link above.
       </mg>
       <mg rest="vyev'di">
          <tg xml:lang="fin">
-            <t pos="A">aarnimetsä</t>
+            <t pos="N">aarnimetsä</t>
          </tg>
       </mg>
       <mg rest="vyev'dikuáv'lu">
          <tg xml:lang="fin">
-            <t pos="A">aarnialue</t>
+            <t pos="N">aarnialue</t>
          </tg>
       </mg>
    </e>
@@ -9403,16 +9403,16 @@ For the full license text, see the link above.
    </e>
    <e id="A_791">
       <lg>
-         <l pos="A">maacâi</l>
+         <l pos="Adv">maacâi</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">edestakaisin</t>
+            <t pos="Adv">edestakaisin</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">mutkin</t>
+            <t pos="Adv">mutkin</t>
          </tg>
       </mg>
    </e>
@@ -9602,7 +9602,7 @@ For the full license text, see the link above.
       </mg>
       <mg rest="nääpi näve">
          <tg xml:lang="fin">
-            <t pos="A">magneettinen napa</t>
+            <t pos="N">magneettinen napa</t>
          </tg>
       </mg>
    </e>
@@ -9722,17 +9722,9 @@ For the full license text, see the link above.
       </mg>
       <mg rest="mánálii">
          <tg xml:lang="fin">
-            <t pos="A">maahinen</t>
-         </tg>
-      </mg>
-      <mg rest="mánálii">
-         <tg xml:lang="fin">
-            <t pos="A">maanalainen (maan alla asuva haltia)</t>
-         </tg>
-      </mg>
-      <mg rest="mánálii">
-         <tg xml:lang="fin">
-            <t pos="A">manalainen (maan alla asuva haltia)</t>
+            <t pos="N">maahinen</t>
+            <t pos="N">maanalainen (maan alla asuva haltia)</t>
+            <t pos="N">manalainen (maan alla asuva haltia)</t>
          </tg>
       </mg>
    </e>
@@ -9842,12 +9834,12 @@ For the full license text, see the link above.
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">myöhään</t>
+            <t pos="Adv">myöhään</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">myöhä</t>
+            <t pos="N">myöhä</t>
          </tg>
       </mg>
    </e>
