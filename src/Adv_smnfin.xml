@@ -88,16 +88,12 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">aamuvarhaisella</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Adv">aamuvarhain</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Adv">varhaisaamu</t>
+            <t pos="N">varhaisaamu</t>
          </tg>
       </mg>
    </e>
@@ -118,16 +114,12 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">auki</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Adv">avoinna</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Adv">avonainen</t>
+            <t pos="A">avonainen</t>
          </tg>
       </mg>
    </e>
@@ -308,16 +300,12 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">auki</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Adv">avoinna</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Adv">avonainen</t>
+            <t pos="A">avonainen</t>
          </tg>
       </mg>
    </e>
@@ -431,7 +419,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Adv_32">
+   <e id="Adv_32" mc="singular-plural issue">
       <lg>
          <l pos="Adv">čohčuv</l>
       </lg>
@@ -902,12 +890,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Adv">erinomainen</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">erittäin</t>
+            <t pos="A">erinomainen</t>
+            <t pos="A">erittäin</t>
          </tg>
       </mg>
       <mg rest="">
@@ -972,11 +956,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">tarjottavana</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
+            <t pos="Adv">tarjottavana</t>
             <t pos="Adv">tarjolla</t>
          </tg>
       </mg>
@@ -1020,9 +1000,14 @@ For the full license text, see the link above.
             <t pos="Adv">hienovaraisesti</t>
          </tg>
       </mg>
+   </e>
+   <e id="Adv_75">
+      <lg>
+         <l pos="A">fijnáht lättejeijee</l>
+      </lg>
       <mg rest="lättejeijee">
          <tg xml:lang="fin">
-            <t pos="Adv">hienovarainen</t>
+            <t pos="A">hienovarainen</t>
          </tg>
       </mg>
    </e>
@@ -1032,17 +1017,13 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">hienosti</t>
+            <t pos="Adv">hienosti</t>
+            <t pos="Adv">kauniisti</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">hienovaraisesti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">kauniisti</t>
          </tg>
       </mg>
    </e>
@@ -1806,7 +1787,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Adv_136">
+   <e id="Adv_136" mc="singular-plural issue">
       <lg>
          <l pos="Adv">keessiv</l>
       </lg>
@@ -2387,21 +2368,13 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Adv">etäinen</t>
+            <t pos="A">etäinen</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">etäällä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Adv">etäältä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Adv">kaukana</t>
          </tg>
       </mg>
@@ -2663,18 +2636,15 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">liiaksi</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Adv">liian</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Adv">liikaa</t>
          </tg>
       </mg>
+   </e>
+   <e id="Adv_198">
+      <lg>
+         <l pos="Adv">liijkás tooláás</l>
+      </lg>
       <mg rest="tooláás">
          <tg xml:lang="fin">
             <t pos="Adv">ennenaikainen</t>
@@ -2753,21 +2723,17 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">lainaan</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Adv">lainaksi</t>
          </tg>
       </mg>
       <mg rest="luoi'kkâs">
          <tg xml:lang="fin">
-            <t pos="Adv">lainatavara</t>
+            <t pos="N">lainatavara</t>
          </tg>
       </mg>
       <mg rest="luoi'kkâs">
          <tg xml:lang="fin">
-            <t pos="Adv">lainakko</t>
+            <t pos="N">lainakko</t>
          </tg>
       </mg>
    </e>
@@ -2782,7 +2748,7 @@ For the full license text, see the link above.
       </mg>
       <mg rest="luovvâs # luo'vâs">
          <tg xml:lang="fin">
-            <t pos="Adv">irtonainen</t>
+            <t pos="A">irtonainen</t>
          </tg>
       </mg>
    </e>
@@ -3006,13 +2972,13 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Adv_222">
+   <e id="Adv_222" mc="i think _kanssa_ is wrong here, should be _kans_. Have to check from MLO">
       <lg>
          <l pos="Adv">meiddei</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Adv">kanssa</t>
+            <t pos="Adv">kans</t>
          </tg>
       </mg>
       <mg rest="">
@@ -3427,7 +3393,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Adv">ilmainen</t>
+            <t pos="A">ilmainen</t>
          </tg>
       </mg>
       <mg rest="">
@@ -3458,25 +3424,13 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">iankaikkisesti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Adv">ikuisesti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Adv">loppumatta</t>
          </tg>
       </mg>
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="Adv">ikuinen</t>
-         </tg>
-      </mg>
-      <mg rest="# -s">
-         <tg xml:lang="fin">
             <t pos="Adv">loppumaton</t>
          </tg>
       </mg>
