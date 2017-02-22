@@ -56,17 +56,13 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Interj_4">
+   <e id="Interj_4" mc="_cuárti_ is a wordform LEMMA _cuártti_">
       <lg>
          <l pos="Interj">cuártti</l>
       </lg>
       <mg rest="cuárti">
          <tg xml:lang="fin">
             <t pos="Interj">paholainen (kirosana, harv.)</t>
-         </tg>
-      </mg>
-      <mg rest="cuárti">
-         <tg xml:lang="fin">
             <t pos="Interj">piru (kirosana, harv.)</t>
          </tg>
       </mg>
@@ -163,20 +159,12 @@ For the full license text, see the link above.
    </e>
    <e id="Interj_14">
       <lg>
-         <l pos="Interj">jáá</l>
+         <l pos="Interj">jáá nuuvt</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">jaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Interj">vai niin</t>
-         </tg>
-      </mg>
-      <mg rest="nuuvt">
-         <tg xml:lang="fin">
             <t pos="Interj">vai niin</t>
          </tg>
       </mg>
