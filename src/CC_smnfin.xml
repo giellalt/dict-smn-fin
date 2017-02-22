@@ -32,11 +32,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">eli</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
+            <t pos="CC">eli</t>
             <t pos="CC">elikkä</t>
          </tg>
       </mg>
@@ -47,11 +43,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">eli</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
+            <t pos="CC">eli</t>
             <t pos="CC">elikkä</t>
          </tg>
       </mg>
@@ -270,14 +262,24 @@ For the full license text, see the link above.
             <t pos="CC">sekä</t>
          </tg>
       </mg>
+   </e>
+   <e id="CC_21">
+      <lg>
+         <l pos="CC">sehe ... ete</l>
+      </lg>
       <mg rest="- ete">
          <tg xml:lang="fin">
-            <t pos="CC">sekä - että</t>
+            <t pos="CC">sekä ... että</t>
          </tg>
       </mg>
+   </e>
+   <e id="CC_21">
+      <lg>
+         <l pos="CC">sehe ... já</l>
+      </lg>
       <mg rest="- já">
          <tg xml:lang="fin">
-            <t pos="CC">sekä - että</t>
+            <t pos="CC">sekä ... että</t>
          </tg>
       </mg>
    </e>
@@ -328,20 +330,8 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">sillä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CC">koska</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CC">sen vuoksi</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
+            <t pos="CC">sen vuoksi että</t>
             <t pos="CC">siksi että</t>
          </tg>
       </mg>
