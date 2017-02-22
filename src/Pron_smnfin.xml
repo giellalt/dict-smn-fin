@@ -125,9 +125,14 @@ For the full license text, see the link above.
             <t pos="Pron">itsensä</t>
          </tg>
       </mg>
+   </e>
+   <e id="Pron_8">
+      <lg>
+         <l pos="N">jieijâs šalligâššâm</l>
+      </lg>
       <mg rest="šalligâššâm">
          <tg xml:lang="fin">
-            <t pos="Pron">itsesääli</t>
+            <t pos="N">itsesääli</t>
          </tg>
       </mg>
    </e>
@@ -333,16 +338,21 @@ For the full license text, see the link above.
    </e>
    <e id="Pron_26">
       <lg>
-         <l pos="Pron">maacij</l>
+         <l pos="Adv">maacij</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pron">edestakaisin</t>
+            <t pos="Adv">edestakaisin</t>
          </tg>
       </mg>
+   </e>
+   <e id="Pron_26">
+      <lg>
+         <l pos="N">maacij</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pron">mutkin</t>
+            <t pos="N">mutkin</t>
          </tg>
       </mg>
    </e>
@@ -501,22 +511,14 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Pron_39">
+   <e id="Pron_39" mc="jokunen (epämääräinen): singular-plural issue">
       <lg>
          <l pos="Pron">mottoom</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">eräs</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">muuan (epämääräinen)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">jokunen (epämääräinen)</t>
          </tg>
       </mg>
@@ -711,17 +713,13 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Pron_58">
+   <e id="Pron_58" mc="singular-plural issue">
       <lg>
          <l pos="Pron">suámis</l>
       </lg>
       <mg rest="suámmás">
          <tg xml:lang="fin">
             <t pos="Pron">jokunen (epämääräinen)</t>
-         </tg>
-      </mg>
-      <mg rest="suámmás">
-         <tg xml:lang="fin">
             <t pos="Pron">joku (epämääräinen)</t>
          </tg>
       </mg>
