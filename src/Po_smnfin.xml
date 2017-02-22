@@ -281,17 +281,13 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Po_16">
+   <e id="Po_16" mc="I think _luo_ is not right here, it shoud be _luona_ or _luota_ and they are ws">
       <lg>
          <l pos="Po">kulen</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Po">luo</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
+            <t pos="Po">luona</t>
             <t pos="Po">päin</t>
          </tg>
       </mg>
@@ -302,22 +298,15 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
+            <t pos="Po">luo</t>
             <t pos="Po">luokse</t>
+            <t pos="Po">tykö</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">päin</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Po">suuntaan</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Po">tykö</t>
          </tg>
       </mg>
    </e>
@@ -357,11 +346,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
+            <t pos="Po">luo</t>
             <t pos="Po">luokse</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Po">tykö</t>
          </tg>
       </mg>
