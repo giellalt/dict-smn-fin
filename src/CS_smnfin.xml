@@ -211,27 +211,15 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="CS_13">
+   <e id="CS_13" mc="_tassaa_ is a wordform of LEMMA _tassaaš_">
       <lg>
          <l pos="CS">tassaaš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kunnes</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CS">siihen saakka</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CS">siihen asti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CS">siitä asti</t>
          </tg>
       </mg>
