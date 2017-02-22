@@ -1308,21 +1308,13 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">aika</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pcle">melko</t>
          </tg>
       </mg>
       <mg rest="vieVâ">
          <tg xml:lang="fin">
-            <t pos="Pcle">miehistö</t>
-         </tg>
-      </mg>
-      <mg rest="vieVâ">
-         <tg xml:lang="fin">
-            <t pos="Pcle">väki</t>
+            <t pos="N">miehistö</t>
+            <t pos="N">väki</t>
          </tg>
       </mg>
       <mg rest="hitásávt">
@@ -1368,21 +1360,13 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">jospa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pcle">kunpa</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">lautta</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">lossi</t>
+            <t pos="N">lautta</t>
+            <t pos="N">lossi</t>
          </tg>
       </mg>
    </e>
