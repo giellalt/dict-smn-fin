@@ -23830,4 +23830,19 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_557">
+      <lg>
+         <l pos="A">astel</l>
+      </lg>
+      <mg rest="# -is">
+         <tg xml:lang="fin">
+            <t pos="A">joutilas (jolla on paljon aikaa)</t>
+         </tg>
+      </mg>
+      <mg rest="# -is">
+         <tg xml:lang="fin">
+            <t pos="A">ehtivä (jolla on paljon aikaa)</t>
+         </tg>
+      </mg>
+   </e>
 </r>

@@ -7101,4 +7101,48 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_601">
+      <lg>
+         <l pos="Adv">avepeeivi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ikänään</t>
+            <t pos="Adv">ikipäivänä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_602">
+      <lg>
+         <l pos="Adv">avepeeivist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ikänään</t>
+            <t pos="Adv">ikipäivänä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_680">
+      <lg>
+         <l pos="Adv">čáittusân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">esille</t>
+            <t pos="Adv">näytteille</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_681">
+      <lg>
+         <l pos="Adv">čáittusist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">esillä</t>
+            <t pos="Adv">näytteillä</t>
+         </tg>
+      </mg>
+   </e>
 </r>

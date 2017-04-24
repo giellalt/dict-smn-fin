@@ -6098,21 +6098,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_557">
-      <lg>
-         <l pos="N">astel</l>
-      </lg>
-      <mg rest="# -is">
-         <tg xml:lang="fin">
-            <t pos="N">joutilas (jolla on paljon aikaa)</t>
-         </tg>
-      </mg>
-      <mg rest="# -is">
-         <tg xml:lang="fin">
-            <t pos="N">ehtivä (jolla on paljon aikaa)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_558">
       <lg>
          <l pos="N">astelon</l>
@@ -6560,36 +6545,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">vuoto (nesteen)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_601">
-      <lg>
-         <l pos="N">avepeeivi</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">ikänään</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">ikipäivänä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_602">
-      <lg>
-         <l pos="N">avepeeivist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">ikänään</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">ikipäivänä</t>
          </tg>
       </mg>
    </e>
@@ -7470,36 +7425,6 @@ For the full license text, see the link above.
       <mg rest="čááitu">
          <tg xml:lang="fin">
             <t pos="N">näyttö</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_680">
-      <lg>
-         <l pos="N">čáittusân</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">esille</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">näytteille</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_681">
-      <lg>
-         <l pos="N">čáittusist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">esillä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">näytteillä</t>
          </tg>
       </mg>
    </e>
