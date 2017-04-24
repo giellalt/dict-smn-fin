@@ -35,6 +35,25 @@ amnâs
 amnâs	aamnâs+N+Sg+Gen
 amnâs	aamnâs+N+Sg+Acc
 
+Mysterium solved:
+  aalmugkielâ: [LEMMA -kielâ] === [LEMMA REST]
+   <e id="N_45">
+      <lg>
+         <l pos="N">aalmugkielâ</l>
+      </lg>
+      <mg rest="-kielâ">
+         <tg xml:lang="fin">
+            <t pos="N">kansalliskieli</t>
+         </tg>
+      </mg>
+      <mg rest="-kielâ">
+         <tg xml:lang="fin">
+            <t pos="N">kansankieli</t>
+         </tg>
+      </mg>
+   </e>
+
+
 ===
 V_405 čuággiđ: kerätä; poimia; sienestää : 1 = 2 = 3 _ 1+2 I think 3 is not right, it should be čuággiđ kuobbârijd
 ===
