@@ -1848,16 +1848,12 @@ For the full license text, see the link above.
       <mg rest="aagâ">
          <tg xml:lang="fin">
             <t pos="N">syy</t>
-            <t pos="N">tekosyy</t>
-         </tg>
-      </mg>
-      <mg rest="aagâ">
-         <tg xml:lang="fin">
             <t pos="N">peruste</t>
          </tg>
       </mg>
       <mg rest="aagâ">
          <tg xml:lang="fin">
+            <t pos="N">tekosyy</t>
             <t pos="N">veruke</t>
          </tg>
       </mg>
@@ -3872,21 +3868,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_357">
-      <lg>
-         <l pos="N">almaa</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kai</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">varmaankin</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_358">
       <lg>
          <l pos="N">almai</l>
@@ -3896,7 +3877,7 @@ For the full license text, see the link above.
             <t pos="N">mies</t>
          </tg>
       </mg>
-      <mg rest="mááccuh">
+      <mg rest="almai mááccuh">
          <tg xml:lang="fin">
             <t pos="N">puku (miesten)</t>
          </tg>
