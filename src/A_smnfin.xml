@@ -23845,4 +23845,40 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_789">
+      <lg>
+         <l pos="A">čavos</l>
+      </lg>
+      <mg rest="čappoos # čapo">
+         <tg xml:lang="fin">
+            <t pos="A">ehyt</t>
+         </tg>
+      </mg>
+      <mg rest="čappoos # čapo">
+         <tg xml:lang="fin">
+            <t pos="A">tiivis</t>
+         </tg>
+      </mg>
+      <mg rest="čappoos # čapo">
+         <tg xml:lang="fin">
+            <t pos="A">sopusointuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_934">
+      <lg>
+         <l pos="A">ciägus</l>
+      </lg>
+      <mg rest="ciäg'gus # ciä'gu">
+         <tg xml:lang="fin">
+            <t pos="A">pystysuora</t>
+            <t pos="A">pysty</t>
+         </tg>
+      </mg>
+      <mg rest="ciäg'gus # ciä'gu">
+         <tg xml:lang="fin">
+            <t pos="A">jyrkkä</t>
+         </tg>
+      </mg>
+   </e>
 </r>

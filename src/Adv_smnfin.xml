@@ -7145,4 +7145,29 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_940">
+      <lg>
+         <l pos="Adv">čiähusân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kätköön</t>
+            <t pos="Adv">piiloon</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_941">
+      <lg>
+         <l pos="Adv">čiähusist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kätkettynä</t>
+            <t pos="Adv">kätkössä</t>
+            <t pos="Adv">kätköstä</t>
+            <t pos="Adv">piilossa</t>
+            <t pos="Adv">piilosta</t>
+         </tg>
+      </mg>
+   </e>
 </r>

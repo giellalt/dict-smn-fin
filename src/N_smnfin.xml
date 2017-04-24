@@ -8643,26 +8643,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_789">
-      <lg>
-         <l pos="N">čavos</l>
-      </lg>
-      <mg rest="čappoos # čapo">
-         <tg xml:lang="fin">
-            <t pos="N">ehyt</t>
-         </tg>
-      </mg>
-      <mg rest="čappoos # čapo">
-         <tg xml:lang="fin">
-            <t pos="N">tiivis</t>
-         </tg>
-      </mg>
-      <mg rest="čappoos # čapo">
-         <tg xml:lang="fin">
-            <t pos="N">sopusointuinen</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_790">
       <lg>
          <l pos="N">CD-čuojânâs</l>
@@ -9562,26 +9542,6 @@ For the full license text, see the link above.
       <lg>
          <l pos="N">čielgi</l>
       </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">selkäranka</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">selkä (sisäpuolelta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">selkä (vaaran)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">selänne</t>
-         </tg>
-      </mg>
       <mg rest="čielgi">
          <tg xml:lang="fin">
             <t pos="N">selkäranka</t>
@@ -9787,16 +9747,6 @@ For the full license text, see the link above.
       <lg>
          <l pos="N">čierrih</l>
       </lg>
-      <mg rest="čieRih">
-         <tg xml:lang="fin">
-            <t pos="N">tiira</t>
-         </tg>
-      </mg>
-      <mg rest="čieRih">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Sterna paradisaea">lapintiira</t>
-         </tg>
-      </mg>
       <mg rest="čierrih">
          <tg xml:lang="fin">
             <t pos="N">tiira</t>
@@ -10468,26 +10418,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_934">
-      <lg>
-         <l pos="N">ciägus</l>
-      </lg>
-      <mg rest="ciäg'gus # ciä'gu">
-         <tg xml:lang="fin">
-            <t pos="N">pystysuora</t>
-         </tg>
-      </mg>
-      <mg rest="ciäg'gus # ciä'gu">
-         <tg xml:lang="fin">
-            <t pos="N">jyrkkä</t>
-         </tg>
-      </mg>
-      <mg rest="ciäg'gus # ciä'gu">
-         <tg xml:lang="fin">
-            <t pos="N">pysty</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_935">
       <lg>
          <l pos="N">čiähá</l>
@@ -10550,51 +10480,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">piilolinssit</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_940">
-      <lg>
-         <l pos="N">čiähusân</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kätköön</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">piiloon</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_941">
-      <lg>
-         <l pos="N">čiähusist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kätkettynä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kätkössä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">piilossa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">piilosta</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kätköstä</t>
          </tg>
       </mg>
    </e>
