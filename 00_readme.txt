@@ -16,7 +16,7 @@ Log:
 The list is now checked by me. I have added somewhre -ws- and it stands for different wordforms in finnish, forms mya perhaps handle as synonyms. I have applied a wide understanding on synonyms.
 ===
 
-TODO: N_smnfin.txt and V_smnfin.txt
+TODO: N_smnfin.txt
 DONE: rest
 
 
