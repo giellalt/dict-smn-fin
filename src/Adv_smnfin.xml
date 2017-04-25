@@ -7293,5 +7293,27 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_4213">
+      <lg>
+         <l pos="Adv">kuássin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ikinä</t>
+            <t pos="Adv">koskaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4252">
+      <lg>
+         <l pos="Adv">kuávlun</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">päin</t>
+            <t pos="Adv">suuntaan</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
