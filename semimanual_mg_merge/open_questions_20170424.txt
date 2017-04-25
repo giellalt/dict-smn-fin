@@ -1,60 +1,6 @@
 V:
 V_65 anneeđ: pitää (+ ess.) (jnak, jnkinlaisena); pitää (+ akk.) (tietynlaisia säitä); huolehtiä (jälkeläisestä, esim. vaadin vasasta); harjoittaa sukupuoliyhteyttä; kohdella; käyttää (esim. vaatteita, kenkiä, alkoholia tms.); särkeä (jtk esim. jalkaa, päätä); aristaa (jtk esim. jalkaa, päätä); viettää (+ akk.) (jtak juhlaa tai juhlapäivää); tarvita; arvostaa; pitääsilmällä; valvoa; tarkkailla; pitää salassa; huolehtia (jstak tai jstk); pitää huolta (jstak tai jstk); jumaloida; palvoa; inhota (pitää rumana tai vastenmielisenä); suhtautua; pysyä järjissään; pitää mielessä; muistaa; pitää sateita; pitää lauhoja säitä; kierrättää; pitää tallessa; hyödyntää; hyväksikäyttää; käyttää hyväksi : 1 = 2 = 3 = 4 = 5 = 6 = 7 = 8 = 9 = 10 = 11 = 12 = 13 = 14 = 15 = 16 = 17 = 18 = 19 = 20 = 21 = 22 = 23 = 24 = 25 = 26 = 27 = 28 = 29 = 30 = 31 _ "anneeđ" doesn´t mean all these
 ===
-
-Num:
-jeg forstår ikke helt hvorfor Minna måtte skrive [LEMMA lohháás]
-i rettelsene.
-
-<example>
-Num_3 čiččâmâs: seitsemän ihmistä; seitsemän ihmisen joukko : 1 = 2 _ 1+2
-Num_33 loves: [LEMMA lohháás] kymmenen (ihmistä); [LEMMA lohháás] kymmenen ihmisen joukko : 1 = 2 _ 1+2
-Num_49 ohtâ: [LEMMA oovtâ] eräs (tiedetään kuka on kyseessä, muttei haluta mainita nimellä); [LEMMA oovtâ] muuan; [LEMMA oovtâ] yksi : 1 = 2 = 3 _ 1+2
-Num_54 oovces: [LEMMA ohcás] yhdeksän (ihmistä); [LEMMA ohcás] yhdeksän ihmisen joukko : 1 = 2 _ 1+2
-</example>
-
-
-Jeg trodde at ho mente at oppslagsordet er ei ordform og ikke ei lemma.
-Men når jeg skjekke med fsten ser det ok ut for meg.
-oovces
-oovces	oovces+N+Coll+Sg+Nom
-
-ohcás
-ohcás	oovces+N+Coll+Sg+Ill
-
-Same LEMMA question for other pos:
-
-N_45 aalmugkielâ: [LEMMA -kielâ] kansalliskieli; [LEMMA -kielâ] kansankieli : 1 = 2 _
-N_95 aamnâs: [LEMMA amnâs] aine; [LEMMA amnâs] aines; [LEMMA amnâs] oppiaine (esim. koulussa); [LEMMA amnâs] raaka-aine; [LEMMA amnâs] tarvike; [LEMMA amnâs] materiaali (jnk tekemiseen) : 1 = 2 = 3 = 4 = 5 = 6 _ 1+2
-
-~>usmn
-aamnâs
-aamnâs	aamnâs+N+Sg+Nom
-
-amnâs
-amnâs	aamnâs+N+Sg+Gen
-amnâs	aamnâs+N+Sg+Acc
-
-Mysterium solved:
-  aalmugkielâ: [LEMMA -kielâ] === [LEMMA REST]
-   <e id="N_45">
-      <lg>
-         <l pos="N">aalmugkielâ</l>
-      </lg>
-      <mg rest="-kielâ">
-         <tg xml:lang="fin">
-            <t pos="N">kansalliskieli</t>
-         </tg>
-      </mg>
-      <mg rest="-kielâ">
-         <tg xml:lang="fin">
-            <t pos="N">kansankieli</t>
-         </tg>
-      </mg>
-   </e>
-
-
-===
 V_405 čuággiđ: kerätä; poimia; sienestää : 1 = 2 = 3 _ 1+2 I think 3 is not right, it should be čuággiđ kuobbârijd
 ===
 
@@ -97,7 +43,8 @@ V_3678 ruotâstiđ: juosta vähän (nelijalkaisesta); kontata vähän; laukata v
 ===
 V_4154 šoddâđ: joutua (tekemään jtak); kasvaa; syntyä; tapahtua; tulla (tehneeksi); tulla (jksik); sattua (jtk); itsenäistyä; itsenäistyä; järkeistyä; erääntyä; aikuistua : 1 = 2 = 3 = 4 = 5 = 6 = 7 = 8 = 9 = 10 = 11 = 12 _ 8 and 9 are same; "šoddâđ" alone doesn´t mean all of these things, maybe meanings 1-7 are ok, but with other meanings it´s necessery to mention also some other word in inarisami
 ===
-
-
+N_671 čaitâlmâs: näytelmä; näyttely : 1 = 2 _ ?
+N_672 čáitálmâs: näyttely; näytelmä : 1 = 2 _ only 1
+===
 
 
