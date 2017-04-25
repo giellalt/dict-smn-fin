@@ -35854,21 +35854,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_3211">
-      <lg>
-         <l pos="N">kárŋá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kallellaan</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kallelleen</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_3212">
       <lg>
          <l pos="N">karodâs</l>
@@ -41460,21 +41445,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_3724">
-      <lg>
-         <l pos="N">kištoi</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kilpaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kilvan</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_3725">
       <lg>
          <l pos="N">kištoičuoigâm</l>
@@ -43845,21 +43815,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_3941">
-      <lg>
-         <l pos="N">konnâluđ</l>
-      </lg>
-      <mg rest="konnâluVá">
-         <tg xml:lang="fin">
-            <t pos="N">hilseillä</t>
-         </tg>
-      </mg>
-      <mg rest="konnâluVá">
-         <tg xml:lang="fin">
-            <t pos="N">kesiä</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_3942">
       <lg>
          <l pos="N">konsert</l>
@@ -44047,21 +44002,6 @@ For the full license text, see the link above.
       <mg rest="koddâs">
          <tg xml:lang="fin">
             <t pos="N">taipumaton (nahasta)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_3960">
-      <lg>
-         <l pos="N">koođijn</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kotona</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kotosalla</t>
          </tg>
       </mg>
    </e>
@@ -45067,36 +45007,6 @@ For the full license text, see the link above.
       <mg rest="-škoovlâ">
          <tg xml:lang="fin">
             <t pos="N">keskikoulu</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_4047">
-      <lg>
-         <l pos="N">koskâstuvâi</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">aika ajoin</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">toisinaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_4048">
-      <lg>
-         <l pos="N">koskâstuvvâi</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">aika ajoin</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">toisinaan</t>
          </tg>
       </mg>
    </e>

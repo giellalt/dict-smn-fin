@@ -7238,5 +7238,60 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_3724">
+      <lg>
+         <l pos="Adv">kištoi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kilpaa</t>
+            <t pos="Adv">kilvan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3211">
+      <lg>
+         <l pos="Adv">kárŋá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kallellaan</t>
+            <t pos="Adv">kallelleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3960">
+      <lg>
+         <l pos="Adv">koođijn</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kotona</t>
+            <t pos="Adv">kotosalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4047">
+      <lg>
+         <l pos="Adv">koskâstuvâi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aika ajoin</t>
+            <t pos="Adv">toisinaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4048">
+      <lg>
+         <l pos="Adv">koskâstuvvâi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aika ajoin</t>
+            <t pos="Adv">toisinaan</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
