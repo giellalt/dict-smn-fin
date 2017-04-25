@@ -23892,4 +23892,27 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>   
+   <e id="N_2243">
+      <lg>
+         <l pos="A">humo</l>
+      </lg>
+      <mg rest="humo # humos">
+         <tg xml:lang="fin">
+            <t pos="A">hupsu</t>
+            <t pos="A">hölmö</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2754">
+      <lg>
+         <l pos="A">jollâ</l>
+      </lg>
+      <mg rest="jooLâ # joLâs">
+         <tg xml:lang="fin">
+            <t pos="A">hullu</t>
+            <t pos="A">sekopäinen</t>
+         </tg>
+      </mg>
+   </e>
+
 </r>

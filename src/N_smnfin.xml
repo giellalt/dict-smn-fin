@@ -17408,21 +17408,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_1537">
-      <lg>
-         <l pos="N">eeidu</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">juuri</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">vasta</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_1538">
       <lg>
          <l pos="N">eejieennâm</l>
@@ -18885,46 +18870,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">maastamuuttaja</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_1672">
-      <lg>
-         <l pos="N">endurân</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">hakoteille</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">pieleen</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">vikaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_1673">
-      <lg>
-         <l pos="N">endurist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">pielessä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">vikana</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">hakoteillä</t>
          </tg>
       </mg>
    </e>
@@ -24873,21 +24818,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_2218">
-      <lg>
-         <l pos="N">huápust</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kiireesti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">nopeasti</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_2219">
       <lg>
          <l pos="N">huárá</l>
@@ -25150,21 +25080,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">puheensorina</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_2243">
-      <lg>
-         <l pos="N">humo</l>
-      </lg>
-      <mg rest="humo # humos">
-         <tg xml:lang="fin">
-            <t pos="N">hupsu</t>
-         </tg>
-      </mg>
-      <mg rest="humo # humos">
-         <tg xml:lang="fin">
-            <t pos="N">hölmö</t>
          </tg>
       </mg>
    </e>
@@ -30884,21 +30799,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_2754">
-      <lg>
-         <l pos="N">jollâ</l>
-      </lg>
-      <mg rest="jooLâ # joLâs">
-         <tg xml:lang="fin">
-            <t pos="N">hullu</t>
-         </tg>
-      </mg>
-      <mg rest="jooLâ # joLâs">
-         <tg xml:lang="fin">
-            <t pos="N">sekopäinen</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_2755">
       <lg>
          <l pos="N">jollâvuotâ</l>
@@ -31041,21 +30941,6 @@ For the full license text, see the link above.
       <mg rest="jo'rme">
          <tg xml:lang="fin">
             <t pos="N">ryppy</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_2769">
-      <lg>
-         <l pos="N">jormeeld</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">rypyssä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">poimulla</t>
          </tg>
       </mg>
    </e>
@@ -34939,21 +34824,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_3119">
-      <lg>
-         <l pos="N">kalas</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kylliksi</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kyllin</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_3120">
       <lg>
          <l pos="N">kalasvuotâ</l>
@@ -37781,21 +37651,6 @@ For the full license text, see the link above.
       <mg rest="-káhástuv">
          <tg xml:lang="fin">
             <t pos="N">kaulaside (ahkiossa)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_3377">
-      <lg>
-         <l pos="N">keš</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">päähän</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kärkeen</t>
          </tg>
       </mg>
    </e>

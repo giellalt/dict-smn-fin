@@ -7170,4 +7170,73 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_1672">
+      <lg>
+         <l pos="Adv">endurân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">hakoteille</t>
+            <t pos="Adv">pieleen</t>
+            <t pos="Adv">vikaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1673">
+      <lg>
+         <l pos="Adv">endurist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">hakoteillä</t>
+            <t pos="Adv">pielessä</t>
+            <t pos="Adv">vikana</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2218">
+      <lg>
+         <l pos="Adv">huápust</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kiireesti</t>
+            <t pos="Adv">nopeasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2769">
+      <lg>
+         <l pos="Adv">jormeeld</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">rypyssä</t>
+            <t pos="Adv">poimulla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3119">
+      <lg>
+         <l pos="Adv">kalas</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kylliksi</t>
+            <t pos="Adv">kyllin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3377">
+      <lg>
+         <l pos="Adv">keš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">päähän</t>
+            <t pos="Adv">kärkeen</t>
+         </tg>
+      </mg>
+   </e>
+
 </r>
