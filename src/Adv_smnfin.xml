@@ -7315,5 +7315,61 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_4318">
+      <lg>
+         <l pos="Adv">kulij</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">päin</t>
+            <t pos="Adv">suuntaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4322">
+      <lg>
+         <l pos="Adv">kullood</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kuullessa</t>
+            <t pos="Adv">kuulten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4445">
+      <lg>
+         <l pos="Adv">kuorâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">viertä</t>
+            <t pos="Adv">vierustaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4941">
+      <lg>
+         <l pos="Adv">láskud</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">lappeellaan</t>
+            <t pos="Adv">syrjin</t>
+            <t pos="Adv">vaakasuoraan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5135">
+      <lg>
+         <l pos="Adv">liäddud</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">levällään</t>
+            <t pos="Adv">levälleen</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
