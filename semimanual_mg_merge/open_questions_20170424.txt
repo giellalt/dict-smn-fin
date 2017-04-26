@@ -57,3 +57,8 @@ N_4112 kozzsäplig: tunturisopuli; tunturi; sopuli : 1 = 2 = 3 _ 2 is not right
 ===
 N_4232 kuáttun: kotona; koto; kotosalla : 1 = 2 = 3 _ 1+2+3 ws adverbs exept 2
 ===
+N_5048 liekkičielgi: notkoselkäinen (poro); [LEMMA -čielgi] poroselkäinen (poro) : 1 = 2 _ 2 can´t be right, delete it
+ ==> I will do it!
+===
+N_5106 liškeivne: [LEMMA -iivne -i'vne] ihonväri; [LEMMA i'vne iivne] ihonväri : 1 = 2 _ 1+2 maybe other lemma is wrong
+===
