@@ -7563,5 +7563,28 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_6203">
+      <lg>
+         <l pos="Adv">mäddin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">etelässä</t>
+            <t pos="Adv">etelästä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6253">
+      <lg>
+         <l pos="Adv">naggâsist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ahtaalla</t>
+            <t pos="Adv">kireällä</t>
+            <t pos="Adv">tiukalla</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>

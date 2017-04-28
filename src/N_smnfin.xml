@@ -68639,21 +68639,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_6203">
-      <lg>
-         <l pos="N">mäddin</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">etelässä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">etelästä</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_6204">
       <lg>
          <l pos="N">mädimus</l>
@@ -68959,21 +68944,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_6231">
-      <lg>
-         <l pos="N">naagâs</l>
-      </lg>
-      <mg rest="naggâs # naggâ">
-         <tg xml:lang="fin">
-            <t pos="N">kireä</t>
-         </tg>
-      </mg>
-      <mg rest="naggâs # naggâ">
-         <tg xml:lang="fin">
-            <t pos="N">tiukka</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_6232">
       <lg>
          <l pos="N">náágus</l>
@@ -69264,26 +69234,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_6253">
-      <lg>
-         <l pos="N">naggâsist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">ahtaalla</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kireällä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">tiukalla</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_6254">
       <lg>
          <l pos="N">nággu</l>
@@ -69511,26 +69461,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">vahvistus</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_6275">
-      <lg>
-         <l pos="N">nanos</l>
-      </lg>
-      <mg rest="nannoos # noonâ">
-         <tg xml:lang="fin">
-            <t pos="N">kestävä</t>
-         </tg>
-      </mg>
-      <mg rest="nannoos # noonâ">
-         <tg xml:lang="fin">
-            <t pos="N">luja</t>
-         </tg>
-      </mg>
-      <mg rest="nannoos # noonâ">
-         <tg xml:lang="fin">
-            <t pos="N">vahva</t>
          </tg>
       </mg>
    </e>

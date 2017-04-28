@@ -23946,5 +23946,28 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_6231">
+      <lg>
+         <l pos="A">naagâs</l>
+      </lg>
+      <mg rest="naggâs # naggâ">
+         <tg xml:lang="fin">
+            <t pos="A">kireä</t>
+            <t pos="A">tiukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6275">
+      <lg>
+         <l pos="A">nanos</l>
+      </lg>
+      <mg rest="nannoos # noonâ">
+         <tg xml:lang="fin">
+            <t pos="A">kestävä</t>
+            <t pos="A">luja</t>
+            <t pos="A">vahva</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
