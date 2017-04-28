@@ -1392,4 +1392,28 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_5541">
+      <lg>
+         <l pos="Pcle">mabdem</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">jollainen</t>
+            <t pos="Pcle">millainen</t>
+            <t pos="Pcle">minkälainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6066">
+      <lg>
+         <l pos="Pcle">mudoi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">muuten</t>
+            <t pos="Pcle">muutoin</t>
+         </tg>
+      </mg>
+   </e>
+
 </r>

@@ -23924,5 +23924,27 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_5509">
+      <lg>
+         <l pos="A">maaldâs</l>
+      </lg>
+      <mg rest="maldâs # maldâs">
+         <tg xml:lang="fin">
+            <t pos="A">hiljainen (ihmisestä)</t>
+            <t pos="A">melko kesy (eläimestä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5991">
+      <lg>
+         <l pos="A">moolhij</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">kiero</t>
+            <t pos="A">mutkainen</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>

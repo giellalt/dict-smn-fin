@@ -7371,5 +7371,197 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_5153">
+      <lg>
+         <l pos="Adv">liäpčud</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">levällään</t>
+            <t pos="Adv">levälleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5212">
+      <lg>
+         <l pos="Adv">loovnâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">lainaksi (hupenevasta lainattavasta)</t>
+            <t pos="Adv">lainaan (hupenevasta lainattavasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5330">
+      <lg>
+         <l pos="Adv">lunnáád</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">luonasi</t>
+            <t pos="Adv">luotasi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5331">
+      <lg>
+         <l pos="Adv">lunnáán</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">luonani</t>
+            <t pos="Adv">luotani</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5332">
+      <lg>
+         <l pos="Adv">lunnees</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">luonaan</t>
+            <t pos="Adv">luotaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5435">
+      <lg>
+         <l pos="Adv">läddin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">käsin (suunnalla, suunnalta)</t>
+            <t pos="Adv">suunnalla</t>
+            <t pos="Adv">suunnalta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5499">
+      <lg>
+         <l pos="Adv">maajaakeččin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">peräpäässä</t>
+            <t pos="Adv">takapäässä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5500">
+      <lg>
+         <l pos="Adv">maajeeld</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">jäljessä</t>
+            <t pos="Adv">jäljestä</t>
+            <t pos="Adv">perässä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5529">
+      <lg>
+         <l pos="Adv">maassâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kotiin</t>
+            <t pos="Adv">takaisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5547">
+      <lg>
+         <l pos="Adv">máccud</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">poimulla</t>
+            <t pos="Adv">taitteella (ei pysyvästi)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5548">
+      <lg>
+         <l pos="Adv">macij</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">edestakaisin</t>
+            <t pos="Adv">mutkin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5646">
+      <lg>
+         <l pos="Adv">maŋŋaalsis</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">jälkeensä</t>
+            <t pos="Adv">peräänsä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5815">
+      <lg>
+         <l pos="Adv">mielâst</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">mielessä</t>
+            <t pos="Adv">mielissään</t>
+            <t pos="Adv">mielellään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5916">
+      <lg>
+         <l pos="Adv">miäđáábeln</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">alapuolella (tuulen)</t>
+            <t pos="Adv">alapuolelta (tuulen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6026">
+      <lg>
+         <l pos="Adv">motomin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">joskus</t>
+            <t pos="Adv">kerran</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6034">
+      <lg>
+         <l pos="Adv">muáđoi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kasvokkain</t>
+            <t pos="Adv">silmätyksin</t>
+            <t pos="Adv">silmätysten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6036">
+      <lg>
+         <l pos="Adv">muáđui</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kasvokkain</t>
+            <t pos="Adv">silmätyksin</t>
+            <t pos="Adv">silmätysten</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
