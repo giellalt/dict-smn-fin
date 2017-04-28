@@ -177,3 +177,9 @@ N_8059 protein: proteiini; valkuiaisaine : 1 = 2 _ 1+2 ; 2 has spelling error, s
 ===
 N_8347 pyeidi: [LEMMA pyeidi] ihra; [LEMMA pyeidi] kuu (rasva); [LEMMA pyeidi] rasva; [LEMMA pyeidi] sisäelinrasva; [LEMMA pyeidi] tali; [LEMMA pyeidi # pye'idis] lihava : 1 = 2 = 3 = 4 = 5 = 6 _ 1+2+3+4+5 ; 6 is an adjective
 ===
+N_9463 sárnoo: esiintyjä (puhuja); puhelias; puhuja : 1 = 2 = 3 _ 1+3 _ 2 is an adjective
+===
+N_9464 sárnum: juttukaveri; puhuminen : 1 = 2 _ 1 should probably be _sárnum skippáár_
+===
+N_9665 šiettâl: [LEMMA # -is -âs] hyvin mahtuva hyvin (jhk tilaan); [LEMMA # -is -âs] hyvin sopiva hyvin (jhk tilaan) : 1 = 2 _ 1+2 adjectives and the second "hyvin" words should not be there, just hyvin mahtuva _ hyvin sopiva
+===
