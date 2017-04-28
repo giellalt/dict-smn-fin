@@ -112,3 +112,58 @@ moskos	moskos+N+Sg+Nom
 moskos	moskos+N+Sg+Gen
 moskos	moskos+N+Sg+Acc
 ===
+N_6169 muuneeld: ennakkoon; ennakolta; etukäteen; varalta : 1 = 2 = 3 = 4 _ 1+2+3 adverb
+
+   <e id="N_6169">
+      <lg>
+         <l pos="N">muuneeld</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">ennakkoon</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">ennakolta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">etukäteen</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">varalta</t>
+         </tg>
+      </mg>
+   </e>
+
+~>usmn
+muuneeld
+muuneeld	muuneeld+Adv
+===
+N_6250 nággár: [LEMMA # -is] itsepäinen; [LEMMA # -is] sinnikäs : 1 = 2 _ adjectives
+
+   <e id="N_6250">
+      <lg>
+         <l pos="A">nággár</l>
+      </lg>
+      <mg rest="# -is">
+         <tg xml:lang="fin">
+            <t pos="A">itsepäinen</t>
+         </tg>
+      </mg>
+      <mg rest="# -is">
+         <tg xml:lang="fin">
+            <t pos="A">sinnikäs</t>
+         </tg>
+      </mg>
+   </e>
+
+nággár
+nággár	nággár+N+Sg+Nom
+nággár	nággár+N+Sg+Gen
+nággár	nággár+N+Sg+Acc
+===
