@@ -7669,5 +7669,60 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_7619">
+      <lg>
+         <l pos="Adv">pevdiláá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">pöytää lähempänä</t>
+            <t pos="Adv">pöytää lähemmäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7711">
+      <lg>
+         <l pos="Adv">pilán</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">pilalle</t>
+            <t pos="Adv">pilalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7712">
+      <lg>
+         <l pos="Adv">pilás</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">pilalle</t>
+            <t pos="Adv">pilalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7806">
+      <lg>
+         <l pos="Adv">piäittusân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">piiloon</t>
+            <t pos="Adv">kätköön</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7807">
+      <lg>
+         <l pos="Adv">piäittusist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kätkössä</t>
+            <t pos="Adv">piilossa</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>

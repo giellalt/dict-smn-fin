@@ -84313,21 +84313,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_7619">
-      <lg>
-         <l pos="N">pevdiláá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">pöytää lähempänä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">pöytää lähemmäs</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_7620">
       <lg>
          <l pos="N">pevdilijne</l>
@@ -85290,36 +85275,6 @@ For the full license text, see the link above.
       <mg rest="piivsâ">
          <tg xml:lang="fin">
             <t pos="N">linnun rintalasta</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7711">
-      <lg>
-         <l pos="N">pilán</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">pilalle</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">pilalla</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7712">
-      <lg>
-         <l pos="N">pilás</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">pilalle</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">pilalla</t>
          </tg>
       </mg>
    </e>
@@ -86335,36 +86290,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">piiloleikki</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7806">
-      <lg>
-         <l pos="N">piäittusân</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">piiloon</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kätköön</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7807">
-      <lg>
-         <l pos="N">piäittusist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kätkössä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">piilossa</t>
          </tg>
       </mg>
    </e>
