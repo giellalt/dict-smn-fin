@@ -7813,5 +7813,115 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_10102">
+      <lg>
+         <l pos="Adv">soijood</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">notkolleen</t>
+            <t pos="Adv">notkollaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10668">
+      <lg>
+         <l pos="Adv">suttoost</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kiukuissaan</t>
+            <t pos="Adv">raivoissaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10865">
+      <lg>
+         <l pos="Adv">sätináálá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ilman aikojaan</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ilman muuta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">noin vain</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10884">
+      <lg>
+         <l pos="Adv">tááhust</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">mielessä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">puolesta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10905">
+      <lg>
+         <l pos="Adv">táásá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">tasalla</t>
+            <t pos="Adv">tasalta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">tasan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11007">
+      <lg>
+         <l pos="Adv">tarbâšân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">riittävän</t>
+            <t pos="Adv">riittävästi</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">tarpeeseen</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">tarvittavan</t>
+            <t pos="Adv">tarvittavasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11074">
+      <lg>
+         <l pos="Adv">tavveen</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">pohjoisessa</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">pohjoisesta</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>

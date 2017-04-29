@@ -24093,5 +24093,42 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_10134">
+      <lg>
+         <l pos="A">šoođbâs</l>
+      </lg>
+      <mg rest="šođbâs # šođbâ">
+         <tg xml:lang="fin">
+            <t pos="A">hoikka</t>
+            <t pos="A">solakka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10369">
+      <lg>
+         <l pos="A">stoorgâs</l>
+      </lg>
+      <mg rest="storgâs # storgâ">
+         <tg xml:lang="fin">
+            <t pos="A">jähmeä</t>
+            <t pos="A">jäykkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10909">
+      <lg>
+         <l pos="A">taavâs</l>
+      </lg>
+      <mg rest="tavvâs # tavâs">
+         <tg xml:lang="fin">
+            <t pos="A">läpensä kuiva (heinistä)</t>
+         </tg>
+      </mg>
+      <mg rest="tavvâs # tavâs">
+         <tg xml:lang="fin">
+            <t pos="A">sitkeä (lihasta, nahkasta)</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
