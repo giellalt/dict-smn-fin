@@ -7724,5 +7724,47 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_8565">
+      <lg>
+         <l pos="Adv">râkkân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">juurta jaksaen</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kerralla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_8880">
+      <lg>
+         <l pos="Adv">rotoi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">joutuin</t>
+            <t pos="Adv">nopeasti</t>
+            <t pos="Adv">pian</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_8951">
+      <lg>
+         <l pos="Adv">ruáptud</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">perätilassa</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">takaperin</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>

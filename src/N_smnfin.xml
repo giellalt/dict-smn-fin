@@ -94728,21 +94728,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_8565">
-      <lg>
-         <l pos="N">râkkân</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">juurta jaksaen</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kerralla</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_8566">
       <lg>
          <l pos="N">ráksá</l>
@@ -97073,11 +97058,6 @@ For the full license text, see the link above.
       <lg>
          <l pos="N">ripá</l>
       </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">ripa</t>
-         </tg>
-      </mg>
       <mg rest="rivá">
          <tg xml:lang="fin">
             <t pos="N">ripa</t>
@@ -98205,26 +98185,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_8880">
-      <lg>
-         <l pos="N">rotoi</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">joutuin</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">nopeasti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">pian</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_8881">
       <lg>
          <l pos="N">rotoiilâsk</l>
@@ -98960,21 +98920,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_8951">
-      <lg>
-         <l pos="N">ruáptud</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">perätilassa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">takaperin</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_8952">
       <lg>
          <l pos="N">ruáptusuárgus</l>
@@ -99002,26 +98947,6 @@ For the full license text, see the link above.
       <mg rest="ruásnu">
          <tg xml:lang="fin">
             <t pos="N">puolilaho</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_8955">
-      <lg>
-         <l pos="N">ruástil</l>
-      </lg>
-      <mg rest="# -is">
-         <tg xml:lang="fin">
-            <t pos="N">taitava ja rohkea</t>
-         </tg>
-      </mg>
-      <mg rest="# -is">
-         <tg xml:lang="fin">
-            <t pos="N">uskaltava</t>
-         </tg>
-      </mg>
-      <mg rest="# -is">
-         <tg xml:lang="fin">
-            <t pos="N">pystyvä</t>
          </tg>
       </mg>
    </e>
