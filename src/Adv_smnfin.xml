@@ -7586,5 +7586,88 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_6443">
+      <lg>
+         <l pos="Adv">njihhood</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kallellaan</t>
+            <t pos="Adv">kallelleen</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">etukenossa</t>
+            <t pos="Adv">etukenoon</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6527">
+      <lg>
+         <l pos="Adv">njunolâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">nenälleen</t>
+            <t pos="Adv">nenällään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6678">
+      <lg>
+         <l pos="Adv">nuorttân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">idässä</t>
+            <t pos="Adv">idästä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6826">
+      <lg>
+         <l pos="Adv">olgoold</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">pinnalta</t>
+            <t pos="Adv">ulkopuolelta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7132">
+      <lg>
+         <l pos="Adv">paast</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">pahasta</t>
+            <t pos="Adv">pahasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7182">
+      <lg>
+         <l pos="Adv">pajalist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">päällä</t>
+            <t pos="Adv">päältä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7274">
+      <lg>
+         <l pos="Adv">párásist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">juuri silloin</t>
+            <t pos="Adv">parhaillaan</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>

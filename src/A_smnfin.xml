@@ -23981,5 +23981,58 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_6464">
+      <lg>
+         <l pos="A">njolges</l>
+      </lg>
+      <mg rest="njolgáá # njo'lges">
+         <tg xml:lang="fin">
+            <t pos="A">nulkkaavainen</t>
+            <t pos="A">ravuri (adj.)</t>
+            <t pos="A">hyvä nulkkaamaan</t>
+            <t pos="A">hyvä hölkkäämään (porosta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6816">
+      <lg>
+         <l pos="A">olgiš</l>
+      </lg>
+      <mg rest="# -is">
+         <tg xml:lang="fin">
+            <t pos="A">kova heittämään</t>
+            <t pos="A">vahvakätinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7450">
+      <lg>
+         <l pos="A">peertis</l>
+      </lg>
+      <mg rest="# perttisâs">
+         <tg xml:lang="fin">
+            <t pos="A">kaunis</t>
+            <t pos="A">nätti</t>
+            <t pos="A">sievä</t>
+            <t pos="A">soma</t>
+            <t pos="A">korea</t>
+            <t pos="A">komea</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7586">
+      <lg>
+         <l pos="A">perttis</l>
+      </lg>
+      <mg rest="# perttisâs">
+         <tg xml:lang="fin">
+            <t pos="A">nätti</t>
+            <t pos="A">sievä</t>
+            <t pos="A">komea</t>
+            <t pos="A">korea</t>
+            <t pos="A">soma</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
