@@ -99495,21 +99495,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_9004">
-      <lg>
-         <l pos="N">ruokkâd</l>
-      </lg>
-      <mg rest="# ruok'kâdis ruo'kis">
-         <tg xml:lang="fin">
-            <t pos="N">rohkea</t>
-         </tg>
-      </mg>
-      <mg rest="# ruok'kâdis ruo'kis">
-         <tg xml:lang="fin">
-            <t pos="N">hurja</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_9005">
       <lg>
          <l pos="N">ruokkâdvuotâ</l>
@@ -102362,26 +102347,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_9273">
-      <lg>
-         <l pos="N">rääjist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">asti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">jstak saakka</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">jstak lähtien</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_9274">
       <lg>
          <l pos="N">räänis</l>
@@ -102396,21 +102361,6 @@ For the full license text, see the link above.
       <lg>
          <l pos="N">rääsi</l>
       </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kasvi</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kukka</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">ruoho</t>
-         </tg>
-      </mg>
       <mg rest="rääsi">
          <tg xml:lang="fin">
             <t pos="N">kasvi</t>
@@ -102574,30 +102524,14 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">paikasta</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="N">asemesta</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="N">sijasta</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">sijassa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="N">asemassa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="N">paikassa</t>
          </tg>
       </mg>
@@ -103744,21 +103678,6 @@ For the full license text, see the link above.
       <mg rest="sajaduv">
          <tg xml:lang="fin">
             <t pos="N">sijainti</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_9392">
-      <lg>
-         <l pos="N">sajan</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">asemesta</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">paikkaan</t>
          </tg>
       </mg>
    </e>
@@ -106022,26 +105941,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_9596">
-      <lg>
-         <l pos="N">setináálá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">ilman aikojaan</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">ilman muuta</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">noin vain</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_9597">
       <lg>
          <l pos="N">setinálásâš</l>
@@ -107004,21 +106903,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">sinappi</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_9688">
-      <lg>
-         <l pos="N">šiiŋâs</l>
-      </lg>
-      <mg rest="šiŋŋâs # šiŋŋâ">
-         <tg xml:lang="fin">
-            <t pos="N">harva (kankaasta)</t>
-         </tg>
-      </mg>
-      <mg rest="šiŋŋâs # šiŋŋâ">
-         <tg xml:lang="fin">
-            <t pos="N">ohut (kankaasta)</t>
          </tg>
       </mg>
    </e>
@@ -111014,31 +110898,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">hake</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_10034">
-      <lg>
-         <l pos="N">smaavâs</l>
-      </lg>
-      <mg rest="# smaVâ">
-         <tg xml:lang="fin">
-            <t pos="N">hienojakoinen</t>
-         </tg>
-      </mg>
-      <mg rest="# smaVâ">
-         <tg xml:lang="fin">
-            <t pos="N">hieno</t>
-         </tg>
-      </mg>
-      <mg rest="# smaVâ">
-         <tg xml:lang="fin">
-            <t pos="N">pieni</t>
-         </tg>
-      </mg>
-      <mg rest="# smaVâ">
-         <tg xml:lang="fin">
-            <t pos="N">pikkuinen</t>
          </tg>
       </mg>
    </e>

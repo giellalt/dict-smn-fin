@@ -24046,5 +24046,52 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_9004">
+      <lg>
+         <l pos="A">ruokkâd</l>
+      </lg>
+      <mg rest="# ruok'kâdis ruo'kis">
+         <tg xml:lang="fin">
+            <t pos="A">rohkea</t>
+         </tg>
+      </mg>
+      <mg rest="# ruok'kâdis ruo'kis">
+         <tg xml:lang="fin">
+            <t pos="A">hurja</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_9688">
+      <lg>
+         <l pos="A">šiiŋâs</l>
+      </lg>
+      <mg rest="šiŋŋâs # šiŋŋâ">
+         <tg xml:lang="fin">
+            <t pos="A">harva (kankaasta)</t>
+         </tg>
+      </mg>
+      <mg rest="šiŋŋâs # šiŋŋâ">
+         <tg xml:lang="fin">
+            <t pos="A">ohut (kankaasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10034">
+      <lg>
+         <l pos="A">smaavâs</l>
+      </lg>
+      <mg rest="# smaVâ">
+         <tg xml:lang="fin">
+            <t pos="A">hienojakoinen</t>
+            <t pos="A">hieno</t>
+         </tg>
+      </mg>
+      <mg rest="# smaVâ">
+         <tg xml:lang="fin">
+            <t pos="A">pieni</t>
+            <t pos="A">pikkuinen</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>

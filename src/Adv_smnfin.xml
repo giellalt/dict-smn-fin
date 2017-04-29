@@ -7766,5 +7766,52 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_9273">
+      <lg>
+         <l pos="Adv">rääjist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">asti</t>
+            <t pos="Adv">jstak saakka</t>
+            <t pos="Adv">jstak lähtien</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_9392">
+      <lg>
+         <l pos="Adv">sajan</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">asemesta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">paikkaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_9596">
+      <lg>
+         <l pos="Adv">setináálá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ilman aikojaan</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ilman muuta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">noin vain</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
