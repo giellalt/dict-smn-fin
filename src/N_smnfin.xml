@@ -11353,21 +11353,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_1018">
-      <lg>
-         <l pos="N">čooroost</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">syrjässä (asutuksesta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">syrjästä (asutuksesta)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_1019">
       <lg>
          <l pos="N">cooskâs</l>
@@ -11713,21 +11698,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_1048">
-      <lg>
-         <l pos="N">čuáhist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">koolla</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">koossa</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_1049">
       <lg>
          <l pos="N">čuájá</l>
@@ -11845,16 +11815,12 @@ For the full license text, see the link above.
    </e>
    <e id="N_1059">
       <lg>
-         <l pos="N">čuákkist</l>
+         <l pos="Adv">čuákkist</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">koolla</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">koossa</t>
+            <t pos="Adv">koolla</t>
+            <t pos="Adv">koossa</t>
          </tg>
       </mg>
    </e>
@@ -15228,21 +15194,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_1351">
-      <lg>
-         <l pos="N">čuožâd</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">seisaallaan</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">seisaalleen</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_1352">
       <lg>
          <l pos="N">cuozzâ</l>
@@ -18325,21 +18276,6 @@ For the full license text, see the link above.
       <mg rest="-viijni">
          <tg xml:lang="fin">
             <t pos="N">ehtoollisviini</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_1622">
-      <lg>
-         <l pos="N">ehidist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">illalla</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">illasta</t>
          </tg>
       </mg>
    </e>
@@ -26386,21 +26322,6 @@ For the full license text, see the link above.
       <mg rest="-kuok'suu">
          <tg xml:lang="fin">
             <t pos="N">aamunkoi</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_2359">
-      <lg>
-         <l pos="N">iiđeedláá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">aamun koitteessa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">aamunkoitteessa</t>
          </tg>
       </mg>
    </e>
@@ -54359,26 +54280,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">ohikulkija</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_4897">
-      <lg>
-         <l pos="N">lappâsist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">hukassa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">eksyksissä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kadoksissa</t>
          </tg>
       </mg>
    </e>
@@ -121898,21 +121799,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">moderato (mus.)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_11030">
-      <lg>
-         <l pos="N">tavas</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">pohjoiseen</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">vesille</t>
          </tg>
       </mg>
    </e>

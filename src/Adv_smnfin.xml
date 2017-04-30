@@ -7923,5 +7923,98 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_1018">
+      <lg>
+         <l pos="Adv">čooroost</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">syrjässä (asutuksesta)</t>
+            <t pos="Adv">syrjästä (asutuksesta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1048">
+      <lg>
+         <l pos="Adv">čuáhist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">koolla</t>
+            <t pos="Adv">koossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1059">
+      <lg>
+         <l pos="Adv">čuákkist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">koolla</t>
+            <t pos="Adv">koossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1351">
+      <lg>
+         <l pos="Adv">čuožâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">seisaallaan</t>
+            <t pos="Adv">seisaalleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1622">
+      <lg>
+         <l pos="Adv">ehidist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">illalla</t>
+            <t pos="Adv">illasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2359">
+      <lg>
+         <l pos="Adv">iiđeedláá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aamun koitteessa</t>
+            <t pos="Adv">aamunkoitteessa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4897">
+      <lg>
+         <l pos="Adv">lappâsist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">hukassa</t>
+            <t pos="Adv">eksyksissä</t>
+            <t pos="Adv">kadoksissa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11030">
+      <lg>
+         <l pos="Adv">tavas</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">pohjoiseen</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vesille</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
