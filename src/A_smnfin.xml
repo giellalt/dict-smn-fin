@@ -24186,5 +24186,43 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_12386">
+      <lg>
+         <l pos="A">veessil</l>
+      </lg>
+      <mg rest="# veSilis veSilâs">
+         <tg xml:lang="fin">
+            <t pos="A">ketterä</t>
+            <t pos="A">näppärä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_8313">
+      <lg>
+         <l pos="A">puuriš</l>
+      </lg>
+      <mg rest="# puriččis">
+         <tg xml:lang="fin">
+            <t pos="A">isoruokainen</t>
+            <t pos="A">suuriruokainen</t>
+            <t pos="A">syömäri</t>
+            <t pos="A">syöppö</t>
+            <t pos="A">paljoruokainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6585">
+      <lg>
+         <l pos="A">njyebžil</l>
+      </lg>
+      <mg rest="# -is">
+         <tg xml:lang="fin">
+            <t pos="A">joustava</t>
+            <t pos="A">sujuva</t>
+            <t pos="A">notkea</t>
+            <t pos="A">taipuisa</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>

@@ -72879,31 +72879,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_6585">
-      <lg>
-         <l pos="N">njyebžil</l>
-      </lg>
-      <mg rest="# -is">
-         <tg xml:lang="fin">
-            <t pos="N">joustava</t>
-         </tg>
-      </mg>
-      <mg rest="# -is">
-         <tg xml:lang="fin">
-            <t pos="N">sujuva</t>
-         </tg>
-      </mg>
-      <mg rest="# -is">
-         <tg xml:lang="fin">
-            <t pos="N">notkea</t>
-         </tg>
-      </mg>
-      <mg rest="# -is">
-         <tg xml:lang="fin">
-            <t pos="N">taipuisa</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_6586">
       <lg>
          <l pos="N">njyergis</l>
@@ -91801,36 +91776,6 @@ For the full license text, see the link above.
       <mg rest="purgâs # porge-">
          <tg xml:lang="fin">
             <t pos="N">ohutkarvainen (uudesta tai kesäkarvasta)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_8313">
-      <lg>
-         <l pos="N">puuriš</l>
-      </lg>
-      <mg rest="# puriččis">
-         <tg xml:lang="fin">
-            <t pos="N">isoruokainen</t>
-         </tg>
-      </mg>
-      <mg rest="# puriččis">
-         <tg xml:lang="fin">
-            <t pos="N">suuriruokainen</t>
-         </tg>
-      </mg>
-      <mg rest="# puriččis">
-         <tg xml:lang="fin">
-            <t pos="N">syömäri</t>
-         </tg>
-      </mg>
-      <mg rest="# puriččis">
-         <tg xml:lang="fin">
-            <t pos="N">syöppö</t>
-         </tg>
-      </mg>
-      <mg rest="# puriččis">
-         <tg xml:lang="fin">
-            <t pos="N">paljoruokainen</t>
          </tg>
       </mg>
    </e>
@@ -136599,21 +136544,6 @@ For the full license text, see the link above.
       <mg rest="viäs'kár">
          <tg xml:lang="fin">
             <t pos="N">eteinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_12386">
-      <lg>
-         <l pos="N">veessil</l>
-      </lg>
-      <mg rest="# veSilis veSilâs">
-         <tg xml:lang="fin">
-            <t pos="N">ketterä</t>
-         </tg>
-      </mg>
-      <mg rest="# veSilis veSilâs">
-         <tg xml:lang="fin">
-            <t pos="N">näppärä</t>
          </tg>
       </mg>
    </e>
