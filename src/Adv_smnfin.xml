@@ -8064,5 +8064,60 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_12234">
+      <lg>
+         <l pos="Adv">vahâgist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">erehdyksessä</t>
+            <t pos="Adv">vahingossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_12310">
+      <lg>
+         <l pos="Adv">valjeest</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">runsaasti</t>
+            <t pos="Adv">yllinkyllin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_12526">
+      <lg>
+         <l pos="Adv">vievâst</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">avulla</t>
+            <t pos="Adv">voimalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_12686">
+      <lg>
+         <l pos="Adv">viällud</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">makuulla</t>
+            <t pos="Adv">vaaka-asennossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_12782">
+      <lg>
+         <l pos="Adv">vuáđuld</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">perusteella</t>
+            <t pos="Adv">pohjalta</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
