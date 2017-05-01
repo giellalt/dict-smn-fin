@@ -8016,5 +8016,53 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_11375">
+      <lg>
+         <l pos="Adv">tooláá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aikaisin</t>
+         </tg>
+      </mg>
+      <mg rest="iđedist">
+         <tg xml:lang="fin">
+            <t pos="Adv">aamutuimaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11672">
+      <lg>
+         <l pos="Adv">tupepiällást</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">tuvan vieressä</t>
+            <t pos="Adv">tuvan nurkalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11922">
+      <lg>
+         <l pos="Adv">uániháá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">hetkisen</t>
+            <t pos="Adv">lyhyen aikaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_12005">
+      <lg>
+         <l pos="Adv">uccáá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vähän</t>
+            <t pos="Adv">hiukan</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
