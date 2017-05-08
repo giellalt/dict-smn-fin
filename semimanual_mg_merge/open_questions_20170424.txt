@@ -240,3 +240,35 @@ A_589 kirjálâš: [LEMMA ki'rjálii] kirjallinen; [LEMMA ki'rjálii] kirjoitus-
 ===
 N_7080 ovtâskâs: [LEMMA ulmuu] yksilö; [LEMMA olmooš] yksilö : 1 = 2 _ ? same meaning
 ===
+   <e id="Adv_32" mc="singular-plural issue">
+      <lg>
+         <l pos="Adv">čohčuv</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">syksyllä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">syksyisin</t>
+         </tg>
+      </mg>
+   </e>
+===
+   <e id="Adv_136" mc="singular-plural issue">
+      <lg>
+         <l pos="Adv">keessiv</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kesällä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kesäisin</t>
+         </tg>
+      </mg>
+   </e>
+===
