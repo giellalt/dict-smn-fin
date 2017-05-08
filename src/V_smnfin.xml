@@ -17251,15 +17251,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">tulla karkoitetuksi</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tulla säkäytetyksi</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
+            <t pos="V">tulla säikäitetyksi</t>
             <t pos="V">tulla hätistetyksi</t>
          </tg>
       </mg>
@@ -22361,15 +22353,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">hapantua (kalasta, lihasta tai rasvasta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">härskiintyä (kalasta, lihasta tai rasvasta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">tulla maultaan vanhaksi ja kitkeräksi (kalasta, lihasta tai rasvasta)</t>
          </tg>
       </mg>
@@ -22708,11 +22692,6 @@ For the full license text, see the link above.
             <t pos="V">olla pitkässä hihnassa (koirasta)</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">olla pidempi tai ulkonevampi kuin muut (esineistä), olla pitkässä hihnassa (koira)</t>
-         </tg>
-      </mg>
    </e>
    <e id="V_1758">
       <lg>
@@ -22725,7 +22704,7 @@ For the full license text, see the link above.
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">olla olla pidempi tai ulkonevampi kuin muut (esineistä), olla pitkässä hihnassa (koira)</t>
+            <t pos="V">olla olla pidempi tai ulkonevampi kuin muut (esineistä)</t>
          </tg>
       </mg>
    </e>
