@@ -16208,11 +16208,6 @@ For the full license text, see the link above.
             <t pos="V">jaksottaa</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">jaksottaa</t>
-         </tg>
-      </mg>
    </e>
    <e id="V_1237">
       <lg>
@@ -19080,11 +19075,6 @@ For the full license text, see the link above.
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">kiihottaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">yllyttää</t>
          </tg>
       </mg>
@@ -19138,11 +19128,6 @@ For the full license text, see the link above.
       <lg>
          <l pos="V">kiijvástuđ</l>
       </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">kiivastua</t>
-         </tg>
-      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kiivastua</t>
@@ -41608,11 +41593,6 @@ For the full license text, see the link above.
       <lg>
          <l pos="V">puánjostiđ</l>
       </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">kastaa nesteeseen (kerran)</t>
-         </tg>
-      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kastaa nesteeseen (kerran)</t>
