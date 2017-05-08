@@ -1,0 +1,422 @@
+A_11 áárvustoonnum: kunnianarvoisa; kunnioitettava; arvoisa : 1 = 2 = 3 _ 1+2
+A_12 áášánkullee: asiaankuuluva; asianomainen; kyseinen : 1 = 2 = 3 _ 2+3
+A_14 aavâštmettum: aavistamaton; arvaamaton : 1 = 2 _ 1+2
+A_15 absoluutlâš: [LEMMA absoluutlii] absoluuttinen; [LEMMA absoluutlii] ehdoton : 1 = 2 _ 1+2
+A_22 addiitteijee: ymmärrettävissä; ymmärrettävä : 1 = 2 _ 1+2
+A_23 addiittijjee: ymmärrettävissä; ymmärrettävä : 1 = 2 _ 1+2
+A_24 adelâš: [LEMMA adelii] avokätinen; [LEMMA adelii] antelias : 1 = 2 _ 1+2
+A_26 aggressiivlâš: [LEMMA aggressiivlii] agressiivinen; [LEMMA aggressiivlii] hyökkäävä : 1 = 2 _ 1+2
+A_27 agressijvâlâš: [LEMMA agressijvâlii] agressiivinen; [LEMMA agressijvâlii] hyökkäävä : 1 = 2 _ 1+2
+A_28 ahheev: ikävä (subst.); [LEMMA # ahevâs ahevis ahheevâs] ikävä (adj.) : 1 = 2 _ 
+A_29 áhtánâs: häävi; kaksinen : 1 = 2 _ 1+2
+A_32 áigálâš: [LEMMA á'igálii] ajallinen; [LEMMA á'igálii] aikalainen : 1 = 2 _ 
+A_39 aktiivlâš: [LEMMA aktiivlii] aktiivinen; [LEMMA aktiivlii] vireä : 1 = 2 _ 1+2
+A_46 alemus: [LEMMA alemuu] ylin; [LEMMA alemuu] korkein : 1 = 2 _ 
+A_51 alleen: korkealla; korkealta : 1 = 2 _ 1+2
+A_54 almolâš: [LEMMA a'lmolii] julkinen; [LEMMA a'lmolii] yleinen : 1 = 2 _ 1+2
+A_65 anolâš: [LEMMA anolii] käyttökelpoinen; [LEMMA anolii] hyödyllinen : 1 = 2 _ 
+A_68 ápálâš: [LEMMA ápálii] etevä; [LEMMA ápálii] kykenevä; [LEMMA ápálii] pystyvä; [LEMMA ápálii] osaava; [LEMMA ápálii] taitava; [LEMMA ápálii] vahva; [LEMMA ápálii] väkevä (voimiltaan); [LEMMA ápálii] vahva ja kykenevä; [LEMMA ápálii] voimakas (voimiltaan) : 1 = 2 = 3 = 4 = 5 = 6 = 7 = 8 = 9 _ 1+2+3+4+5 = 6+7+8+9
+A_69 áppáá: [LEMMA # -s] voimakas (voimiltaan); [LEMMA # -s] väkevä (voimiltaan) : 1 = 2 _ 1+2
+A_74 ármulâš: [LEMMA ármulii] armias; [LEMMA ármulii] armollinen : 1 = 2 _ 1+2
+A_75 ármuttem: armoton; säälimätön : 1 = 2 _ 1+2
+A_77 arvaa: [LEMMA # arvaas] sateinen; [LEMMA # -s] runsassateinen : 1 = 2 _ 1+2
+A_91 aštus: todellakin; todella : 1 = 2 _ 1+2
+A_94 ávádum: ahavoitunut; päivettynyt (kevätauringossa); ruskettunut (kevätauringossa) : 1 = 2 = 3 _ 2+3
+A_95 avalâš: [LEMMA aValii] ikuinen; [LEMMA aValii] ikääntynyt; [LEMMA aValii] iäinen; [LEMMA aValii] iäkäs : 1 = 2 = 3 = 4 _ 1+3 = 2+4
+A_100 avettem: [LEMMA # aVettes aVettâs] iätön; [LEMMA # aVettes aVettâs] huonolaatuinen (kankaasta); [LEMMA # aVettes aVettâs] lyhytikäinen : 1 = 2 = 3 _ 
+A_104 ávusmielâlâš: [LEMMA -mie'lâlii] avomielinen; [LEMMA -mie'lâlii] avoin (mieleltään) : 1 = 2 _ 1+2
+A_109 čaavdes: tiivis; tiukka; kestävä : 1 = 2 = 3 _ 
+A_112 čálálâs: [LEMMA čálálii] kirjoittavainen (ahkera tai innokas kirjoittamaan); [LEMMA čálálii] kynäilevä : 1 = 2 _ 1+2
+A_116 čalmettem: [LEMMA # ča'lmettes] huononäköinen; [LEMMA # ča'lmettes] sokea : 1 = 2 _ 
+A_122 čášnáá: [LEMMA # čášnáás] kuiva (laiha liha, esim. rintaliha); [LEMMA # čášnáás] laiha (kuiva liha, esim. rintaliha); [LEMMA # čášnáás] rasvaton (kuiva ja laiha liha, esim. rintaliha) : 1 = 2 = 3 _ 1+2+3
+A_123 ceggii: [LEMMA # -s] itsepäinen; [LEMMA # -s] jääräpäinen; [LEMMA # -s] uppiniskainen : 1 = 2 = 3 _ 1+2+3
+A_124 ceggiistellee: itsepäinen; uppiniskainen : 1 = 2 _ 1+2
+A_129 čeppi: [LEMMA čeepi # čepis] taitava; [LEMMA čeepi # čepis] osaava; [LEMMA čeepi # čepis] fiksu : 1 = 2 = 3 _ 1+2
+A_130 českâd: [LEMMA # če'skis] hohtavanvalkoinen; [LEMMA # če'skis] valkea : 1 = 2 _ 1+2
+A_134 čielgâsubbooht: selkeämmin; selvemmin : 1 = 2 _ 1+2
+A_145 čižetpeln: vasemmalla; vasemmalta : 1 = 2 _ 1+2
+A_146 ciäggud: pystyssä (olla); pystysuorassa : 1 = 2 _ 
+A_152 čiävđáá: [LEMMA # -s] paksunahkainen; [LEMMA # -s] paksu (nahasta) : 1 = 2 _ 
+A_153 čiävláá: [LEMMA # -s] ylpeä; [LEMMA # -s] korskea (ihmisestä) : 1 = 2 _ 1+2
+A_160 čoođâčoolmâg: [LEMMA -čolmâg] mieluinen (erittäin); [LEMMA -čolmâg] yliveto : 1 = 2 _ 1+2
+A_164 čovgâd: [LEMMA # čovgâ čo'vgis] kireä; [LEMMA # čovgâ čo'vgis] kova (esim. tuulesta, pakkasesta); [LEMMA # čovgâ čo'vgis] raskas; [LEMMA # čovgâ čo'vgis] tiukka; [LEMMA # čovgâ čo'vgis] vahvakätinen : 1 = 2 = 3 = 4 = 5 _ 1+4
+A_166 čuálččáá: [LEMMA # -s] ryhdikäs; [LEMMA # -s] uhkea (positiivisesti); [LEMMA # -s] rehevä (positiivisesti); [LEMMA # -s] uljas; [LEMMA # -s] upea : 1 = 2 = 3 = 4 = 5 _ 2+3
+A_167 čuálittem: [LEMMA # čuá'littemes čuá'littes] pienivatsainen (erit. eläimistä); [LEMMA # čuá'littemes čuá'littes] laihtunut (vatsastaan, erit. eläimistä) : 1 = 2 _ 1+2
+A_170 čuárvittem: [LEMMA # čuá'rvittes] pienisarvinen (porosta); [LEMMA # čuá'rvittes] sarveton : 1 = 2 _ 
+A_181 čunžáá: [LEMMA # -s] kömpelö; [LEMMA # -s] tökerö : 1 = 2 _ 
+A_191 čuovvâl: [LEMMA # čuovvâlâs čuoVâlâs] kirkas; [LEMMA # čuovvâlâs čuoVâlâs] loistava : 1 = 2 _ 
+A_192 čurgâd: [LEMMA # ču'rgis čurgâdis] huolellinen; [LEMMA # ču'rgis čurgâdis] kunnollinen; [LEMMA # ču'rgis čurgâdis] siisti; [LEMMA # ču'rgis čurgâdis] siivo : 1 = 2 = 3 = 4 _ 2+4
+A_193 čurgiihánnáá: [LEMMA # -s] siistimätön; [LEMMA # -s] siivoamaton : 1 = 2 _ 1+2
+A_195 čuuhâl: [LEMMA # čuhâlâs čuha] terävä; [LEMMA # čuhâlâs čuha] kimeä; [LEMMA # čuhâlâs čuha] kimeä (ääni) : 1 = 2 = 3 _ 2+3
+A_197 čuuvâs: [LEMMA čuuhâs # čuhâ -)] suippo; [LEMMA čuuhâs # čuhâ -)] terävä (suipeten, kuten kynän terä) : 1 = 2 _ 1+2
+A_198 čyeijil: [LEMMA # čye'Jilis] heleä (äänestä); [LEMMA # čye'Jilis] kirkas (äänestä); [LEMMA # čye'Jilis] soinnillinen : 1 = 2 = 3 _ 1+2
+A_200 čyerbi: [LEMMA čyerbi # čye'rbis] taitamaton; [LEMMA čyerbi # čye'rbis] tökerö; [LEMMA čyerbi # čye'rbis] osaamaton : 1 = 2 = 3 _ 2+3
+A_206 čäsittem: [LEMMA # čäsittes čäsittemes] vedetön; [LEMMA # čäsittes čäsittemes] vähävetinen : 1 = 2 _ 
+A_233 ellee: elollinen; elävä : 1 = 2 _ 1+2
+A_236 enâmus: enin; enintään; eniten; korkeintaan : 1 = 2 = 3 = 4 _ 1+2 = 3+4
+A_237 enittem: [LEMMA # eNittes eNittemes] emätön (esim. vasasta); [LEMMA # eNittes eNittemes] äiditön : 1 = 2 _ 1+2
+A_251 epitáválâš: [LEMMA -táválii] epätavallinen; [LEMMA -táválii] erikoinen; [LEMMA -táválii] poikkeava : 1 = 2 = 3 _ 1+3
+A_261 erduu: [LEMMA # -s] ärtyisä; [LEMMA # -s] ärtynyt : 1 = 2 _ 1+2
+A_270 eštus: todellakin; tosiaan; todella : 1 = 2 = 3 _ 1+3
+A_271 eštuu: todellakin; tosiaan; todella : 1 = 2 = 3 _ 1+3
+A_278 fámuttim: [LEMMA # fámuttis fámuttemes] heikko; [LEMMA # fámuttis fámuttemes] vanhuudenheikko; [LEMMA # fámuttis fámuttemes] voimaton : 1 = 2 = 3 _ 1+3
+A_281 fastâ: vakituinen; vakio-; pysyvä : 1 = 2 = 3 _ 1+3
+A_283 faste: [LEMMA fa'ste # fa'stes] inhottava; [LEMMA fa'ste # fa'stes] vastenmielinen; [LEMMA fa'ste # fa'stes] ruma : 1 = 2 = 3 _ 1+2
+A_284 ficcii: [LEMMA # ficciis] likainen (etenkin lapselle sanottaessa); [LEMMA # ficciis] tuhma (etenkin lapselle sanottaessa) : 1 = 2 _ 
+A_285 fiettejeijee: ymmärtäväinen; ymmärtävä; älykäs : 1 = 2 = 3 _ 1+2
+A_298 fälskittem: [LEMMA # fä'lskittemes] rehellinen; [LEMMA # fä'lskittemes] vilpitön : 1 = 2 _ 1+2
+A_299 genetiiklâš: [LEMMA genetiiklii] perinnöllinen; [LEMMA genetiiklii] geneettinen : 1 = 2 _ 1+2
+A_308 haablâs: [LEMMA hablâs # hablâ] kuohkea; [LEMMA hablâs # hablâ] irtonainen (esim. lumesta, heinistä, puuaineksesta); [LEMMA hablâs # hablâ] pehmeä (esim. lumesta, heinistä, puuaineksesta) : 1 = 2 = 3 _ 
+A_310 hablii: [LEMMA #-s] pehmeä (ja irtonainen esim. lumesta); [LEMMA #-s] irtonainen (ja pehmeä esim. lumesta) : 1 = 2 _ 
+A_311 haijii: [LEMMA # -s] löyhkäävä; [LEMMA # -s] pahanhajuinen : 1 = 2 _ 1+2
+A_317 hámálâš: [LEMMA hámálii] komea; [LEMMA hámálii] sorja; [LEMMA hámálii] tyylikäs (esine tms. muotoilultaan); [LEMMA hámálii] hittolainen (lievä kirosana); [LEMMA hámálii] hölmöläinen (lievä kirosana); [LEMMA hámálii] muodollinen : 1 = 2 = 3 = 4 = 5 = 6 _ 1+2
+A_318 hardâšuttee: ärsyttävä (härnäävä); härnäävä : 1 = 2 _ 1+2
+A_319 hárjánâm: kokenut; tottunut; harjaantunut : 1 = 2 = 3 _ 1+2+3
+A_326 heeitâg: [LEMMA heittâg # heitâgis] mitätön; [LEMMA heittâg # heitâgis] huono : 1 = 2 _ 1+2
+A_327 heeitug: [LEMMA heittug # heitugis] mitätön; [LEMMA heittug # heitugis] huono : 1 = 2 _ 1+2
+A_330 heeppâdlâš: [LEMMA heeppâdlii] häpeällinen; [LEMMA heeppâdlii] hävytön; [LEMMA heeppâdlii] hävettävä : 1 = 2 = 3 _ 1+2
+A_335 hepâneššee: nolo; hävettävä : 1 = 2 _ 1+2
+A_336 herkki: [LEMMA heerhi # he'rhis] herkkä; [LEMMA heerhi # he'rhis] sensitiivinen : 1 = 2 _ 1+2
+A_337 hervii: [LEMMA # -s] koristeinen; [LEMMA # -s] räikeä (väristä) : 1 = 2 _ 
+A_344 hirmâdsâš: [LEMMA hirmâdsii] kauhea; [LEMMA hirmâdsii] kauhean suuri : 1 = 2 _ 
+A_345 hirmos: hirmuinen (attr.); kauhea (adjektiivien ja adverbien edellä) : 1 = 2 _ 
+A_350 hiäivulâš: [LEMMA hiä'ivulii] soveltuva; [LEMMA hiä'ivulii] sopiva; [LEMMA hiä'ivulii] sovelias : 1 = 2 = 3 _ 1+2
+A_361 hoppeel: [LEMMA # hopelis] hupa; [LEMMA # hopelis] hupeneva : 1 = 2 _ 
+A_363 hormiš: jykevä; järeä; pelottava (jk vaikuttavan ominaisuutensa takia); vaikuttava : 1 = 2 = 3 = 4 _ 1+2
+A_364 huálssáá: [LEMMA # -s] hölöttäjä; [LEMMA # -s] puhelias : 1 = 2 _ 1+2
+A_367 huávráá: [LEMMA # -s] malttamaton; [LEMMA # -s] mankuva; [LEMMA # -s] ruinaava : 1 = 2 = 3 _ 2+3
+A_369 humosláván: hupsunlainen; tyhmänlainen : 1 = 2 _ 
+A_373 hurráá: [LEMMA # -s] kiirehtivä (turhan päiten, ihmisestä); [LEMMA # -s] rauhaton (porosta, joka ei pysy paikallaan) : 1 = 2 _ 
+A_375 hurttáá: [LEMMA # -s] ahnas; [LEMMA # -s] ahne : 1 = 2 _ 1+2
+A_376 hurváá: [LEMMA # -s] pörröinen; [LEMMA # -s] takkuinen : 1 = 2 _ 
+A_385 hänis: [LEMMA háánnás # hänis hänes] nuuka; [LEMMA háánnás # hänis hänes] ahne : 1 = 2 _ 
+A_390 ibbeerdmáttum: käsittämätön; ymmärtämätön : 1 = 2 _ 1+2
+A_391 ibbeerdmettum: käsittämätön; ymmärtämätön : 1 = 2 _ 1+2
+A_394 idealistlâš: [LEMMA idealistlii] idealistinen; [LEMMA idealistlii] aatteellinen : 1 = 2 _ 1+2
+A_400 iirâs: [LEMMA irrâs # irâs] arka; [LEMMA irrâs # irâs] pakoileva; [LEMMA irrâs # irâs] vauhko : 1 = 2 = 3 _ 
+A_403 ilbâd: [LEMMA # i'lbis] ilkeä; [LEMMA # i'lbis] ilkikurinen; [LEMMA # i'lbis] kujeellinen : 1 = 2 = 3 _ 2+3
+A_404 ilgâd: [LEMMA # ilgâdis] häijy; [LEMMA # ilgâdis] ilkeä (nähtävä); [LEMMA # ilgâdis] iljettävä (nähtävä); [LEMMA # ilgâdis] vastenmielinen (ruma); [LEMMA # ilgâdis] pahannäköinen : 1 = 2 = 3 = 4 = 5 _ 2+3+4+5
+A_409 immeellâš: [LEMMA immeellii] jumalinen; [LEMMA immeellii] jumalainen : 1 = 2 _ 1+2
+A_426 iäljár: yritteliäs; ahkera; tarmokas : 1 = 2 = 3 _ 1+2+3
+A_427 iälššáá: [LEMMA # -s] ahkera; [LEMMA # -s] innokas : 1 = 2 _ 1+2
+A_431 iästulâš: [LEMMA iä'stulii] jäävi; [LEMMA iä'stulii] esteellinen : 1 = 2 _ 1+2
+A_434 iätásâš: [LEMMA iä'tásii] avun tarpeessa oleva; [LEMMA iä'tásii] hädänalainen : 1 = 2 _ 1+2
+A_443 jamâ: [LEMMA # jaamâ] eloton; [LEMMA # jaamâ] hengetön (kuollut); [LEMMA # jaamâ] kuollut : 1 = 2 = 3 _ 1+2+3
+A_445 jávuttem: [LEMMA # jávuttes] hiljainen (ihmisestä); [LEMMA # jávuttes] äänetön : 1 = 2 _ 1+2
+A_449 jiegâlâš: [LEMMA jie'gâlii] elollinen (jokin, joka on hengissä); [LEMMA jie'gâlii] henkinen : 1 = 2 _ 
+A_451 jienâttem: [LEMMA # -s] huonoääninen; [LEMMA # -s] äänetön : 1 = 2 _ 
+A_463 jiešpiäiválâš: [LEMMA -piä'iválii] kuriton; [LEMMA -piä'iválii] huonotapainen : 1 = 2 _ 1+2
+A_464 jiešráđálâš: [LEMMA -ráđálii] oma-aloitteinen; [LEMMA -ráđálii] itsenäinen : 1 = 2 _ 1+2
+A_469 jiešvuođâlâš: [LEMMA -vuo'đâlii] ominainen; [LEMMA -vuo'đâlii] tyypillinen : 1 = 2 _ 1+2
+A_470 jiäggáá: [LEMMA # -s] jänkäinen; [LEMMA # -s] soinen : 1 = 2 _ 1+2
+A_471 jiäháttellee: kuuliainen; tottelevainen : 1 = 2 _ 1+2
+A_473 jiärmáá: [LEMMA # -s] viisas; [LEMMA # -s] järjellinen; [LEMMA # -s] järkevä : 1 = 2 = 3 _ 2+3
+A_474 jiärmálâš: [LEMMA jiä'rmálii] järjellinen; [LEMMA jiä'rmálii] järkevä : 1 = 2 _ 1+2
+A_482 jorŋii: [LEMMA # -s] ruttuinen; [LEMMA # -s] kurttuinen; [LEMMA # -s] poimuinen; [LEMMA # -s] ryppyinen : 1 = 2 = 3 = 4 _ 1+2+4
+A_488 juárbudeves: keikkuvainen (helposti keikkuva veneestä); kiikkerä : 1 = 2 _ 1+2
+A_489 juármáá: [LEMMA # -s] kurttuinen (vaatteesta); [LEMMA # -s] ruttuinen (vaatteesta); [LEMMA # -s] ryppyinen (vaatteesta) : 1 = 2 = 3 _ 1+2+3
+A_493 juhhee: toistuvasti päihtynyt ihminen; juomari; alkoholisti; juoppo : 1 = 2 = 3 = 4 _ 1+2+3+4
+A_497 julme: [LEMMA ju'lme] julma; [LEMMA ju'lme] liian suuri; [LEMMA ju'lme] valtava : 1 = 2 = 3 _ 
+A_499 juollâd: [LEMMA # juo'Lis juo'Lâdis -âs] harva (verkosta); [LEMMA # juo'Lis juo'Lâdis -âs] väljä (esim. vaatteesta) : 1 = 2 _ 
+A_500 juovvii: [LEMMA # -s] kivikkoinen; [LEMMA # -s] louhikkoinen : 1 = 2 _ 1+2
+A_503 juurdâlâš: [LEMMA juurdâlii] ajatuksellinen; [LEMMA juurdâlii] aatteellinen : 1 = 2 _ 
+A_506 jyehi-ivvááš: [LEMMA -ivváá] jokavuotinen; [LEMMA -ivváá] vuotuinen : 1 = 2 _ 1+2
+A_511 jyelgittem: huonojalkainen; jalaton : 1 = 2 _ 
+A_523 káđus: [LEMMA káttus] katos; [LEMMA káttus] aitta (väliaikainen) : 1 = 2 _ 
+A_526 káigáá: [LEMMA # -s] tollo (adj.); [LEMMA # -s] typerä (adj.); [LEMMA # -s] ääliömäinen (adj.) : 1 = 2 = 3 _ 1+2+3
+A_528 kalje: [LEMMA ka'lje # ka'ljes] väljä (esim. vaate); [LEMMA ka'lje # ka'ljes] harvatiheyksinen (esim. kamman piikeistä tms.) : 1 = 2 _ 
+A_530 kalšâd: [LEMMA # -is] kalsea; [LEMMA # -is] kolea : 1 = 2 _ 1+2
+A_535 kaškos: [LEMMA kaškos] kylmä (ihmisestä); [LEMMA kaškos] tunteeton (ihmisestä) : 1 = 2 _ 1+2
+A_543 kavraa: [LEMMA # kavre-] kumara; [LEMMA # kavre-] käyrä; [LEMMA # kavre-] väärä : 1 = 2 = 3 _ 1+2
+A_555 kerimâs: iso; ohutkuorinen (konttiluusta); tilava : 1 = 2 = 3 _ 
+A_559 kiddâd: [LEMMA # kiddis kiddâdâs] kiinteä; [LEMMA # kiddis kiddâdâs] sitkeä; [LEMMA # kiddis kiddâdâs] tiukka : 1 = 2 = 3 _ 
+A_563 kielâlâš: [LEMMA kie'lâlii] kielitaitoinen; [LEMMA kie'lâlii] montaa kieltä osaava : 1 = 2 _ 1+2
+A_567 kieŋâlâsâst: syvällä; syvältä : 1 = 2 _ 1+2
+A_570 kierdâmettum: [LEMMA # -is] kärsimätön; [LEMMA # -is] sietämätön : 1 = 2 _ 
+A_572 kieres: [LEMMA kiärrás] hellä (jtak kohtaan); [LEMMA kiärrás] läheinen (kiintymyksen kohteesta) : 1 = 2 _ 
+A_573 kiergâd: [LEMMA # -is] kerkeä; [LEMMA # -is] ketterä; [LEMMA # -is] nopea : 1 = 2 = 3 _ 1+3
+A_575 kievrâ: [LEMMA kievrâ # kie'vrâs] kova; [LEMMA kievrâ # kie'vrâs] pystyvä; [LEMMA kievrâ # kie'vrâs] vahva : 1 = 2 = 3 _ 
+A_583 killáámettum: [LEMMA # -es] kärsimätön; [LEMMA # -es] malttamaton : 1 = 2 _ 1+2
+A_585 killeel: kestävä; pitkämielinen; sitkeä : 1 = 2 = 3 _ 1+3
+A_595 kiähnu: [LEMMA kiähnu # kiä'hnus] huono; [LEMMA kiähnu # kiä'hnus] kehno; [LEMMA kiähnu # kiä'hnus] kyvytön : 1 = 2 = 3 _ 1+2
+A_600 kiärdulâš: [LEMMA kiä'rdulii] säännöllinen; [LEMMA kiä'rdulii] syklisesti toistuva : 1 = 2 _ 1+2
+A_615 kooidâs: [LEMMA koidâs # koidâ ko'idâs] innoton; [LEMMA koidâs # koidâ ko'idâs] laimea (esim. juomasta); [LEMMA koidâs # koidâ ko'idâs] laiha (esim. juomasta, vedellä laimennettu) : 1 = 2 = 3 _ 2+3
+A_618 koorrâd: [LEMMA # koRâdis] korskea (ihmisestä); [LEMMA # koRâdis] pramea; [LEMMA # koRâdis] upea; [LEMMA # koRâdis] korea : 1 = 2 = 3 = 4 _ 1+2 = 3+4
+A_620 korgâd: [LEMMA # -is] ylpeä; [LEMMA # -is] sellainen joka pitää itseään parempana kuin muut : 1 = 2 _ 
+A_621 korguu: [LEMMA # -s] sellainen joka pitää itseään parempana kuin muut; [LEMMA # -s] ylpeä : 1 = 2 _ 
+A_630 koskâpuddâsâš: [LEMMA -puddâsii] tilapäinen; [LEMMA -puddâsii] väliaikainen; [LEMMA -puddâsii] hetkellinen : 1 = 2 = 3 _ 1+2+3
+A_640 kovdee: [LEMMA # -s] ylikiehuvainen (kiehuu helposti yli); [LEMMA # -s] kuohuvainen (kiehuu helposti yli) : 1 = 2 _ 1+2
+A_653 kuáskulâš: [LEMMA kuá'skulii] osallinen; [LEMMA kuá'skulii] vastuullinen : 1 = 2 _ 
+A_654 kuástáá: [LEMMA # -s] härskiintynyt; [LEMMA # -s] vanhalta ja kitkerältä maistuva (ruoasta, erit. lihasta, rasvasta, kalasta) : 1 = 2 _ 
+A_655 kuástis: [LEMMA kuás'tá # kuás'ti-] hapan (kalasta, lihasta tai rasvasta); [LEMMA kuás'tá # kuás'ti-] härskiintynyt (kalasta, lihasta tai rasvasta) : 1 = 2 _ 
+A_674 kulttuurlâš: [LEMMA kulttuurlii] kulttuurinen; [LEMMA kulttuurlii] kulttuurillinen : 1 = 2 _ 1+2
+A_678 kunneettem: [LEMMA # kunneettes kunneettemes] häpeämätön; [LEMMA # kunneettes kunneettemes] kunniaton : 1 = 2 _ 1+2
+A_686 kuovgâd: [LEMMA # kuo'vgis] hallava; [LEMMA # kuo'vgis] vaalea kellanruskea; [LEMMA # kuo'vgis] vaalea; [LEMMA # kuo'vgis] kalvas; [LEMMA # kuo'vgis] haalistunut (väristä) : 1 = 2 = 3 = 4 = 5 _ 
+A_690 kyelettem: [LEMMA # kye'lettes -es] kalaton (vesistö); [LEMMA # kye'lettes -es] vähäkalainen (vesistö) : 1 = 2 _ 
+A_691 kyermis: [LEMMA kuár'má # kye'rmis] karkea; [LEMMA kuár'má # kye'rmis] karkeajyväinen : 1 = 2 _ 
+A_703 kärži: [LEMMA käärži # kä'ržis] suppea (tila); [LEMMA käärži # kä'ržis] ahdas (tilasta) : 1 = 2 _ 1+2
+A_707 käävvil: [LEMMA # käVilis -âs] kavala; [LEMMA # käVilis -âs] kiero (ihminen) : 1 = 2 _ 1+2
+A_725 lašmâd: [LEMMA # -is] ketterä; [LEMMA # -is] norja; [LEMMA # -is] notkea : 1 = 2 = 3 _ 2+3
+A_731 leevvâd: [LEMMA # leVâdis] avara; [LEMMA # leVâdis] leveä : 1 = 2 _ 1+2
+A_741 liivtes: [LEMMA lihtás] sileä; [LEMMA lihtás] pehmeäntuntuinen (esim. kangas) : 1 = 2 _ 
+A_744 lines: [LEMMA linnáás # linnâ] pehmeä (pinnaltaan pehmeäntuntuinen); [LEMMA linnáás # linnâ] hieno (pehmeäntuntuinen, kevyt esim. kangas); [LEMMA linnáás # linnâ] helppo oireiltaan (taudista) : 1 = 2 = 3 _ 
+A_746 livtes: [LEMMA lihtás] sileä; [LEMMA lihtás] pehmeäntuntuinen (esim. kangas) : 1 = 2 _ 
+A_747 liäggásâm: heitteillä (ränsistynyt); ränsistynyt : 1 = 2 _ 
+A_752 loje: [LEMMA loje # lojes] hiljainen; [LEMMA loje # lojes] kesy : 1 = 2 _ 
+A_757 luáđhus: [LEMMA luát'kus # luá'đhus luát'ku-] ilmava (kuohkea, pöyheä); [LEMMA luát'kus # luá'đhus luát'ku-] kuohkea; [LEMMA luát'kus # luá'đhus luát'ku-] irtonainen : 1 = 2 = 3 _ 1+2
+A_766 luáni: [LEMMA luáni # luá'nis] heikkotahtoinen; [LEMMA luáni # luá'nis] kuoleentunut (jousesta tms.) : 1 = 2 _ 
+A_768 luási: [LEMMA luási] parka; [LEMMA luási] raukka; [LEMMA luási] rukka : 1 = 2 = 3 _ 1+2+3
+A_769 luátis: [LEMMA luát'tá] löyhä; [LEMMA luát'tá] väljä : 1 = 2 _ 
+A_775 luhottem: [LEMMA # luhottes luhottemes] onneton; [LEMMA # luhottes luhottemes] epäonninen : 1 = 2 _ 1+2
+A_779 lussâd: [LEMMA # lusis] painava; [LEMMA # lusis] raskas : 1 = 2 _ 1+2
+A_782 läđisváimusâš: [LEMMA -váimusii] hyväsydäminen; [LEMMA -váimusii] sydämellinen : 1 = 2 _ 1+2
+A_784 läivi: [LEMMA lääivi #lä'ivis] laimea; [LEMMA lääivi #lä'ivis] lievä : 1 = 2 _ 
+A_788 lääđis: [LEMMA lááđđás # läđis] laupea; [LEMMA lááđđás # läđis] laupias; [LEMMA lááđđás # läđis] lempeä; [LEMMA lááđđás # läđis] sydämellinen : 1 = 2 = 3 = 4 _ 1+2 = 3+4
+A_792 maailmvijđosâš: [LEMMA -vijđosii] globaali; [LEMMA -vijđosii] maailmanlaajuinen : 1 = 2 _ 1+2
+A_795 maajeeb: jälkimmäinen; myöhempi : 1 = 2 _ 1+2
+A_806 maaššâl: [LEMMA # mašâlis] maltillinen; [LEMMA # mašâlis] malttavainen : 1 = 2 _ 1+2
+A_813 majebáš: [LEMMA majebáá] myöhempi (vähän); [LEMMA majebáá] jälkimmäisempi (esim. kahdesta) : 1 = 2 _ 1+2
+A_825 maŋebáš: [LEMMA maŋebáá] myöhempi (vähän); [LEMMA maŋebáá] jälkimmäisempi (esim. kahdesta) : 1 = 2 _ 1+2
+A_829 mašâmettum: [LEMMA # -is] kärsimätön; [LEMMA # -is] malttamaton : 1 = 2 _ 1+2
+A_830 mášuttem: [LEMMA # -es mášuttes] malttamaton; [LEMMA # -es mášuttes] kärsimätön : 1 = 2 _ 1+2
+A_831 materiaallâš: [LEMMA materiaallii] aineellinen; [LEMMA materiaallii] materiaalinen : 1 = 2 _ 1+2
+A_834 mávsulâš: [LEMMA má'vsulii] arvokas; [LEMMA má'vsulii] tärkeä; [LEMMA má'vsulii] edullinen; [LEMMA má'vsulii] varteenotettava; [LEMMA má'vsulii] kallisarvoinen : 1 = 2 = 3 = 4 = 5 _ 1+5 = 2+4
+A_841 merettem: [LEMMA # merettes] kohtuuton; [LEMMA # merettes] määrätön; [LEMMA # merettes] ylenpalttinen : 1 = 2 = 3 _ 
+A_845 meridum: määrätty; päätetty : 1 = 2 _ 1+2
+A_846 meritiätulâš: [LEMMA -tiä'tulii] pitkäjänteinen; [LEMMA -tiä'tulii] määrätietoinen : 1 = 2 _ 
+A_848 mieđes: [LEMMA miättás] myönteinen; [LEMMA miättás] myöntyväinen; [LEMMA miättás] myötämielinen : 1 = 2 = 3 _ 1+2+3
+A_855 mielhittem: [LEMMA # mie'lhittes] maidoton; [LEMMA # mie'lhittes] vähälypsyinen : 1 = 2 _ 
+A_861 miälkkáá: [LEMMA # -s] runsaslypsyinen; [LEMMA # -s] runsasmaitoinen (esim. ruoka tms.); [LEMMA # -s] runsasmaitoinen (maitoa tuottavasta eläimestä) : 1 = 2 = 3 _ 1+2
+A_867 mokkáá: [LEMMA # -s] kiemurainen; [LEMMA # -s] mutkainen; [LEMMA # -s] mutkikas (konkr. ja abstr.) : 1 = 2 = 3 _ 1+2+3
+A_880 muáđusâš: [LEMMA muá'đusii] -lainen; [LEMMA muá'đusii] muotoinen : 1 = 2 _ 
+A_883 muálkkáá: [LEMMA # -s] hankala (asia tms.); [LEMMA # -s] kiemurainen; [LEMMA # -s] pulmallinen (asia tms.); [LEMMA # -s] sokkeloinen (abstr. tai konkr.); [LEMMA # -s] ongelmallinen (asia tms.); [LEMMA # -s] mutkikas (abstr. tai konkr.); [LEMMA # -s] vaikeaselkoinen (asia tms.); [LEMMA # -s] monimutkainen (asia tms.); [LEMMA # -s] vaikea (asia tms.) : 1 = 2 = 3 = 4 = 5 = 6 = 7 = 8 = 9 _ 1+3+5+7+8+9 = 2+4+6
+A_886 muárráá: [LEMMA # -s] ohut (hangesta); [LEMMA # -s] raivoisa; [LEMMA # -s] kantamaton (hangesta) : 1 = 2 = 3 _ 1+3
+A_887 muássáá: [LEMMA # -s] rauhallinen; [LEMMA # -s] levollinen : 1 = 2 _ 1+2
+A_888 muččâd: [LEMMA # mučis] kaunis; [LEMMA # mučis] komea : 1 = 2 _ 1+2
+A_891 muđusâš: [LEMMA muđusii] -lainen; [LEMMA muđusii] kaltainen : 1 = 2 _ 
+A_902 muottuuttem: [LEMMA # muot'tuuttes] lumeton; [LEMMA # muot'tuuttes] vähäluminen : 1 = 2 _ 
+A_905 muštottem: [LEMMA # mu'štottes] huonomuistinen; [LEMMA # mu'štottes] hajamielinen : 1 = 2 _ 1+2
+A_907 muurrâšlâš: [LEMMA muurrâšlii] murheellinen; [LEMMA muurrâšlii] surullinen : 1 = 2 _ 1+2
+A_908 myesittem: [LEMMA # mye'sittemes] epäviihtyisä; [LEMMA # mye'sittemes] rauhaton : 1 = 2 _ 
+A_909 myessid: [LEMMA # mye'Sidis mye'Sidâs] rauhallinen; [LEMMA # mye'Sidis mye'Sidâs] levollinen : 1 = 2 _ 1+2
+A_913 mäinittem: [LEMMA # mä'inittes -is] osaton; [LEMMA # mä'inittes -is] syytön; [LEMMA # mä'inittes -is] viaton : 1 = 2 = 3 _ 2+3
+A_918 naggâ: ahtaalle (tilasta); ahtaaseen (tilaan); ahtaassa; täyteen : 1 = 2 = 3 = 4 _ 1+2+3 
+A_920 nahcii: [LEMMA # -s] kykenevä; [LEMMA # -s] pystyvä; [LEMMA # -s] vahva; [LEMMA # -s] voimakas : 1 = 2 = 3 = 4 _ 1+2 = 3+4
+A_924 nánnáá: [LEMMA # -s] ihana; [LEMMA # -s] kiltti; [LEMMA # -s] suloinen (etenkin lapsesta); [LEMMA # -s] söpö (etenkin lapsesta); [LEMMA # -s] herttainen : 1 = 2 = 3 = 4 = 5 _ 3+4+5
+A_930 neetâs: [LEMMA # nettâ] nätti; [LEMMA # nettâ] sievä : 1 = 2 _ 1+2
+A_933 nievrismielâlii: [LEMMA -mie'lâlii] huonotuulinen; [LEMMA -mie'lâlii] pahantuulinen : 1 = 2 _ 1+2
+A_934 nirráá: [LEMMA # -s] riitaisa; [LEMMA # -s] pahantuulinen; [LEMMA # -s] tyytymätön (kärttyisesti); [LEMMA # -s] kärttyinen : 1 = 2 = 3 = 4 _ 1+2+3+4
+A_939 niävráá: [LEMMA # -s] huono; [LEMMA # -s] paha : 1 = 2 _ 
+A_940 njaalgâhaajâg: hyvänhajuinen; hyväntuoksuinen : 1 = 2 _ 1+2
+A_950 njarbâd: [LEMMA # nja'rbis] harva (karvoitus); [LEMMA # nja'rbis] löysä (vetelyyden takia); [LEMMA # nja'rbis] vetelä; [LEMMA # nja'rbis] juokseva (nesteestä) : 1 = 2 = 3 = 4 _ 2+3+4
+A_955 njiäššáá: [LEMMA # -s] kurainen; [LEMMA # -s] lokainen : 1 = 2 _ 1+2
+A_957 njolgááš: [LEMMA njolgáá] hidas hölkkä; [LEMMA njolgáá] hidas nulkka : 1 = 2 _ 1+2
+A_960 njuálččáá: [LEMMA # -s] hervoton (veltto); [LEMMA # -s] surkea (veltto, heikkolaatuinen); [LEMMA # -s] veltto : 1 = 2 = 3 _ 1+2+3
+A_970 njuolgâs: [LEMMA njuol'gâs] suora; [LEMMA njuol'gâs] oijus (suoraan menevä poro) : 1 = 2 _ 
+A_972 njuorâs: [LEMMA njuorrâs] heikko; [LEMMA njuorrâs] heiveröinen; [LEMMA njuorrâs] notkea : 1 = 2 = 3 _ 1+2
+A_973 njuoskâs: [LEMMA njuos'kâs # njuos'kâ] märkä; [LEMMA njuos'kâs # njuos'kâ] raaka (kalasta, lihasta) : 1 = 2 _ 
+A_977 njäävhis: [LEMMA njávkkás] maukas; [LEMMA njávkkás] makoisa; [LEMMA njávkkás] täyteläisenmakuinen : 1 = 2 = 3 _ 1+2+3
+A_978 noccáá: [LEMMA # -s] hangoitteleva; [LEMMA # -s] härkäpäinen; [LEMMA # -s] itsepäinen; [LEMMA # -s] sinnikäs; [LEMMA # -s] sisukas : 1 = 2 = 3 = 4 = 5 _ 1+2+3 = 4+5
+A_984 nuáskáá: [LEMMA # -s] siivoton; [LEMMA # -s] hävytön; [LEMMA # -s] säädytön : 1 = 2 = 3 _ 2+3
+A_986 nuávváá: [LEMMA # -s] nukkainen; [LEMMA # -s] nöyhtäinen : 1 = 2 _ 1+2
+A_990 nuhâmettum: [LEMMA # -is] jatkuva; [LEMMA # -is] lakkaamaton (loppumaton); [LEMMA # -is] loppumaton : 1 = 2 = 3 _ 1+2+3
+A_992 nuijáá: [LEMMA # -s] härkäpäinen; [LEMMA # -s] itsepäinen; [LEMMA # -s] sinnikäs : 1 = 2 = 3 _ 1+2
+A_999 nyeli: [LEMMA nye'le] heikko; [LEMMA nye'le] heiveröinen : 1 = 2 _ 1+2
+A_1000 nyeski: [LEMMA nyeski # nye'skis] irstas; [LEMMA nyeski # nye'skis] siivoton (konkr. ja esim. puheiltaan); [LEMMA nyeski # nye'skis] rivo; [LEMMA nyeski # nye'skis] törkeä (hävyttömällä tavalla); [LEMMA nyeski # nye'skis] hävytön; [LEMMA nyeski # nye'skis] säädytön (esim. jutusta); [LEMMA nyeski # nye'skis] härski (esim. jutusta) : 1 = 2 = 3 = 4 = 5 = 6 = 7 _ 1+3+4+5+6+7
+A_1002 näggejeijee: itsepäinen; sinnikäs : 1 = 2 _ 
+A_1003 nälittem: [LEMMA # nälittes] nurinkurinen; [LEMMA # nälittes] huonotapainen : 1 = 2 _ 
+A_1009 ohtuunis: yksikseen; yksinäinen; yksinään; erillään; erilleen : 1 = 2 = 3 = 4 = 5 _ 1+3 = 4+5 
+A_1011 oles: [LEMMA ollás] kokonainen; [LEMMA ollás] täysimittainen; [LEMMA ollás] täysi : 1 = 2 = 3 _ 1+3
+A_1022 olmâ: ehta; kunnollinen : 1 = 2 _ 
+A_1024 olmoošlâš: [LEMMA olmoošlii] hienotunteinen; [LEMMA olmoošlii] inhimillinen : 1 = 2 _ 1+2
+A_1025 olmoošmettum: epäinhimillinen; häijy : 1 = 2 _ 1+2
+A_1029 oomâs: [LEMMA oommâs # omâs] ihmeellinen; [LEMMA oommâs # omâs] outo; [LEMMA oommâs # omâs] erikoinen; [LEMMA oommâs # omâs] eriskummallinen : 1 = 2 = 3 = 4 _ 1+2 = 3+4
+A_1048 oovtlágán: yhtäläinen; yhteneväinen : 1 = 2 _ 1+2
+A_1050 oovtmanolâš: [LEMMA -manolii] alituinen; [LEMMA -manolii] jatkuva : 1 = 2 _ 1+2
+A_1054 oppâm: oppinut; kokenut : 1 = 2 _ 1+2
+A_1056 orgaanlâš: [LEMMA orgaanlii] eloperäinen; [LEMMA orgaanlii] orgaaninen : 1 = 2 _ 1+2
+A_1059 oskolâš: [LEMMA o'skolii] uskollinen; [LEMMA o'skolii] harras (esim. uskovainen) : 1 = 2 _ 
+A_1061 oskomušlâš: [LEMMA oskomušlii] myyttinen; [LEMMA oskomušlii] uskomuksellinen : 1 = 2 _ 1+2
+A_1062 oskottem: [LEMMA # o'skottes] uskonnoton; [LEMMA # o'skottes] epäuskoinen; [LEMMA # o'skottes] uskoton : 1 = 2 = 3 _ 
+A_1063 oskottettee: todennäköinen; uskottava : 1 = 2 _ 1+2
+A_1068 ovdánâm: edistynyt; kehittynyt : 1 = 2 _ 1+2
+A_1070 ovdánmettum: [LEMMA # -is] edistymätön; [LEMMA # -is] kehittymätön : 1 = 2 _ 1+2
+A_1077 ovdemuš: ensimmäinen (useasta); etummainen : 1 = 2 _ 1+2
+A_1079 ovtâskâs: yksityinen; yksittäinen : 1 = 2 _ 
+A_1084 paarooh: [LEMMA # -âs parohis] ketterä; [LEMMA # -âs parohis] nopea : 1 = 2 _ 
+A_1087 paatátulâš: [LEMMA -tátulii] ilkeämielinen; [LEMMA -tátulii] pahantahtoinen : 1 = 2 _ 1+2
+A_1099 pajemuš: [LEMMA pajemuu] ylimmäinen; [LEMMA pajemuu] ylin : 1 = 2 _ 1+2
+A_1102 palolâš: [LEMMA paLolii] pelkäävä; [LEMMA paLolii] pelokas : 1 = 2 _ 1+2
+A_1104 parâpeeli: [LEMMA -pele] paripuoli (jonkin parin toinen puolisko); [LEMMA -pele] pariton : 1 = 2 _ 
+A_1112 párttáá: [LEMMA # -s] huono-onninen; [LEMMA # -s] onnettomuusaltis (jolle sattuu usein onnettomuuksia tai haavereita); [LEMMA # -s] kovaonninen : 1 = 2 = 3 _ 1+3
+A_1114 passaa: [LEMMA # -s] hurskasteleva; [LEMMA # -s] pyhä (jostakusta); [LEMMA # -s] taikauskoinen : 1 = 2 = 3 _ 
+A_1115 pastel: [LEMMA # -is -âs] kärkevä; [LEMMA # -is -âs] terävä : 1 = 2 _ 
+A_1118 peerustmettum: piittaamaton; välinpitämätön : 1 = 2 _ 1+2
+A_1126 perettem: [LEMMA # perettes perettemes] perätön (asiasta); [LEMMA # perettes perettemes] valheellinen (asiasta) : 1 = 2 _ 1+2
+A_1129 piccoom: kuuroittunut; huurtunut (jääkiteistä) : 1 = 2 _ 1+2
+A_1135 pievrih: peurakka; pitkäjalkainen (eläimestä) : 1 = 2 _ 
+A_1137 pilláá: [LEMMA # -s] turmeleva; [LEMMA # -s] pilaava : 1 = 2 _ 1+2
+A_1138 pillâšum: hapantunut; pilaantunut : 1 = 2 _ 
+A_1139 pilledeijee: [LEMMA # -s] pilaava; [LEMMA # -s] turmeleva : 1 = 2 _ 1+2 
+A_1140 piltto: [LEMMA pi'lto # pi'ltos] arka poro (esim. piiloutuu kun ihminen tulee); [LEMMA pi'lto # pi'ltos] vauhko poro (esim. piiloutuu kun ihminen tulee) : 1 = 2 _ 
+A_1141 pilttuu: [LEMMA # -s] arka poro (esim. piiloutuu kun ihminen tulee); [LEMMA # -s] vauhko poro (esim. piiloutuu kun ihminen tulee) : 1 = 2 _ 
+A_1149 piäiválâš: [LEMMA piä'iválii] päivittäinen; [LEMMA piä'iválii] hyväkäs; [LEMMA piä'iválii] tavanomainen : 1 = 2 = 3 _ 
+A_1151 poččâ: [LEMMA # počis počâs] katkera; [LEMMA # počis počâs] pahanmakuinen : 1 = 2 _ 
+A_1158 ponettem: [LEMMA # -es] pohjaton; [LEMMA # -es] suunnaton (sanonnoissa) : 1 = 2 _ 
+A_1160 ponnjáá: [LEMMA # -s] kiero (esim. puu); [LEMMA # -s] vino (esim. puu) : 1 = 2 _ 
+A_1163 poogâs: [LEMMA poggâs] täynnä (pullollaan); [LEMMA poggâs] täyteen (pullollaan) : 1 = 2 _ 1+2
+A_1166 poonjeel: kiero; vino : 1 = 2 _ 
+A_1167 poonjeeld: kiero; vino : 1 = 2 _ 
+A_1171 poskâd: [LEMMA # is] ahdas (vaatteesta, putkesta, kujasta tms.); [LEMMA # is] tiukka (vaatteesta, putkesta tms.) : 1 = 2 _ 
+A_1183 puáššáá: [LEMMA # -s] kiukkuinen; [LEMMA # -s] vihainen; [LEMMA # -s] ärtyisä : 1 = 2 = 3 _ 1+2+3
+A_1194 puigâ: [LEMMA puuigâ] ehta; [LEMMA puuigâ] aito; [LEMMA puuigâ] alkuperäinen; [LEMMA puuigâ] sivullinen; [LEMMA puuigâ] vieras : 1 = 2 = 3 = 4 = 5 _ 1+2+3 = 4+5
+A_1211 pyeccee: sairas; potilas : 1 = 2 _ 
+A_1214 pyeriluándug: [LEMMA # -luá'ndugis] hyväluontoinen; [LEMMA # -luá'ndugis] hyvänlaatuinen (esim. kasvaimesta) : 1 = 2 _ 1+2
+A_1230 pääljis: [LEMMA páljás # päljis] paljas; [LEMMA páljás # päljis] karvaton; [LEMMA páljás # pä'ljis] alaston (karvaton, etenkin linnunpoikasista) : 1 = 2 = 3 _ 1+2 
+A_1232 rááhtuslâš: [LEMMA rááhtuslii] rakenteellinen; [LEMMA rááhtuslii] teollinen : 1 = 2 _ 
+A_1233 raappâd: häävi; kaksinen : 1 = 2 _ 1+2
+A_1236 raddaa: [LEMMA # -s] rintava; [LEMMA # -s] voimakkaan lauluäänen omaava : 1 = 2 _ 
+A_1244 ráigáá: [LEMMA # -s] reikäinen; [LEMMA # -s] rikkinäinen (reikäinen) : 1 = 2 _ 
+A_1246 rámmáá: [LEMMA # -s] kerskailija; [LEMMA # -s] mahdikas; [LEMMA # -s] raamikas : 1 = 2 = 3 _ 
+A_1248 ranttu: [LEMMA raantu # ranttuus ra'ntus] nirso; [LEMMA raantu # ranttuus ra'ntus] ranttu : 1 = 2 _ 1+2
+A_1249 rappâd: häävi; kaksinen : 1 = 2 _ 1+2
+A_1250 rappâdâš: [LEMMA rappâdáá] häävi; [LEMMA rappâdáá] kaksinen : 1 = 2 _ 1+2
+A_1251 raše: [LEMMA raše # rašes] heikko; [LEMMA raše # rašes] kipeä (lihaksista); [LEMMA raše # rašes] löyhä : 1 = 2 = 3 _ 
+A_1252 rássáá: [LEMMA # -s] kukallinen; [LEMMA # -s] kukkiva : 1 = 2 _ 
+A_1259 ravžâ: [LEMMA raavžâ] huonokuntoinen; [LEMMA raavžâ] sairaalloinen : 1 = 2 _ 1+2
+A_1275 rinnoom: kuuroittunut; huurtunut (jääkiteistä paksulti) : 1 = 2 _ 1+2
+A_1279 riäpu: [LEMMA riävu riä'vo] parka; [LEMMA riävu riä'vo] ressukka; [LEMMA riävu riä'vo] riepu; [LEMMA riävu riä'vo] rukka : 1 = 2 = 3 = 4 _ 1+2+3+4
+A_1281 robdâttem: [LEMMA # ro'bdâttes] ääretön; [LEMMA # ro'bdâttes] matalareunainen : 1 = 2 _ 
+A_1292 ruábbáá: [LEMMA # -s] rosoinen (tuohi); [LEMMA # -s] rupinen (iho) : 1 = 2 _ 
+A_1298 ruánzáá: [LEMMA # -s] kiemurainen; [LEMMA # -s] koukeroinen; [LEMMA # -s] vänkkyräinen : 1 = 2 = 3 _ 1+2+3
+A_1303 ruáttáá: [LEMMA # -s] epätasainen; [LEMMA # -s] karkea : 1 = 2 _ 
+A_1305 ruávis: [LEMMA ruávvás # ruá'vis] karkea; [LEMMA ruávvás # ruá'vis] törkeä (esim. käytös) : 1 = 2 _ 
+A_1307 ruávŋi: [LEMMA ruávŋi] massiivinen ruumiinrakenne; [LEMMA ruávŋi] kookas (ruumiinrakenteeltaan) : 1 = 2 _ 1+2
+A_1321 ruumâšlâš: [LEMMA ruumâšlii] fyysinen; [LEMMA ruumâšlii] kehollinen; [LEMMA ruumâšlii] ruumiillinen : 1 = 2 = 3 _ 1+2+3
+A_1327 räigiuáivág: hurjapäinen; rämäpäinen : 1 = 2 _ 1+2
+A_1331 räägis: [LEMMA rággá # rägis] kireä; [LEMMA rággá # rägis] tiukka : 1 = 2 _ 1+2
+A_1332 rääpis: [LEMMA ráppá # räpis] kivikkoinen; [LEMMA ráppá # räpis] kivikko- (adj.) : 1 = 2 _ 
+A_1333 räävis: [LEMMA ráávvás # rävis] raavas; [LEMMA ráávvás # rävis] täysikasvuinen (ihmisestä) : 1 = 2 _ 1+2
+A_1335 šaddaa: [LEMMA # -s] rehevä (esim. kasvillisuus); [LEMMA # -s] runsaskasvuinen (esim. kasvillisuus) : 1 = 2 _ 1+2
+A_1336 šadolâš: [LEMMA šadolii] hedelmällinen; [LEMMA šadolii] rehevä : 1 = 2 _ 
+A_1338 sahhii: [LEMMA # -s] kielevä; [LEMMA #-s] utelias : 1 = 2 _ 
+A_1345 sappeed: [LEMMA # sapedis] kitkainen; [LEMMA # sapedis] luistamaton; [LEMMA # sapedis] nihkeä : 1 = 2 = 3 _ 1+2
+A_1353 šeellâd: [LEMMA # šelis šellis šellâdâs] helakka (heleä, kirkas esim. väri); [LEMMA # šelis šellis šellâdâs] kirkas (esim. väri) : 1 = 2 _ 1+2
+A_1356 seggi: [LEMMA seegi # segis] hoikka (pitkä pyöreä esine, ihminen); [LEMMA seegi # segis] ohut (pitkulaisista pyöreistä esineistä) : 1 = 2 _ 1+2
+A_1361 seŋes: [LEMMA siäŋŋás] jäätön (maa, jäkälä); [LEMMA siäŋŋás] raemainen (lumi) : 1 = 2 _ 
+A_1370 siemin: pienenpieni; vähäpätöinen : 1 = 2 _ 
+A_1373 sierânâs: erillinen; erityinen : 1 = 2 _ 
+A_1376 šiervi: [LEMMA šiervi # šie'rvis] hento; [LEMMA šiervi # šie'rvis] hintelä : 1 = 2 _ 1+2
+A_1377 šiettuu: [LEMMA # -s] hidas; [LEMMA # -s] vitkasteleva : 1 = 2 _ 1+2
+A_1382 šievšlaajâg: [LEMMA # -šlajâgis] hyvälaatuinen (esim. tuotteesta); [LEMMA # -šlajâgis] laadukas (esim. tuotteesta) : 1 = 2 _ 1+2
+A_1383 siivvâd: [LEMMA # siVâdis] hyvätapainen; [LEMMA # siVâdis] nuhteeton; [LEMMA # siVâdis] siveä : 1 = 2 = 3 _ 
+A_1385 sijvuu: [LEMMA # -s] siivo; [LEMMA # -s] sävyisä : 1 = 2 _ 1+2
+A_1386 sile: [LEMMA sile # siles] huonokuntoinen (eläimestä tai ihmisestä); [LEMMA sile # siles] laiha (kalasta); [LEMMA sile # siles] ohut (kankaasta, paperista tms.) : 1 = 2 = 3 _ 
+A_1388 siskelâš: sisin (subst.); sisus : 1 = 2 _ 
+A_1405 siämmáávuoiŋâlâš: [LEMMA -vuo'iŋâlii] hengenheimolainen; [LEMMA -vuo'iŋâlii] samanhenkinen : 1 = 2 _ 1+2
+A_1409 skálváá: [LEMMA # -s] kinoksinen; [LEMMA # -s] nietoksinen; [LEMMA # -s] syväluminen : 1 = 2 = 3 _ 1+2
+A_1411 skeerčâ: [LEMMA # ske'rčâ] palaneenmakuinen; [LEMMA # ske'rčâ] palaneenhajuinen; [LEMMA # ske'rčâ] kitkerähajuinen : 1 = 2 = 3 _ 
+A_1419 skuáibá: [LEMMA skuáibá] pitkäkyntinen; [LEMMA skuáibá] voro : 1 = 2 _ 
+A_1420 skuánnáá: [LEMMA # -s] oikukas; [LEMMA # -s] oikullinen : 1 = 2 _ 1+2
+A_1430 smiäru: [LEMMA smiäru # smiä'rus] pehmeä (puu, leipä tms.); [LEMMA smiäru # smiä'rus] murea (puu, leipä tms.); [LEMMA smiäru # smiä'rus] hauras (puu, leipä tms.) : 1 = 2 = 3 _ 1+2
+A_1431 šnárkkáá: [LEMMA # -s] sotkuinen (esim. lankakerä); [LEMMA # -s] sykkyräinen : 1 = 2 _ 1+2
+A_1433 snielah: ahne (sudesta tai muista pedoista); julkea (sudesta tai muista pedoista); röyhkeä (sudesta tai muista pedoista); rohkea (sudesta tai muista pedoista) : 1 = 2 = 3 = 4 _ 2+3
+A_1434 šoddâlâs: hedelmällinen; rehevä; nopeakasvuinen : 1 = 2 = 3 _ 
+A_1435 šoddiš: [LEMMA # -is] hedelmällinen; [LEMMA # -is] rehevä; [LEMMA # -is] nopeakasvuinen : 1 = 2 = 3 _ 
+A_1437 soijeel: [LEMMA # soJelis] joustava; [LEMMA # soJelis] taipuisa : 1 = 2 _ 1+2
+A_1438 sokkuu: [LEMMA # -s] hedelmällinen (eläimestä); [LEMMA # -s] sikiävä (eläimestä) : 1 = 2 _ 1+2
+A_1444 soogâs: [LEMMA soggâs # soggâ] kireä (hihnasta, siimasta tms.); [LEMMA soggâs # soggâ] tiukka (hihnasta, siimasta tms.) : 1 = 2 _ 1+2
+A_1451 sorolâš: [LEMMA sorolii] surullinen; [LEMMA sorolii] murheellinen : 1 = 2 _ 1+2
+A_1456 sovâlâš: [LEMMA sovâlii] sovelias; [LEMMA sovâlii] sovinnollinen : 1 = 2 _ 
+A_1457 sovđâlum: sumuttuminen; huurtunut (vesihöyrystä) : 1 = 2 _ 1+2
+A_1459 šovkkâd: [LEMMA # šo'vkis] kalpea; [LEMMA # šovkkâdis] kelmeä : 1 = 2 _ 1+2
+A_1471 storgâd: [LEMMA # storgâdis sto'rgis] pirteä; [LEMMA # storgâdis sto'rgis] virkeä : 1 = 2 _ 1+2
+A_1472 stulláá: [LEMMA # -s] ilkikurinen; [LEMMA # -s] leikkisä : 1 = 2 _ 
+A_1475 styeres: [LEMMA stuár'rá # stuor'râ] suuri; [LEMMA stuár'rá # stuor'râ] iso : 1 = 2 _ 1+2
+A_1476 stääđis: [LEMMA stááđđás # stäđis stađes stađâ] stabiili; [LEMMA stááđđás # stäđis stađes stađâ] vakaa : 1 = 2 _ 1+2
+A_1479 suájáttem: [LEMMA # suá'játtes] hihaton; [LEMMA # suá'játtes] siivetön : 1 = 2 _ 
+A_1482 suámálâš: [LEMMA suá'málii] kummallinen; [LEMMA suá'málii] soma : 1 = 2 _ 
+A_1483 suámi: [LEMMA suámi] mukava; [LEMMA suámi] soma : 1 = 2 _ 1+2
+A_1493 sukkârnallii: imelä; sokerinen (usein liian) : 1 = 2 _ 
+A_1519 systemaatlâš: [LEMMA systemaatlii] johdonmukainen; [LEMMA systemaatlii] systemaattinen; [LEMMA systemaatlii] järjestelmällinen : 1 = 2 = 3 _ 1+2+3
+A_1523 sävri: [LEMMA säävri # sä'vris] sitkeä (työssä jne.); [LEMMA säävri # sä'vris] tiivislihainen (kalasta) : 1 = 2 _ 
+A_1527 táálááš: [LEMMA tááláá] nykyaikainen; [LEMMA tááláá] nykyinen : 1 = 2 _ 
+A_1528 tááláš: [LEMMA tááláá] nykyinen; [LEMMA tááláá] nykyaikainen : 1 = 2 _ 
+A_1537 táhtáá: [LEMMA # -s] ruotoinen; [LEMMA # -s] luiseva; [LEMMA # -s] laiha (ei muuta kuin luut); [LEMMA # -s] luinen : 1 = 2 = 3 = 4 _ 2+3
+A_1540 tájuttettee: herkkäuskoinen; hyväuskoinen : 1 = 2 _ 1+2
+A_1547 tárbulâš: [LEMMA tá'rbulii] aiheellinen; [LEMMA tá'rbulii] tarpeellinen : 1 = 2 _ 1+2
+A_1552 táválâš: [LEMMA táválii] tavallinen; [LEMMA táválii] tavanomainen : 1 = 2 _ 1+2
+A_1553 távástum: harjaantunut; tottunut : 1 = 2 _ 1+2
+A_1556 tehálâš: [LEMMA tehálii] keskeinen; [LEMMA tehálii] tärkeä; [LEMMA tehálii] varteenotettava : 1 = 2 = 3 _ 
+A_1559 teknisâš: [LEMMA teknisii] teknillinen; [LEMMA teknisii] tekninen : 1 = 2 _ 1+2
+A_1588 tohálâš: [LEMMA tohálii] hyväksyttävä; [LEMMA tohálii] kelvollinen; [LEMMA tohálii] pätevä : 1 = 2 = 3 _ 2+3
+A_1589 toimâlâš: [LEMMA to'imâlii] toiminnallinen; [LEMMA to'imâlii] toimelias : 1 = 2 _ 1+2
+A_1591 tolcce: [LEMMA to'lce # to'lces] nirso; [LEMMA to'lce # to'lces] penseä : 1 = 2 _ 
+A_1592 toldeves: talumaton (pitää hihnan kireällä); pidättelijä : 1 = 2 _ 1+2
+A_1620 tuámmir: [LEMMA # tuá'Miris] tomera; [LEMMA # tuá'Miris] riuska; [LEMMA # tuá'Miris] toimelias : 1 = 2 = 3 _ 1+2
+A_1631 tuhhiittettee: [LEMMA # -s] hyväksyttävä; [LEMMA # -s] kelvollinen : 1 = 2 _ 1+2
+A_1632 tuhme: [LEMMA tu'hme # tu'hmes] tuhma; [LEMMA tu'hme # tu'hmes] tyhmä : 1 = 2 _ 
+A_1636 tulkkâdijjee: [LEMMA # -s] tylsistyttävä; [LEMMA # -s] ikävystyttävä : 1 = 2 _ 1+2
+A_1637 tullâpaa: [LEMMA # -paas] kiukkuinen; [LEMMA # -paas] pahankurinen : 1 = 2 _ 1+2
+A_1638 tuođâlâš: [LEMMA tuo'đâlii] asiaan paneutunut; [LEMMA tuo'đâlii] vakava; [LEMMA tuo'đâlii] todellinen : 1 = 2 = 3 _ 
+A_1649 turgáá: [LEMMA # -s] epäsiisti; [LEMMA # -s] sotkuinen : 1 = 2 _ 1+2
+A_1650 turráá: [LEMMA # -s] likainen; [LEMMA # -s] sotkuinen : 1 = 2 _ 1+2
+A_1660 tyejettem: [LEMMA # tye'jettes] toimeton; [LEMMA # tye'jettes] työtön : 1 = 2 _ 1+2
+A_1670 tävittem: [LEMMA # -es tävittes] huonotapainen; [LEMMA # -es tävittes] tavaton : 1 = 2 _ 1+2
+A_1672 uáccáá: [LEMMA # -s] levollinen; [LEMMA # -s] rauhallinen : 1 = 2 _ 1+2
+A_1675 uáinil: [LEMMA # -is] tarkkanäköinen; [LEMMA # -is] terävänäköinen : 1 = 2 _ 1+2
+A_1680 uáivittem: [LEMMA # uá'ivittes] löyhäpäinen (porosta); [LEMMA # uá'ivittes] päätön (porosta käytökseltään) : 1 = 2 _ 1+2
+A_1710 uceslágán: pienimuotoinen; pienenläntä; pienehkö : 1 = 2 = 3 _ 1+2+3
+A_1718 ulmemiäldásâš: [LEMMA -miäl'dásii] tarkoituksenmukainen; [LEMMA -miäl'dásii] tavoitteellinen : 1 = 2 _ 
+A_1722 unohâs: sopimaton; epämiellyttävä; epämukava : 1 = 2 = 3 _ 2+3
+A_1729 váádduh: [LEMMA # váduhis váduhâs] mutkikas; [LEMMA # váduhis váduhâs] pulmallinen; [LEMMA # váduhis váduhâs] vaikeaselkoinen; [LEMMA # váduhis váduhâs] vaikea; [LEMMA # váduhis váduhâs] hankala; [LEMMA # váduhis váduhâs] monimutkainen : 1 = 2 = 3 = 4 = 5 = 6 _ 4+5 = 3+6
+A_1730 vaahâglâš: [LEMMA vaahâglii] vahingollinen; [LEMMA vaahâglii] tuhoisa : 1 = 2 _ 1+2
+A_1732 vááijuvlâš: [LEMMA vááijuvlii] vaillinainen; [LEMMA vááijuvlii] puutteellinen : 1 = 2 _ 1+2
+A_1733 vááimuvuálááš: [LEMMA -vuáláá] tärkeä (esim. jstak esineestä, asiasta); [LEMMA -vuáláá] läheinen (kuv., esim. jstak tärkeästä asiasta tai esineestä) : 1 = 2 _ 1+2
+A_1737 váduttem: [LEMMA # váduttemes váduttes] viaton (esim. tuotteesta); [LEMMA # váduttemes váduttes] virheetön (esim. tuotteesta) : 1 = 2 _ 1+2
+A_1743 váimulâš: [LEMMA vá'imulii] sydämellinen; [LEMMA vá'imulii] herttainen : 1 = 2 _ 1+2
+A_1744 váimuskâddâm: sydämistynyt; loukkaantunut : 1 = 2 _ 1+2
+A_1745 váimuttem: [LEMMA # vá'imuttemes vá'imuttes] kovasydäminen; [LEMMA # vá'imuttemes vá'imuttes] sydämetön : 1 = 2 _ 1+2
+A_1746 váiváá: [LEMMA # -s] hankala; [LEMMA # -s] vaivalloinen : 1 = 2 _ 1+2
+A_1752 vale: [LEMMA vale # vales] ketterä; [LEMMA vale # vales] nopea (liikkumaan) : 1 = 2 _ 1+2
+A_1754 valjimiävtulâš: [LEMMA -iä'vtulii] vaihtoehtoinen; [LEMMA -iä'vtulii] valinnainen : 1 = 2 _ 1+2
+A_1755 válju: [LEMMA váálju] mainio; [LEMMA váálju] valio : 1 = 2 _ 1+2
+A_1756 vallii: [LEMMA # -s] rauhaton (esim. lapsi tai poro); [LEMMA # -s] levoton (esim. lapsi tai poro) : 1 = 2 _ 1+2
+A_1760 vanttâ: [LEMMA vaantâ # va'ntâs] jämerä; [LEMMA vaantâ # va'ntâs] taitava; [LEMMA vaantâ # va'ntâs] tottunut : 1 = 2 = 3 _ 
+A_1765 vaste: [LEMMA va'ste # va'stes] ruma; [LEMMA va'ste # va'stes] vastenmielinen : 1 = 2 _ 
+A_1766 vavettem: [LEMMA # -es vaVettes] harmiton; [LEMMA # -es vaVettes] viaton (henkinen ominaisuus) : 1 = 2 _ 
+A_1767 veeleeh: [LEMMA # velehis velehâs] ketterä; [LEMMA # velehis velehâs] vikkelä : 1 = 2 _ 1+2
+A_1775 viehis: [LEMMA viäk'kás # vie'his] kavala; [LEMMA viäk'kás # vie'his] viekas : 1 = 2 _ 1+2
+A_1777 vieksâ: [LEMMA vievsâ # vie'vsâs] vahva; [LEMMA vievsâ # vie'vsâs] voimakas : 1 = 2 _ 1+2
+A_1783 vieres: [LEMMA viärrás] outo; [LEMMA viärrás] vieras : 1 = 2 _ 1+2
+A_1786 viijđes: [LEMMA vijđá # vi'jđes] avara; [LEMMA vijđá # vi'jđes] laaja : 1 = 2 _ 1+2
+A_1790 vijnáttum: päihtynyt (erit. alkoholista); humalainen (erit. alkoholista) : 1 = 2 _ 1+2
+A_1791 vildáá: hurja; [LEMMA # -s] villi : 1 = 2 _ 1+2
+A_1799 virkkuu: [LEMMA # -s] pirteä; [LEMMA # -s] reipas; [LEMMA # -s] vireä; [LEMMA # -s] virkku : 1 = 2 = 3 = 4 _ 1+2+3+4
+A_1807 viärdásâš: [LEMMA viär'dásii] vertainen; [LEMMA viär'dásii] veroinen : 1 = 2 _ 1+2
+A_1811 viärráá: [LEMMA # -s] pahatapainen; [LEMMA # -s] hankala (ihminen) : 1 = 2 _ 1+2
+A_1816 voorâs: [LEMMA vorrâs # vorâs] tuore; [LEMMA vorrâs # vorâs] veres : 1 = 2 _ 1+2
+A_1820 vuáđuttem: katteeton; [LEMMA # -es] perusteeton : 1 = 2 _ 1+2
+A_1821 vuáimáá: [LEMMA # -s] voimakas (esim. ruuasta); [LEMMA # -s] ravitseva (esim. ruuasta) : 1 = 2 _ 
+A_1822 vuáimálâš: [LEMMA vuá'imálii] dynaaminen; [LEMMA vuá'imálii] voimallinen : 1 = 2 _ 1+2
+A_1826 vuáválâš: [LEMMA vuá'Válii] suunnitelmallinen; [LEMMA vuá'Válii] tavanmukainen : 1 = 2 _ 
+A_1830 vuohâd: [LEMMA # vuo'his] karvainen (runsaasti karvaa); [LEMMA # vuo'his] tiheä ja pitkä (karvasta); [LEMMA # vuo'his] tiheä- ja pitkäkärvainen (esim. nahasta, eläimen karvasta tai turkista) : 1 = 2 = 3 _ 1+2
+A_1841 vuovâs: [LEMMA vuoHâs] mukava; [LEMMA vuoHâs] sopiva; [LEMMA vuoHâs] soveltuva : 1 = 2 = 3 _ 2+3
+A_1842 vuovnâlâš: [LEMMA vuo'vnâlii] ahnehtiva; [LEMMA vuo'vnâlii] häikäilemätön; [LEMMA vuo'vnâlii] itsekäs : 1 = 2 = 3 _ 
+A_1843 vyeimittem: [LEMMA # -es vye'imittes] voimaton; [LEMMA # -es vye'imittes] heikko : 1 = 2 _ 1+2
+A_1847 vyelemus: [LEMMA vye'lemuu] alin; [LEMMA vye'lemuu] alimmainen : 1 = 2 _ 1+2
+A_1850 vyeligâš: [LEMMA vye'Ligáá # vye'ligâs] alistuva; [LEMMA vye'Ligáá # vye'ligâs] alava; [LEMMA vye'Ligáá # vye'ligâs] alhainen; [LEMMA vye'Ligáá # vye'ligâs] matala; [LEMMA vye'Ligáá # vye'ligâs] nöyrä; [LEMMA vye'Ligáá # vye'ligâs] vaatimaton : 1 = 2 = 3 = 4 = 5 = 6 _ 1+5 = 3+4 
+A_1855 vyeŋes: [LEMMA vuáŋŋás] pirteä (hyvin levännyt); [LEMMA vuáŋŋás] virkeä (hyvin levännyt) : 1 = 2 _ 1+2
+A_1856 vyestimielâlâš: [LEMMA -mie'lâlii] vastahakoinen; [LEMMA -mie'lâlii] vastenmielinen : 1 = 2 _ 1+2
+A_1863 vääni: [LEMMA vääni] niukkuus; [LEMMA vääni] puute : 1 = 2 _ 1+2
+A_1873 äŋgir: [LEMMA # -âs] ahkera; [LEMMA # -âs] työteliäs : 1 = 2 _ 1+2
+A_1877 ärttig: kummallinen; merkillinen : 1 = 2 _ 1+2
+A_1878 äšittem: [LEMMA # äšittes äšittemes] aiheeton; [LEMMA # äšittes äšittemes] syytön; [LEMMA # äšittes äšittemes] asiaton : 1 = 2 = 3 _ 
+A_1886 huámášittee: huomattava; merkittävä : 1 = 2 _ 1+2
+A_1890 iberdeijee: ymmärtävä; ymmärtäväinen : 1 = 2 _ 1+2
+A_1891 iberdettee: ymmärrettävä; ymmärrettävissä : 1 = 2 _ 1+2
+A_1902 juárbulâs: horjuva; keikkuva : 1 = 2 _ 1+2
+A_1906 jämmee: kuoleva; kuollut : 1 = 2 _ 
+A_1923 kuárumâš: neulottava; ommeltava : 1 = 2 _ 
+A_1924 kuárumuš: neulottava; ommeltava : 1 = 2 _ 
+A_1986 šlieđâs: uupunut; voimaton : 1 = 2 _ 1+2
