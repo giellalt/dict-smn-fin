@@ -300,3 +300,28 @@ V_208 celkkiđ: antaa lausunto; lausua; sanoa; virkkaa; irtisanoa : 1 = 2 = 3 = 
 ===
 V_5054 viekkiistâllâđ: pohdiskella (jtak asiaa eri kanteilta); punnita (m. abstr. pohtia eri puolia); puntaroida : 1 = 2 = 3 _ 1+2 = 2+3
 ===
+Mismatch between mg-number in txt vs xml:
+
+V_2394 muáccuđ: painella kovalla (kynnellä, veitsen lappeella tms., jotta päässä olevat täinpuremat paranisivat); mytätä; rutata painamalla; mytätä (painamalla); runtata (painamalla) : 1 = 2 = 3 = 4 = 5 _ 2+3+4+5
+
+   <e id="V_2394">
+      <lg>
+         <l pos="V">muáccuđ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">painella kovalla (kynnellä, veitsen lappeella tms., jotta päässä olevat täinpuremat paranisivat) mytätä, rutata painamalla</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">mytätä (painamalla)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">runtata (painamalla)</t>
+         </tg>
+      </mg>
+   </e>
+===
