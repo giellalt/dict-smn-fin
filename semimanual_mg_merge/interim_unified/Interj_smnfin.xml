@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="smnfin" xml:lang="smn">
+   <e id="Interj_1">
+      <lg>
+         <l pos="Interj">aamen</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">aamen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_2">
+      <lg>
+         <l pos="Interj">addâgâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">anteeksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_3">
+      <lg>
+         <l pos="Interj">ai</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">hoi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_4" mc="_cuárti_ is a wordform LEMMA _cuártti_">
+      <lg>
+         <l pos="Interj">cuártti</l>
+      </lg>
+      <mg rest="cuárti">
+         <tg xml:lang="fin">
+            <t pos="Interj">paholainen (kirosana, harv.)</t>
+            <t pos="Interj">piru (kirosana, harv.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_5">
+      <lg>
+         <l pos="Interj">faanin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">piru (kirosana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_6">
+      <lg>
+         <l pos="Interj">hálvát</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">helvetti (kirosana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_7">
+      <lg>
+         <l pos="Interj">hei</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">voi (interjektio)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_8">
+      <lg>
+         <l pos="Interj">het-het</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">nipin napin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_9">
+      <lg>
+         <l pos="Interj">hevvât</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">hemmetti (lievä kirosana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_10">
+      <lg>
+         <l pos="Interj">hevvet</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">hemmetti (lievä kirosana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_11">
+      <lg>
+         <l pos="Interj">hevvit</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">hemmetti (lievä kirosana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_12">
+      <lg>
+         <l pos="Interj">hos</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">hus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_13">
+      <lg>
+         <l pos="Interj">itám</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">Voi että</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_14">
+      <lg>
+         <l pos="Interj">jáá nuuvt</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">jaa</t>
+            <t pos="Interj">vai niin</t>
+            <t pos="Interj">vai niin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_15">
+      <lg>
+         <l pos="Interj">joo-o</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">joo (myöntävässä vastauksessa)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_16">
+      <lg>
+         <l pos="Interj">kah</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">ah</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_17">
+      <lg>
+         <l pos="Interj">kiäh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">kas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_18">
+      <lg>
+         <l pos="Interj">kuš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">hus (poroille)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_19">
+      <lg>
+         <l pos="Interj">liebbuš</l>
+      </lg>
+      <mg rest="lieb'buu">
+         <tg xml:lang="fin">
+            <t pos="Interj">lempo</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_20">
+      <lg>
+         <l pos="Interj">miessârokke</l>
+      </lg>
+      <mg rest="-rohe">
+         <tg xml:lang="fin">
+            <t pos="Interj">saakutti (kirosana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_21">
+      <lg>
+         <l pos="Interj">moččârokke</l>
+      </lg>
+      <mg rest="-rohe">
+         <tg xml:lang="fin">
+            <t pos="Interj">peijakas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_22">
+      <lg>
+         <l pos="Interj">motjanan</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">jukolauta (lievä kirosana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_23">
+      <lg>
+         <l pos="Interj">na</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">no</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_24">
+      <lg>
+         <l pos="Interj">no</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">no</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_25">
+      <mg rest="__">
+         <tg xml:lang="fin">
+            <t pos="Interj">ohhoh</t>
+            <t pos="Interj">oi</t>
+            <t pos="Interj">voi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_26">
+      <lg>
+         <l pos="Interj">oo</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">oi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_27">
+      <lg>
+         <l pos="Interj">panjig</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">pahus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_28">
+      <lg>
+         <l pos="Interj">pannâhâs</l>
+      </lg>
+      <mg rest="pannâháá">
+         <tg xml:lang="fin">
+            <t pos="Interj">pannahinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_29">
+      <lg>
+         <l pos="Interj">peŋgâluh</l>
+      </lg>
+      <mg rest="peŋgâluv">
+         <tg xml:lang="fin">
+            <t pos="Interj">perskele (lievä voimasana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_30">
+      <lg>
+         <l pos="Interj">peŋgiluh</l>
+      </lg>
+      <mg rest="peŋgiluv">
+         <tg xml:lang="fin">
+            <t pos="Interj">pentele (lievä voimasana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_31">
+      <lg>
+         <l pos="Interj">puállunjune</l>
+      </lg>
+      <mg rest="-njune">
+         <tg xml:lang="fin">
+            <t pos="Interj">hiivatti (lievä kirosana)</t>
+         </tg>
+      </mg>
+      <mg rest="-njune">
+         <tg xml:lang="fin">
+            <t pos="Interj">nappinenä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_32">
+      <lg>
+         <l pos="Interj">puurist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">terve (käteltäessä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_33">
+      <lg>
+         <l pos="Interj">pyeŋes</l>
+      </lg>
+      <mg rest="puáŋŋás">
+         <tg xml:lang="fin">
+            <t pos="Interj">terve (puuaineksesta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_34">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Interj">räiskis</t>
+            <t pos="Interj">mäiskis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_35">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Interj">mäiskis</t>
+            <t pos="Interj">räiskis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_36">
+      <lg>
+         <l pos="Interj">ruoški</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">ryskis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_37">
+      <lg>
+         <l pos="Interj">sáttán</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">saatana</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_38">
+      <lg>
+         <l pos="Interj">še</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">myös</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_39">
+      <lg>
+         <l pos="Interj">skool</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">kippis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_40">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Interj">pahus</t>
+            <t pos="Interj">saatana (kirosana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_41">
+      <lg>
+         <l pos="Interj">šyeijirokke</l>
+      </lg>
+      <mg rest="-rohe">
+         <tg xml:lang="fin">
+            <t pos="Interj">hitto (kirosana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_42">
+      <lg>
+         <l pos="Interj">táh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">kas tässä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_43">
+      <lg>
+         <l pos="Interj">tiegân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">ihanko totta (ihmeteltäessä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_44">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Interj">hei (tervehdyksenä)</t>
+            <t pos="Interj">terve (tervehdyksenä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_45">
+      <lg>
+         <l pos="Interj">vuoi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">voi</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">jotta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">vai</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_46">
+      <lg>
+         <l pos="Interj">pinnâhâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">vietävä (lievä voimasana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_47">
+      <lg>
+         <l pos="Interj">tuonârokke</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">vietävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Interj_48">
+      <lg>
+         <l pos="Interj">váiván</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">vaivattu (lievä voimasana)</t>
+         </tg>
+      </mg>
+   </e>
+</r>

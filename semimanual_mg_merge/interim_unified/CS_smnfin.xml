@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="smnfin" xml:lang="smn">
+   <e id="CS_1">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="CS">ettei</t>
+            <t pos="CS">jottei</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_2">
+      <lg>
+         <l pos="CS">ansun</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">jotta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_3">
+      <lg>
+         <l pos="CS">asun</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">jotta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_4">
+      <lg>
+         <l pos="CS">emas</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">ettei</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_5">
+      <lg>
+         <l pos="CS">ensun</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">jotta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_6">
+      <lg>
+         <l pos="CS">ete</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">että</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_7">
+      <lg>
+         <l pos="CS">jos</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">jos</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">vaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_8">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="CS">jolloin</t>
+            <t pos="CS">milloin</t>
+         </tg>
+      </mg>
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="CS">koska</t>
+            <t pos="CS">kun</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">kuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_9">
+      <lg>
+         <l pos="CS">kođe</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">kun</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">kun sitten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_10">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="CS">jolloin</t>
+            <t pos="CS">milloin</t>
+         </tg>
+      </mg>
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="CS">koska</t>
+            <t pos="CS">kun</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_11">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="CS">kun</t>
+            <t pos="CS">kunpa</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">kuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_12">
+      <lg>
+         <l pos="CS">mutâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">mutta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">vaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_13" mc="_tassaa_ is a wordform of LEMMA _tassaaš_">
+      <lg>
+         <l pos="CS">tassaaš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">kunnes</t>
+            <t pos="CS">siihen saakka</t>
+            <t pos="CS">siihen asti</t>
+            <t pos="CS">siitä asti</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">sitten (aikaisemmin)</t>
+         </tg>
+      </mg>
+      <mg rest="tassaa">
+         <tg xml:lang="fin">
+            <t pos="CS">silloinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_14">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="CS">niin</t>
+            <t pos="CS">sitten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_15">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="CS">kuin</t>
+            <t pos="CS">niin kuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_16">
+      <lg>
+         <l pos="CS">vâik</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">vaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_17">
+      <lg>
+         <l pos="CS">veik</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">vaikka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_19">
+      <lg>
+         <l pos="CS">vuávnus</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">jk näköinen</t>
+            <xg>
+               <x>Son lea muu vuávnus.</x>
+               <xt>Hän on minun näköinen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="smnfin" xml:lang="smn">
+   <e id="Num_1">
+      <lg>
+         <l pos="Num">čiččâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_2">
+      <lg>
+         <l pos="Num">čiččâm</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemän</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_3">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemän ihmistä</t>
+            <t pos="Num">seitsemän ihmisen joukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_4">
+      <lg>
+         <l pos="Num">čiččâmčyeđe</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänsataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_5">
+      <lg>
+         <l pos="Num">čiččâmlov</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemänkymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_6">
+      <lg>
+         <l pos="Num">čiččâmnubáloh</l>
+      </lg>
+      <mg rest="-nubálov">
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemäntoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_7">
+      <lg>
+         <l pos="Num">čiččid</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_8">
+      <lg>
+         <l pos="Num">čiččii</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">seitsemän kertaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_9">
+      <lg>
+         <l pos="Num">čuákkáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="Num">yhdessä pysyvä (porotokasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_10">
+      <lg>
+         <l pos="Num">čyeti</l>
+      </lg>
+      <mg rest="čye'đe">
+         <tg xml:lang="fin">
+            <t pos="Num">sata</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_11">
+      <lg>
+         <l pos="Num">jiešiäluid</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">yhdessä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_12">
+      <lg>
+         <l pos="Num">káávcád</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_13">
+      <lg>
+         <l pos="Num">kahcii</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksan kertaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_14">
+      <lg>
+         <l pos="Num">kuálmád</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">kolmas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_15">
+      <lg>
+         <l pos="Num">kuávttáákooskâl</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">kahden kesken</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_16">
+      <lg>
+         <l pos="Num">kulmâ</l>
+      </lg>
+      <mg rest="kuulmâ">
+         <tg xml:lang="fin">
+            <t pos="Num">kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_17">
+      <lg>
+         <l pos="Num">kulmâlov</l>
+      </lg>
+      <mg rest="kuulmâlov">
+         <tg xml:lang="fin">
+            <t pos="Num">kolmekymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_18">
+      <lg>
+         <l pos="Num">kulmânubáloh</l>
+      </lg>
+      <mg rest="-nubálov">
+         <tg xml:lang="fin">
+            <t pos="Num">kolmetoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_19">
+      <lg>
+         <l pos="Num">kulmii</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">kolme kertaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_20">
+      <lg>
+         <l pos="Num">kutlov</l>
+      </lg>
+      <mg rest="kuđâlov">
+         <tg xml:lang="fin">
+            <t pos="Num">kuusikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_21">
+      <lg>
+         <l pos="Num">kuttâ</l>
+      </lg>
+      <mg rest="kuuđâ">
+         <tg xml:lang="fin">
+            <t pos="Num">kuusi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_22">
+      <lg>
+         <l pos="Num">kuuđâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">kuudes</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_23">
+      <lg>
+         <l pos="Num">kuuđâs</l>
+      </lg>
+      <mg rest="kuttâs">
+         <tg xml:lang="fin">
+            <t pos="Num">kuuden joukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_24">
+      <lg>
+         <l pos="Num">kyehti</l>
+      </lg>
+      <mg rest="kyevti">
+         <tg xml:lang="fin">
+            <t pos="Num">kaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_25">
+      <lg>
+         <l pos="Num">kyehtinubáloh</l>
+      </lg>
+      <mg rest="kyeh'tinubálov">
+         <tg xml:lang="fin">
+            <t pos="Num">kaksitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_26">
+      <lg>
+         <l pos="Num">kyehtlov</l>
+      </lg>
+      <mg rest="kyevtlov">
+         <tg xml:lang="fin">
+            <t pos="Num">kaksikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_27">
+      <lg>
+         <l pos="Num">kyehtnubáloh</l>
+      </lg>
+      <mg rest="kyeh'tnubálov">
+         <tg xml:lang="fin">
+            <t pos="Num">kaksitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_28">
+      <lg>
+         <l pos="Num">kyevtis</l>
+      </lg>
+      <mg rest="kuáh'tá kuáh'tás">
+         <tg xml:lang="fin">
+            <t pos="Num">kaksi ihmistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_29">
+      <lg>
+         <l pos="Num">kyevtpeln</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">kahden puolen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_30">
+      <lg>
+         <l pos="Num">kähcilov</l>
+      </lg>
+      <mg rest="käävcilov">
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksankymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_31">
+      <lg>
+         <l pos="Num">käävci</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_32">
+      <lg>
+         <l pos="Num">käävcis</l>
+      </lg>
+      <mg rest="káhcás káhtsâs">
+         <tg xml:lang="fin">
+            <t pos="Num">kahdeksan ihmisen joukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_33">
+      <mg rest="lohháás_lohháás">
+         <tg xml:lang="fin">
+            <t pos="Num">kymmenen (ihmistä)</t>
+            <t pos="Num">kymmenen ihmisen joukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_34">
+      <lg>
+         <l pos="Num">lovváád</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">kymmenes</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_35">
+      <lg>
+         <l pos="Num">lovvááh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">kymmenet (matem.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_36">
+      <lg>
+         <l pos="Num">lovvááš</l>
+      </lg>
+      <mg rest="lovváá">
+         <tg xml:lang="fin">
+            <t pos="Num">kymmenen (numero)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_37">
+      <lg>
+         <l pos="Num">luhhii</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">kymmenen kertaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_38">
+      <lg>
+         <l pos="Num">luovâsvyeje</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">yhdellä porolla ajaen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_39">
+      <lg>
+         <l pos="Num">lävvi</l>
+      </lg>
+      <mg rest="läävi">
+         <tg xml:lang="fin">
+            <t pos="Num">kahden verkon liitoskohta jadassa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_40">
+      <lg>
+         <l pos="Num">muáddilov</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">parikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_41">
+      <lg>
+         <l pos="Num">muádlov</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">parikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_42">
+      <lg>
+         <l pos="Num">neljilov</l>
+      </lg>
+      <mg rest="neeljilov">
+         <tg xml:lang="fin">
+            <t pos="Num">neljäkymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_43">
+      <lg>
+         <l pos="Num">neljinubáloh</l>
+      </lg>
+      <mg rest="-nubálov">
+         <tg xml:lang="fin">
+            <t pos="Num">neljätoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_44">
+      <lg>
+         <l pos="Num">niäljád</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">neljäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_45">
+      <lg>
+         <l pos="Num">nubáloh</l>
+      </lg>
+      <mg rest="nubálov">
+         <tg xml:lang="fin">
+            <t pos="Num">toistakymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_46">
+      <lg>
+         <l pos="Num">nubbe</l>
+      </lg>
+      <mg rest="nube">
+         <tg xml:lang="fin">
+            <t pos="Num">toinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_47">
+      <lg>
+         <l pos="Num">ohcelov</l>
+      </lg>
+      <mg rest="oovcelov">
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksänkymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_48">
+      <lg>
+         <l pos="Num">ohcii</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksän kertaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_49">
+      <mg rest="oovtâ_oovtâ">
+         <tg xml:lang="fin">
+            <t pos="Num">eräs (tiedetään kuka on kyseessä, muttei haluta mainita nimellä)</t>
+            <t pos="Num">muuan</t>
+         </tg>
+      </mg>
+      <mg rest="oovtâ">
+         <tg xml:lang="fin">
+            <t pos="Num">yksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_50">
+      <lg>
+         <l pos="Num">ohtnubáloh</l>
+      </lg>
+      <mg rest="-nubálov">
+         <tg xml:lang="fin">
+            <t pos="Num">yksitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_51">
+      <lg>
+         <l pos="Num">oovcád</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_52">
+      <lg>
+         <l pos="Num">oovce</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksän</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_53">
+      <lg>
+         <l pos="Num">oovcenubáloh</l>
+      </lg>
+      <mg rest="-nubálov">
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksäntoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_54">
+      <mg rest="ohcás_ohcás">
+         <tg xml:lang="fin">
+            <t pos="Num">yhdeksän (ihmistä)</t>
+            <t pos="Num">yhdeksän ihmisen joukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_55">
+      <lg>
+         <l pos="Num">oovtâst</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">yhdessä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_56">
+      <lg>
+         <l pos="Num">skáhtá</l>
+      </lg>
+      <mg rest="skáávtá">
+         <tg xml:lang="fin">
+            <t pos="Num">kaksi purjeen alapuuhun kiinnitettyä köyttä, joilla ohjataan ja kiinnitetään purje</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_57">
+      <lg>
+         <l pos="Num">tävjit-távjá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">yhtenään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_58">
+      <lg>
+         <l pos="Num">viiđâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">viides</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_59">
+      <lg>
+         <l pos="Num">viiđâs</l>
+      </lg>
+      <mg rest="vittâs">
+         <tg xml:lang="fin">
+            <t pos="Num">viisi (ihmistä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_60">
+      <lg>
+         <l pos="Num">vitlov</l>
+      </lg>
+      <mg rest="viđâlov">
+         <tg xml:lang="fin">
+            <t pos="Num">viisikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_61">
+      <lg>
+         <l pos="Num">vitnubáloh</l>
+      </lg>
+      <mg rest="-nubálov">
+         <tg xml:lang="fin">
+            <t pos="Num">viisitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_62">
+      <lg>
+         <l pos="Num">vittâ</l>
+      </lg>
+      <mg rest="viiđâ">
+         <tg xml:lang="fin">
+            <t pos="Num">viisi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_63">
+      <lg>
+         <l pos="Num">vittâčyeđe</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">viisisataa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_64">
+      <lg>
+         <l pos="Num">vittii</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Num">viisi kertaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Num_65">
+      <lg>
+         <l pos="Num">vuosmuš</l>
+      </lg>
+      <mg rest="vuosmuu">
+         <tg xml:lang="fin">
+            <t pos="Num">ensimmäinen</t>
+         </tg>
+      </mg>
+   </e>
+</r>

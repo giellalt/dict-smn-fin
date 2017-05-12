@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="smnfin" xml:lang="smn">
+   <e id="Pron_1">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Pron">itselläsi</t>
+            <t pos="Pron">itseltäsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_2">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Pron">itselläni</t>
+            <t pos="Pron">itselltäni</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_3">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Pron">itseltään</t>
+            <t pos="Pron">itsellään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_4">
+      <lg>
+         <l pos="Pron">čuoigâmsaaveeh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">suksi (pitkähkö, kapeahko, murtomaahiihtoon)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_5">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Pron">monet</t>
+            <t pos="Pron">moni</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_6">
+      <lg>
+         <l pos="Pron">jieččâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">itsesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_7">
+      <lg>
+         <l pos="Pron">jieččân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">itseni</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_8">
+      <lg>
+         <l pos="Pron">jieijâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">itsensä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_8">
+      <lg>
+         <l pos="N">jieijâs šalligâššâm</l>
+      </lg>
+      <mg rest="šalligâššâm">
+         <tg xml:lang="fin">
+            <t pos="N">itsesääli</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_9">
+      <lg>
+         <l pos="Pron">jieškii-uv</l>
+      </lg>
+      <mg rest="-kiän-uv">
+         <tg xml:lang="fin">
+            <t pos="Pron">itsekukin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_10">
+      <lg>
+         <l pos="Pron">jieškote-uv</l>
+      </lg>
+      <mg rest="-kiän-uv">
+         <tg xml:lang="fin">
+            <t pos="Pron">itsekukin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_11">
+      <lg>
+         <l pos="Pron">jieškotteev</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">itsekukin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_12">
+      <lg>
+         <l pos="Pron">juáháš</l>
+      </lg>
+      <mg rest="juáh'háá">
+         <tg xml:lang="fin">
+            <t pos="Pron">jokainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_13">
+      <lg>
+         <l pos="Pron">kales</l>
+      </lg>
+      <mg rest="kallaas">
+         <tg xml:lang="fin">
+            <t pos="Pron">moniko (ihminen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_14">
+      <lg>
+         <l pos="Pron">kallaad</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">monesko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_15">
+      <lg>
+         <l pos="Pron">kihheen</l>
+      </lg>
+      <mg rest="kiännán kiännân">
+         <tg xml:lang="fin">
+            <t pos="Pron">kukaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_16">
+      <lg>
+         <l pos="Pron">kii</l>
+      </lg>
+      <mg rest="kiän">
+         <tg xml:lang="fin">
+            <t pos="Pron">joka</t>
+         </tg>
+      </mg>
+      <mg rest="kiän">
+         <tg xml:lang="fin">
+            <t pos="Pron">joku</t>
+         </tg>
+      </mg>
+      <mg rest="kiän">
+         <tg xml:lang="fin">
+            <t pos="Pron">kuka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_17">
+      <lg>
+         <l pos="Pron">kiinii</l>
+      </lg>
+      <mg rest="kiännii">
+         <tg xml:lang="fin">
+            <t pos="Pron">joku</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_18">
+      <lg>
+         <l pos="Pron">koggoon</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">mitään kautta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_19">
+      <lg>
+         <l pos="Pron">kosten</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">missään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_20">
+      <mg rest="kotemuu_kotemuu">
+         <tg xml:lang="fin">
+            <t pos="Pron">kuka (joukosta)</t>
+            <t pos="Pron">mikä (joukosta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_21">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Pron">kumpaan suuntaan</t>
+            <t pos="Pron">kumpi suunta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_22">
+      <lg>
+         <l pos="Pron">kuábbáš</l>
+      </lg>
+      <mg rest="kuáb'báá">
+         <tg xml:lang="fin">
+            <t pos="Pron">kumpi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_23">
+      <mg rest="kuáb'báágin_kuáb'báágin">
+         <tg xml:lang="fin">
+            <t pos="Pron">kumpainenkaan</t>
+            <t pos="Pron">kumpikaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_24">
+      <lg>
+         <l pos="Pron">kuábbášnii</l>
+      </lg>
+      <mg rest="kuáb'báánii">
+         <tg xml:lang="fin">
+            <t pos="Pron">jompikumpi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_25">
+      <mg rest="kuáb'báá-uv_kuáb'báá-uv">
+         <tg xml:lang="fin">
+            <t pos="Pron">kumpainenkin</t>
+            <t pos="Pron">kumpikin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_26">
+      <lg>
+         <l pos="Adv">maacij</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">edestakaisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_26">
+      <lg>
+         <l pos="N">maacij</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">mutkin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_27">
+      <mg rest="- tađe_- tađe">
+         <tg xml:lang="fin">
+            <t pos="Pron">kuta - sitä</t>
+            <t pos="Pron">mitä - sitä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">kuta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_28">
+      <mg rest="__">
+         <tg xml:lang="fin">
+            <t pos="Pron">millainen</t>
+            <t pos="Pron">minkälainen</t>
+            <t pos="Pron">jollainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_29">
+      <lg>
+         <l pos="Pron">maggaargin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">minkäänlainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_30">
+      <lg>
+         <l pos="Pron">mánuvaajâs</l>
+      </lg>
+      <mg rest="-vaaijâs">
+         <tg xml:lang="fin">
+            <t pos="Pron">musta kuu (uuden kuun aikaan)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_31">
+      <lg>
+         <l pos="Pron">mánuvuáđu</l>
+      </lg>
+      <mg rest="vuáđu">
+         <tg xml:lang="fin">
+            <t pos="Pron">musta kuu (uuden kuun aikaan)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_32">
+      <mg rest="maaŋgâ_maaŋgâ">
+         <tg xml:lang="fin">
+            <t pos="Pron">moni</t>
+            <t pos="Pron">usea</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_33">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Pron">monesti</t>
+            <t pos="Pron">usein</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_34">
+      <lg>
+         <l pos="Pron">mihheen</l>
+      </lg>
+      <mg rest="monnân">
+         <tg xml:lang="fin">
+            <t pos="Pron">mikään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_35">
+      <mg rest="mon_mon">
+         <tg xml:lang="fin">
+            <t pos="Pron">joka</t>
+            <t pos="Pron">mikä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_36">
+      <lg>
+         <l pos="Pron">mij</l>
+      </lg>
+      <mg rest="mii">
+         <tg xml:lang="fin">
+            <t pos="Pron">me (mon.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_37">
+      <lg>
+         <l pos="Pron">mommit</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">minkä verran</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_38">
+      <lg>
+         <l pos="Pron">monmit</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">minkä verran</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_39" mc="jokunen (epämääräinen): singular-plural issue">
+      <lg>
+         <l pos="Pron">mottoom</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">eräs</t>
+            <t pos="Pron">muuan (epämääräinen)</t>
+            <t pos="Pron">jokunen (epämääräinen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_40">
+      <lg>
+         <l pos="Pron">muáddi</l>
+      </lg>
+      <mg rest="muádi">
+         <tg xml:lang="fin">
+            <t pos="Pron">muutama</t>
+         </tg>
+      </mg>
+      <mg rest="muádi">
+         <tg xml:lang="fin">
+            <t pos="Pron">pari</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_41">
+      <lg>
+         <l pos="Pron">muádis</l>
+      </lg>
+      <mg rest="muád'dás muád'dâs">
+         <tg xml:lang="fin">
+            <t pos="Pron">muutama ihminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_42">
+      <lg>
+         <l pos="Pron">mulde</l>
+      </lg>
+      <mg rest="mu'lde">
+         <tg xml:lang="fin">
+            <t pos="Pron">multa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_43">
+      <lg>
+         <l pos="Pron">mun</l>
+      </lg>
+      <mg rest="muu">
+         <tg xml:lang="fin">
+            <t pos="Pron">minä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_44">
+      <lg>
+         <l pos="Pron">muoi</l>
+      </lg>
+      <mg rest="munnuu">
+         <tg xml:lang="fin">
+            <t pos="Pron">me (kaksikko)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_45">
+      <lg>
+         <l pos="Pron">nubijdis</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">toisiaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_46">
+      <lg>
+         <l pos="Pron">olssâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">itsellesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_47">
+      <lg>
+         <l pos="Pron">olssân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">itselleni</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_48">
+      <lg>
+         <l pos="Pron">olssis</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">itselleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_49">
+      <lg>
+         <l pos="Pron">puáskulâs</l>
+      </lg>
+      <mg rest="puás'kulii">
+         <tg xml:lang="fin">
+            <t pos="Pron">usein piereskelevä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_50">
+      <lg>
+         <l pos="Pron">puohah</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">kaikki (ihmisistä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_51">
+      <lg>
+         <l pos="Pron">puohnâssân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">kaiken kaikkiaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_52">
+      <lg>
+         <l pos="Pron">puohrekkân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">kaikki tyynni</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_53">
+      <lg>
+         <l pos="Pron">saaveeh</l>
+      </lg>
+      <mg rest="saveheh">
+         <tg xml:lang="fin">
+            <t pos="Pron">suksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_54">
+      <lg>
+         <l pos="Pron">sij</l>
+      </lg>
+      <mg rest="sii">
+         <tg xml:lang="fin">
+            <t pos="Pron">he (monikko)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_55">
+      <lg>
+         <l pos="Pron">sijdâkyeimi</l>
+      </lg>
+      <mg rest="-kyeimi">
+         <tg xml:lang="fin">
+            <t pos="Pron">samassa kylässä asuva</t>
+         </tg>
+      </mg>
+      <mg rest="-kyeimi">
+         <tg xml:lang="fin">
+            <t pos="Pron">saman paimennuskunnan jäsen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_56">
+      <lg>
+         <l pos="Pron">siämmáánáál</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">samalla tavoin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_57">
+      <lg>
+         <l pos="Pron">siämmáš</l>
+      </lg>
+      <mg rest="siäm'máá">
+         <tg xml:lang="fin">
+            <t pos="Pron">sama</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_58" mc="singular-plural issue">
+      <lg>
+         <l pos="Pron">suámis</l>
+      </lg>
+      <mg rest="suámmás">
+         <tg xml:lang="fin">
+            <t pos="Pron">jokunen (epämääräinen)</t>
+            <t pos="Pron">joku (epämääräinen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_59">
+      <lg>
+         <l pos="Pron">sun</l>
+      </lg>
+      <mg rest="suu">
+         <tg xml:lang="fin">
+            <t pos="Pron">hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_60">
+      <lg>
+         <l pos="Pron">suoi</l>
+      </lg>
+      <mg rest="sunnuu">
+         <tg xml:lang="fin">
+            <t pos="Pron">he kaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_61">
+      <lg>
+         <l pos="Pron">taađaat</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">tämä tässä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_62">
+      <lg>
+         <l pos="Pron">taammittáá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">tämän verran</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_63">
+      <lg>
+         <l pos="Pron">taas</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">taas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_64">
+      <lg>
+         <l pos="Pron">taat</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">tämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_65">
+      <lg>
+         <l pos="Pron">táát</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">tämä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_66">
+      <lg>
+         <l pos="Pron">tađe</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">sitä (+ komp.)</t>
+         </tg>
+      </mg>
+      <mg rest="oovdeb">
+         <tg xml:lang="fin">
+            <t pos="Pron">edeltävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_67">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Pron">sellainen</t>
+            <t pos="Pron">semmoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_68">
+      <lg>
+         <l pos="Pron">tággáár</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">tällainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_69">
+      <mg rest="_">
+         <tg xml:lang="fin">
+            <t pos="Pron">siinä</t>
+            <t pos="Pron">siitä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_70">
+      <lg>
+         <l pos="Pron">távjá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">usein</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_71">
+      <lg>
+         <l pos="Pron">tietot</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">se juuri (puhuteltavan lähellä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_72">
+      <lg>
+         <l pos="Pron">tij</l>
+      </lg>
+      <mg rest="tii">
+         <tg xml:lang="fin">
+            <t pos="Pron">te (monikko)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_73">
+      <lg>
+         <l pos="Pron">tot</l>
+      </lg>
+      <mg rest="ton tom">
+         <tg xml:lang="fin">
+            <t pos="Pron">se</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_74">
+      <lg>
+         <l pos="Pron">tun</l>
+      </lg>
+      <mg rest="tuu">
+         <tg xml:lang="fin">
+            <t pos="Pron">sinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_75">
+      <lg>
+         <l pos="Pron">tunnâ</l>
+      </lg>
+      <mg rest="tuvvâ">
+         <tg xml:lang="fin">
+            <t pos="Pron">sinä (runokielinen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_76">
+      <lg>
+         <l pos="Pron">tuoi</l>
+      </lg>
+      <mg rest="tunnuu">
+         <tg xml:lang="fin">
+            <t pos="Pron">te (kaksikko)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_77">
+      <lg>
+         <l pos="Pron">tuot</l>
+      </lg>
+      <mg rest="tuon">
+         <tg xml:lang="fin">
+            <t pos="Pron">tuo</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_78">
+      <lg>
+         <l pos="Pron">tämmit</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">tämän verran</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_79">
+      <lg>
+         <l pos="Pron">tämmittáá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">tämän verran</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_80">
+      <lg>
+         <l pos="Pron">täst</l>
+      </lg>
+      <mg rest="oovdâs">
+         <tg xml:lang="fin">
+            <t pos="Pron">toistaiseksi</t>
+         </tg>
+      </mg>
+      <mg rest="oovdâs">
+         <tg xml:lang="fin">
+            <t pos="Pron">tästä eteenpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_81">
+      <lg>
+         <l pos="Pron">tävjit-távjá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">usein (erittäin)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pron_82">
+      <lg>
+         <l pos="Pron">viisut</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">kaikki</t>
+         </tg>
+      </mg>
+   </e>
+</r>
