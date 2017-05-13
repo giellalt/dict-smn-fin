@@ -21,7 +21,7 @@
       </mg>
    </e>
    <e id="Num_3">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">seitsemän ihmistä</t>
             <t pos="Num">seitsemän ihmisen joukko</t>
@@ -319,7 +319,7 @@
       </mg>
    </e>
    <e id="Num_33">
-      <mg rest="lohháás_lohháás">
+      <mg rest="lohháás">
          <tg xml:lang="fin">
             <t pos="Num">kymmenen (ihmistä)</t>
             <t pos="Num">kymmenen ihmisen joukko</t>
@@ -477,7 +477,7 @@
       </mg>
    </e>
    <e id="Num_49">
-      <mg rest="oovtâ_oovtâ">
+      <mg rest="oovtâ">
          <tg xml:lang="fin">
             <t pos="Num">eräs (tiedetään kuka on kyseessä, muttei haluta mainita nimellä)</t>
             <t pos="Num">muuan</t>
@@ -530,7 +530,7 @@
       </mg>
    </e>
    <e id="Num_54">
-      <mg rest="ohcás_ohcás">
+      <mg rest="ohcás">
          <tg xml:lang="fin">
             <t pos="Num">yhdeksän (ihmistä)</t>
             <t pos="Num">yhdeksän ihmisen joukko</t>

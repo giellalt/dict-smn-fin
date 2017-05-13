@@ -244,7 +244,7 @@
       </mg>
    </e>
    <e id="Interj_25">
-      <mg rest="__">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">ohhoh</t>
             <t pos="Interj">oi</t>
@@ -338,7 +338,7 @@
       </mg>
    </e>
    <e id="Interj_34">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">räiskis</t>
             <t pos="Interj">mäiskis</t>
@@ -346,7 +346,7 @@
       </mg>
    </e>
    <e id="Interj_35">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">mäiskis</t>
             <t pos="Interj">räiskis</t>
@@ -394,7 +394,7 @@
       </mg>
    </e>
    <e id="Interj_40">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">pahus</t>
             <t pos="Interj">saatana (kirosana)</t>
@@ -432,7 +432,7 @@
       </mg>
    </e>
    <e id="Interj_44">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">hei (tervehdyksenä)</t>
             <t pos="Interj">terve (tervehdyksenä)</t>

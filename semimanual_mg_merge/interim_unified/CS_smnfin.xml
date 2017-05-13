@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r id="smnfin" xml:lang="smn">
    <e id="CS_1">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">ettei</t>
             <t pos="CS">jottei</t>
@@ -74,13 +74,13 @@
       </mg>
    </e>
    <e id="CS_8">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jolloin</t>
             <t pos="CS">milloin</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">koska</t>
             <t pos="CS">kun</t>
@@ -108,13 +108,13 @@
       </mg>
    </e>
    <e id="CS_10">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jolloin</t>
             <t pos="CS">milloin</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">koska</t>
             <t pos="CS">kun</t>
@@ -122,7 +122,7 @@
       </mg>
    </e>
    <e id="CS_11">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kun</t>
             <t pos="CS">kunpa</t>
@@ -173,7 +173,7 @@
       </mg>
    </e>
    <e id="CS_14">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">niin</t>
             <t pos="CS">sitten</t>
@@ -181,7 +181,7 @@
       </mg>
    </e>
    <e id="CS_15">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kuin</t>
             <t pos="CS">niin kuin</t>

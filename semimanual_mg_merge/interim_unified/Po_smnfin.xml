@@ -31,7 +31,7 @@
       </mg>
    </e>
    <e id="Po_3">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">läpi</t>
             <t pos="Po">lävitse</t>
@@ -94,19 +94,19 @@
       </mg>
    </e>
    <e id="Po_9">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">keskellä</t>
             <t pos="Po">keskivälillä</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">keskelle</t>
             <t pos="Po">keskivälille</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">keskeltä</t>
             <t pos="Po">keskiväliltä</t>
@@ -114,19 +114,19 @@
       </mg>
    </e>
    <e id="Po_10">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kuluttua</t>
             <t pos="Po">päästä</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">luo</t>
             <t pos="Po">luona</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
             <t pos="Po">vuoksi</t>
@@ -134,7 +134,7 @@
       </mg>
    </e>
    <e id="Po_11">
-      <mg rest="___">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">johdosta (takia)</t>
             <t pos="Po">takia</t>
@@ -179,13 +179,13 @@
       </mg>
    </e>
    <e id="Po_15">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kohtaan</t>
             <t pos="Po">suhteen</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">tiimoilla</t>
             <t pos="Po">tiimoilta</t>
@@ -265,7 +265,7 @@
       </mg>
    </e>
    <e id="Po_22">
-      <mg rest="__">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">takanapäin</t>
             <t pos="Po">jäljessäpäin</t>
@@ -279,7 +279,7 @@
       </mg>
    </e>
    <e id="Po_23">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">jälkeenpäin</t>
             <t pos="Po">myöhemmin</t>
@@ -327,7 +327,7 @@
       </mg>
    </e>
    <e id="Po_27">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">lailla</t>
             <t pos="Po">tavoin</t>
@@ -335,7 +335,7 @@
       </mg>
    </e>
    <e id="Po_28">
-      <mg rest="___">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kohden (jtak)</t>
             <t pos="Po">kohti</t>
@@ -365,13 +365,13 @@
       </mg>
    </e>
    <e id="Po_30">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">edelle</t>
             <t pos="Po">eteen</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">esiin</t>
             <t pos="Po">esille</t>
@@ -394,7 +394,7 @@
       </mg>
    </e>
    <e id="Po_32">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">edelle</t>
             <t pos="Po">etupuolelle</t>
@@ -402,14 +402,14 @@
       </mg>
    </e>
    <e id="Po_33">
-      <mg rest="__">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">edellä</t>
             <t pos="Po">edessäpäin</t>
             <t pos="Po">etupuolella</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">edeltä</t>
             <t pos="Po">etupuolelta</t>
@@ -532,7 +532,7 @@
       </mg>
    </e>
    <e id="Po_44">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">vieressä (jk)</t>
             <t pos="Po">ääressä (jk)</t>
@@ -555,7 +555,7 @@
       </mg>
    </e>
    <e id="Po_46">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kohdalla</t>
             <t pos="Po">vastapäätä</t>
@@ -563,7 +563,7 @@
       </mg>
    </e>
    <e id="Po_47">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">asti</t>
             <t pos="Po">saakka</t>
@@ -571,7 +571,7 @@
       </mg>
    </e>
    <e id="Po_48">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">poikki</t>
             <t pos="Po">yli (tien, joen tms.)</t>
@@ -579,7 +579,7 @@
       </mg>
    </e>
    <e id="Po_49">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">saakka</t>
             <t pos="Po">asti</t>
@@ -587,7 +587,7 @@
       </mg>
    </e>
    <e id="Po_50">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisälle</t>
             <t pos="Po">sisään</t>
@@ -595,13 +595,13 @@
       </mg>
    </e>
    <e id="Po_51">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisälläsi</t>
             <t pos="Po">sisältäsi</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisässäsi</t>
             <t pos="Po">sisästäsi</t>
@@ -609,13 +609,13 @@
       </mg>
    </e>
    <e id="Po_52">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisälläni</t>
             <t pos="Po">sisältäni</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisässäni</t>
             <t pos="Po">sisästäni</t>
@@ -623,13 +623,13 @@
       </mg>
    </e>
    <e id="Po_53">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisällä</t>
             <t pos="Po">sisässä</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisältä</t>
             <t pos="Po">sisästä</t>
@@ -637,13 +637,13 @@
       </mg>
    </e>
    <e id="Po_54">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisällään</t>
             <t pos="Po">sisältään</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisässään</t>
             <t pos="Po">sisästään</t>
@@ -661,7 +661,7 @@
       </mg>
    </e>
    <e id="Po_56">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">seudulla</t>
             <t pos="Po">tienoilla</t>
@@ -699,7 +699,7 @@
       </mg>
    </e>
    <e id="Po_59">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">siinä kohden</t>
             <t pos="Po">siinä paikassa</t>
@@ -707,7 +707,7 @@
       </mg>
    </e>
    <e id="Po_60">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
             <t pos="Po">vuoksi</t>
@@ -715,7 +715,7 @@
       </mg>
    </e>
    <e id="Po_61">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
             <t pos="Po">vuoksi</t>
@@ -873,13 +873,13 @@
       </mg>
    </e>
    <e id="Po_75">
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">alhaalla</t>
             <t pos="Po">alhaalta</t>
          </tg>
       </mg>
-      <mg rest="_">
+      <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">alla</t>
             <t pos="Po">alta</t>
