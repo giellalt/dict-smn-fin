@@ -8135,5 +8135,65 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_4232_Adv_correction">
+      <lg>
+         <l pos="Adv">kuáttun</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kotona</t>
+            <t pos="Adv">kotosalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7168_Adv_correction">
+      <lg>
+         <l pos="Adv">paijeen</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">pystyssä</t>
+            <t pos="Adv">jalkeilla</t>
+            <t pos="Adv">ylhäällä</t>
+            <t pos="Adv">ylhäältä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7910_Adv_correction">
+      <lg>
+         <l pos="Adv">pokkâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">täpötäynnä</t>
+            <t pos="Adv">tupaten täynnä</t>
+         </tg>
+      </mg>
+      <mg rest="poohâ">
+         <tg xml:lang="fin">
+            <t pos="Adv">pukki</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_9076_Adv_correction">
+      <lg>
+         <l pos="Adv">ruotâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ruotsiksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10995_Adv_correction">
+      <lg>
+         <l pos="Adv">tane</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siksi</t>
+         </tg>
+      </mg>
+   </e>
 
 </r>
