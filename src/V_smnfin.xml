@@ -5550,10 +5550,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kerätä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">poimia</t>
          </tg>
       </mg>
@@ -13025,21 +13021,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kuivua rutikuivaksi (kasvillisuudesta)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_980">
-      <lg>
-         <l pos="V">ij</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">ei</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pätemätön</t>
          </tg>
       </mg>
    </e>
@@ -29754,21 +29735,12 @@ For the full license text, see the link above.
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">marrastaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">saattaa matkalle</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">saattaa viimeiselle matkalle</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">saattaa hautaan</t>
          </tg>
       </mg>
@@ -46845,6 +46817,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">juosta vähän (nelijalkaisesta)</t>
+            <t pos="V">laukata vähän (nelijalkaisesta)</t>
          </tg>
       </mg>
       <mg rest="">
@@ -46854,17 +46827,12 @@ For the full license text, see the link above.
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">laukata vähän (nelijalkaisesta)</t>
+            <t pos="V">lähteä laukkaamaan (nelijalkaisesta)</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">lähteä laukkaamaan</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">lähteä konttaamaan (nelijalkaisesta)</t>
+            <t pos="V">lähteä konttaamaan</t>
          </tg>
       </mg>
       <mg rest="">
@@ -59817,7 +59785,7 @@ For the full license text, see the link above.
    </e>
    <e id="V_4711">
       <lg>
-         <l pos="V">tuápán</l>
+         <l pos="V">tuápán moonnâđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
