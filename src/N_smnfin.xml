@@ -11176,14 +11176,9 @@ For the full license text, see the link above.
    </e>
    <e id="N_1004">
       <lg>
-         <l pos="N">čoođâ-čoođâ</l>
+         <l pos="N">čoođâ-čoođâ čuog'giistâh</l>
       </lg>
-      <mg rest="čuog'giistâh čuog'giistuv">
-         <tg xml:lang="fin">
-            <t pos="N">etupisto (ommel)</t>
-         </tg>
-      </mg>
-      <mg rest="njoođâlm čuog'giistuv">
+      <mg>
          <tg xml:lang="fin">
             <t pos="N">etupistoilla tehty ommel (ommel)</t>
          </tg>
@@ -15121,16 +15116,13 @@ For the full license text, see the link above.
       </lg>
       <mg rest="cuozâ">
          <tg xml:lang="fin">
-            <t pos="N">kalvo (lihassa tai piirtoheittimen)</t>
-         </tg>
-      </mg>
-      <mg rest="cuozâ">
-         <tg xml:lang="fin">
+            <t pos="N">kalvo (lihassa)</t>
             <t pos="N">kesi</t>
          </tg>
       </mg>
       <mg rest="cuozâ">
          <tg xml:lang="fin">
+            <t pos="N">kalvo (piirtoheittimen)</t>
             <t pos="N">piirtoheitinkalvo</t>
          </tg>
       </mg>
@@ -27688,11 +27680,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">omistaja</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">oikeastaan</t>
          </tg>
       </mg>
    </e>
@@ -52596,15 +52583,12 @@ For the full license text, see the link above.
       <mg rest="laasâ">
          <tg xml:lang="fin">
             <t pos="N">ikkuna</t>
-         </tg>
-      </mg>
-      <mg rest="laasâ">
-         <tg xml:lang="fin">
             <t pos="N">lasi</t>
          </tg>
       </mg>
       <mg rest="laasâ">
          <tg xml:lang="fin">
+            <t pos="N">lasi</t>
             <t pos="N">juomalasi</t>
          </tg>
       </mg>
@@ -74747,20 +74731,21 @@ For the full license text, see the link above.
    </e>
    <e id="N_6766">
       <lg>
-         <l pos="N">occee</l>
+         <l pos="N">koccee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">valvoja</t>
          </tg>
       </mg>
+   </e>
+   <e id="N_6766">
+      <lg>
+         <l pos="N">occee</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">etsijä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="N">hakija</t>
          </tg>
       </mg>
@@ -78132,16 +78117,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_7080">
       <lg>
-         <l pos="N">ovtâskâs</l>
+         <l pos="A">ovtâskâs</l>
       </lg>
       <mg rest="ulmuu">
          <tg xml:lang="fin">
-            <t pos="N">yksilö</t>
-         </tg>
-      </mg>
-      <mg rest="olmooš">
-         <tg xml:lang="fin">
-            <t pos="N">yksilö</t>
+            <t pos="A">yksittäinen</t>
          </tg>
       </mg>
    </e>
@@ -141186,22 +141166,19 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">kohti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">vastaan</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">vasten</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="N">juusto</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_12852_PO_correction">
+      <lg>
+         <l pos="Po">vuástá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">kohti</t>
+            <t pos="Po">vastaan</t>
+            <t pos="Po">vasten</t>
          </tg>
       </mg>
    </e>

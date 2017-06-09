@@ -2833,20 +2833,13 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">antaa lausunto</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">lausua</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
+            <t pos="V">lausua</t>
             <t pos="V">sanoa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">virkkaa</t>
          </tg>
       </mg>
@@ -4989,21 +4982,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">kukkula (tunturissa)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">perata (kaloja)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">fileoida</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">suolistaa (tav. kaloja)</t>
          </tg>
       </mg>
@@ -30436,10 +30415,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">sekaantua (eläinlaumoista)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">yhtyä (eläinlaumoista)</t>
          </tg>
       </mg>
@@ -30530,17 +30505,17 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">painella kovalla (kynnellä, veitsen lappeella tms., jotta päässä olevat täinpuremat paranisivat) mytätä, rutata painamalla</t>
+            <t pos="V">painella kovalla (kynnellä, veitsen lappeella tms., jotta päässä olevat täinpuremat paranisivat)</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">mytätä (painamalla)</t>
+            <t pos="V">runtata (painamalla)</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">runtata (painamalla)</t>
          </tg>
       </mg>
    </e>
@@ -59232,46 +59207,6 @@ For the full license text, see the link above.
             <t pos="V">tehdä</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">aktivoida</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tarkkailla (tehdä huomioita)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">ehdollistaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">kolminkertaistaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">laillistaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">mahdollistaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">merkitä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">vakinaistaa</t>
-         </tg>
-      </mg>
    </e>
    <e id="V_4669">
       <lg>
@@ -63985,15 +63920,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">pohdiskella (jtak asiaa eri kanteilta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">punnita (m. abstr. pohtia eri puolia)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">puntaroida</t>
          </tg>
       </mg>

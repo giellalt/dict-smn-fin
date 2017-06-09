@@ -1130,11 +1130,6 @@ For the full license text, see the link above.
             <t pos="A">automaattinen</t>
          </tg>
       </mg>
-      <mg rest="tiä'tukie'tâdâllâm">
-         <tg xml:lang="fin">
-            <t pos="A">automaattinen tietojenkäsittely</t>
-         </tg>
-      </mg>
    </e>
    <e id="A_93">
       <lg>
@@ -1643,15 +1638,12 @@ For the full license text, see the link above.
       <mg rest="čiel'gâs # čiel'gâ">
          <tg xml:lang="fin">
             <t pos="A">selkeä</t>
-         </tg>
-      </mg>
-      <mg rest="čiel'gâs # čiel'gâ">
-         <tg xml:lang="fin">
             <t pos="A">selvä</t>
          </tg>
       </mg>
       <mg rest="čiel'gâs # čiel'gâ">
          <tg xml:lang="fin">
+            <t pos="A">selvä</t>
             <t pos="A">ilmeinen</t>
          </tg>
       </mg>
@@ -1818,11 +1810,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">peittyvä</t>
-         </tg>
-      </mg>
-      <mg rest="jiešvuotâ -vuođâ">
-         <tg xml:lang="fin">
-            <t pos="A">peittyvä ominaisuus (perinn. tiede)</t>
          </tg>
       </mg>
    </e>
@@ -7077,16 +7064,6 @@ For the full license text, see the link above.
             <t pos="A">kirjoitus- ja lukutaitoinen</t>
          </tg>
       </mg>
-      <mg rest="kuittâ">
-         <tg xml:lang="fin">
-            <t pos="A">tosite</t>
-         </tg>
-      </mg>
-      <mg rest="miä'Rádâs">
-         <tg xml:lang="fin">
-            <t pos="A">sääntö</t>
-         </tg>
-      </mg>
    </e>
    <e id="A_590">
       <lg>
@@ -9740,16 +9717,17 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">myöhäinen</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="A">myöhä</t>
          </tg>
       </mg>
+   </e>
+   <e id="A_823_Adv_correction">
+      <lg>
+         <l pos="Adv">mannjeed</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">myöhään</t>
+            <t pos="Adv">myöhään</t>
          </tg>
       </mg>
    </e>
@@ -9940,11 +9918,10 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">hirveän (attr.)</t>
-         </tg>
-      </mg>
-      <mg rest="aarrâd">
-         <tg xml:lang="fin">
-            <t pos="A">ennenaikainen</t>
+            <xg> 
+             <x>meendu aarrâd</x>
+             <xt>ennenaikainen</xt>
+            </xg> 
          </tg>
       </mg>
    </e>
@@ -14150,14 +14127,9 @@ For the full license text, see the link above.
       <lg>
          <l pos="A">puástu</l>
       </lg>
-      <mg rest="attr.)">
+      <mg rest="attr.">
          <tg xml:lang="fin">
             <t pos="A">väärä</t>
-         </tg>
-      </mg>
-      <mg rest="tuo'đâštâs">
-         <tg xml:lang="fin">
-            <t pos="A">väärä todistus</t>
          </tg>
       </mg>
    </e>
@@ -17571,24 +17543,21 @@ For the full license text, see the link above.
       <lg>
          <l pos="A">suáđis</l>
       </lg>
-      <mg rest="suáđđás">
-         <tg xml:lang="fin">
-            <t pos="A">sälö</t>
-         </tg>
-      </mg>
-      <mg rest="suáđđás">
-         <tg xml:lang="fin">
-            <t pos="A">tikku</t>
-         </tg>
-      </mg>
       <mg rest="suáđđás # suá'đes">
          <tg xml:lang="fin">
             <t pos="A">tikkuinen</t>
+            <t pos="A">sälöinen</t>
          </tg>
       </mg>
-      <mg rest="suáđđás # suá'đes">
+   </e>
+   <e id="A_1477_N_correction">
+      <lg>
+         <l pos="N">suáđis</l>
+      </lg>
+      <mg rest="suáđđás">
          <tg xml:lang="fin">
-            <t pos="A">sälöinen</t>
+            <t pos="N">sälö</t>
+            <t pos="N">tikku</t>
          </tg>
       </mg>
    </e>

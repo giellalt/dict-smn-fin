@@ -419,18 +419,13 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Adv_32" mc="singular-plural issue">
+   <e id="Adv_32">
       <lg>
          <l pos="Adv">čohčuv</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">syksyllä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">syksyisin</t>
          </tg>
       </mg>
    </e>
@@ -1787,14 +1782,13 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Adv_136" mc="singular-plural issue">
+   <e id="Adv_136">
       <lg>
          <l pos="Adv">keessiv</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kesällä</t>
-            <t pos="Adv">kesäisin</t>
          </tg>
       </mg>
    </e>
@@ -4096,14 +4090,13 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Adv_311" mc="singular-plural issue">
+   <e id="Adv_311">
       <lg>
          <l pos="Adv">peiviv</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">päivällä</t>
-            <t pos="Adv">päivisin</t>
          </tg>
       </mg>
    </e>
@@ -4457,18 +4450,13 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Adv_343">
+   <e id="Adv_343_N_correction">
       <lg>
-         <l pos="Adv">roobdâ</l>
+         <l pos="N">roobdâ</l>
       </lg>
       <mg rest="robduu">
          <tg xml:lang="fin">
             <t pos="N">rinne (jyrkempi kuin viel'tti)</t>
-         </tg>
-      </mg>
-      <mg rest="räi">
-         <tg xml:lang="fin">
-            <t pos="Adv">äärimmilleen</t>
          </tg>
       </mg>
    </e>
