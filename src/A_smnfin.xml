@@ -9721,16 +9721,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="A_823_Adv_correction">
-      <lg>
-         <l pos="Adv">mannjeed</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">myöhään</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_824">
       <lg>
          <l pos="A">manuaallâš</l>
@@ -17547,17 +17537,6 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="A">tikkuinen</t>
             <t pos="A">sälöinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1477_N_correction">
-      <lg>
-         <l pos="N">suáđis</l>
-      </lg>
-      <mg rest="suáđđás">
-         <tg xml:lang="fin">
-            <t pos="N">sälö</t>
-            <t pos="N">tikku</t>
          </tg>
       </mg>
    </e>

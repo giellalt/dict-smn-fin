@@ -1172,4 +1172,16 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_12852_PO_correction">
+      <lg>
+         <l pos="Po">vuástá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">kohti</t>
+            <t pos="Po">vastaan</t>
+            <t pos="Po">vasten</t>
+         </tg>
+      </mg>
+   </e>
 </r>

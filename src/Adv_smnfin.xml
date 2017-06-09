@@ -4450,16 +4450,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Adv_343_N_correction">
-      <lg>
-         <l pos="N">roobdâ</l>
-      </lg>
-      <mg rest="robduu">
-         <tg xml:lang="fin">
-            <t pos="N">rinne (jyrkempi kuin viel'tti)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Adv_344">
       <lg>
          <l pos="Adv">ruáptud</l>
@@ -8180,6 +8170,16 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">siksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_823_Adv_correction">
+      <lg>
+         <l pos="Adv">mannjeed</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">myöhään</t>
          </tg>
       </mg>
    </e>

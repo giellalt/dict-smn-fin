@@ -141170,18 +141170,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_12852_PO_correction">
-      <lg>
-         <l pos="Po">vuástá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Po">kohti</t>
-            <t pos="Po">vastaan</t>
-            <t pos="Po">vasten</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_12853">
       <lg>
          <l pos="N">vuástáheevvâl</l>
@@ -148642,6 +148630,27 @@ For the full license text, see the link above.
       <mg rest="tiäđu">
          <tg xml:lang="fin">
             <t pos="N">viesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1477_N_correction">
+      <lg>
+         <l pos="N">suáđis</l>
+      </lg>
+      <mg rest="suáđđás">
+         <tg xml:lang="fin">
+            <t pos="N">sälö</t>
+            <t pos="N">tikku</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Adv_343_N_correction">
+      <lg>
+         <l pos="N">roobdâ</l>
+      </lg>
+      <mg rest="robduu">
+         <tg xml:lang="fin">
+            <t pos="N">rinne (jyrkempi kuin viel'tti)</t>
          </tg>
       </mg>
    </e>
