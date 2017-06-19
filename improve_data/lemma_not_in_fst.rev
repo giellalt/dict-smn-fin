@@ -49,6 +49,10 @@ vyebdimed	myytävänä
 
 čiččid	seitsemäs
 
+čuággiđ_kuobbârijd	sienestää
+
+ovtâi_mild	yksitellen
+
 kiivšád	kiusallasi_(2._pers.)
 kiivšád	kiusoittelumielessä_(2._pers.)
 
@@ -64,6 +68,8 @@ maŋasčyeccee	takautuva
 
 čäcjiehhee	vesitiivis
 čäcjiehhee	vedenpitävä
+
+fijnáht_lättejeijee	hienovarainen
 
 epilyetittijjee	epäluotettava
 
@@ -157,6 +163,8 @@ ovdedemise	kehitysapu
 
 nursse	tylppä_esine
 
+sehe_..._ete	sekä_..._että
+
 rihte	rinne_(jyrkkä)
 
 jite	niin
@@ -183,6 +191,8 @@ nubetove	toisella_kertaa
 snarve	nirppanokka
 
 nirve	pärstä
+
+vaaibâs_leđe	väsyttää_(tuntea_väsymystä)
 
 njahče	poro_jonka_sarvet_hyvin_takakenossa
 
@@ -218,6 +228,8 @@ heeitâg	huono
 heeitâg	mitätön
 
 mánotaavdah	kuukautiset
+
+máánutaavdah	kuukautiset
 
 vuosah	jälkeiset
 
@@ -458,7 +470,7 @@ labdastâh	liitos
 
 lijgestâh	lisäke
 
-čuog'giistâh	čuog'giistâh	+?
+čoođâ-čoođâ_čuog'giistâh	etupistoilla_tehty_ommel_(ommel)
 
 paijeelčuoggiistâh	yliluottelupisto
 
@@ -503,8 +515,6 @@ puhhiittâh	kapea_kohta
 
 rađđiittâh	neuvola
 
-molsottâh	vaihde
-
 njirtottâh	ommel_(esim._puuastian_korjaamisessa)
 
 vuájuttâh	upottava_paikka_(esim._suossa)
@@ -539,16 +549,11 @@ seilâttâh	säiliö
 njomâttâh	särky
 njomâttâh	kipu
 
-purâttâh	syöpymä
-
 karsâttâh	karsikko
 
 ovtâttâh	yksikkö
 
 veđâttâh	paikka,_jonka_tuuli_on_puhaltanut_paljaaksi_tai_vähälumiseksi
-
-uáđáduvâh	vuodevaatteet
-uáđáduvâh	makaukset
 
 pelbi	nuoli_(terävä)
 
@@ -703,9 +708,6 @@ kurmápoaroi	porokiiliäinen
 
 njuároi	purolähdesammal
 
-pođoi	irtonainen
-pođoi	irti
-
 cuáŋoi	kantohanki
 cuáŋoi	hanki
 
@@ -763,9 +765,8 @@ miälgui	vetkutellen
 
 cullânjui	kuiskaillen
 
-hilui	hilui	+?
-
-hálui	hálui	+?
+hilui_hálui	hujan_hajan
+hilui_hálui	sikin_sokin
 
 raavi	oja_(tien,_pellon_tms.)
 
@@ -774,6 +775,8 @@ tovnpeeivi	ylihuomenna
 peskâheivi	peski,_joka_on_kaunis,_hyvä_ja/tai_sopiva
 
 juvâttemkolvi	juottokolvi
+
+soorvâ_čuárvi	hirven_sarvi
 
 lävvi	kahden_verkon_liitoskohta_jadassa
 
@@ -784,6 +787,8 @@ lieđvi	ohut_ja_pehmeä_(parkitusta_nahasta)
 cyezzi	nahka_(sarvien_välissä)
 
 puázzi	viilto_(ansavarvussa_lankaa_varten)
+
+leđe_čalmevárdái	pitää_silmällä
 
 macâi	edestakaisin
 macâi	mutkin
@@ -799,9 +804,6 @@ kávukkoozâi	selällään
 kávukkoozâi	selälleen
 
 maŋaspoođâi	takaperin
-
-päljispoođâi	paljain_takamuksin_(housuitta)
-päljispoođâi	housuitta_(peppu_paljaana)
 
 pyeši	kiukkuinen
 pyeši	kipakka
@@ -827,6 +829,12 @@ kyešši	rove_(sangallinen)
 pelčči	keula_(ahkion)
 
 kiäigusjuolgij	jalat_suorina
+
+leđe_kuhij	olla_pitkässä_hihnassa_(koirasta)
+leđe_kuhij	olla_olla_pidempi_tai_ulkonevampi_kuin_muut_(esineistä)
+
+leđe_kuuhij	olla_pidempi_tai_ulkonevampi_kuin_muut_(esineistä)
+leđe_kuuhij	olla_pitkässä_hihnassa_(koirasta)
 
 puunjij	kiero
 
@@ -1009,6 +1017,8 @@ jolgâdinčuoppâm	avohakkuu
 
 piäđguiaassâm	haja-asutus
 
+jieijâs_šalligâššâm	itsesääli
+
 maakkan	maakkana_(urosporo_6._vuodellaan)
 
 časkan	maila
@@ -1040,6 +1050,9 @@ kyedin	kantaen
 kyedin	kantamalla
 
 kardin	verho_(ikkunassa)
+
+anneeđ_ilgâdin	inhota
+anneeđ_ilgâdin	pitää_rumana_tai_vastenmielisenä
 
 kalleebgin	mokomakin
 
@@ -1111,6 +1124,8 @@ vyeln	alhaalta
 vyeln	alla
 vyeln	alta
 
+pyeri_muudon	pitkälti
+
 freeon	freoni
 
 spion	vakooja
@@ -1140,9 +1155,6 @@ miäldán	mukanani
 čálán	kirjoitin
 čálán	tulostin
 čálán	printteri
-
-tuápán	huopua
-tuápán	kutistua_(villavaatteesta)
 
 tástán	tässä_paikassa
 tástán	tästä_paikasta
@@ -1200,7 +1212,7 @@ endurân	pieleen
 endurân	hakoteille
 endurân	vikaan
 
-čuosân	čuosân	+?
+leđe_čuosân	olla_sulkasadossa
 
 tiessân	siihen_paikkaan_(puhuteltavan_lähellä)
 
@@ -1229,7 +1241,7 @@ ruotân	juosten_(nelijalkaisesta)
 
 tiestân	siinä_juuri_(puhuteltavan_lähellä)
 
-čuozân	čuozân	+?
+leđe_čuozân	olla_sulkasadossa
 
 aččân	kramppi
 aččân	heinäsirkka
@@ -1326,8 +1338,6 @@ justeer	justeeri
 astker	äyskäri
 
 peivitaaller	päivätaaleri
-
-šomer	hamara
 
 orgester	orkesteri
 
@@ -1426,8 +1436,6 @@ mieldis	mukanaan
 
 ruámáriegis	ruomarengas_(valjaiden_vetohihnassa)
 
-uálgis	oikea_(puoli)
-
 njyergis	rusto
 
 äägis	hangas
@@ -1472,9 +1480,6 @@ kuáivis	kaivupaikka
 kuáivis	kaivos_(porojen)
 
 vyesvis	nirso_(raskaana_olevasta_naisesta,_jolla_ei_ole_ruokahalua_esim._pahoinvoinnin_takia)
-
-čuápčis	soksavaadin
-čuápčis	vaadin_(vasansa_menettänyt)
 
 keevŋis	vesiputous
 
@@ -1542,7 +1547,7 @@ kompás	kompassi
 
 tuárvás	tarpeeksi
 
-tooláás	tooláás	+?
+liijkás_tooláás	ennenaikainen
 
 sudâhánnáás	ikirouta
 
@@ -1879,7 +1884,8 @@ het-het	juuri_ja_juuri
 
 fiolet	violetti
 
-čižet	vasen
+leđe_kuhheeht	olla_pidempi_tai_ulkonevampi_kuin_muut_(esineistä)
+leđe_kuhheeht	olla_pitkässä_hihnassa_(koirasta)
 
 it	että
 
@@ -1943,7 +1949,8 @@ raasist	rasisti
 
 kyessist	vieraisilla
 
-kuástusist	kuástusist	+?
+leđe_kuástusist	olla_näkyvillä
+leđe_kuástusist	häämöttää
 
 piäittusist	piilossa
 piäittusist	kätkössä
@@ -1953,6 +1960,8 @@ njoppâsist	koukkuun_tarttuneena_(muusta_kuin_suustaan,_kalasta)
 seevvist	sekaisin_(mieleltään)
 
 tassaažist	sittemmin
+
+leđe_koškoost	janottaa
 
 čooroost	syrjässä_(asutuksesta)
 čooroost	syrjästä_(asutuksesta)
@@ -1992,6 +2001,9 @@ tievâloostâst	täyslehdessä
 viisut	kaikki
 viisut	kokonaan
 
+jáá_nuuvt	vai_niin
+jáá_nuuvt	jaa
+
 táát	tämä
 
 kááccât	ristiluu_(selässä_porolla)
@@ -2014,8 +2026,8 @@ páácu	jäämistö
 
 eeidu	vasta
 eeidu	äsken
-eeidu	juuri
 eeidu	justiin
+eeidu	juuri
 
 aarâháldu	vaadin_(varhain_vasova)
 
@@ -2044,9 +2056,6 @@ vuárgu	ydinluu_(etujalan_alempi)
 távgu	nuottaköysi
 
 niähu	näköinen
-
-válju	mainio
-válju	valio
 
 várju	laavuloude
 
@@ -2105,9 +2114,6 @@ nisu	vehnä
 jonsahpeiviruvsu	juhannusruusu
 
 lástu	lapio_(puinen)
-
-puástu	väärä_todistus
-puástu	väärä
 
 lettu	lettu
 lettu	räiskäle
@@ -2171,6 +2177,8 @@ kuhháásiähá	kauan_melko
 
 njaalgâsiähá	imelä
 
+sehe_..._já	sekä_..._että
+
 tävjit-távjá	tuhkatiheään
 tävjit-távjá	usein_(erittäin)
 tävjit-távjá	yhtenään
@@ -2186,13 +2194,13 @@ hállá	halla
 
 soolá	kengänpohja
 
-setináálá	niin_vain
 setináálá	noin_vain
+setináálá	niin_vain
 setináálá	ilman_aikojaan
 setináálá	ilman_muuta
 
-sätináálá	niin_vain
 sätináálá	noin_vain
+sätináálá	niin_vain
 sätináálá	ilman_aikojaan
 sätináálá	ilman_muuta
 
@@ -2256,8 +2264,8 @@ kiitiätá	kenties
 
 huvvá	kylmyys_(lapsenkielinen_sana)
 
-iiđeedláá	aamunkoitteessa
 iiđeedláá	aamun_koitteessa
+iiđeedláá	aamunkoitteessa
 
 ovdláá	vähän_aikaisemmin
 ovdláá	vähän_enne
@@ -2301,10 +2309,6 @@ vuáluskárŋá	alaviistoon
 spálččá	paltsa
 spálččá	peskikulu
 spálččá	peski_(vanha_ja_kulunut)
-
-ubbâ	kokonainen_(attr.)
-ubbâ	kokonaan_(attr.)
-ubbâ	koko_(part.,_attr.)
 
 skuibâ	poro,_jonka_sarvista_toinen_sojottaa_eteenpäin
 
@@ -2494,8 +2498,6 @@ piksâ	linnun_rintalasta
 
 muulsâ	vaihde
 
-vuosâ	ensi
-
 essâ	ässä_(korttipelissä_ja_s-kirjain)
 
 kerislissâ	ahkionkulu_(vanha,_huono_ahkio)
@@ -2604,7 +2606,7 @@ lahhaaš	puolikas_(pieni)
 
 čalmaaš	hiukkanen_(aineen)
 
-tallaš	silloinen
+čalmevárdái_anneeđ	pitää_silmällä
 
 keš	kärkeen
 keš	päähän
@@ -2620,8 +2622,6 @@ nuubiš	seuraava_vuosi
 
 oolgiš	poikansa_kanssa
 oolgiš	poikineen
-
-moonjiš	miniä_anoppeineen_tai_appineen
 
 ucctaakiš	jakkutakki
 ucctaakiš	jakku
@@ -2640,19 +2640,10 @@ eenniš	tytär_äitinsä_kanssa
 
 seivâgistiđ	istua_lennosta_laskeuduttuaan_(linnusta)
 
-vaikuttiđ	vaikuttaa
-
-šlooviđ	lyödä
-šlooviđ	iskeä
-
 taiđiš	hyvä_suunnistamaan_(ihmisestä)
 
 pajoš	ylämaa
 pajoš	ylänkö
-
-iilooš	iloinen
-
-kuodduš	pieni_juurakko_(kantoineen)
 
 neehuš	näyttävä
 neehuš	hyvännäköinen
@@ -2660,8 +2651,6 @@ neehuš	hyvännäköinen
 košknjuš	kuiva_maa_(veden_vastakohtana)
 
 postânjuš	tikku_(sormessa_tai_muualla_ihossa)
-
-suolluš	pieni_saari
 
 tabemuš	tuonnimmainen_(useista)
 
@@ -2688,8 +2677,6 @@ stuárráámuš	suurin
 robdâmuš	äärimmäinen
 
 kesipiegâmuš	eteläisin
-
-virgetohâmuš	virkatehtävä_(yksittäinen_tehtävä,_esim._sakottaminen)
 
 uuvsâmuš	ovenpuoleisin
 
@@ -2748,9 +2735,6 @@ nááppáš	kuppi_(puinen)
 
 vuojânááppáš	rasvakuppi
 
-láássáš	luoto_(tav._matala_ja/tai_kivinen)
-láássáš	pieni_saari_(tav._matala_ja/tai_kivinen)
-
 säđgimpiäsáš	männyn_taimi
 
 čuánnjááhuáš	metsäkorte
@@ -2788,7 +2772,12 @@ satiâš	satiainen
 
 umolâš	vauva
 
+suhâlâš	sukulainen
+
 jiehtinâš	eilispäivänä
+
+tuápán_moonnâđ	huopua
+tuápán_moonnâđ	kutistua_(villavaatteesta)
 
 uáivirâš	pääpuoli_(erit._sängyssä)
 
@@ -2823,6 +2812,8 @@ kuodduustuvvâš	kuuluisa
 koozzâš	kyntynen
 
 kuovđâš	painanne_(pieni,_kostea,_ruohikkoinen)
+
+čäcikuávđâš	vesipäästäinen
 
 taaidârâššâđ	taiteilla
 
