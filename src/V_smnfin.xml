@@ -862,57 +862,53 @@ For the full license text, see the link above.
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">pitää (+ akk.) (tietynlaisia säitä)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">huolehtiä (jälkeläisestä, esim. vaadin vasasta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">harjoittaa sukupuoliyhteyttä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">kohdella</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">käyttää (esim. vaatteita, kenkiä, alkoholia tms.)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">särkeä (jtk esim. jalkaa, päätä)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">aristaa (jtk esim. jalkaa, päätä)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">viettää (+ akk.) (jtak juhlaa tai juhlapäivää)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">tarvita</t>
          </tg>
       </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ šooŋâid</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">pitää (+ akk.) (tietynlaisia säitä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ huolâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">huolehtia (jälkeläisestä, esim. vaadin vasasta)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">huolehtia (jstak tai jstk)</t>
+            <t pos="V">pitää huolta (jstak tai jstk)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ áárvust</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">arvostaa</t>
          </tg>
       </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ čalmeest</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">pitääsilmällä</t>
+            <t pos="V">pitää silmällä</t>
          </tg>
       </mg>
       <mg rest="">
@@ -925,46 +921,21 @@ For the full license text, see the link above.
             <t pos="V">tarkkailla</t>
          </tg>
       </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ syeleest</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">pitää salassa</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">huolehtia (jstak tai jstk)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää huolta (jstak tai jstk)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">jumaloida</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">palvoa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">inhota (pitää rumana tai vastenmielisenä)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">suhtautua</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pysyä järjissään</t>
-         </tg>
-      </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ mielâst</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">pitää mielessä</t>
@@ -973,41 +944,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">muistaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää sateita</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää lauhoja säitä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">kierrättää</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää tallessa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">hyödyntää</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">hyväksikäyttää</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">käyttää hyväksi</t>
          </tg>
       </mg>
    </e>
@@ -52724,62 +52660,12 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">joutua (tekemään jtak)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">kasvaa</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">syntyä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tapahtua</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tulla (tehneeksi)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tulla (jksik)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">sattua (jtk)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">itsenäistyä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">itsenäistyä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">järkeistyä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">erääntyä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">aikuistua</t>
          </tg>
       </mg>
    </e>

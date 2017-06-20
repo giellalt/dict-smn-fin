@@ -7319,21 +7319,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_671">
-      <lg>
-         <l pos="N">čaitâlmâs</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">näytelmä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">näyttely</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_672">
       <lg>
          <l pos="N">čáitálmâs</l>
@@ -7341,11 +7326,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">näyttely</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">näytelmä</t>
          </tg>
       </mg>
    </e>
