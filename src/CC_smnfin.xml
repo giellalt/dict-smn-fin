@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r id="smnfin" xml:lang="smn">
-   <lics xml:space="preserve">
-  <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.
-</lic>
-<ref>Work by Marja-Liisa Olthuis and Taarna Valtonen, and by Giellatekno at UiT,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailtofeedback@divvun.no</a> and <a>mailtogiellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
-     </sourcenote></lics>
    <e id="CC_1">
       <lg>
          <l pos="CC">adai</l>
@@ -204,51 +178,26 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="CC_18">
-      <lg>
-         <l pos="CC">mut</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">mutta</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CC">vaan</t>
          </tg>
       </mg>
    </e>
    <e id="CC_19">
-      <lg>
-         <l pos="CC">naa</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">joo</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CC">kyllä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CC">niin</t>
          </tg>
       </mg>
    </e>
    <e id="CC_20">
-      <lg>
-         <l pos="CC">pic</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">mutta</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CC">vaan</t>
          </tg>
       </mg>
@@ -367,9 +316,12 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="CC_30">
-      <lg>
-         <l pos="CC">vâi</l>
-      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CC">ettei (syytä ilmoittamassa)</t>
+            <t pos="CC">jottei (syytä ilmoittamassa)</t>
+         </tg>
+      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">jotta</t>
@@ -378,16 +330,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">vai</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CC">ettei (syytä ilmoittamassa)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CC">jottei (syytä ilmoittamassa)</t>
          </tg>
       </mg>
    </e>
