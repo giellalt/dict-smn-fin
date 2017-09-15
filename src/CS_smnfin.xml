@@ -27,9 +27,16 @@ For the full license text, see the link above.
      or could be wrongly sorted.
      </sourcenote></lics>
    <e id="CS_1">
+      <lg>
+         <l pos="CS">amas</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">ettei</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">jottei</t>
          </tg>
       </mg>
@@ -100,21 +107,32 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="CS_8">
+      <lg>
+         <l pos="CS">ko</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jolloin</t>
-            <t pos="CS">milloin</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">koska</t>
-            <t pos="CS">kun</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kuin</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">kun</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">milloin</t>
          </tg>
       </mg>
    </e>
@@ -134,29 +152,47 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="CS_10">
+      <lg>
+         <l pos="CS">kuás</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jolloin</t>
-            <t pos="CS">milloin</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">koska</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">kun</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">milloin</t>
          </tg>
       </mg>
    </e>
    <e id="CS_11">
+      <lg>
+         <l pos="CS">kuo</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="CS">kun</t>
-            <t pos="CS">kunpa</t>
+            <t pos="CS">kuin</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="CS">kuin</t>
+            <t pos="CS">kun</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">kunpa</t>
          </tg>
       </mg>
    </e>
@@ -199,17 +235,31 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="CS_14">
+      <lg>
+         <l pos="CS">te</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">niin</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">sitten</t>
          </tg>
       </mg>
    </e>
    <e id="CS_15">
+      <lg>
+         <l pos="CS">tegu</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kuin</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CS">niin kuin</t>
          </tg>
       </mg>

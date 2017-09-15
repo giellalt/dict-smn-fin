@@ -57,9 +57,16 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_3">
+      <lg>
+         <l pos="Po">čoođâ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">läpi</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">lävitse</t>
          </tg>
       </mg>
@@ -120,51 +127,96 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_9">
+      <lg>
+         <l pos="Po">kaskoo</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">keskellä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">keskivälillä</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">keskelle</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">keskivälille</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">keskeltä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">keskiväliltä</t>
          </tg>
       </mg>
    </e>
    <e id="Po_10">
+      <lg>
+         <l pos="Po">keččin</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kuluttua</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">päästä</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">luo</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">luona</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">vuoksi</t>
          </tg>
       </mg>
    </e>
    <e id="Po_11">
+      <lg>
+         <l pos="Po">keežild</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">johdosta (takia)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">takia</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">tähden</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">vuoksi</t>
          </tg>
       </mg>
@@ -205,21 +257,31 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_15">
+      <lg>
+         <l pos="Po">kuáttá</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kohtaan</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">suhteen</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">tiimoilla</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">tiimoilta</t>
          </tg>
       </mg>
    </e>
-   <e id="Po_16"
-      mc="I think _luo_ is not right here, it shoud be _luona_ or _luota_ and they are ws">
+   <e id="Po_16" mc="I think _luo_ is not right here, it shoud be _luona_ or _luota_ and they are ws">
       <lg>
          <l pos="Po">kulen</l>
       </lg>
@@ -291,11 +353,17 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_22">
+      <lg>
+         <l pos="Po">maajaabeln</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">takanapäin</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">jäljessäpäin</t>
-            <t pos="Po">perässäpäin</t>
          </tg>
       </mg>
       <mg rest="">
@@ -303,17 +371,29 @@ For the full license text, see the link above.
             <t pos="Po">jäljestäpäin</t>
          </tg>
       </mg>
-   </e>
-   <e id="Po_23">
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Po">jälkeenpäin</t>
-            <t pos="Po">myöhemmin</t>
+            <t pos="Po">perässäpäin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Po_23">
+      <lg>
+         <l pos="Po">maŋa</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">jälkeen</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Po">jälkeen</t>
+            <t pos="Po">jälkeenpäin</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">myöhemmin</t>
          </tg>
       </mg>
    </e>
@@ -353,19 +433,41 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_27">
+      <lg>
+         <l pos="Po">náál</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">lailla</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">tavoin</t>
          </tg>
       </mg>
    </e>
    <e id="Po_28">
+      <lg>
+         <l pos="Po">njeigâ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kohden (jtak)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">kohti</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">päin</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">vasten (jtak erit. nojallaan)</t>
          </tg>
       </mg>
@@ -391,15 +493,26 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_30">
+      <lg>
+         <l pos="Po">oovdân</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">edelle</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">eteen</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">esiin</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">esille</t>
          </tg>
       </mg>
@@ -420,24 +533,46 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_32">
+      <lg>
+         <l pos="Po">ovdiibel</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">edelle</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">etupuolelle</t>
          </tg>
       </mg>
    </e>
    <e id="Po_33">
+      <lg>
+         <l pos="Po">ovdiibeln</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">edellä</t>
-            <t pos="Po">edessäpäin</t>
-            <t pos="Po">etupuolella</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">edeltä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">edessäpäin</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">etupuolella</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">etupuolelta</t>
          </tg>
       </mg>
@@ -558,9 +693,16 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_44">
+      <lg>
+         <l pos="Po">piällást</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">vieressä (jk)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">ääressä (jk)</t>
          </tg>
       </mg>
@@ -581,97 +723,176 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_46">
+      <lg>
+         <l pos="Po">puotâ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kohdalla</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">vastapäätä</t>
          </tg>
       </mg>
    </e>
    <e id="Po_47">
+      <lg>
+         <l pos="Po">rááján</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">asti</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">saakka</t>
          </tg>
       </mg>
    </e>
    <e id="Po_48">
+      <lg>
+         <l pos="Po">rasta</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">poikki</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">yli (tien, joen tms.)</t>
          </tg>
       </mg>
    </e>
    <e id="Po_49">
+      <lg>
+         <l pos="Po">räi</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">saakka</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">asti</t>
          </tg>
       </mg>
    </e>
    <e id="Po_50">
+      <lg>
+         <l pos="Po">siisâ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisälle</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">sisään</t>
          </tg>
       </mg>
    </e>
    <e id="Po_51">
+      <lg>
+         <l pos="Po">sistáád</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisälläsi</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">sisältäsi</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisässäsi</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">sisästäsi</t>
          </tg>
       </mg>
    </e>
    <e id="Po_52">
+      <lg>
+         <l pos="Po">sistáán</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisälläni</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">sisältäni</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisässäni</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">sisästäni</t>
          </tg>
       </mg>
    </e>
    <e id="Po_53">
+      <lg>
+         <l pos="Po">siste</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisällä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">sisässä</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisältä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">sisästä</t>
          </tg>
       </mg>
    </e>
    <e id="Po_54">
+      <lg>
+         <l pos="Po">sistees</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisällään</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">sisältään</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisässään</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">sisästään</t>
          </tg>
       </mg>
@@ -687,9 +908,16 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_56">
+      <lg>
+         <l pos="Po">suulâst</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">seudulla</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">tienoilla</t>
          </tg>
       </mg>
@@ -725,25 +953,46 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_59">
+      <lg>
+         <l pos="Po">tagopeht</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">siinä kohden</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">siinä paikassa</t>
          </tg>
       </mg>
    </e>
    <e id="Po_60">
+      <lg>
+         <l pos="Po">tet</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">vuoksi</t>
          </tg>
       </mg>
    </e>
    <e id="Po_61">
+      <lg>
+         <l pos="Po">tiet</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">vuoksi</t>
          </tg>
       </mg>
@@ -899,15 +1148,26 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Po_75">
+      <lg>
+         <l pos="Po">vyelni</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">alhaalla</t>
-            <t pos="Po">alhaalta</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">alla</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">alhaalta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="Po">alta</t>
          </tg>
       </mg>

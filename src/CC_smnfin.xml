@@ -204,26 +204,51 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="CC_18">
+      <lg>
+         <l pos="CC">mut</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">mutta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CC">vaan</t>
          </tg>
       </mg>
    </e>
    <e id="CC_19">
+      <lg>
+         <l pos="CC">naa</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">joo</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CC">kyllä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CC">niin</t>
          </tg>
       </mg>
    </e>
    <e id="CC_20">
+      <lg>
+         <l pos="CC">pic</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">mutta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="CC">vaan</t>
          </tg>
       </mg>
@@ -342,12 +367,9 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="CC_30">
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CC">ettei (syytä ilmoittamassa)</t>
-            <t pos="CC">jottei (syytä ilmoittamassa)</t>
-         </tg>
-      </mg>
+      <lg>
+         <l pos="CC">vâi</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">jotta</t>
@@ -356,6 +378,16 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">vai</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CC">ettei (syytä ilmoittamassa)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CC">jottei (syytä ilmoittamassa)</t>
          </tg>
       </mg>
    </e>
