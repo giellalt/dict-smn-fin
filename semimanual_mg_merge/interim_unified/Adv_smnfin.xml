@@ -337,18 +337,13 @@
          </tg>
       </mg>
    </e>
-   <e id="Adv_32" mc="singular-plural issue">
+   <e id="Adv_32">
       <lg>
          <l pos="Adv">čohčuv</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">syksyllä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">syksyisin</t>
          </tg>
       </mg>
    </e>
@@ -1454,14 +1449,13 @@
          </tg>
       </mg>
    </e>
-   <e id="Adv_136" mc="singular-plural issue">
+   <e id="Adv_136">
       <lg>
          <l pos="Adv">keessiv</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kesällä</t>
-            <t pos="Adv">kesäisin</t>
          </tg>
       </mg>
    </e>
@@ -2883,11 +2877,6 @@
             <t pos="Adv">ulos</t>
          </tg>
       </mg>
-      <mg rest="pyeh'tiđ">
-         <tg xml:lang="fin">
-            <t pos="Adv">ilmaista</t>
-         </tg>
-      </mg>
    </e>
    <e id="Adv_272">
       <lg>
@@ -3309,14 +3298,13 @@
          </tg>
       </mg>
    </e>
-   <e id="Adv_311" mc="singular-plural issue">
+   <e id="Adv_311">
       <lg>
          <l pos="Adv">peiviv</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">päivällä</t>
-            <t pos="Adv">päivisin</t>
          </tg>
       </mg>
    </e>
@@ -3646,21 +3634,6 @@
          <tg xml:lang="fin">
             <t pos="Adv">oikein</t>
             <t pos="Adv">totuudenmukaisesti</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Adv_343">
-      <lg>
-         <l pos="Adv">roobdâ</l>
-      </lg>
-      <mg rest="robduu">
-         <tg xml:lang="fin">
-            <t pos="N">rinne (jyrkempi kuin viel'tti)</t>
-         </tg>
-      </mg>
-      <mg rest="räi">
-         <tg xml:lang="fin">
-            <t pos="Adv">äärimmilleen</t>
          </tg>
       </mg>
    </e>
@@ -7081,6 +7054,76 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">päästä päähän</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4232_Adv_correction">
+      <lg>
+         <l pos="Adv">kuáttun</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kotona</t>
+            <t pos="Adv">kotosalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7168_Adv_correction">
+      <lg>
+         <l pos="Adv">paijeen</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">pystyssä</t>
+            <t pos="Adv">jalkeilla</t>
+            <t pos="Adv">ylhäällä</t>
+            <t pos="Adv">ylhäältä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7910_Adv_correction">
+      <lg>
+         <l pos="Adv">pokkâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">täpötäynnä</t>
+            <t pos="Adv">tupaten täynnä</t>
+         </tg>
+      </mg>
+      <mg rest="poohâ">
+         <tg xml:lang="fin">
+            <t pos="Adv">pukki</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_9076_Adv_correction">
+      <lg>
+         <l pos="Adv">ruotâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ruotsiksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10995_Adv_correction">
+      <lg>
+         <l pos="Adv">tane</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_823_Adv_correction">
+      <lg>
+         <l pos="Adv">mannjeed</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">myöhään</t>
          </tg>
       </mg>
    </e>

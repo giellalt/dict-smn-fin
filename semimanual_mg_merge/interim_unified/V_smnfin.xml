@@ -648,57 +648,53 @@
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">pitää (+ akk.) (tietynlaisia säitä)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">huolehtiä (jälkeläisestä, esim. vaadin vasasta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">harjoittaa sukupuoliyhteyttä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">kohdella</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">käyttää (esim. vaatteita, kenkiä, alkoholia tms.)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">särkeä (jtk esim. jalkaa, päätä)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">aristaa (jtk esim. jalkaa, päätä)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">viettää (+ akk.) (jtak juhlaa tai juhlapäivää)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">tarvita</t>
          </tg>
       </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ šooŋâid</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">pitää (+ akk.) (tietynlaisia säitä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ huolâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">huolehtia (jälkeläisestä, esim. vaadin vasasta)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">huolehtia (jstak tai jstk)</t>
+            <t pos="V">pitää huolta (jstak tai jstk)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ áárvust</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">arvostaa</t>
          </tg>
       </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ čalmeest</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">pitääsilmällä</t>
+            <t pos="V">pitää silmällä</t>
          </tg>
       </mg>
       <mg rest="">
@@ -711,46 +707,21 @@
             <t pos="V">tarkkailla</t>
          </tg>
       </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ syeleest</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">pitää salassa</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">huolehtia (jstak tai jstk)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää huolta (jstak tai jstk)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">jumaloida</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">palvoa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">inhota (pitää rumana tai vastenmielisenä)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">suhtautua</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pysyä järjissään</t>
-         </tg>
-      </mg>
+   </e>
+   <e id="V_65_corrected">
+      <lg>
+         <l pos="V">anneeđ mielâst</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">pitää mielessä</t>
@@ -759,41 +730,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">muistaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää sateita</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää lauhoja säitä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">kierrättää</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää tallessa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">hyödyntää</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">hyväksikäyttää</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">käyttää hyväksi</t>
          </tg>
       </mg>
    </e>
@@ -2254,20 +2190,13 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">antaa lausunto</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">lausua</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
+            <t pos="V">lausua</t>
             <t pos="V">sanoa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">virkkaa</t>
          </tg>
       </mg>
@@ -3818,21 +3747,7 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">kukkula (tunturissa)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">perata (kaloja)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">fileoida</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">suolistaa (tav. kaloja)</t>
          </tg>
       </mg>
@@ -4250,10 +4165,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kerätä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">poimia</t>
          </tg>
       </mg>
@@ -5931,7 +5842,7 @@
    </e>
    <e id="V_567">
       <lg>
-         <l pos="V">čuuvâgiđ</l>
+         <l pos="V">čuvâgiđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -10002,21 +9913,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kuivua rutikuivaksi (kasvillisuudesta)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_980">
-      <lg>
-         <l pos="V">ij</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">ei</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pätemätön</t>
          </tg>
       </mg>
    </e>
@@ -22584,7 +22480,8 @@
    </e>
    <e id="V_2234">
       <lg>
-         <l pos="V">maaššiđ</l>
+         <l pos="V">maaššâđ</l>
+         <!-- maaššiđ -->
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -23558,21 +23455,12 @@
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">marrastaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">saattaa matkalle</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">saattaa viimeiselle matkalle</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">saattaa hautaan</t>
          </tg>
       </mg>
@@ -24135,10 +24023,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">sekaantua (eläinlaumoista)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">yhtyä (eläinlaumoista)</t>
          </tg>
       </mg>
@@ -24207,6 +24091,25 @@
             <t pos="V">innostaa</t>
             <t pos="V">kannustaa</t>
          </tg>
+      </mg>
+   </e>
+   <e id="V_2394">
+      <lg>
+         <l pos="V">muáccuđ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">painella kovalla (kynnellä, veitsen lappeella tms., jotta päässä olevat täinpuremat paranisivat)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">mytätä (painamalla)</t>
+            <t pos="V">runtata (painamalla)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin"/>
       </mg>
    </e>
    <e id="V_2395">
@@ -30968,7 +30871,7 @@
    </e>
    <e id="V_3080">
       <lg>
-         <l pos="V">piijnediđ</l>
+         <l pos="V">pijnediđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -32374,7 +32277,7 @@
    </e>
    <e id="V_3219">
       <lg>
-         <l pos="V">povustiđ</l>
+         <l pos="V">povvustiđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -33662,7 +33565,7 @@
    </e>
    <e id="V_3344">
       <lg>
-         <l pos="V">purrâđ</l>
+         <l pos="V">puurrâđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -34466,7 +34369,7 @@
    </e>
    <e id="V_3420">
       <lg>
-         <l pos="V">rájášuđ</l>
+         <l pos="V">ráijâšuđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -37066,6 +36969,7 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">juosta vähän (nelijalkaisesta)</t>
+            <t pos="V">laukata vähän (nelijalkaisesta)</t>
          </tg>
       </mg>
       <mg rest="">
@@ -37075,17 +36979,12 @@
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">laukata vähän (nelijalkaisesta)</t>
+            <t pos="V">lähteä laukkaamaan (nelijalkaisesta)</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">lähteä laukkaamaan</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">lähteä konttaamaan (nelijalkaisesta)</t>
+            <t pos="V">lähteä konttaamaan</t>
          </tg>
       </mg>
       <mg rest="">
@@ -41813,62 +41712,12 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">joutua (tekemään jtak)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">kasvaa</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">syntyä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tapahtua</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tulla (tehneeksi)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tulla (jksik)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">sattua (jtk)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">itsenäistyä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">itsenäistyä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">järkeistyä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">erääntyä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">aikuistua</t>
          </tg>
       </mg>
    </e>
@@ -42455,7 +42304,7 @@
    </e>
    <e id="V_4210">
       <lg>
-         <l pos="V">sottâđ</l>
+         <l pos="V">soottâđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -43583,7 +43432,7 @@
    </e>
    <e id="V_4320">
       <lg>
-         <l pos="V">stookkâđ</l>
+         <l pos="V">stokkâđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -47124,46 +46973,6 @@
             <t pos="V">tehdä</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">aktivoida</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tarkkailla (tehdä huomioita)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">ehdollistaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">kolminkertaistaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">laillistaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">mahdollistaa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">merkitä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">vakinaistaa</t>
-         </tg>
-      </mg>
    </e>
    <e id="V_4669">
       <lg>
@@ -47571,7 +47380,7 @@
    </e>
    <e id="V_4711">
       <lg>
-         <l pos="V">tuápán</l>
+         <l pos="V">tuápán moonnâđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -49852,7 +49661,7 @@
    </e>
    <e id="V_4931">
       <lg>
-         <l pos="V">vááldáttiđ</l>
+         <l pos="V">váldáttiđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -50020,7 +49829,7 @@
    </e>
    <e id="V_4948">
       <lg>
-         <l pos="V">vaikuttiđ</l>
+         <l pos="V">vaiguttiđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -51069,15 +50878,7 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">pohdiskella (jtak asiaa eri kanteilta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">punnita (m. abstr. pohtia eri puolia)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="V">puntaroida</t>
          </tg>
       </mg>
@@ -51598,7 +51399,7 @@
    </e>
    <e id="V_5103">
       <lg>
-         <l pos="V">vijssođ</l>
+         <l pos="V">vijsođ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
