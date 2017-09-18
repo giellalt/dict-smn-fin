@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r id="smnfin" xml:lang="smn">
    <e id="Pcle_1">
+      <lg>
+         <l pos="Pcle">alda</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">lähellä</t>
@@ -24,6 +27,9 @@
       </mg>
    </e>
    <e id="Pcle_3">
+      <lg>
+         <l pos="Pcle">ama</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">kai</t>
@@ -32,6 +38,9 @@
       </mg>
    </e>
    <e id="Pcle_4">
+      <lg>
+         <l pos="Pcle">amahân</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">kai</t>
@@ -40,6 +49,9 @@
       </mg>
    </e>
    <e id="Pcle_5">
+      <lg>
+         <l pos="Pcle">amal</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">kylläkin</t>
@@ -92,6 +104,12 @@
             <t pos="Pcle">justiin</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">juuri</t>
+            <t pos="Pcle">vasta</t>
+         </tg>
+      </mg>
    </e>
    <e id="Pcle_10">
       <lg>
@@ -104,6 +122,9 @@
       </mg>
    </e>
    <e id="Pcle_11">
+      <lg>
+         <l pos="Pcle">eidu</l>
+      </lg>
       <mg rest=" nuuvt">
          <tg xml:lang="fin">
             <t pos="Pcle">juuri</t>
@@ -139,6 +160,9 @@
       </mg>
    </e>
    <e id="Pcle_14">
+      <lg>
+         <l pos="Pcle">eromâšávt</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">etenkin</t>
@@ -167,6 +191,9 @@
       </mg>
    </e>
    <e id="Pcle_17">
+      <lg>
+         <l pos="Pcle">ihenis</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">hyvänsä</t>
@@ -195,6 +222,9 @@
       </mg>
    </e>
    <e id="Pcle_20">
+      <lg>
+         <l pos="Pcle">joo</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">joo (myöntävässä vastauksessa)</t>
@@ -243,6 +273,9 @@
       </mg>
    </e>
    <e id="Pcle_25">
+      <lg>
+         <l pos="Pcle">jyehi</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">joka</t>
@@ -296,32 +329,41 @@
       </mg>
    </e>
    <e id="Pcle_30">
+      <lg>
+         <l pos="Pcle">mahte</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">miten</t>
+         </tg>
+      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">kuinka</t>
             <t pos="Pcle">kuten</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">miten</t>
-         </tg>
-      </mg>
    </e>
    <e id="Pcle_31">
+      <lg>
+         <l pos="Pcle">mai</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">kyllähän</t>
+         </tg>
+      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">kai</t>
             <t pos="Pcle">kaipa</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">kyllähän</t>
-         </tg>
-      </mg>
    </e>
    <e id="Pcle_32">
+      <lg>
+         <l pos="Pcle">maka</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">muka</t>
@@ -355,12 +397,9 @@
       </mg>
    </e>
    <e id="Pcle_35">
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">kanssa</t>
-            <t pos="Pcle">mukana</t>
-         </tg>
-      </mg>
+      <lg>
+         <l pos="Pcle">mieldi</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">mukaan</t>
@@ -371,8 +410,17 @@
             <t pos="Pcle">myöten</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">kanssa</t>
+            <t pos="Pcle">mukana</t>
+         </tg>
+      </mg>
    </e>
    <e id="Pcle_36">
+      <lg>
+         <l pos="Pcle">miinii</l>
+      </lg>
       <mg rest="maidnii monnii">
          <tg xml:lang="fin">
             <t pos="Pcle">jotain</t>
@@ -457,12 +505,9 @@
       </mg>
    </e>
    <e id="Pcle_44">
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">sillä lailla</t>
-            <t pos="Pcle">siten</t>
-         </tg>
-      </mg>
+      <lg>
+         <l pos="Pcle">nuuvt</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">niin</t>
@@ -478,6 +523,12 @@
             <t pos="Pcle">joten</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">sillä lailla</t>
+            <t pos="Pcle">siten</t>
+         </tg>
+      </mg>
    </e>
    <e id="Pcle_45">
       <lg>
@@ -490,6 +541,9 @@
       </mg>
    </e>
    <e id="Pcle_46">
+      <lg>
+         <l pos="Pcle">oovtnáál</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">samalla tavoin</t>
@@ -508,6 +562,9 @@
       </mg>
    </e>
    <e id="Pcle_48">
+      <lg>
+         <l pos="Pcle">ovdláhháá</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">ihan vähän aikaisemmin</t>
@@ -536,12 +593,9 @@
       </mg>
    </e>
    <e id="Pcle_51">
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">ehta</t>
-            <t pos="Pcle">oikea</t>
-         </tg>
-      </mg>
+      <lg>
+         <l pos="Pcle">penttâ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">aivan</t>
@@ -565,6 +619,12 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">vaakasuoraan</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">ehta</t>
+            <t pos="Pcle">oikea</t>
          </tg>
       </mg>
    </e>
@@ -659,6 +719,9 @@
       </mg>
    </e>
    <e id="Pcle_59">
+      <lg>
+         <l pos="Pcle">rei</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">asti</t>
@@ -677,6 +740,9 @@
       </mg>
    </e>
    <e id="Pcle_61">
+      <lg>
+         <l pos="Pcle">šât</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">enää</t>
@@ -780,6 +846,9 @@
       </mg>
    </e>
    <e id="Pcle_71">
+      <lg>
+         <l pos="Pcle">tego</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">kuin</t>
@@ -868,6 +937,9 @@
       </mg>
    </e>
    <e id="Pcle_80">
+      <lg>
+         <l pos="Pcle">tietogo</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">siinä niin (puhuteltavan lähellä)</t>
@@ -936,15 +1008,18 @@
       </mg>
    </e>
    <e id="Pcle_86">
+      <lg>
+         <l pos="Pcle">tommit</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">riittävästi</t>
-            <t pos="Pcle">tarpeeksi</t>
+            <t pos="Pcle">sen verran</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">sen verran</t>
+            <t pos="Pcle">riittävästi</t>
+            <t pos="Pcle">tarpeeksi</t>
          </tg>
       </mg>
    </e>
@@ -1059,6 +1134,9 @@
       </mg>
    </e>
    <e id="Pcle_96">
+      <lg>
+         <l pos="Pcle">val</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">vielä</t>
@@ -1067,6 +1145,9 @@
       </mg>
    </e>
    <e id="Pcle_97">
+      <lg>
+         <l pos="Pcle">vala</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pcle">vielä</t>
@@ -1088,18 +1169,6 @@
       <lg>
          <l pos="Pcle">viehâ</l>
       </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">aika</t>
-            <t pos="Pcle">melko</t>
-         </tg>
-      </mg>
-      <mg rest="vieVâ">
-         <tg xml:lang="fin">
-            <t pos="N">miehistö</t>
-            <t pos="N">väki</t>
-         </tg>
-      </mg>
       <mg rest="hitásávt">
          <tg xml:lang="fin">
             <t pos="Pcle">larghetto (mus.)</t>
@@ -1113,6 +1182,18 @@
       <mg rest="pyereest">
          <tg xml:lang="fin">
             <t pos="Pcle">kohtalaisesti</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">aika</t>
+            <t pos="Pcle">melko</t>
+         </tg>
+      </mg>
+      <mg rest="vieVâ">
+         <tg xml:lang="fin">
+            <t pos="N">miehistö</t>
+            <t pos="N">väki</t>
          </tg>
       </mg>
    </e>
@@ -1161,17 +1242,6 @@
          <tg xml:lang="fin">
             <t pos="Pcle">kai</t>
             <t pos="Pcle">varmaankin</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_1537">
-      <lg>
-         <l pos="Pcle">eeidu</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">juuri</t>
-            <t pos="Pcle">vasta</t>
          </tg>
       </mg>
    </e>

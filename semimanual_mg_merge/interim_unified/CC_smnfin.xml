@@ -178,6 +178,9 @@
       </mg>
    </e>
    <e id="CC_18">
+      <lg>
+         <l pos="CC">mut</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">mutta</t>
@@ -186,6 +189,9 @@
       </mg>
    </e>
    <e id="CC_19">
+      <lg>
+         <l pos="CC">naa</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">joo</t>
@@ -195,6 +201,9 @@
       </mg>
    </e>
    <e id="CC_20">
+      <lg>
+         <l pos="CC">pic</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">mutta</t>
@@ -271,6 +280,11 @@
             <t pos="CC">elikkä</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CC">eli</t>
+         </tg>
+      </mg>
    </e>
    <e id="CC_26">
       <lg>
@@ -316,12 +330,9 @@
       </mg>
    </e>
    <e id="CC_30">
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CC">ettei (syytä ilmoittamassa)</t>
-            <t pos="CC">jottei (syytä ilmoittamassa)</t>
-         </tg>
-      </mg>
+      <lg>
+         <l pos="CC">vâi</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CC">jotta</t>
@@ -332,14 +343,10 @@
             <t pos="CC">vai</t>
          </tg>
       </mg>
-   </e>
-   <e id="CC_31">
-      <lg>
-         <l pos="CC">taihe</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="CC">eli</t>
+            <t pos="CC">ettei (syytä ilmoittamassa)</t>
+            <t pos="CC">jottei (syytä ilmoittamassa)</t>
          </tg>
       </mg>
    </e>

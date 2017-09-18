@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r id="smnfin" xml:lang="smn">
    <e id="Pron_1">
+      <lg>
+         <l pos="Pron">alnaad</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">itselläsi</t>
@@ -9,6 +12,9 @@
       </mg>
    </e>
    <e id="Pron_2">
+      <lg>
+         <l pos="Pron">alnaan</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">itselläni</t>
@@ -17,6 +23,9 @@
       </mg>
    </e>
    <e id="Pron_3">
+      <lg>
+         <l pos="Pron">alnees</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">itseltään</t>
@@ -35,6 +44,9 @@
       </mg>
    </e>
    <e id="Pron_5">
+      <lg>
+         <l pos="Pron">ennâgâs</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">monet</t>
@@ -203,6 +215,9 @@
       </mg>
    </e>
    <e id="Pron_20">
+      <lg>
+         <l pos="Pron">kotemuš</l>
+      </lg>
       <mg rest="kotemuu">
          <tg xml:lang="fin">
             <t pos="Pron">kuka (joukosta)</t>
@@ -211,6 +226,9 @@
       </mg>
    </e>
    <e id="Pron_21">
+      <lg>
+         <l pos="Pron">kuábás</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">kumpaan suuntaan</t>
@@ -229,6 +247,9 @@
       </mg>
    </e>
    <e id="Pron_23">
+      <lg>
+         <l pos="Pron">kuábbáškin</l>
+      </lg>
       <mg rest="kuáb'báágin">
          <tg xml:lang="fin">
             <t pos="Pron">kumpainenkaan</t>
@@ -247,6 +268,9 @@
       </mg>
    </e>
    <e id="Pron_25">
+      <lg>
+         <l pos="Pron">kuábbáš-uv</l>
+      </lg>
       <mg rest="kuáb'báá-uv">
          <tg xml:lang="fin">
             <t pos="Pron">kumpainenkin</t>
@@ -263,11 +287,6 @@
             <t pos="Adv">edestakaisin</t>
          </tg>
       </mg>
-   </e>
-   <e id="Pron_26">
-      <lg>
-         <l pos="N">maacij</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">mutkin</t>
@@ -275,19 +294,25 @@
       </mg>
    </e>
    <e id="Pron_27">
+      <lg>
+         <l pos="Pron">mađe</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">kuta</t>
+         </tg>
+      </mg>
       <mg rest="- tađe">
          <tg xml:lang="fin">
             <t pos="Pron">kuta - sitä</t>
             <t pos="Pron">mitä - sitä</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pron">kuta</t>
-         </tg>
-      </mg>
    </e>
    <e id="Pron_28">
+      <lg>
+         <l pos="Pron">maggaar</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">millainen</t>
@@ -327,6 +352,9 @@
       </mg>
    </e>
    <e id="Pron_32">
+      <lg>
+         <l pos="Pron">maŋgâ</l>
+      </lg>
       <mg rest="maaŋgâ">
          <tg xml:lang="fin">
             <t pos="Pron">moni</t>
@@ -335,6 +363,9 @@
       </mg>
    </e>
    <e id="Pron_33">
+      <lg>
+         <l pos="Pron">maŋgii</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">monesti</t>
@@ -353,6 +384,9 @@
       </mg>
    </e>
    <e id="Pron_35">
+      <lg>
+         <l pos="Pron">mii</l>
+      </lg>
       <mg rest="mon">
          <tg xml:lang="fin">
             <t pos="Pron">joka</t>
@@ -689,6 +723,9 @@
       </mg>
    </e>
    <e id="Pron_67">
+      <lg>
+         <l pos="Pron">taggaar</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">sellainen</t>
@@ -707,6 +744,9 @@
       </mg>
    </e>
    <e id="Pron_69">
+      <lg>
+         <l pos="Pron">tast</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">siinä</t>

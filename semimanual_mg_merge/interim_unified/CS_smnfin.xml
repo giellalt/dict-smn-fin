@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r id="smnfin" xml:lang="smn">
    <e id="CS_1">
+      <lg>
+         <l pos="CS">amas</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">ettei</t>
@@ -74,6 +77,14 @@
       </mg>
    </e>
    <e id="CS_8">
+      <lg>
+         <l pos="CS">ko</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">kuin</t>
+         </tg>
+      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jolloin</t>
@@ -84,11 +95,6 @@
          <tg xml:lang="fin">
             <t pos="CS">koska</t>
             <t pos="CS">kun</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CS">kuin</t>
          </tg>
       </mg>
    </e>
@@ -108,6 +114,9 @@
       </mg>
    </e>
    <e id="CS_10">
+      <lg>
+         <l pos="CS">kuás</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jolloin</t>
@@ -122,15 +131,18 @@
       </mg>
    </e>
    <e id="CS_11">
+      <lg>
+         <l pos="CS">kuo</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="CS">kun</t>
-            <t pos="CS">kunpa</t>
+            <t pos="CS">kuin</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="CS">kuin</t>
+            <t pos="CS">kun</t>
+            <t pos="CS">kunpa</t>
          </tg>
       </mg>
    </e>
@@ -155,14 +167,6 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="CS">kunnes</t>
-            <t pos="CS">siihen saakka</t>
-            <t pos="CS">siihen asti</t>
-            <t pos="CS">siitä asti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CS">sitten (aikaisemmin)</t>
          </tg>
       </mg>
@@ -171,8 +175,19 @@
             <t pos="CS">silloinen</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">kunnes</t>
+            <t pos="CS">siihen saakka</t>
+            <t pos="CS">siihen asti</t>
+            <t pos="CS">siitä asti</t>
+         </tg>
+      </mg>
    </e>
    <e id="CS_14">
+      <lg>
+         <l pos="CS">te</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">niin</t>
@@ -181,6 +196,9 @@
       </mg>
    </e>
    <e id="CS_15">
+      <lg>
+         <l pos="CS">tegu</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kuin</t>

@@ -244,6 +244,9 @@
       </mg>
    </e>
    <e id="Interj_25">
+      <lg>
+         <l pos="Interj">o</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">ohhoh</t>
@@ -338,6 +341,9 @@
       </mg>
    </e>
    <e id="Interj_34">
+      <lg>
+         <l pos="Interj">ruomččâ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">räiskis</t>
@@ -346,6 +352,9 @@
       </mg>
    </e>
    <e id="Interj_35">
+      <lg>
+         <l pos="Interj">ruomčči</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">mäiskis</t>
@@ -394,6 +403,9 @@
       </mg>
    </e>
    <e id="Interj_40">
+      <lg>
+         <l pos="Interj">sottáán</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">pahus</t>
@@ -432,6 +444,9 @@
       </mg>
    </e>
    <e id="Interj_44">
+      <lg>
+         <l pos="Interj">tiervâ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">hei (tervehdyksenä)</t>

@@ -31,6 +31,9 @@
       </mg>
    </e>
    <e id="Po_3">
+      <lg>
+         <l pos="Po">čoođâ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">läpi</t>
@@ -94,6 +97,9 @@
       </mg>
    </e>
    <e id="Po_9">
+      <lg>
+         <l pos="Po">kaskoo</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">keskellä</t>
@@ -114,6 +120,9 @@
       </mg>
    </e>
    <e id="Po_10">
+      <lg>
+         <l pos="Po">keččin</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kuluttua</t>
@@ -134,6 +143,9 @@
       </mg>
    </e>
    <e id="Po_11">
+      <lg>
+         <l pos="Po">keežild</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">johdosta (takia)</t>
@@ -179,6 +191,9 @@
       </mg>
    </e>
    <e id="Po_15">
+      <lg>
+         <l pos="Po">kuáttá</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kohtaan</t>
@@ -265,6 +280,14 @@
       </mg>
    </e>
    <e id="Po_22">
+      <lg>
+         <l pos="Po">maajaabeln</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">jäljestäpäin</t>
+         </tg>
+      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">takanapäin</t>
@@ -272,22 +295,20 @@
             <t pos="Po">perässäpäin</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Po">jäljestäpäin</t>
-         </tg>
-      </mg>
    </e>
    <e id="Po_23">
+      <lg>
+         <l pos="Po">maŋa</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">jälkeen</t>
+         </tg>
+      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">jälkeenpäin</t>
             <t pos="Po">myöhemmin</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Po">jälkeen</t>
          </tg>
       </mg>
    </e>
@@ -327,6 +348,9 @@
       </mg>
    </e>
    <e id="Po_27">
+      <lg>
+         <l pos="Po">náál</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">lailla</t>
@@ -335,6 +359,9 @@
       </mg>
    </e>
    <e id="Po_28">
+      <lg>
+         <l pos="Po">njeigâ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kohden (jtak)</t>
@@ -365,6 +392,9 @@
       </mg>
    </e>
    <e id="Po_30">
+      <lg>
+         <l pos="Po">oovdân</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">edelle</t>
@@ -394,6 +424,9 @@
       </mg>
    </e>
    <e id="Po_32">
+      <lg>
+         <l pos="Po">ovdiibel</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">edelle</t>
@@ -402,6 +435,9 @@
       </mg>
    </e>
    <e id="Po_33">
+      <lg>
+         <l pos="Po">ovdiibeln</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">edellä</t>
@@ -532,6 +568,9 @@
       </mg>
    </e>
    <e id="Po_44">
+      <lg>
+         <l pos="Po">piällást</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">vieressä (jk)</t>
@@ -555,6 +594,9 @@
       </mg>
    </e>
    <e id="Po_46">
+      <lg>
+         <l pos="Po">puotâ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">kohdalla</t>
@@ -563,6 +605,9 @@
       </mg>
    </e>
    <e id="Po_47">
+      <lg>
+         <l pos="Po">rááján</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">asti</t>
@@ -571,6 +616,9 @@
       </mg>
    </e>
    <e id="Po_48">
+      <lg>
+         <l pos="Po">rasta</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">poikki</t>
@@ -579,6 +627,9 @@
       </mg>
    </e>
    <e id="Po_49">
+      <lg>
+         <l pos="Po">räi</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">saakka</t>
@@ -587,6 +638,9 @@
       </mg>
    </e>
    <e id="Po_50">
+      <lg>
+         <l pos="Po">siisâ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisälle</t>
@@ -595,6 +649,9 @@
       </mg>
    </e>
    <e id="Po_51">
+      <lg>
+         <l pos="Po">sistáád</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisälläsi</t>
@@ -609,6 +666,9 @@
       </mg>
    </e>
    <e id="Po_52">
+      <lg>
+         <l pos="Po">sistáán</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisälläni</t>
@@ -623,6 +683,9 @@
       </mg>
    </e>
    <e id="Po_53">
+      <lg>
+         <l pos="Po">siste</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisällä</t>
@@ -637,6 +700,9 @@
       </mg>
    </e>
    <e id="Po_54">
+      <lg>
+         <l pos="Po">sistees</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">sisällään</t>
@@ -661,6 +727,9 @@
       </mg>
    </e>
    <e id="Po_56">
+      <lg>
+         <l pos="Po">suulâst</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">seudulla</t>
@@ -699,6 +768,9 @@
       </mg>
    </e>
    <e id="Po_59">
+      <lg>
+         <l pos="Po">tagopeht</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">siinä kohden</t>
@@ -707,6 +779,9 @@
       </mg>
    </e>
    <e id="Po_60">
+      <lg>
+         <l pos="Po">tet</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
@@ -715,15 +790,18 @@
       </mg>
    </e>
    <e id="Po_61">
+      <lg>
+         <l pos="Po">tiet</l>
+      </lg>
+      <mg rest="tien">
+         <tg xml:lang="fin">
+            <t pos="Po">se siinä (puhuteltavan lähellä)</t>
+         </tg>
+      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">tähden</t>
             <t pos="Po">vuoksi</t>
-         </tg>
-      </mg>
-      <mg rest="tien">
-         <tg xml:lang="fin">
-            <t pos="Po">se siinä (puhuteltavan lähellä)</t>
          </tg>
       </mg>
    </e>
@@ -873,6 +951,9 @@
       </mg>
    </e>
    <e id="Po_75">
+      <lg>
+         <l pos="Po">vyelni</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Po">alhaalla</t>
