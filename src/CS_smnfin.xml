@@ -33,10 +33,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">ettei</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CS">jottei</t>
          </tg>
       </mg>
@@ -112,27 +108,19 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="CS">jolloin</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CS">koska</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CS">kuin</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="CS">kun</t>
+            <t pos="CS">jolloin</t>
+            <t pos="CS">milloin</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="CS">milloin</t>
+            <t pos="CS">koska</t>
+            <t pos="CS">kun</t>
          </tg>
       </mg>
    </e>
@@ -158,21 +146,13 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jolloin</t>
+            <t pos="CS">milloin</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">koska</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CS">kun</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CS">milloin</t>
          </tg>
       </mg>
    </e>
@@ -188,10 +168,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kun</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CS">kunpa</t>
          </tg>
       </mg>
@@ -217,20 +193,20 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="CS">kunnes</t>
-            <t pos="CS">siihen saakka</t>
-            <t pos="CS">siihen asti</t>
-            <t pos="CS">siitä asti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CS">sitten (aikaisemmin)</t>
          </tg>
       </mg>
       <mg rest="tassaa">
          <tg xml:lang="fin">
             <t pos="CS">silloinen</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">kunnes</t>
+            <t pos="CS">siihen saakka</t>
+            <t pos="CS">siihen asti</t>
+            <t pos="CS">siitä asti</t>
          </tg>
       </mg>
    </e>
@@ -241,10 +217,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">niin</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CS">sitten</t>
          </tg>
       </mg>
@@ -256,10 +228,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">kuin</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="CS">niin kuin</t>
          </tg>
       </mg>

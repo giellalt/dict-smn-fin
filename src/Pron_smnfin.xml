@@ -33,10 +33,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">itselläsi</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">itseltäsi</t>
          </tg>
       </mg>
@@ -48,10 +44,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">itselläni</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">itselltäni</t>
          </tg>
       </mg>
@@ -63,10 +55,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">itseltään</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">itsellään</t>
          </tg>
       </mg>
@@ -88,10 +76,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">monet</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">moni</t>
          </tg>
       </mg>
@@ -263,10 +247,6 @@ For the full license text, see the link above.
       <mg rest="kotemuu">
          <tg xml:lang="fin">
             <t pos="Pron">kuka (joukosta)</t>
-         </tg>
-      </mg>
-      <mg rest="kotemuu">
-         <tg xml:lang="fin">
             <t pos="Pron">mikä (joukosta)</t>
          </tg>
       </mg>
@@ -278,10 +258,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">kumpaan suuntaan</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">kumpi suunta</t>
          </tg>
       </mg>
@@ -303,10 +279,6 @@ For the full license text, see the link above.
       <mg rest="kuáb'báágin">
          <tg xml:lang="fin">
             <t pos="Pron">kumpainenkaan</t>
-         </tg>
-      </mg>
-      <mg rest="kuáb'báágin">
-         <tg xml:lang="fin">
             <t pos="Pron">kumpikaan</t>
          </tg>
       </mg>
@@ -328,10 +300,6 @@ For the full license text, see the link above.
       <mg rest="kuáb'báá-uv">
          <tg xml:lang="fin">
             <t pos="Pron">kumpainenkin</t>
-         </tg>
-      </mg>
-      <mg rest="kuáb'báá-uv">
-         <tg xml:lang="fin">
             <t pos="Pron">kumpikin</t>
          </tg>
       </mg>
@@ -345,11 +313,6 @@ For the full license text, see the link above.
             <t pos="Adv">edestakaisin</t>
          </tg>
       </mg>
-   </e>
-   <e id="Pron_26">
-      <lg>
-         <l pos="N">maacij</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">mutkin</t>
@@ -368,10 +331,6 @@ For the full license text, see the link above.
       <mg rest="- tađe">
          <tg xml:lang="fin">
             <t pos="Pron">kuta - sitä</t>
-         </tg>
-      </mg>
-      <mg rest="- tađe">
-         <tg xml:lang="fin">
             <t pos="Pron">mitä - sitä</t>
          </tg>
       </mg>
@@ -383,15 +342,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">millainen</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">minkälainen</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">jollainen</t>
          </tg>
       </mg>
@@ -433,10 +384,6 @@ For the full license text, see the link above.
       <mg rest="maaŋgâ">
          <tg xml:lang="fin">
             <t pos="Pron">moni</t>
-         </tg>
-      </mg>
-      <mg rest="maaŋgâ">
-         <tg xml:lang="fin">
             <t pos="Pron">usea</t>
          </tg>
       </mg>
@@ -448,10 +395,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">monesti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">usein</t>
          </tg>
       </mg>
@@ -473,10 +416,6 @@ For the full license text, see the link above.
       <mg rest="mon">
          <tg xml:lang="fin">
             <t pos="Pron">joka</t>
-         </tg>
-      </mg>
-      <mg rest="mon">
-         <tg xml:lang="fin">
             <t pos="Pron">mikä</t>
          </tg>
       </mg>
@@ -816,10 +755,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">sellainen</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">semmoinen</t>
          </tg>
       </mg>
@@ -841,10 +776,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Pron">siinä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Pron">siitä</t>
          </tg>
       </mg>

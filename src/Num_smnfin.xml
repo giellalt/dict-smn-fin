@@ -53,10 +53,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">seitsemän ihmistä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="Num">seitsemän ihmisen joukko</t>
          </tg>
       </mg>
@@ -358,10 +354,6 @@ For the full license text, see the link above.
       <mg rest="lohháás">
          <tg xml:lang="fin">
             <t pos="Num">kymmenen (ihmistä)</t>
-         </tg>
-      </mg>
-      <mg rest="lohháás">
-         <tg xml:lang="fin">
             <t pos="Num">kymmenen ihmisen joukko</t>
          </tg>
       </mg>
@@ -522,17 +514,13 @@ For the full license text, see the link above.
       </lg>
       <mg rest="oovtâ">
          <tg xml:lang="fin">
-            <t pos="Num">eräs (tiedetään kuka on kyseessä, muttei haluta mainita nimellä)</t>
-         </tg>
-      </mg>
-      <mg rest="oovtâ">
-         <tg xml:lang="fin">
-            <t pos="Num">muuan</t>
-         </tg>
-      </mg>
-      <mg rest="oovtâ">
-         <tg xml:lang="fin">
             <t pos="Num">yksi</t>
+         </tg>
+      </mg>
+      <mg rest="oovtâ">
+         <tg xml:lang="fin">
+            <t pos="Num">eräs (tiedetään kuka on kyseessä, muttei haluta mainita nimellä)</t>
+            <t pos="Num">muuan</t>
          </tg>
       </mg>
    </e>
@@ -583,10 +571,6 @@ For the full license text, see the link above.
       <mg rest="ohcás">
          <tg xml:lang="fin">
             <t pos="Num">yhdeksän (ihmistä)</t>
-         </tg>
-      </mg>
-      <mg rest="ohcás">
-         <tg xml:lang="fin">
             <t pos="Num">yhdeksän ihmisen joukko</t>
          </tg>
       </mg>
