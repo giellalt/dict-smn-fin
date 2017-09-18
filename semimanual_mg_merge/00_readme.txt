@@ -1,10 +1,14 @@
 - check and if needed correct pos values of the dict entries by means of the current version of the smn-FST
-
+ ==> ONGOING
 - using the smn-FST, too, I have to generate the word forms as requested by Hannu Kangasniemi for a “printed” version (HTML/PDF/etc.)
  - for N: Gen+Sg form
+   ==> TODO
  - for A: Attr form
+   ==> DONE
  - for V: Sg1 form
+   ==> TODO
  - for V': Sg1 form and Sg3 form
+   ==> TODO
 
 V' var trestava. Eg har sett litt meir på det, og gjer det litt meir feinschmeckerisch. La oss sjå kva Hannu seier.
 
