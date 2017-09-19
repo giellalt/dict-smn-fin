@@ -2,7 +2,16 @@
  ==> ONGOING
 - using the smn-FST, too, I have to generate the word forms as requested by Hannu Kangasniemi for a “printed” version (HTML/PDF/etc.)
  - for N: Gen+Sg form
-   ==> TODO
+   ==> DONE
+
+ - (N_1): lemma recognised, no genitive sg form generated
+pos_check>g '<l ' out_smn_interim_unified/N_smnfin.xml |g gen_sg|g 'gen_sg=""'|cl
+1999
+
+ - (N_2): not recognised
+pos_check>g '<l ' out_smn_interim_unified/N_smnfin.xml |g -v gen_sg|cl
+4
+
 ###############################
 
  - for A: Attr form
