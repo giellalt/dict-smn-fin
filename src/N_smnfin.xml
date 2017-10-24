@@ -137903,4 +137903,283 @@
          </tg>
       </mg>
    </e>
+   <e id="A_42">
+      <lg>
+         <l pos="N">aldaolmooš</l>
+      </lg>
+      <mg rest="-ulmuu">
+         <tg xml:lang="fin">
+            <t pos="A">läheinen (subst.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_45">
+      <lg>
+         <l pos="N">aldemuš</l>
+      </lg>
+      <mg rest="a'ldemuu">
+         <tg xml:lang="fin">
+            <t pos="A">lähimmäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_81">
+      <lg>
+         <l pos="N">árvuštellee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">arvostelija</t>
+            <t pos="A">kriitikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_143">
+      <lg>
+         <l pos="N">čižetpeeli</l>
+      </lg>
+      <mg rest="-pele">
+         <tg xml:lang="fin">
+            <t pos="N">vasen puoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_149">
+      <lg>
+         <l pos="N">čiäŋudâh</l>
+      </lg>
+      <mg rest="čiä'Ŋuduv">
+         <tg xml:lang="fin">
+            <t pos="N">syvänkö</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_173">
+      <lg>
+         <l pos="N">čuávgádâh</l>
+      </lg>
+      <mg rest="čuáv'gáduv">
+         <tg xml:lang="fin">
+            <t pos="N">kirkas sää</t>
+         </tg>
+      </mg>
+      <mg rest="čuáv'gáduv">
+         <tg xml:lang="fin">
+            <t pos="N">valoisa aika</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_182">
+      <lg>
+         <l pos="N">čuohâmâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">latkittava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_187">
+      <lg>
+         <l pos="N">čuovâdâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">kirkas sää</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">valoisa sää</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_202">
+      <lg>
+         <l pos="N">čäcijeggi</l>
+      </lg>
+      <mg rest="-jeegi">
+         <tg xml:lang="fin">
+            <t pos="N">vetinen suo</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_282">
+      <lg>
+         <l pos="N">fastâomâdâh</l>
+      </lg>
+      <mg rest="-omâduv">
+         <tg xml:lang="fin">
+            <t pos="N">kiinteä omaisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_453">
+      <lg>
+         <l pos="N">jieŋâlâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">syvänne</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_459">
+      <lg>
+         <l pos="N">jiesâmielkki</l>
+      </lg>
+      <mg rest="-mielhi">
+         <tg xml:lang="fin">
+            <t pos="N">hapantunut maito</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_481">
+      <lg>
+         <l pos="N">jormo</l>
+      </lg>
+      <mg rest="jo'rmo">
+         <tg xml:lang="fin">
+            <t pos="N">syvänne kosken alla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_486">
+      <lg>
+         <l pos="N">juáráduh</l>
+      </lg>
+      <mg rest="juá'ráduv">
+         <tg xml:lang="fin">
+            <t pos="N">kuiva ja kuuma sää (pitkään kestävä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_556">
+      <lg>
+         <l pos="N">kesieennâm</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">kesäinen maa (lumeton)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">sula maa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_679">
+      <lg>
+         <l attr="kuodâdis;kuodâdâs" pos="N">kuoddâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">poikima-aika</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">poikiminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_687">
+      <lg>
+         <l pos="N">kuškim</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">kuivatus</t>
+            <t pos="N">kuivaus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1014">
+      <lg>
+         <l pos="N">olgooš</l>
+      </lg>
+      <mg rest="ulguu">
+         <tg xml:lang="fin">
+            <t pos="N">kansi (painotuotteen)</t>
+         </tg>
+      </mg>
+      <mg rest="ulguu">
+         <tg xml:lang="fin">
+            <t pos="N">ulkopinta</t>
+         </tg>
+      </mg>
+      <mg rest="ulguu">
+         <tg xml:lang="fin">
+            <t pos="N">päällinen</t>
+            <t pos="N">päällys</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1179">
+      <lg>
+         <l pos="N">puáldáttâh</l>
+      </lg>
+      <mg rest="puá'ldáttuv">
+         <tg xml:lang="fin">
+            <t pos="N">helle</t>
+         </tg>
+      </mg>
+      <mg rest="puá'ldáttuv">
+         <tg xml:lang="fin">
+            <t pos="N">helteinen sää</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1235">
+      <lg>
+         <l pos="N">raattân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">rahina</t>
+            <t pos="N">rytinä</t>
+            <t pos="N">räminä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1504">
+      <lg>
+         <l pos="N">suvâlâšlasânem</l>
+      </lg>
+      <mg rest="lasânem">
+         <tg xml:lang="fin">
+            <t pos="N">suvullinen lisääntyminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1688">
+      <lg>
+         <l attr="uápis" pos="N">uápis</l>
+      </lg>
+      <mg rest="uáp'pá uáp'pás">
+         <tg xml:lang="fin">
+            <t pos="N">opas</t>
+            <t pos="N">opastaja</t>
+            <t pos="N">retkenjohtaja</t>
+         </tg>
+      </mg>
+      <mg rest="uáp'pá uáp'pás # uá'pis">
+         <tg xml:lang="fin">
+            <t pos="N">tuttava</t>
+            <t pos="N">tuttu</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_9665_A_correction">
+      <lg>
+         <l attr="šiettâlis" pos="N">šiettâl</l>
+      </lg>
+      <mg rest="# -is -âs">
+         <tg xml:lang="fin">
+            <t pos="A">hyvin mahtuva (jhk tilaan)</t>
+            <t pos="A">hyvin sopiva (jhk tilaan)</t>
+         </tg>
+      </mg>
+   </e>
 </r>
