@@ -1445,17 +1445,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="V_124">
-      <lg>
-         <l pos="V">čacciđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">kastella</t>
-            <t pos="V">liottaa</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_125">
       <lg>
          <l pos="V">čááccuđ</l>
@@ -3946,17 +3935,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="V_343">
-      <lg>
-         <l pos="V">cohhuđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">joutua matalaan veteen</t>
-            <t pos="V">juuttua kiinni matalikkoon (veneestä, kun vesi on matalalla)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_344">
       <lg>
          <l pos="V">cojâdâttâđ</l>
@@ -4319,16 +4297,6 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="V">joutua kiinni (rikoksentekijästä)</t>
             <t pos="V">jäädä kiinni (rikoksentekijästä)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_376">
-      <lg>
-         <l pos="V">čonnuđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tulla sidotuksi</t>
          </tg>
       </mg>
    </e>
@@ -6499,16 +6467,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="V_567">
-      <lg>
-         <l pos="V">čuvâgiđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">alkaa kököttää paikallaan (eläimestä)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_568">
       <lg>
          <l pos="V">čuuvâstiđ</l>
@@ -7624,17 +7582,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">seljetä (säästä)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_670">
-      <lg>
-         <l pos="V">fiettiđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">älytä</t>
-            <t pos="V">tajuta</t>
          </tg>
       </mg>
    </e>
@@ -8944,16 +8891,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kouraista</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_789">
-      <lg>
-         <l pos="V">havrijdiđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">härskiintyä (voista)</t>
          </tg>
       </mg>
    </e>
@@ -13152,21 +13089,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">tahriintua puolukan mehuun</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_1181">
-      <lg>
-         <l pos="V">juohhuđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">jakaa perintö</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tulla jaetuksi</t>
          </tg>
       </mg>
    </e>
@@ -23231,16 +23153,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="V_2107">
-      <lg>
-         <l pos="V">lohhiđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">välittää (olla huomaavainen muita kohtaan)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_2108">
       <lg>
          <l pos="V">lohtuđ</l>
@@ -25540,16 +25452,6 @@ For the full license text, see the link above.
    <e id="V_2321">
       <lg>
          <l pos="V">mirhâttiđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">myrkyttää</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_2322">
-      <lg>
-         <l pos="V">mirkkâdiđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -33856,16 +33758,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="V_3080">
-      <lg>
-         <l pos="V">pijnediđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">piinata</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_3081">
       <lg>
          <l pos="V">pijguđ</l>
@@ -35362,16 +35254,6 @@ For the full license text, see the link above.
             <t pos="V">olla kipeä</t>
             <t pos="V">pakottaa (kivusta)</t>
             <t pos="V">särkeä (kivusta)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_3219">
-      <lg>
-         <l pos="V">povvustiđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">nauraa</t>
          </tg>
       </mg>
    </e>
@@ -48367,27 +48249,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="V_4405">
-      <lg>
-         <l pos="V">šumbârdiđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">jokeltaa (lapsesta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">puhua epäselvästi</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">mogertaa (vieraalla kielellä)</t>
-            <t pos="V">solkata (erit. vieraalla kielellä)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_4406">
       <lg>
          <l pos="V">summiđ</l>
@@ -54173,16 +54034,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="V_4931">
-      <lg>
-         <l pos="V">váldáttiđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">unohtaa</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_4932">
       <lg>
          <l pos="V">vaannâđ</l>
@@ -55716,22 +55567,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">vietellä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_5076">
-      <lg>
-         <l pos="V">viettiđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">viettää</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tajuta</t>
-            <t pos="V">älytä</t>
          </tg>
       </mg>
    </e>
