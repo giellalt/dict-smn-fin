@@ -25,6 +25,25 @@
 
 ###
 
+c_ vs. rest ambiguities:
+cohhuđ
+fiettiđ
+juohhuđ
+lohhiđ
+veđđuđ
+viettiđ
+čacciđ
+čonnuđ
+
+3_ vs. rest ambiguities:
+havrijdiđ
+mirkkâdiđ
+pijnediđ
+povvustiđ
+váldáttiđ
+čuvâgiđ
+šumbârdiđ
+
 V' var trestava. Eg har sett litt meir på det, og gjer det litt meir feinschmeckerisch. La oss sjå kva Hannu seier.
 
 3-stava-verb (merka 3_ i lexc): skal ha Ind Prs Sg3
