@@ -1,33 +1,29 @@
+
 - check and if needed correct pos values of the dict entries by means of the current version of the smn-FST
- ==> ONGOING
+ ==> DONE
+
+###############################
+
 - using the smn-FST, too, I have to generate the word forms as requested by Hannu Kangasniemi for a “printed” version (HTML/PDF/etc.)
  - for N: Gen+Sg form
    ==> DONE
 
- - (N_1): lemma recognised, no genitive sg form generated
-pos_check>g '<l ' out_smn_interim_unified/N_smnfin.xml |g gen_sg|g 'gen_sg=""'|cl
-1999
-
- - (N_2): not recognised
-pos_check>g '<l ' out_smn_interim_unified/N_smnfin.xml |g -v gen_sg|cl
-4
-
-###############################
+###
 
  - for A: Attr form
    ==> DONE
 
-###############################
+###
 
  - for V: Sg1 form
    ==> TODO
 
-###############################
+###
 
  - for V': Sg1 form and Sg3 form
    ==> TODO
 
-###############################
+###
 
 V' var trestava. Eg har sett litt meir på det, og gjer det litt meir feinschmeckerisch. La oss sjå kva Hannu seier.
 
