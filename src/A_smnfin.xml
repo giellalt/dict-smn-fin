@@ -1323,7 +1323,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_118">
       <lg>
-         <l attr="čapis;čappâdis" pos="A">čappâd</l>
+         <l attr="čapis" pos="A">čappâd</l>
       </lg>
       <mg rest="# čapis">
          <tg xml:lang="fin">
@@ -1454,7 +1454,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_130">
       <lg>
-         <l attr="českis;českâdis" pos="A">českâd</l>
+         <l attr="českis" pos="A">českâd</l>
       </lg>
       <mg rest="# če'skis">
          <tg xml:lang="fin">
@@ -1816,7 +1816,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_164">
       <lg>
-         <l attr="čovgis;čovgâdis" pos="A">čovgâd</l>
+         <l attr="čovgis" pos="A">čovgâd</l>
       </lg>
       <mg rest="# čovgâ čo'vgis">
          <tg xml:lang="fin">
@@ -2119,7 +2119,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_189">
       <lg>
-         <l attr="čuovjis;čuovjâdis" pos="A">čuovjâd</l>
+         <l attr="čuovjis" pos="A">čuovjâd</l>
       </lg>
       <mg rest="# čuov'jis">
          <tg xml:lang="fin">
@@ -3233,7 +3233,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_290">
       <lg>
-         <l attr="fiskis;fiskâdis" pos="A">fiskâd</l>
+         <l attr="fiskis" pos="A">fiskâd</l>
       </lg>
       <mg rest="# fi'skis">
          <tg xml:lang="fin">
@@ -4669,7 +4669,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_414">
       <lg>
-         <l attr="infraruopsis;infraruopsâdis" pos="A">infraruopsâd</l>
+         <l attr="infraruopsis" pos="A">infraruopsâd</l>
       </lg>
       <mg rest="# -ruo'psis">
          <tg xml:lang="fin">
@@ -5411,7 +5411,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_483">
       <lg>
-         <l attr="joskis;joskâdis" pos="A">joskâd</l>
+         <l attr="joskis" pos="A">joskâd</l>
       </lg>
       <mg rest="# jo'skis">
          <tg xml:lang="fin">
@@ -7606,7 +7606,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_683">
       <lg>
-         <l attr="kuokšis;kuokšâdis" pos="A">kuokšâd</l>
+         <l attr="kuokšis" pos="A">kuokšâd</l>
       </lg>
       <mg rest="# kuok'šâdis kuok'šis">
          <tg xml:lang="fin">
@@ -7636,7 +7636,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_686">
       <lg>
-         <l attr="kuovgis;kuovgâdis" pos="A">kuovgâd</l>
+         <l attr="kuovgis" pos="A">kuovgâd</l>
       </lg>
       <mg rest="# kuo'vgis">
          <tg xml:lang="fin">
@@ -8029,7 +8029,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_721">
       <lg>
-         <l attr="laktoosttes;laktoosttemes;laktoosittes;laktoosittemes" pos="A">laktoosttem</l>
+         <l attr="laktoosttes;laktoosttemes" pos="A">laktoosttem</l>
       </lg>
       <mg rest="# -es">
          <tg xml:lang="fin">
@@ -8690,7 +8690,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_779">
       <lg>
-         <l attr="lusis;lussâdis" pos="A">lussâd</l>
+         <l attr="lusis" pos="A">lussâd</l>
       </lg>
       <mg rest="# lusis">
          <tg xml:lang="fin">
@@ -9931,7 +9931,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_888">
       <lg>
-         <l attr="mučis;muččâdis" pos="A">muččâd</l>
+         <l attr="mučis" pos="A">muččâd</l>
       </lg>
       <mg rest="# mučis">
          <tg xml:lang="fin">
@@ -10092,7 +10092,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_903">
       <lg>
-         <l attr="murâšlâš;muurrâšlâš" pos="A">murâšlâš</l>
+         <l attr="murâšlâš" pos="A">murâšlâš</l>
       </lg>
       <mg rest="murâšlii">
          <tg xml:lang="fin">
@@ -12874,7 +12874,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1151">
       <lg>
-         <l attr="počâ;počâs;počis" pos="A">poččâ</l>
+         <l attr="počâ" pos="A">poččâ</l>
       </lg>
       <mg rest="# počis počâs">
          <tg xml:lang="fin">
@@ -13100,7 +13100,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1171">
       <lg>
-         <l attr="poskis;poskâdis" pos="A">poskâd</l>
+         <l attr="poskis" pos="A">poskâd</l>
       </lg>
       <mg rest="# is">
          <tg xml:lang="fin">
@@ -13115,7 +13115,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1172">
       <lg>
-         <l attr="privatâs;privatis" pos="A">priivaat</l>
+         <l attr="privatis;privatâs" pos="A">priivaat</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -13495,7 +13495,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1209">
       <lg>
-         <l attr="puustâvlâš;puustavlâš" pos="A">puustavlâš</l>
+         <l attr="puustavlâš" pos="A">puustavlâš</l>
       </lg>
       <mg rest="puustavlii">
          <tg xml:lang="fin">
@@ -14646,7 +14646,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1312">
       <lg>
-         <l attr="ruopsis;ruopsâdis" pos="A">ruopsâd</l>
+         <l attr="ruopsis" pos="A">ruopsâd</l>
       </lg>
       <mg rest="# ruo'psis">
          <tg xml:lang="fin">
@@ -14686,7 +14686,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1316">
       <lg>
-         <l attr="ruškis;ruškâdis" pos="A">ruškâd</l>
+         <l attr="ruškis" pos="A">ruškâd</l>
       </lg>
       <mg rest="ru'škis">
          <tg xml:lang="fin">
@@ -15083,7 +15083,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1353">
       <lg>
-         <l attr="šelis;šeellâdis" pos="A">šeellâd</l>
+         <l attr="šelis" pos="A">šeellâd</l>
       </lg>
       <mg rest="# šelis šellis šellâdâs">
          <tg xml:lang="fin">
@@ -15135,7 +15135,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1358">
       <lg>
-         <l attr="šelgis;šelgâdis" pos="A">šelgâd</l>
+         <l attr="šelgis" pos="A">šelgâd</l>
       </lg>
       <mg rest="# še'lgis">
          <tg xml:lang="fin">
@@ -15210,7 +15210,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1365">
       <lg>
-         <l attr="sevŋis;sevŋâdis" pos="A">sevŋâd</l>
+         <l attr="sevŋis" pos="A">sevŋâd</l>
       </lg>
       <mg rest="# se'vŋis">
          <tg xml:lang="fin">
@@ -16126,7 +16126,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1441">
       <lg>
-         <l attr="šolbis;šolbâdis" pos="A">šolbâd</l>
+         <l attr="šolbis" pos="A">šolbâd</l>
       </lg>
       <mg rest="# šo'lbis">
          <tg xml:lang="fin">
@@ -16314,7 +16314,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1459">
       <lg>
-         <l attr="šovkis;šovkkâdis" pos="A">šovkkâd</l>
+         <l attr="šovkis" pos="A">šovkkâd</l>
       </lg>
       <mg rest="# šo'vkis # šovkkâdis">
          <tg xml:lang="fin">
@@ -16435,7 +16435,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1471">
       <lg>
-         <l attr="storgis;storgâdis" pos="A">storgâd</l>
+         <l attr="storgis" pos="A">storgâd</l>
       </lg>
       <mg rest="# storgâdis sto'rgis">
          <tg xml:lang="fin">
@@ -16481,7 +16481,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1475">
       <lg>
-         <l attr="stuorâ;stuorrâ" pos="A">styeres</l>
+         <l attr="stuorrâ" pos="A">styeres</l>
       </lg>
       <mg rest="stuár'rá # stuor'râ">
          <tg xml:lang="fin">
@@ -16732,7 +16732,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1496">
       <lg>
-         <l attr="suohâdis;suohis" pos="A">suohâd</l>
+         <l attr="suohis" pos="A">suohâd</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -17481,7 +17481,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1562">
       <lg>
-         <l attr="tevkisčuovjis;tevkisčuovjâdis" pos="A">tevkisčuovjâd</l>
+         <l attr="tevkisčuovjis" pos="A">tevkisčuovjâd</l>
       </lg>
       <mg rest="# -čuo'vjis">
          <tg xml:lang="fin">
@@ -17491,7 +17491,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1563">
       <lg>
-         <l attr="tevkisruopsis;tevkisruopsâdis" pos="A">tevkisruopsâd</l>
+         <l attr="tevkisruopsis" pos="A">tevkisruopsâd</l>
       </lg>
       <mg rest="# -ruo'psis">
          <tg xml:lang="fin">
@@ -17501,7 +17501,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1564">
       <lg>
-         <l attr="tevkis;tevkkâdis" pos="A">tevkkâd</l>
+         <l attr="tevkis" pos="A">tevkkâd</l>
       </lg>
       <mg rest="# te'vkis">
          <tg xml:lang="fin">
@@ -19787,7 +19787,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1778">
       <lg>
-         <l attr="vielgis;vielgâdis" pos="A">vielgâd</l>
+         <l attr="vielgis" pos="A">vielgâd</l>
       </lg>
       <mg rest="# vie'lgis">
          <tg xml:lang="fin">
@@ -20029,7 +20029,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1800">
       <lg>
-         <l attr="viskis;viskâdis" pos="A">viskâd</l>
+         <l attr="viskis" pos="A">viskâd</l>
       </lg>
       <mg rest="# vi'skis">
          <tg xml:lang="fin">
@@ -22374,7 +22374,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9004">
       <lg>
-         <l attr="ruokis;ruokkâdis" pos="A">ruokkâd</l>
+         <l attr="ruokis" pos="A">ruokkâd</l>
       </lg>
       <mg rest="# ruok'kâdis ruo'kis">
          <tg xml:lang="fin">
@@ -22404,7 +22404,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10034">
       <lg>
-         <l attr="smavvâ;smaavâ" pos="A">smaavâs</l>
+         <l attr="smavvâ" pos="A">smaavâs</l>
       </lg>
       <mg rest="# smaVâ">
          <tg xml:lang="fin">
