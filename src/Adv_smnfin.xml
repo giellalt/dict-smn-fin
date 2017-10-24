@@ -7855,4 +7855,95 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_194">
+      <lg>
+         <l pos="Adv">áigáá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aikaa sitten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_279">
+      <lg>
+         <l pos="Adv">algâaalgâst</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">alkujaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_320">
+      <lg>
+         <l pos="Adv">álguáálgust</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">alkujaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1059">
+      <lg>
+         <l pos="Adv" status="_unknown_N">čuákkist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">koolla</t>
+            <t pos="Adv">koossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5547">
+      <lg>
+         <l pos="Adv" status="_unknown_N">máccud</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">poimulla</t>
+            <t pos="Adv">taitteella (ei pysyvästi)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5815">
+      <lg>
+         <l pos="Adv" status="_unknown_N">mielâst</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">mielessä</t>
+            <t pos="Adv">mielissään</t>
+            <t pos="Adv">mielellään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6169">
+      <lg>
+         <l pos="Adv" status="_unknown_N">muuneeld</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">varalta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ennakkoon</t>
+            <t pos="Adv">ennakolta</t>
+            <t pos="Adv">etukäteen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7753">
+      <lg>
+         <l pos="Adv">pirrâluvâi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">toistensa ympärillä</t>
+         </tg>
+      </mg>
+   </e>
 </r>
