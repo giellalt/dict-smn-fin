@@ -2,89 +2,89 @@
 <r>
    <e id="N_233">
       <lg>
-         <l pos="N" nr="Pl">áimuvyeimih</l>
+         <l nr="Pl" pos="N" pl_gen="áimuvuoimij">áimuvyeimih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">ilmavoimat</t>
+            <t nr="Pl" pos="N">ilmavoimat</t>
          </tg>
       </mg>
    </e>
    <e id="N_414">
       <lg>
-         <l pos="N" nr="Pl">amnâsluhâmeh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">amnâsluhâmeh</l>
       </lg>
       <mg rest="-luhâmij">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">aineopinnot</t>
+            <t nr="Pl" pos="N">aineopinnot</t>
          </tg>
       </mg>
    </e>
    <e id="N_418">
       <lg>
-         <l pos="N" nr="Pl">amnâsuápuh</l>
+         <l nr="Pl" pos="N" pl_gen="amnâsuápui">amnâsuápuh</l>
       </lg>
       <mg rest="-uápui">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">aineopinnot</t>
+            <t nr="Pl" pos="N">aineopinnot</t>
          </tg>
       </mg>
    </e>
    <e id="N_432">
       <lg>
-         <l pos="N" nr="Pl">anopiivtâs</l>
+         <l nr="Pl" pos="N" status="_unknown_N">anopiivtâs</l>
       </lg>
       <mg rest="-pihtâsij">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">arkivaatteet</t>
+            <t nr="Pl" pos="N">arkivaatteet</t>
          </tg>
       </mg>
    </e>
    <e id="N_472">
       <lg>
-         <l pos="N" nr="Pl">arâiiđeeduđđâseh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">arâiiđeeduđđâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">varhaisaamu-uutiset</t>
+            <t nr="Pl" pos="N">varhaisaamu-uutiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_514">
       <lg>
-         <l pos="N" nr="Pl">arvepuuvsah</l>
+         <l nr="Pl" pos="N" status="_unknown_N">arvepuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">sadehousut</t>
-            <t pos="N" nr="Pl">kurahousut</t>
+            <t nr="Pl" pos="N">sadehousut</t>
+            <t nr="Pl" pos="N">kurahousut</t>
          </tg>
       </mg>
    </e>
    <e id="N_559">
       <lg>
-         <l pos="N" nr="Pl">asteršadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">asteršadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">asterikasvit</t>
+            <t nr="Pl" pos="N">asterikasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_614">
       <lg>
-         <l pos="N" nr="Pl">avrampiergâseh</l>
+         <l nr="Pl" pos="N" pl_gen="avrampiergâsij">avrampiergâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">aurausvälineet</t>
+            <t nr="Pl" pos="N">aurausvälineet</t>
             <t pos="N">aurauskalusto</t>
          </tg>
       </mg>
    </e>
    <e id="N_624">
       <lg>
-         <l pos="N" nr="Pl">ávutuáluh</l>
+         <l nr="Pl" pos="N" pl_gen="ávutuálui">ávutuáluh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -94,27 +94,27 @@
    </e>
    <e id="N_704">
       <lg>
-         <l pos="N" nr="Pl">čalmekulmesoksâmeh</l>
+         <l nr="Pl" pos="N" pl_gen="čalmekulmesoksâmij">čalmekulmesoksâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kulmakarvat</t>
+            <t nr="Pl" pos="N">kulmakarvat</t>
          </tg>
       </mg>
    </e>
    <e id="N_707">
       <lg>
-         <l pos="N" nr="Pl">čalmelaasah</l>
+         <l nr="Pl" pos="N" pl_gen="čalmelaasâi;čalmelasâi">čalmelaasah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">silmälasit</t>
+            <t nr="Pl" pos="N">silmälasit</t>
          </tg>
       </mg>
    </e>
    <e id="N_747">
       <lg>
-         <l pos="N" nr="Pl">čapiskääsih</l>
+         <l nr="Pl" pos="N" status="_unknown_N">čapiskääsih</l>
       </lg>
       <mg rest="-kässih">
          <tg xml:lang="fin">
@@ -124,58 +124,58 @@
    </e>
    <e id="N_826">
       <lg>
-         <l pos="N" nr="Pl">čevđâstuvah</l>
+         <l nr="Pl" pos="N" pl_gen="čevđâstuvâi">čevđâstuvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Marasmius" nr="Pl">nahikkaat</t>
+            <t nr="Pl" pos="N" tt_auto="Marasmius">nahikkaat</t>
          </tg>
       </mg>
    </e>
    <e id="N_834">
       <lg>
-         <l pos="N" nr="Pl">čevelođđâseh</l>
+         <l nr="Pl" pos="N" pl_gen="čevelođđâsij">čevelođđâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kaulanikamat</t>
+            <t nr="Pl" pos="N">kaulanikamat</t>
          </tg>
       </mg>
    </e>
    <e id="N_838">
       <lg>
-         <l pos="N" nr="Pl">čevetäävtih</l>
+         <l nr="Pl" pos="N" status="_unknown_N">čevetäävtih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kaulanikamat</t>
+            <t nr="Pl" pos="N">kaulanikamat</t>
          </tg>
       </mg>
    </e>
    <e id="N_929">
       <lg>
-         <l pos="N" nr="Pl">čivroseh</l>
+         <l nr="Pl" pos="N" pl_gen="čivrosij">čivroseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">täinmunat</t>
-            <t pos="N" nr="Pl">saivaret</t>
+            <t nr="Pl" pos="N">täinmunat</t>
+            <t nr="Pl" pos="N">saivaret</t>
          </tg>
       </mg>
    </e>
    <e id="N_939">
       <lg>
-         <l pos="N" nr="Pl">čiähuliinsah</l>
+         <l nr="Pl" pos="N" pl_gen="čiähuliinsâi;čiähulinsâi">čiähuliinsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">piilolinssit</t>
+            <t nr="Pl" pos="N">piilolinssit</t>
          </tg>
       </mg>
    </e>
    <e id="N_1064">
       <lg>
-         <l pos="N" nr="Pl">čuálih</l>
+         <l nr="Pl" pos="N" pl_gen="čolij;čoolij">čuálih</l>
       </lg>
       <mg rest="čuá'leh">
          <tg xml:lang="fin">
@@ -185,68 +185,68 @@
    </e>
    <e id="N_1101">
       <lg>
-         <l pos="N" nr="Pl">čuárbbeltäävtih</l>
+         <l nr="Pl" pos="N" pl_gen="čuárbbeltaavtij;čuárbbeltavtij">čuárbbeltäävtih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">lannenikamat</t>
+            <t nr="Pl" pos="N">lannenikamat</t>
          </tg>
       </mg>
    </e>
    <e id="N_1110">
       <lg>
-         <l pos="N" nr="Pl">čuárvijáháleh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">čuárvijáháleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Cladonia" nr="Pl">torvijäkälät</t>
+            <t nr="Pl" pos="N" tt_auto="Cladonia">torvijäkälät</t>
          </tg>
       </mg>
    </e>
    <e id="N_1116">
       <lg>
-         <l pos="N" nr="Pl">čuárviriistah</l>
+         <l nr="Pl" pos="N" status="_unknown_N">čuárviriistah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Trigonella" nr="Pl">sarviapilat</t>
+            <t nr="Pl" pos="N" tt_auto="Trigonella">sarviapilat</t>
          </tg>
       </mg>
    </e>
    <e id="N_1258">
       <lg>
-         <l pos="N" nr="Pl">čuoldâkuobbâreh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">čuoldâkuobbâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Kuehneromyces" nr="Pl">kantosienet</t>
+            <t nr="Pl" pos="N" tt_auto="Kuehneromyces">kantosienet</t>
          </tg>
       </mg>
    </e>
    <e id="N_1300">
       <lg>
-         <l pos="N" nr="Pl">čuovah</l>
+         <l nr="Pl" pos="N" pl_gen="čuovâi">čuovah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">valaistus</t>
-            <t pos="N" nr="Pl">valot</t>
+            <t nr="Pl" pos="N">valot</t>
          </tg>
       </mg>
    </e>
    <e id="N_1322">
       <lg>
-         <l pos="N" nr="Pl">čuovjiskierâšadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">čuovjiskierâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Polemoniaceae" nr="Pl">sinilatvakasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Polemoniaceae">sinilatvakasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_1355">
       <lg>
-         <l pos="N" nr="Pl">čuožžâmeh</l>
+         <l nr="Pl" pos="N" pl_gen="čuožžâmij">čuožžâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -256,111 +256,111 @@
    </e>
    <e id="N_1402">
       <lg>
-         <l pos="N" nr="Pl">čäciherttâšadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">čäciherttâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Lantibulariaceae" nr="Pl">vesihernekasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Lantibulariaceae">vesihernekasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_1715">
       <lg>
-         <l pos="N" nr="Pl">ergikunâgâsvuájuh</l>
+         <l nr="Pl" pos="N" pl_gen="ergikunâgâsvuájui">ergikunâgâsvuájuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">porokuninkuusajot</t>
+            <t nr="Pl" pos="N">porokuninkuusajot</t>
          </tg>
       </mg>
    </e>
    <e id="N_1775">
       <lg>
-         <l pos="N" nr="Pl">faarkuh</l>
+         <l nr="Pl" pos="N" pl_gen="faarkui;farkui">faarkuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">farkut</t>
-            <t pos="N" nr="Pl">farmarit</t>
-            <t pos="N" nr="Pl">famarihousut</t>
+            <t nr="Pl" pos="N">farkut</t>
+            <t nr="Pl" pos="N">farmarit</t>
+            <t nr="Pl" pos="N">famarihousut</t>
          </tg>
       </mg>
    </e>
    <e id="N_1797">
       <lg>
-         <l pos="N" nr="Pl">farmarpuuvsah</l>
+         <l nr="Pl" pos="N" pl_gen="farmarpuuvsâi;farmarpuvsâi">farmarpuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">farkut</t>
-            <t pos="N" nr="Pl">farmarit</t>
-            <t pos="N" nr="Pl">famarihousut</t>
+            <t nr="Pl" pos="N">farkut</t>
+            <t nr="Pl" pos="N">farmarit</t>
+            <t nr="Pl" pos="N">famarihousut</t>
          </tg>
       </mg>
    </e>
    <e id="N_1860">
       <lg>
-         <l pos="N" nr="Pl">fiskisräsišadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">fiskisräsišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Ranunculaceae" nr="Pl">leinikkikasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Ranunculaceae">leinikkikasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_1932">
       <lg>
-         <l pos="N" nr="Pl">haalareh</l>
+         <l nr="Pl" pos="N" pl_gen="haalarij">haalareh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">haalarit</t>
+            <t nr="Pl" pos="N">haalarit</t>
          </tg>
       </mg>
    </e>
    <e id="N_2019">
       <lg>
-         <l pos="N" nr="Pl">harjakkááh</l>
+         <l nr="Pl" pos="N" pl_gen="harjakkái">harjakkááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">harjakaiset</t>
+            <t nr="Pl" pos="N">harjakaiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_2037">
       <lg>
-         <l pos="N" nr="Pl">havdajááh</l>
+         <l nr="Pl" pos="N" pl_gen="havdajái">havdajááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">hautajaiset</t>
+            <t nr="Pl" pos="N">hautajaiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_2038">
       <lg>
-         <l pos="N" nr="Pl">hávdájááh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">hávdájááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">hautajaiset</t>
+            <t nr="Pl" pos="N">hautajaiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_2049">
       <lg>
-         <l pos="N" nr="Pl">heejah</l>
+         <l nr="Pl" pos="N" pl_gen="heejâi;hejâi">heejah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">häät</t>
+            <t nr="Pl" pos="N">häät</t>
          </tg>
       </mg>
    </e>
    <e id="N_2072">
       <lg>
-         <l pos="N" nr="Pl">helduvah</l>
+         <l nr="Pl" pos="N" pl_gen="helduvai">helduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -370,37 +370,37 @@
    </e>
    <e id="N_2092">
       <lg>
-         <l pos="N" nr="Pl">heŋkseleh</l>
+         <l nr="Pl" pos="N" pl_gen="heŋkselij">heŋkseleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">henkselit</t>
+            <t nr="Pl" pos="N">henkselit</t>
          </tg>
       </mg>
    </e>
    <e id="N_2097">
       <lg>
-         <l pos="N" nr="Pl">herskukuobbâreh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">herskukuobbâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Agaricus" nr="Pl">herkkusienet</t>
+            <t nr="Pl" pos="N" tt_auto="Agaricus">herkkusienet</t>
          </tg>
       </mg>
    </e>
    <e id="N_2106">
       <lg>
-         <l pos="N" nr="Pl">herttâšadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">herttâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Fabaceae" nr="Pl">hernekasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Fabaceae">hernekasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_2216">
       <lg>
-         <l pos="N" nr="Pl">huáppuvaljiimeh</l>
+         <l nr="Pl" pos="N" pl_gen="huáppuvaljiimij">huáppuvaljiimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -410,52 +410,52 @@
    </e>
    <e id="N_2223">
       <lg>
-         <l pos="N" nr="Pl">huáššišadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">huáššišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Equisetaceae" nr="Pl">kortekasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Equisetaceae">kortekasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_2318">
       <lg>
-         <l pos="N" nr="Pl">idâpuuvsah</l>
+         <l nr="Pl" pos="N" pl_gen="idâpuuvsâi;idâpuvsâi">idâpuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">polvihousut</t>
+            <t nr="Pl" pos="N">polvihousut</t>
          </tg>
       </mg>
    </e>
    <e id="N_2341">
       <lg>
-         <l pos="N" nr="Pl">iđospäččeešadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">iđospäččeešadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Selaginellaceae" nr="Pl">mähkäkasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Selaginellaceae">mähkäkasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_2366">
       <lg>
-         <l pos="N" nr="Pl">iiđeeduđđâseh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">iiđeeduđđâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">aamu-uutiset</t>
-            <t pos="N" nr="Pl">varhaisaamu-uutiset</t>
+            <t nr="Pl" pos="N">aamu-uutiset</t>
+            <t nr="Pl" pos="N">varhaisaamu-uutiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_2368">
       <lg>
-         <l pos="N" nr="Pl">iilâskšadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">iilâskšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">rikkakasvit</t>
+            <t nr="Pl" pos="N">rikkakasvit</t>
          </tg>
       </mg>
       <mg rest="">
@@ -466,17 +466,17 @@
    </e>
    <e id="N_2456">
       <lg>
-         <l pos="N" nr="Pl">išeráttáh</l>
+         <l nr="Pl" pos="N" pl_gen="išeráttái">išeráttáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">apupyörät</t>
+            <t nr="Pl" pos="N">apupyörät</t>
          </tg>
       </mg>
    </e>
    <e id="N_2473">
       <lg>
-         <l pos="N" nr="Pl">ištâmeh</l>
+         <l nr="Pl" pos="N" pl_gen="ištâmij">ištâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -487,7 +487,7 @@
    </e>
    <e id="N_2495">
       <lg>
-         <l pos="N" nr="Pl">iäláneh</l>
+         <l nr="Pl" pos="N" pl_gen="iälánij">iäláneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -497,38 +497,38 @@
    </e>
    <e id="N_2516">
       <lg>
-         <l pos="N" nr="Pl">iärutiervuođah</l>
+         <l nr="Pl" pos="N" pl_gen="iärutiervuođâi">iärutiervuođah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">hyvästit</t>
-            <t pos="N" nr="Pl">jäähyväiset</t>
+            <t nr="Pl" pos="N">hyvästit</t>
+            <t nr="Pl" pos="N">jäähyväiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_2541">
       <lg>
-         <l pos="N" nr="Pl">jáávuh</l>
+         <l nr="Pl" pos="N" pl_gen="jáávui">jáávuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">jauhot</t>
+            <t nr="Pl" pos="N">jauhot</t>
          </tg>
       </mg>
    </e>
    <e id="N_2606">
       <lg>
-         <l pos="N" nr="Pl">jeggiuloh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">jeggiuloh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Eriophorum" nr="Pl">suovillat</t>
+            <t nr="Pl" pos="N" tt_auto="Eriophorum">suovillat</t>
          </tg>
       </mg>
    </e>
    <e id="N_2612">
       <lg>
-         <l pos="N" nr="Pl">jesâneh</l>
+         <l nr="Pl" pos="N" pl_gen="jesânij">jesâneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -538,17 +538,17 @@
    </e>
    <e id="N_2694">
       <lg>
-         <l pos="N" nr="Pl">jiereehšadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">jiereehšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Grossulariaceae" nr="Pl">herukkakasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Grossulariaceae">herukkakasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_2770">
       <lg>
-         <l pos="N" nr="Pl">jormeväärih</l>
+         <l nr="Pl" pos="N" pl_gen="jormevaarij;jormevarij">jormeväärih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -558,141 +558,141 @@
    </e>
    <e id="N_2776">
       <lg>
-         <l pos="N" nr="Pl">jorreeh</l>
+         <l nr="Pl" pos="N" pl_gen="jorrei">jorreeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kärryt</t>
+            <t nr="Pl" pos="N">kärryt</t>
          </tg>
       </mg>
    </e>
    <e id="N_2852">
       <lg>
-         <l pos="N" nr="Pl">juhlekammuuh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">juhlekammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">juhlakengät</t>
+            <t nr="Pl" pos="N">juhlakengät</t>
          </tg>
       </mg>
    </e>
    <e id="N_2879">
       <lg>
-         <l pos="N" nr="Pl">juovlah</l>
+         <l nr="Pl" pos="N" pl_gen="juovlâi">juovlah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">joulu</t>
-            <t pos="N" nr="Pl">joulunpyhät</t>
+            <t nr="Pl" pos="N">joulunpyhät</t>
          </tg>
       </mg>
    </e>
    <e id="N_2883">
       <lg>
-         <l pos="N" nr="Pl">juovlâpaseh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">juovlâpaseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">joulunpyhät</t>
+            <t nr="Pl" pos="N">joulunpyhät</t>
          </tg>
       </mg>
    </e>
    <e id="N_2933">
       <lg>
-         <l pos="N" nr="Pl">juvâlmâsah</l>
+         <l nr="Pl" pos="N" pl_gen="juvâlmâsâi">juvâlmâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">juomingit</t>
+            <t nr="Pl" pos="N">juomingit</t>
          </tg>
       </mg>
    </e>
    <e id="N_3005">
       <lg>
-         <l pos="N" nr="Pl">kaaicârääsih</l>
+         <l nr="Pl" pos="N" pl_gen="kaaicâraasij;kaaicârasij">kaaicârääsih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Dryopteris" nr="Pl">alvejuuret</t>
+            <t nr="Pl" pos="N" tt_auto="Dryopteris">alvejuuret</t>
          </tg>
       </mg>
    </e>
    <e id="N_3011">
       <lg>
-         <l pos="N" nr="Pl">kááijumliivih</l>
+         <l nr="Pl" pos="N" pl_gen="kááijumliivij;kááijumlivij">kááijumliivih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">pelastusliivit</t>
+            <t nr="Pl" pos="N">pelastusliivit</t>
          </tg>
       </mg>
    </e>
    <e id="N_3018">
       <lg>
-         <l pos="N" nr="Pl">kaališadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kaališadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Araceae" nr="Pl">vehkakasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Araceae">vehkakasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_3037">
       <lg>
-         <l pos="N" nr="Pl">káárvuh</l>
+         <l nr="Pl" pos="N" pl_gen="kárvui;káárvui">káárvuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">vaatteet</t>
+            <t nr="Pl" pos="N">vaatteet</t>
          </tg>
       </mg>
    </e>
    <e id="N_3094">
       <lg>
-         <l pos="N" nr="Pl">káiduslaasah</l>
+         <l nr="Pl" pos="N" pl_gen="káiduslaasâi;káiduslasâi">káiduslaasah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kaukolasit</t>
+            <t nr="Pl" pos="N">kaukolasit</t>
          </tg>
       </mg>
    </e>
    <e id="N_3144">
       <lg>
-         <l pos="N" nr="Pl">kalsareh</l>
+         <l nr="Pl" pos="N" pl_gen="kalsarij">kalsareh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kalsarit</t>
-            <t pos="N" nr="Pl">välihousut</t>
+            <t nr="Pl" pos="N">kalsarit</t>
+            <t nr="Pl" pos="N">välihousut</t>
          </tg>
       </mg>
    </e>
    <e id="N_3154">
       <lg>
-         <l pos="N" nr="Pl">kamâspidoh</l>
+         <l nr="Pl" pos="N" pl_gen="kamâspidoi">kamâspidoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">naisten koipisukat</t>
-            <t pos="N" nr="Pl">naisten säpäkkeet</t>
+            <t nr="Pl" pos="N">naisten koipisukat</t>
+            <t nr="Pl" pos="N">naisten säpäkkeet</t>
          </tg>
       </mg>
    </e>
    <e id="N_3155">
       <lg>
-         <l pos="N" nr="Pl">kamâspuuvsah</l>
+         <l nr="Pl" pos="N" pl_gen="kamâspuuvsâi;kamâspuvsâi">kamâspuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">koipisukat housuosalla</t>
-            <t pos="N" nr="Pl">säpäkehousut</t>
+            <t nr="Pl" pos="N">koipisukat housuosalla</t>
+            <t nr="Pl" pos="N">säpäkehousut</t>
          </tg>
       </mg>
    </e>
    <e id="N_3323">
       <lg>
-         <l pos="N" nr="Pl">keessimráttáh</l>
+         <l nr="Pl" pos="N" pl_gen="keessimráttái">keessimráttáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -702,198 +702,198 @@
    </e>
    <e id="N_3369">
       <lg>
-         <l pos="N" nr="Pl">keriveh</l>
+         <l nr="Pl" pos="N" pl_gen="kerivij">keriveh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">käräjät</t>
+            <t nr="Pl" pos="N">käräjät</t>
          </tg>
       </mg>
    </e>
    <e id="N_3380">
       <lg>
-         <l pos="N" nr="Pl">kesikammuuh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kesikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kesäkengät</t>
+            <t nr="Pl" pos="N">kesäkengät</t>
          </tg>
       </mg>
    </e>
    <e id="N_3417">
       <lg>
-         <l pos="N" nr="Pl">kiđđâčalmešadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kiđđâčalmešadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Primulaceae" nr="Pl">esikkokasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Primulaceae">esikkokasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_3528">
       <lg>
-         <l pos="N" nr="Pl">kiesâlduvah</l>
+         <l nr="Pl" pos="N" pl_gen="kiesâlduvâi">kiesâlduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kapalot</t>
+            <t nr="Pl" pos="N">kapalot</t>
          </tg>
       </mg>
    </e>
    <e id="N_3543">
       <lg>
-         <l pos="N" nr="Pl">kietâruuđah</l>
+         <l nr="Pl" pos="N" pl_gen="kietâruuđâi;kietâruđâi">kietâruuđah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">käteisvarat</t>
+            <t nr="Pl" pos="N">käteisvarat</t>
          </tg>
       </mg>
    </e>
    <e id="N_3549">
       <lg>
-         <l pos="N" nr="Pl">kietâvyeimih</l>
+         <l nr="Pl" pos="N" pl_gen="kietâvuoimij">kietâvyeimih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">käsivoimat</t>
+            <t nr="Pl" pos="N">käsivoimat</t>
          </tg>
       </mg>
    </e>
    <e id="N_3566">
       <lg>
-         <l pos="N" nr="Pl">kihlájááh</l>
+         <l nr="Pl" pos="N" pl_gen="kihlájái">kihlájááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kihlajaiset</t>
+            <t nr="Pl" pos="N">kihlajaiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_3640">
       <lg>
-         <l pos="N" nr="Pl">kiŋgâreh</l>
+         <l nr="Pl" pos="N" pl_gen="kiŋgârij">kiŋgâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kinkerit</t>
+            <t nr="Pl" pos="N">kinkerit</t>
          </tg>
       </mg>
    </e>
    <e id="N_3649">
       <lg>
-         <l pos="N" nr="Pl">kirdeekiivsah</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kirdeekiivsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Coleoptera" nr="Pl">kovakuoriaiset</t>
+            <t nr="Pl" pos="N" tt_auto="Coleoptera">kovakuoriaiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_3667">
       <lg>
-         <l pos="N" nr="Pl">kirhomiänuh</l>
+         <l nr="Pl" pos="N" pl_gen="kirhomiänui">kirhomiänuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kirkonmenot</t>
+            <t nr="Pl" pos="N">kirkonmenot</t>
          </tg>
       </mg>
    </e>
    <e id="N_3732">
       <lg>
-         <l pos="N" nr="Pl">kistuuh</l>
+         <l nr="Pl" pos="N" pl_gen="kistui">kistuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">rukkaset</t>
+            <t nr="Pl" pos="N">rukkaset</t>
          </tg>
       </mg>
    </e>
    <e id="N_3770">
       <lg>
-         <l pos="N" nr="Pl">kiällušadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kiällušadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Campanulaceae" nr="Pl">kellokasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Campanulaceae">kellokasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_3772">
       <lg>
-         <l pos="N" nr="Pl">kiällutoŋâsšadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kiällutoŋâsšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Caprifoliaceae" nr="Pl">kuusamakasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Caprifoliaceae">kuusamakasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_3802">
       <lg>
-         <l pos="N" nr="Pl">kiärppáálostâšadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kiärppáálostâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Droseraceae" nr="Pl">kihokkikasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Droseraceae">kihokkikasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_3838">
       <lg>
-         <l pos="N" nr="Pl">koččomeh</l>
+         <l nr="Pl" pos="N" pl_gen="koččomij">koččomeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kutsunnat</t>
+            <t nr="Pl" pos="N">kutsunnat</t>
          </tg>
       </mg>
    </e>
    <e id="N_3843">
       <lg>
-         <l pos="N" nr="Pl">kođđeemsäägih</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kođđeemsäägih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">neulepuikot</t>
-            <t pos="N" nr="Pl">kudinpuikot</t>
+            <t nr="Pl" pos="N">neulepuikot</t>
+            <t nr="Pl" pos="N">kudinpuikot</t>
          </tg>
       </mg>
    </e>
    <e id="N_3873">
       <lg>
-         <l pos="N" nr="Pl">koldâskerreeh</l>
+         <l nr="Pl" pos="N" pl_gen="koldâskerrei">koldâskerreeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">tukkisakset</t>
+            <t nr="Pl" pos="N">tukkisakset</t>
          </tg>
       </mg>
    </e>
    <e id="N_4017">
       <lg>
-         <l pos="N" nr="Pl">korrâpuuvsah</l>
+         <l nr="Pl" pos="N" status="_unknown_N">korrâpuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kuorihousut</t>
+            <t nr="Pl" pos="N">kuorihousut</t>
          </tg>
       </mg>
    </e>
    <e id="N_4055">
       <lg>
-         <l pos="N" nr="Pl">koskâvuoiŋâšeh</l>
+         <l nr="Pl" pos="N" pl_gen="koskâvuoiŋâšij">koskâvuoiŋâšeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">väliaivot</t>
+            <t nr="Pl" pos="N">väliaivot</t>
          </tg>
       </mg>
    </e>
    <e id="N_4080">
       <lg>
-         <l pos="N" nr="Pl">koveh</l>
+         <l nr="Pl" pos="N" pl_gen="kuuvij;kuvij">koveh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -903,179 +903,179 @@
    </e>
    <e id="N_4240">
       <lg>
-         <l pos="N" nr="Pl">kuávdášvuoiŋâšeh</l>
+         <l nr="Pl" pos="N" pl_gen="kuávdášvuoiŋâšij">kuávdášvuoiŋâšeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">keskiaivot</t>
+            <t nr="Pl" pos="N">keskiaivot</t>
          </tg>
       </mg>
    </e>
    <e id="N_4254">
       <lg>
-         <l pos="N" nr="Pl">kuávlu-uđđâseh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kuávlu-uđđâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">alueuutiset</t>
+            <t nr="Pl" pos="N">alueuutiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_4266">
       <lg>
-         <l pos="N" nr="Pl">kubdâlostâšadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kubdâlostâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Plantaginaceae" nr="Pl">ratamokasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Plantaginaceae">ratamokasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_4288">
       <lg>
-         <l pos="N" nr="Pl">kuhesčuovah</l>
+         <l nr="Pl" pos="N" pl_gen="kuhesčuovai">kuhesčuovah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kaukovalot</t>
+            <t nr="Pl" pos="N">kaukovalot</t>
          </tg>
       </mg>
    </e>
    <e id="N_4331">
       <lg>
-         <l pos="N" nr="Pl">kulosyejeh</l>
+         <l nr="Pl" pos="N" pl_gen="kulosuojij">kulosyejeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kuulosuojaimet</t>
+            <t nr="Pl" pos="N">kuulosuojaimet</t>
          </tg>
       </mg>
    </e>
    <e id="N_4333">
       <lg>
-         <l pos="N" nr="Pl">kulotäävtih</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kulotäävtih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kuuloluut</t>
+            <t nr="Pl" pos="N">kuuloluut</t>
          </tg>
       </mg>
    </e>
    <e id="N_4346">
       <lg>
-         <l pos="N" nr="Pl">kumistevileh</l>
+         <l nr="Pl" pos="N" pl_gen="kumistevilij">kumistevileh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kumisaappaat</t>
+            <t nr="Pl" pos="N">kumisaappaat</t>
          </tg>
       </mg>
    </e>
    <e id="N_4360">
       <lg>
-         <l pos="N" nr="Pl">kunjopoksâmeh</l>
+         <l nr="Pl" pos="N" pl_gen="kunjopoksâmij">kunjopoksâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">häpyhuulet</t>
+            <t nr="Pl" pos="N">häpyhuulet</t>
          </tg>
       </mg>
    </e>
    <e id="N_4406">
       <lg>
-         <l pos="N" nr="Pl">kuolah</l>
+         <l nr="Pl" pos="N" pl_gen="kuolâi">kuolah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">miehen häpy</t>
-            <t pos="N" nr="Pl">miehen sukupuolielimet</t>
-            <t pos="N" nr="Pl">kivekset</t>
+            <t nr="Pl" pos="N">miehen sukupuolielimet</t>
+            <t nr="Pl" pos="N">kivekset</t>
          </tg>
       </mg>
    </e>
    <e id="N_4447">
       <lg>
-         <l pos="N" nr="Pl">kuorâkuobbâreh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">kuorâkuobbâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Agrocybe" nr="Pl">piennarsienet</t>
+            <t nr="Pl" pos="N" tt_auto="Agrocybe">piennarsienet</t>
          </tg>
       </mg>
    </e>
    <e id="N_4492">
       <lg>
-         <l pos="N" nr="Pl">kuovsâkkâsah</l>
+         <l nr="Pl" pos="N" pl_gen="kuovsâkkâsâi">kuovsâkkâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">revontulet</t>
+            <t nr="Pl" pos="N">revontulet</t>
          </tg>
       </mg>
    </e>
    <e id="N_4495">
       <lg>
-         <l pos="N" nr="Pl">kuovskâseh</l>
+         <l nr="Pl" pos="N" pl_gen="kuovskâsij">kuovskâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">revontulet</t>
+            <t nr="Pl" pos="N">revontulet</t>
          </tg>
       </mg>
    </e>
    <e id="N_4584">
       <lg>
-         <l pos="N" nr="Pl">kyeddimmuorah</l>
+         <l nr="Pl" pos="N" pl_gen="kyeddimmuorâi">kyeddimmuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">paarit</t>
+            <t nr="Pl" pos="N">paarit</t>
          </tg>
       </mg>
    </e>
    <e id="N_4631">
       <lg>
-         <l pos="N" nr="Pl">kyevtpiähtulaasah</l>
+         <l nr="Pl" pos="N" pl_gen="kyevtpiähtulaasâi;kyevtpiähtulasâi">kyevtpiähtulaasah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kaksiteholasit</t>
+            <t nr="Pl" pos="N">kaksiteholasit</t>
          </tg>
       </mg>
    </e>
    <e id="N_4637">
       <lg>
-         <l pos="N" nr="Pl">kägismuorah</l>
+         <l nr="Pl" pos="N" pl_gen="kägismuorâi">kägismuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kangaspuut</t>
+            <t nr="Pl" pos="N">kangaspuut</t>
          </tg>
       </mg>
    </e>
    <e id="N_4691">
       <lg>
-         <l pos="N" nr="Pl">kässiheh</l>
+         <l nr="Pl" pos="N" pl_gen="kässihij">kässiheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Hygrophoraceae" nr="Pl">vahakkaat</t>
+            <t nr="Pl" pos="N" tt_auto="Hygrophoraceae">vahakkaat</t>
          </tg>
       </mg>
    </e>
    <e id="N_4721">
       <lg>
-         <l pos="N" nr="Pl">käällimpuuvsah</l>
+         <l nr="Pl" pos="N" status="_unknown_N">käällimpuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kahluuhousut</t>
+            <t nr="Pl" pos="N">kahluuhousut</t>
          </tg>
       </mg>
    </e>
    <e id="N_4826">
       <lg>
-         <l pos="N" nr="Pl">lahâsäänih</l>
+         <l nr="Pl" pos="N" pl_gen="lahâsaanij;lahâsanij">lahâsäänih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1085,7 +1085,7 @@
    </e>
    <e id="N_4912">
       <lg>
-         <l pos="N" nr="Pl">lasamuorah</l>
+         <l nr="Pl" pos="N" pl_gen="lasamuorâi">lasamuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1095,7 +1095,7 @@
    </e>
    <e id="N_4952">
       <lg>
-         <l pos="N" nr="Pl">lattimravvuuh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">lattimravvuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1105,48 +1105,48 @@
    </e>
    <e id="N_4963">
       <lg>
-         <l pos="N" nr="Pl">lavdhááh</l>
+         <l nr="Pl" pos="N" pl_gen="lavdhái">lavdhááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">lauteet</t>
+            <t nr="Pl" pos="N">lauteet</t>
          </tg>
       </mg>
    </e>
    <e id="N_4999">
       <lg>
-         <l pos="N" nr="Pl">leeŋgih</l>
+         <l nr="Pl" pos="N" pl_gen="leeŋgij;leŋgij">leeŋgih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">länget</t>
-            <t pos="N" nr="Pl">valjaat</t>
+            <t nr="Pl" pos="N">länget</t>
+            <t nr="Pl" pos="N">valjaat</t>
          </tg>
       </mg>
    </e>
    <e id="N_5001">
       <lg>
-         <l pos="N" nr="Pl">leggiŋspuuvsah</l>
+         <l nr="Pl" pos="N" pl_gen="leggiŋspuuvsâi;leggiŋspuvsâi">leggiŋspuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">legginsit</t>
+            <t nr="Pl" pos="N">legginsit</t>
          </tg>
       </mg>
    </e>
    <e id="N_5024">
       <lg>
-         <l pos="N" nr="Pl">lekkâmjuhleh</l>
+         <l nr="Pl" pos="N" pl_gen="lekkâmjuhlij;lekkâmjuuhlij">lekkâmjuhleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">avajaiset</t>
+            <t nr="Pl" pos="N">avajaiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_5055">
       <lg>
-         <l pos="N" nr="Pl">lieveeh</l>
+         <l nr="Pl" pos="N" pl_gen="lievei">lieveeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1156,7 +1156,7 @@
    </e>
    <e id="N_5089">
       <lg>
-         <l pos="N" nr="Pl">likkâmčalmeh</l>
+         <l nr="Pl" pos="N" pl_gen="likkâmčolmij;likkâmčoolmij">likkâmčalmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1166,7 +1166,7 @@
    </e>
    <e id="N_5205">
       <lg>
-         <l pos="N" nr="Pl">loostah</l>
+         <l nr="Pl" pos="N" pl_gen="loostâi;lostâi">loostah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1176,17 +1176,17 @@
    </e>
    <e id="N_5260">
       <lg>
-         <l pos="N" nr="Pl">luádusväärih</l>
+         <l nr="Pl" pos="N" pl_gen="luádusvaarij;luádusvarij">luádusväärih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">lohkovuoret</t>
+            <t nr="Pl" pos="N">lohkovuoret</t>
          </tg>
       </mg>
    </e>
    <e id="N_5288">
       <lg>
-         <l pos="N" nr="Pl">luáppijááh</l>
+         <l nr="Pl" pos="N" pl_gen="luáppijái">luáppijááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1196,167 +1196,167 @@
    </e>
    <e id="N_5314">
       <lg>
-         <l pos="N" nr="Pl">luhteešadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">luhteešadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Cyperaceae" nr="Pl">sarakasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Cyperaceae">sarakasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_5318">
       <lg>
-         <l pos="N" nr="Pl">luistimeh</l>
+         <l nr="Pl" pos="N" pl_gen="luistimij">luistimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">luistimet</t>
+            <t nr="Pl" pos="N">luistimet</t>
          </tg>
       </mg>
    </e>
    <e id="N_5328">
       <lg>
-         <l pos="N" nr="Pl">lummoruuđah</l>
+         <l nr="Pl" pos="N" pl_gen="lummoruuđâi;lummoruđâi">lummoruuđah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">käteisvarat</t>
+            <t nr="Pl" pos="N">käteisvarat</t>
          </tg>
       </mg>
    </e>
    <e id="N_5431">
       <lg>
-         <l pos="N" nr="Pl">läbžišadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">läbžišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Lycopodiaceae" nr="Pl">liekokasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Lycopodiaceae">liekokasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_5437">
       <lg>
-         <l pos="N" nr="Pl">lädikammuuh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">lädikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">lantalaiskengät</t>
+            <t nr="Pl" pos="N">lantalaiskengät</t>
          </tg>
       </mg>
    </e>
    <e id="N_5554">
       <lg>
-         <l pos="N" nr="Pl">madârvanhimeh</l>
+         <l nr="Pl" pos="N" pl_gen="madârvanhimij">madârvanhimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">esivanhemmat</t>
+            <t nr="Pl" pos="N">esivanhemmat</t>
          </tg>
       </mg>
    </e>
    <e id="N_5558">
       <lg>
-         <l pos="N" nr="Pl">maddâreh</l>
+         <l nr="Pl" pos="N" pl_gen="maddârij">maddâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">esivanhemmat</t>
+            <t nr="Pl" pos="N">esivanhemmat</t>
          </tg>
       </mg>
    </e>
    <e id="N_5559">
       <lg>
-         <l pos="N" nr="Pl">madduuh</l>
+         <l nr="Pl" pos="N" pl_gen="maddui">madduuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">sukujuuret</t>
+            <t nr="Pl" pos="N">sukujuuret</t>
          </tg>
       </mg>
    </e>
    <e id="N_5621">
       <lg>
-         <l pos="N" nr="Pl">mannasuvrâmeh</l>
+         <l nr="Pl" pos="N" pl_gen="mannasuvrâmij">mannasuvrâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">mannasuurimot</t>
+            <t nr="Pl" pos="N">mannasuurimot</t>
          </tg>
       </mg>
    </e>
    <e id="N_5625">
       <lg>
-         <l pos="N" nr="Pl">manoh</l>
+         <l nr="Pl" pos="N" pl_gen="manoi">manoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">menot</t>
+            <t nr="Pl" pos="N">menot</t>
          </tg>
       </mg>
    </e>
    <e id="N_5636">
       <lg>
-         <l pos="N" nr="Pl">mánusâžah</l>
+         <l nr="Pl" pos="N" status="_unknown_N">mánusâžah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kuukautiset</t>
+            <t nr="Pl" pos="N">kuukautiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_5637">
       <lg>
-         <l pos="N" nr="Pl">mánutaavdah</l>
+         <l nr="Pl" pos="N" status="_unknown_N">mánutaavdah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kuukautiset</t>
+            <t nr="Pl" pos="N">kuukautiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_5691">
       <lg>
-         <l pos="N" nr="Pl">meccikammuuh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">meccikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">vaelluskengät</t>
+            <t nr="Pl" pos="N">vaelluskengät</t>
          </tg>
       </mg>
    </e>
    <e id="N_5735">
       <lg>
-         <l pos="N" nr="Pl">meesuh</l>
+         <l nr="Pl" pos="N" pl_gen="meesui;mesui">meesuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl" re="kaupallinen">messut</t>
+            <t nr="Pl" pos="N" re="kaupallinen">messut</t>
          </tg>
       </mg>
    </e>
    <e id="N_5803">
       <lg>
-         <l pos="N" nr="Pl">miehtâkozzâheh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">miehtâkozzâheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Lyophyllum" nr="Pl">tupaskynsikkäät</t>
+            <t nr="Pl" pos="N" tt_auto="Lyophyllum">tupaskynsikkäät</t>
          </tg>
       </mg>
    </e>
    <e id="N_5806">
       <lg>
-         <l pos="N" nr="Pl">mieigâsmuorah</l>
+         <l nr="Pl" pos="N" pl_gen="mieigâsmuorâi">mieigâsmuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">nojapuut</t>
+            <t nr="Pl" pos="N">nojapuut</t>
          </tg>
       </mg>
    </e>
    <e id="N_5835">
       <lg>
-         <l pos="N" nr="Pl">mielkkišivetteh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">mielkkišivetteh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1366,37 +1366,37 @@
    </e>
    <e id="N_5844">
       <lg>
-         <l pos="N" nr="Pl">mieskâduvah</l>
+         <l nr="Pl" pos="N" pl_gen="mieskâduvâi">mieskâduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Hypholoma" nr="Pl">lahokat</t>
+            <t nr="Pl" pos="N" tt_auto="Hypholoma">lahokat</t>
          </tg>
       </mg>
    </e>
    <e id="N_5846">
       <lg>
-         <l pos="N" nr="Pl">mieskâruáđiheh</l>
+         <l nr="Pl" pos="N" pl_gen="mieskâruáđihij">mieskâruáđiheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Pluteus" nr="Pl">lahorusokkaat</t>
+            <t nr="Pl" pos="N" tt_auto="Pluteus">lahorusokkaat</t>
          </tg>
       </mg>
    </e>
    <e id="N_5849">
       <lg>
-         <l pos="N" nr="Pl">mieskâšovkkâheh</l>
+         <l nr="Pl" pos="N" pl_gen="mieskâšovkkâhij">mieskâšovkkâheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Tricholomopsis" nr="Pl">lahovalmuskat</t>
+            <t nr="Pl" pos="N" tt_auto="Tricholomopsis">lahovalmuskat</t>
          </tg>
       </mg>
    </e>
    <e id="N_5850">
       <lg>
-         <l pos="N" nr="Pl">mieskâttâsah</l>
+         <l nr="Pl" pos="N" pl_gen="mieskâttâsâi">mieskâttâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1406,7 +1406,7 @@
    </e>
    <e id="N_5964">
       <lg>
-         <l pos="N" nr="Pl">molsottuvah</l>
+         <l nr="Pl" pos="N" pl_gen="molsottuvâi">molsottuvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1416,27 +1416,27 @@
    </e>
    <e id="N_6033">
       <lg>
-         <l pos="N" nr="Pl">muáđoh</l>
+         <l nr="Pl" pos="N" pl_gen="muáđoi">muáđoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kasvot</t>
+            <t nr="Pl" pos="N">kasvot</t>
          </tg>
       </mg>
    </e>
    <e id="N_6035">
       <lg>
-         <l pos="N" nr="Pl">muáđuh</l>
+         <l nr="Pl" pos="N" pl_gen="muáđoi;muáđui">muáđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kasvot</t>
+            <t nr="Pl" pos="N">kasvot</t>
          </tg>
       </mg>
    </e>
    <e id="N_6091">
       <lg>
-         <l pos="N" nr="Pl">muorah</l>
+         <l nr="Pl" pos="N" pl_gen="muorâi">muorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1446,130 +1446,130 @@
    </e>
    <e id="N_6120">
       <lg>
-         <l pos="N" nr="Pl">muotâkammuuh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">muotâkammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">lumikengät</t>
+            <t nr="Pl" pos="N">lumikengät</t>
          </tg>
       </mg>
    </e>
    <e id="N_6205">
       <lg>
-         <l pos="N" nr="Pl">mäđireh</l>
+         <l nr="Pl" pos="N" pl_gen="mäđirij">mäđireh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Galium" nr="Pl">matarat</t>
+            <t nr="Pl" pos="N" tt_auto="Galium">matarat</t>
          </tg>
       </mg>
    </e>
    <e id="N_6212">
       <lg>
-         <l pos="N" nr="Pl">mälisrääđih</l>
+         <l nr="Pl" pos="N" pl_gen="mälisraađij;mälisrađij">mälisrääđih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">keittotarpeet</t>
+            <t nr="Pl" pos="N">keittotarpeet</t>
          </tg>
       </mg>
    </e>
    <e id="N_6224">
       <lg>
-         <l pos="N" nr="Pl">määđiršadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">määđiršadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Rubiaceae" nr="Pl">matarakasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Rubiaceae">matarakasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_6243">
       <lg>
-         <l pos="N" nr="Pl">naavcah</l>
+         <l nr="Pl" pos="N" pl_gen="naavcâi;navcâi">naavcah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">kyky</t>
             <t pos="N">voima</t>
-            <t pos="N" nr="Pl">voimavarat</t>
+            <t nr="Pl" pos="N">voimavarat</t>
          </tg>
       </mg>
    </e>
    <e id="N_6373">
       <lg>
-         <l pos="N" nr="Pl">niävuh</l>
+         <l nr="Pl" pos="N" pl_gen="niävui">niävuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">makaukset</t>
+            <t nr="Pl" pos="N">makaukset</t>
          </tg>
       </mg>
    </e>
    <e id="N_6391">
       <lg>
-         <l pos="N" nr="Pl">njadosšadoh</l>
+         <l nr="Pl" pos="N" pl_gen="njadosšadoi">njadosšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">maustekasvit</t>
+            <t nr="Pl" pos="N">maustekasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_6398">
       <lg>
-         <l pos="N" nr="Pl">njálgáh</l>
+         <l nr="Pl" pos="N" pl_gen="njálgái">njálgáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">karkit</t>
-            <t pos="N" nr="Pl">makeiset</t>
+            <t nr="Pl" pos="N">karkit</t>
+            <t nr="Pl" pos="N">makeiset</t>
          </tg>
       </mg>
    </e>
    <e id="N_6403">
       <lg>
-         <l pos="N" nr="Pl">njammaliivih</l>
+         <l nr="Pl" pos="N" pl_gen="njammaliivij;njammalivij">njammaliivih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">rintaliivit</t>
+            <t nr="Pl" pos="N">rintaliivit</t>
          </tg>
       </mg>
    </e>
    <e id="N_6470">
       <lg>
-         <l pos="N" nr="Pl">njomâttemnjammaliivih</l>
+         <l nr="Pl" pos="N" pl_gen="njomâttemnjammaliivij;njomâttemnjammalivij">njomâttemnjammaliivih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">imetysrintaliivit</t>
+            <t nr="Pl" pos="N">imetysrintaliivit</t>
          </tg>
       </mg>
    </e>
    <e id="N_6495">
       <lg>
-         <l pos="N" nr="Pl">njuámmilrääsih</l>
+         <l nr="Pl" pos="N" status="_unknown_N">njuámmilrääsih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Deschamsia" nr="Pl">lauhat</t>
+            <t nr="Pl" pos="N" tt_auto="Deschamsia">lauhat</t>
          </tg>
       </mg>
    </e>
    <e id="N_6521">
       <lg>
-         <l pos="N" nr="Pl">njunesoksâmeh</l>
+         <l nr="Pl" pos="N" pl_gen="njunesoksâmij">njunesoksâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl" re="eläimellä">viikset</t>
+            <t nr="Pl" pos="N" re="eläimellä">viikset</t>
          </tg>
       </mg>
    </e>
    <e id="N_6530">
       <lg>
-         <l pos="N" nr="Pl">njunošeh</l>
+         <l nr="Pl" pos="N" pl_gen="njunošij">njunošeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1580,57 +1580,57 @@
    </e>
    <e id="N_6543">
       <lg>
-         <l pos="N" nr="Pl">njuolâsšadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">njuolâsšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Onagraceae" nr="Pl">horsmakasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Onagraceae">horsmakasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_6562">
       <lg>
-         <l pos="N" nr="Pl">njuovâduvah</l>
+         <l nr="Pl" pos="N" pl_gen="njuovâduvâi">njuovâduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kalan perkuujätteet</t>
+            <t nr="Pl" pos="N">kalan perkuujätteet</t>
          </tg>
       </mg>
    </e>
    <e id="N_6596">
       <lg>
-         <l pos="N" nr="Pl">njälmiryevdih</l>
+         <l nr="Pl" pos="N" pl_gen="njälmiruovdij">njälmiryevdih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kuolaimet</t>
+            <t nr="Pl" pos="N">kuolaimet</t>
          </tg>
       </mg>
    </e>
    <e id="N_6600">
       <lg>
-         <l pos="N" nr="Pl">njävileh</l>
+         <l nr="Pl" pos="N" pl_gen="njävilij">njävileh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl" re="ihmisellä">viikset</t>
+            <t nr="Pl" pos="N" re="ihmisellä">viikset</t>
          </tg>
       </mg>
    </e>
    <e id="N_6606">
       <lg>
-         <l pos="N" nr="Pl">njäävih</l>
+         <l nr="Pl" pos="N" pl_gen="njaavij;njavij">njäävih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl" re="urosporolla">leuanaluskarvat</t>
+            <t nr="Pl" pos="N" re="urosporolla">leuanaluskarvat</t>
          </tg>
       </mg>
    </e>
    <e id="N_6695">
       <lg>
-         <l pos="N" nr="Pl">nuottâsárgáh</l>
+         <l nr="Pl" pos="N" pl_gen="nuottâsárgái">nuottâsárgáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1640,27 +1640,27 @@
    </e>
    <e id="N_6862">
       <lg>
-         <l pos="N" nr="Pl">olmooškoskâvuođah</l>
+         <l nr="Pl" pos="N" pl_gen="olmooškoskâvuođâi">olmooškoskâvuođah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">ihmissuhteet</t>
+            <t nr="Pl" pos="N">ihmissuhteet</t>
          </tg>
       </mg>
    </e>
    <e id="N_6987">
       <lg>
-         <l pos="N" nr="Pl">orrooruuđah</l>
+         <l nr="Pl" pos="N" pl_gen="orrooruuđâi;orrooruđâi">orrooruuđah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">säästöt</t>
+            <t nr="Pl" pos="N">säästöt</t>
          </tg>
       </mg>
    </e>
    <e id="N_7045">
       <lg>
-         <l pos="N" nr="Pl">ovdâšeh</l>
+         <l nr="Pl" pos="N" pl_gen="ovdâšij">ovdâšeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1671,17 +1671,17 @@
    </e>
    <e id="N_7049">
       <lg>
-         <l pos="N" nr="Pl">ovdâskoddevaaljah</l>
+         <l nr="Pl" pos="N" pl_gen="ovdâskoddevaaljâi;ovdâskoddevaljâi">ovdâskoddevaaljah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">eduskuntavaalit</t>
+            <t nr="Pl" pos="N">eduskuntavaalit</t>
          </tg>
       </mg>
    </e>
    <e id="N_7089">
       <lg>
-         <l pos="N" nr="Pl">ovttiih</l>
+         <l nr="Pl" pos="N" pl_gen="ovttij">ovttiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1692,47 +1692,47 @@
    </e>
    <e id="N_7114">
       <lg>
-         <l pos="N" nr="Pl">pááluh</l>
+         <l nr="Pl" pos="N" pl_gen="pálui;páálui">pááluh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kivekset</t>
+            <t nr="Pl" pos="N">kivekset</t>
          </tg>
       </mg>
    </e>
    <e id="N_7183">
       <lg>
-         <l pos="N" nr="Pl">pajalistruuđah</l>
+         <l nr="Pl" pos="N" pl_gen="pajalistruuđâi;pajalistruđâi">pajalistruuđah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">käteisvarat</t>
+            <t nr="Pl" pos="N">käteisvarat</t>
          </tg>
       </mg>
    </e>
    <e id="N_7238">
       <lg>
-         <l pos="N" nr="Pl">palsamšadoh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">palsamšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Balsaminaceae" nr="Pl">balsamikasvit</t>
+            <t nr="Pl" pos="N" tt_auto="Balsaminaceae">balsamikasvit</t>
          </tg>
       </mg>
    </e>
    <e id="N_7352">
       <lg>
-         <l pos="N" nr="Pl">párnáiráttáh</l>
+         <l nr="Pl" pos="N" pl_gen="párnáiráttái">párnáiráttáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">lastenvaunut</t>
+            <t nr="Pl" pos="N">lastenvaunut</t>
          </tg>
       </mg>
    </e>
    <e id="N_7355">
       <lg>
-         <l pos="N" nr="Pl">parnâmčääsih</l>
+         <l nr="Pl" pos="N" pl_gen="parnâmčaasij;parnâmčasij">parnâmčääsih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1742,31 +1742,31 @@
    </e>
    <e id="N_11159">
       <lg>
-         <l pos="N" nr="Pl">tieppimadduuh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">tieppimadduuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Isoëtes" nr="Pl">lahnanruohot</t>
+            <t nr="Pl" pos="N" tt_auto="Isoëtes">lahnanruohot</t>
          </tg>
       </mg>
    </e>
    <e id="N_178">
       <lg>
-         <l pos="N" nr="Pl">ahevattuuh</l>
+         <l nr="Pl" pos="N" pl_gen="ahevattui">ahevattuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">käärinliinat</t>
+            <t nr="Pl" pos="N">käärinliinat</t>
          </tg>
       </mg>
    </e>
    <e id="N_482">
       <lg>
-         <l pos="N" nr="Pl">argâpihtâseh</l>
+         <l nr="Pl" pos="N" pl_gen="argâpihtâsij">argâpihtâseh</l>
       </lg>
       <mg rest="-pihtâsij">
          <tg xml:lang="fin">
-            <t pos="N" nr="Pl">arkivaatteet</t>
+            <t nr="Pl" pos="N">arkivaatteet</t>
          </tg>
       </mg>
    </e>
