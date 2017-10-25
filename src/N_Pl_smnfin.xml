@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e id="N_233">
+      <lg>
+         <l pos="N" nr="Pl">áimuvyeimih</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N" nr="Pl">ilmavoimat</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_414">
+      <lg>
+         <l pos="N" nr="Pl">amnâsluhâmeh</l>
+      </lg>
+      <mg rest="-luhâmij">
+         <tg xml:lang="fin">
+            <t pos="N" nr="Pl">aineopinnot</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_418">
+      <lg>
+         <l pos="N" nr="Pl">amnâsuápuh</l>
+      </lg>
+      <mg rest="-uápui">
+         <tg xml:lang="fin">
+            <t pos="N" nr="Pl">aineopinnot</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_432">
+      <lg>
+         <l pos="N" nr="Pl">anopiivtâs</l>
+      </lg>
+      <mg rest="-pihtâsij">
+         <tg xml:lang="fin">
+            <t pos="N" nr="Pl">arkivaatteet</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_472">
+      <lg>
+         <l pos="N" nr="Pl">arâiiđeeduđđâseh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N" nr="Pl">varhaisaamu-uutiset</t>
+         </tg>
+      </mg>
+   </e>
+</r>
