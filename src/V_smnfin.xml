@@ -26296,6 +26296,16 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="A_882">
+      <lg>
+         <l pos="V">muáijuđ</l>
+      </lg>
+      <mg rest="muájum muáJu">
+         <tg xml:lang="fin">
+            <t pos="V">sulaa hieman (esim. ruokapakasteesta)</t>
+         </tg>
+      </mg>
+   </e>
    <e id="V_2397">
       <lg>
          <l pos="V">muáikkuđ</l>
@@ -59610,16 +59620,6 @@ For the full license text, see the link above.
       <mg rest="maiziim">
          <tg xml:lang="fin">
             <t pos="V">sulaa vähän</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_882">
-      <lg>
-         <l pos="V">muáijuđ</l>
-      </lg>
-      <mg rest="muájum muáJu">
-         <tg xml:lang="fin">
-            <t pos="V">sulaa hieman (esim. ruokapakasteesta)</t>
          </tg>
       </mg>
    </e>
