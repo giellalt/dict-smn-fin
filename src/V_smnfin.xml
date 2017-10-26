@@ -59603,4 +59603,54 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="A_811">
+      <lg>
+         <l pos="V">maiziđ</l>
+      </lg>
+      <mg rest="maiziim">
+         <tg xml:lang="fin">
+            <t pos="V">sulaa vähän</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_882">
+      <lg>
+         <l pos="V">muáijuđ</l>
+      </lg>
+      <mg rest="muájum muáJu">
+         <tg xml:lang="fin">
+            <t pos="V">sulaa hieman (esim. ruokapakasteesta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_885">
+      <lg>
+         <l pos="V">muálusluđ</l>
+      </lg>
+      <mg rest="muá'lusluVá">
+         <tg xml:lang="fin">
+            <t pos="V">sulaa rannasta (keväällä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_948">
+      <lg>
+         <l pos="V">njálmuđ</l>
+      </lg>
+      <mg rest="njáálmum">
+         <tg xml:lang="fin">
+            <t pos="V">keljuilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1142">
+      <lg>
+         <l pos="V">piŋidiđ</l>
+      </lg>
+      <mg rest="piiŋiid">
+         <tg xml:lang="fin">
+            <t pos="V">pihistä (huonosti palavasta tulesta)</t>
+         </tg>
+      </mg>
+   </e>
 </r>
