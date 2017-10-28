@@ -7364,7 +7364,7 @@
    </e>
    <e id="A_714">
       <lg>
-         <l _unknown_ pos="Adv">lađâsijn</l>
+         <l pos="Adv">lađâsijn</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7374,7 +7374,7 @@
    </e>
    <e id="A_715">
       <lg>
-         <l _unknown_ pos="Adv">lađâsist</l>
+         <l pos="Adv">lađâsist</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -17154,7 +17154,7 @@
    </e>
    <e id="A_1662">
       <lg>
-         <l _unknown_ pos="A">täbibâš</l>
+         <l pos="A">täbibâš</l>
       </lg>
       <mg rest="täbibáá">
          <tg xml:lang="fin">
@@ -17164,7 +17164,7 @@
    </e>
    <e id="A_1663">
       <lg>
-         <l _unknown_ pos="A">täbimuš</l>
+         <l pos="A">täbimuš</l>
       </lg>
       <mg rest="täbimuu">
          <tg xml:lang="fin">
@@ -19766,6 +19766,7 @@
             <t pos="N">kuollut</t>
          </tg>
       </mg>
+   </e>
    <e id="A_1907">
       <lg>
          <l status="_unknown_" pos="A">jäämithánnáá</l>
@@ -20286,19 +20287,20 @@
             <t pos="A">oleva</t>
             <t pos="A">sijaitseva</t>
          </tg>
-	<e id="A_1968">
-	  <lg>
-	     <l pos="A">orroo</l>
-	  </lg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">asuja</t>
-            <t pos="N">asukas</t>
-            <t pos="N">olija</t>
-         </tg>
       </mg>
    </e>
+   <e id="A_1968">
+    <lg>
+      <l pos="A">orroo</l>
+    </lg>
+    <mg rest="">
+      <tg xml:lang="fin">
+        <t pos="N">asuja</t>
+        <t pos="N">asukas</t>
+        <t pos="N">olija</t>
+      </tg>
+    </mg>
+  </e>
    <e id="A_1969">
       <lg>
          <l pos="A">oskotteijee</l>
@@ -20317,11 +20319,12 @@
          <tg xml:lang="fin">
             <t pos="A">lypsävä</t>
          </tg>
+      </mg>
+   </e>
 	<e id="A_1970">
 	 <lg>
 	 	<l pos="A">paččee</l>
 	 </lg>
-      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">lypsäjä</t>
