@@ -156,7 +156,7 @@
    </e>
    <e id="A_16">
       <lg>
-         <l pos="A">abstrakt</l>
+         <l status="_unknown_" pos="A">abstrakt</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -381,7 +381,7 @@
    </e>
    <e id="A_41">
       <lg>
-         <l pos="A">aldaaš</l>
+         <l status="_unknown_" pos="A">aldaaš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -412,7 +412,7 @@
    </e>
    <e id="A_45">
       <lg>
-         <l pos="A">aldemuš</l>
+         <l status="_known_as_N" pos="A">aldemuš</l>
       </lg>
       <mg rest="a'ldemuu">
          <tg xml:lang="fin">
@@ -633,7 +633,7 @@
    </e>
    <e id="A_67">
       <lg>
-         <l pos="A">ánulâs</l>
+         <l status="_unknown_" pos="A">ánulâs</l>
       </lg>
       <mg rest="ánulii">
          <tg xml:lang="fin">
@@ -794,7 +794,7 @@
    </e>
    <e id="A_81">
       <lg>
-         <l pos="A">árvuštellee</l>
+         <l status="_known_as_N" pos="A">árvuštellee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -854,7 +854,7 @@
    </e>
    <e id="A_85">
       <lg>
-         <l pos="A">ášáškuttum</l>
+         <l status="_unknown_" pos="A">ášáškuttum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -934,7 +934,7 @@
    </e>
    <e id="A_94">
       <lg>
-         <l pos="A">ávádum</l>
+         <l status="_unknown_" pos="A">ávádum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1138,7 +1138,7 @@
    </e>
    <e id="A_112">
       <lg>
-         <l pos="A">čálálâs</l>
+         <l status="_unknown_" pos="A">čálálâs</l>
       </lg>
       <mg rest="čálálii">
          <tg xml:lang="fin">
@@ -1224,7 +1224,7 @@
    </e>
    <e id="A_121">
       <lg>
-         <l pos="A">časkettim</l>
+         <l status="_unknown_" pos="A">časkettim</l>
       </lg>
       <mg rest="# ča'skettes">
          <tg xml:lang="fin">
@@ -1258,7 +1258,7 @@
    </e>
    <e id="A_124">
       <lg>
-         <l pos="A">ceggiistellee</l>
+         <l status="_known_as_N" pos="A">ceggiistellee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1289,7 +1289,7 @@
    </e>
    <e id="A_128">
       <lg>
-         <l pos="A">celkkimiättum</l>
+         <l status="_unknown_" pos="A">celkkimiättum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1336,7 +1336,7 @@
    </e>
    <e id="A_132">
       <lg>
-         <l pos="A">čiehčâlâs</l>
+         <l status="_unknown_" pos="A">čiehčâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1363,7 +1363,7 @@
    </e>
    <e id="A_135">
       <lg>
-         <l pos="A">čielgilâš</l>
+         <l status="_known_as_N" pos="A">čielgilâš</l>
       </lg>
       <mg rest="čielgilii">
          <tg xml:lang="fin">
@@ -1433,7 +1433,7 @@
    </e>
    <e id="A_142">
       <lg>
-         <l pos="A">cisâttum</l>
+         <l status="_unknown_" pos="A">cisâttum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1509,7 +1509,7 @@
    </e>
    <e id="A_155">
       <lg>
-         <l pos="A">čođâldittum</l>
+         <l status="_unknown_" pos="A">čođâldittum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1529,7 +1529,7 @@
    </e>
    <e id="A_157">
       <lg>
-         <l pos="A">cokkâneijee</l>
+         <l status="_known_as_N" pos="A">cokkâneijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1539,7 +1539,7 @@
    </e>
    <e id="A_159">
       <lg>
-         <l pos="A">čonnâsâm</l>
+         <l status="_unknown_" pos="A">čonnâsâm</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1570,7 +1570,7 @@
    </e>
    <e id="A_163">
       <lg>
-         <l pos="A">čoovčâš</l>
+         <l status="_unknown_" pos="A">čoovčâš</l>
       </lg>
       <mg rest="čovččii">
          <tg xml:lang="fin">
@@ -1580,7 +1580,7 @@
    </e>
    <e id="A_164">
       <lg>
-         <l attr="čovgis" pos="A">čovgâd</l>
+         <l attr="čovgis" status="_unknown_" pos="A">čovgâd</l>
       </lg>
       <mg rest="# čovgâ čo'vgis">
          <tg xml:lang="fin">
@@ -1698,7 +1698,7 @@
    </e>
    <e id="A_172">
       <lg>
-         <l pos="A">čuávdihánnáá</l>
+         <l status="_unknown_" pos="A">čuávdihánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -1758,7 +1758,7 @@
    </e>
    <e id="A_179">
       <lg>
-         <l pos="A">čuhčâdum</l>
+         <l status="_unknown_" pos="A">čuhčâdum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1793,7 +1793,7 @@
    </e>
    <e id="A_183">
       <lg>
-         <l pos="A">čuojâlâs</l>
+         <l status="_unknown_" pos="A">čuojâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1853,7 +1853,7 @@
    </e>
    <e id="A_190">
       <lg>
-         <l pos="A">čuovvâdâs</l>
+         <l status="_unknown_" pos="A">čuovvâdâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1899,7 +1899,7 @@
    </e>
    <e id="A_193">
       <lg>
-         <l pos="A">čurgiihánnáá</l>
+         <l status="_unknown_" pos="A">čurgiihánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -1910,7 +1910,7 @@
    </e>
    <e id="A_194">
       <lg>
-         <l pos="A">čurvolâs</l>
+         <l status="_unknown_" pos="A">čurvolâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2009,7 +2009,7 @@
    </e>
    <e id="A_203">
       <lg>
-         <l pos="A">čäcijuhâlâs</l>
+         <l status="_unknown_" pos="A">čäcijuhâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2084,7 +2084,7 @@
    </e>
    <e id="A_211">
       <lg>
-         <l pos="A">eđâbiššááš</l>
+         <l status="_unknown_" pos="A">eđâbiššááš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2094,7 +2094,7 @@
    </e>
    <e id="A_212">
       <lg>
-         <l pos="A">eđâmus</l>
+         <l status="_unknown_" pos="A">eđâmus</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2254,7 +2254,7 @@
    </e>
    <e id="A_229">
       <lg>
-         <l pos="A">ekvivalenttâ</l>
+         <l attr="ekvivalent" pos="A">ekvivalenttâ</l>
       </lg>
       <mg rest="ekvivaleentâ">
          <tg xml:lang="fin">
@@ -2372,7 +2372,7 @@
    </e>
    <e id="A_243">
       <lg>
-         <l attr="epinjuolgâdis" pos="A">epinjuolgâd</l>
+         <l attr="epinjuolgâ" pos="A">epinjuolgâd</l>
       </lg>
       <mg rest="# epinjuol'gâ">
          <tg xml:lang="fin">
@@ -2709,7 +2709,7 @@
    </e>
    <e id="A_278">
       <lg>
-         <l pos="A">fámuttim</l>
+         <l status="_unknown_" pos="A">fámuttim</l>
       </lg>
       <mg rest="# fámuttis fámuttemes">
          <tg xml:lang="fin">
@@ -2985,7 +2985,7 @@
    </e>
    <e id="A_303">
       <lg>
-         <l pos="A">globaal</l>
+         <l status="_unknown_" pos="A">globaal</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2995,7 +2995,7 @@
    </e>
    <e id="A_304">
       <lg>
-         <l pos="A">gloobaal</l>
+         <l status="_unknown_" pos="A">gloobaal</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3005,7 +3005,7 @@
    </e>
    <e id="A_305">
       <lg>
-         <l pos="A">gluuteenttem</l>
+         <l attr="gluuteenttes;gluuteenttemes" pos="A">gluuteenttem</l>
       </lg>
       <mg rest="# -es">
          <tg xml:lang="fin">
@@ -3183,7 +3183,7 @@
    </e>
    <e id="A_319">
       <lg>
-         <l pos="A">hárjánâm</l>
+         <l status="_unknown_" pos="A">hárjánâm</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3215,7 +3215,7 @@
    </e>
    <e id="A_322">
       <lg>
-         <l pos="A">hástálâs</l>
+         <l status="_unknown_" pos="A">hástálâs</l>
       </lg>
       <mg rest="hástálii">
          <tg xml:lang="fin">
@@ -3235,7 +3235,7 @@
    </e>
    <e id="A_324">
       <lg>
-         <l pos="A">háváduvâš</l>
+         <l status="_unknown_" pos="A">háváduvâš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3255,7 +3255,7 @@
    </e>
    <e id="A_326">
       <lg>
-         <l pos="A">heeitâg</l>
+         <l status="_unknown_" pos="A">heeitâg</l>
       </lg>
       <mg rest="heittâg # heitâgis">
          <tg xml:lang="fin">
@@ -3323,7 +3323,7 @@
    </e>
    <e id="A_332">
       <lg>
-         <l pos="A">heeppâdtem</l>
+         <l status="_unknown_" pos="A">heeppâdtem</l>
       </lg>
       <mg rest="# heeppâdtemes">
          <tg xml:lang="fin">
@@ -3333,7 +3333,7 @@
    </e>
    <e id="A_333">
       <lg>
-         <l pos="A">helppiittum</l>
+         <l status="_unknown_" pos="A">helppiittum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3543,7 +3543,7 @@
    </e>
    <e id="A_352">
       <lg>
-         <l pos="A">hiälpáskâm</l>
+         <l status="_unknown_" pos="A">hiälpáskâm</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3563,7 +3563,7 @@
    </e>
    <e id="A_354">
       <lg>
-         <l pos="A">hiälpub</l>
+         <l status="_known_as_Adv" pos="A">hiälpub</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3573,7 +3573,7 @@
    </e>
    <e id="A_355">
       <lg>
-         <l pos="A">hiälpubiššááš</l>
+         <l status="_unknown_" pos="A">hiälpubiššááš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3861,7 +3861,7 @@
    </e>
    <e id="A_377">
       <lg>
-         <l pos="A">hutolâs</l>
+         <l status="_unknown_" pos="A">hutolâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3881,7 +3881,7 @@
    </e>
    <e id="A_379">
       <lg>
-         <l pos="A">hyenesšlaajâg</l>
+         <l status="_unknown_" pos="A">hyenesšlaajâg</l>
       </lg>
       <mg rest="# -šlajâgis">
          <tg xml:lang="fin">
@@ -3946,7 +3946,7 @@
    </e>
    <e id="A_385">
       <lg>
-         <l pos="A">hänis</l>
+         <l status="_unknown_" pos="A">hänis</l>
       </lg>
       <mg rest="háánnás # hänis hänes">
          <tg xml:lang="fin">
@@ -4028,7 +4028,7 @@
    </e>
    <e id="A_392">
       <lg>
-         <l pos="A">ibles</l>
+         <l status="_unknown_" pos="A">ibles</l>
       </lg>
       <mg rest="iblá # ibláás">
          <tg xml:lang="fin">
@@ -4458,7 +4458,7 @@
    </e>
    <e id="A_433">
       <lg>
-         <l pos="A">iästuttes</l>
+         <l status="_unknown_" pos="A">iästuttes</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4529,7 +4529,7 @@
    </e>
    <e id="A_440">
       <lg>
-         <l pos="A">jáámmám</l>
+         <l status="_unknown_" pos="A">jáámmám</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4779,7 +4779,7 @@
    </e>
    <e id="A_468">
       <lg>
-         <l pos="A">jiešvises</l>
+         <l status="_unknown_" pos="A">jiešvises</l>
       </lg>
       <mg rest="-vissás">
          <tg xml:lang="fin">
@@ -4961,7 +4961,7 @@
    </e>
    <e id="A_487">
       <lg>
-         <l pos="A">juárbudekes</l>
+         <l status="_unknown_" pos="A">juárbudekes</l>
       </lg>
       <mg rest="juá'rbudiäk'ká">
          <tg xml:lang="fin">
@@ -5019,7 +5019,7 @@
    </e>
    <e id="A_492">
       <lg>
-         <l pos="A">juhâlâs</l>
+         <l status="_unknown_" pos="A">juhâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5118,7 +5118,7 @@
    </e>
    <e id="A_501">
       <lg>
-         <l attr="jurbâdis" pos="A">jurbâd</l>
+         <l attr="jurbâ" pos="A">jurbâd</l>
       </lg>
       <mg rest="# jurbâ-">
          <tg xml:lang="fin">
@@ -5163,7 +5163,7 @@
    </e>
    <e id="A_505">
       <lg>
-         <l pos="A">juvâhánnáá</l>
+         <l status="_unknown_" pos="A">juvâhánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -5173,7 +5173,7 @@
    </e>
    <e id="A_506">
       <lg>
-         <l pos="A">jyehi-ivvááš</l>
+         <l status="_unknown_" pos="A">jyehi-ivvááš</l>
       </lg>
       <mg rest="-ivváá">
          <tg xml:lang="fin">
@@ -5204,7 +5204,7 @@
    </e>
    <e id="A_510">
       <lg>
-         <l pos="A">jyehipiäiváš</l>
+         <l status="_unknown_" pos="A">jyehipiäiváš</l>
       </lg>
       <mg rest="-piä'váá">
          <tg xml:lang="fin">
@@ -5229,7 +5229,7 @@
    </e>
    <e id="A_512">
       <lg>
-         <l pos="A">jyevihánnáá</l>
+         <l status="_unknown_" pos="A">jyevihánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -5239,7 +5239,7 @@
    </e>
    <e id="A_513">
       <lg>
-         <l pos="A">jämihánnáá</l>
+         <l status="_unknown_" pos="A">jämihánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -5259,7 +5259,7 @@
    </e>
    <e id="A_515">
       <lg>
-         <l pos="A">jävildum</l>
+         <l status="_unknown_" pos="A">jävildum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5269,7 +5269,7 @@
    </e>
    <e id="A_517">
       <lg>
-         <l pos="A">jäävvillum</l>
+         <l status="_unknown_" pos="A">jäävvillum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5279,7 +5279,7 @@
    </e>
    <e id="A_518">
       <lg>
-         <l pos="A">kaabelttes</l>
+         <l status="_unknown_" pos="A">kaabelttes</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5524,7 +5524,7 @@
    </e>
    <e id="A_545">
       <lg>
-         <l pos="A">keejâthánnáá</l>
+         <l status="_unknown_" pos="A">keejâthánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -5544,7 +5544,7 @@
    </e>
    <e id="A_547">
       <lg>
-         <l pos="A">kehnittis</l>
+         <l status="_unknown_" pos="A">kehnittis</l>
       </lg>
       <mg rest="# ke'hnittis -es">
          <tg xml:lang="fin">
@@ -5634,7 +5634,7 @@
    </e>
    <e id="A_557">
       <lg>
-         <l pos="A">kevhi</l>
+         <l status="_unknown_" pos="A">kevhi</l>
       </lg>
       <mg rest="# ke'vhis">
          <tg xml:lang="fin">
@@ -5674,7 +5674,7 @@
    </e>
    <e id="A_560">
       <lg>
-         <l pos="A">kiddâdum</l>
+         <l status="_unknown_" pos="A">kiddâdum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5846,7 +5846,7 @@
    </e>
    <e id="A_576">
       <lg>
-         <l pos="A">kiiđâš</l>
+         <l status="_unknown_" pos="A">kiiđâš</l>
       </lg>
       <mg rest="kiđđii">
          <tg xml:lang="fin">
@@ -5927,7 +5927,7 @@
    </e>
    <e id="A_584">
       <lg>
-         <l pos="A">killájeijee</l>
+         <l status="_known_as_N" pos="A">killájeijee</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -5993,7 +5993,7 @@
    </e>
    <e id="A_590">
       <lg>
-         <l pos="A">kirjettum</l>
+         <l status="_unknown_" pos="A">kirjettum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -6033,7 +6033,7 @@
    </e>
    <e id="A_595">
       <lg>
-         <l pos="A">kiähnu</l>
+         <l status="_unknown_" pos="A">kiähnu</l>
       </lg>
       <mg rest="kiähnu # kiä'hnus">
          <tg xml:lang="fin">
@@ -6069,7 +6069,7 @@
    </e>
    <e id="A_598">
       <lg>
-         <l pos="A">kiälbuttim</l>
+         <l status="_unknown_" pos="A">kiälbuttim</l>
       </lg>
       <mg rest="# kiä'lbuttis kiä'lbuttes">
          <tg xml:lang="fin">
@@ -6130,7 +6130,7 @@
    </e>
    <e id="A_608">
       <lg>
-         <l pos="A">kolledum</l>
+         <l status="_unknown_" pos="A">kolledum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -6200,7 +6200,7 @@
    </e>
    <e id="A_615">
       <lg>
-         <l attr="koidâ;koidâs" pos="A">kooidâs</l>
+         <l attr="koidâ" pos="A">kooidâs</l>
       </lg>
       <mg rest="koidâs # koidâ ko'idâs">
          <tg xml:lang="fin">
@@ -6226,7 +6226,7 @@
    </e>
    <e id="A_617">
       <lg>
-         <l pos="A">koopšâs</l>
+         <l status="_unknown_" pos="A">koopšâs</l>
       </lg>
       <mg rest="kopšâs">
          <tg xml:lang="fin">
@@ -6501,7 +6501,7 @@
    </e>
    <e id="A_648">
       <lg>
-         <l pos="A">kuálkki</l>
+         <l status="_known_as_N" pos="A">kuálkki</l>
       </lg>
       <mg rest="kuálhi # kuá'lhis">
          <tg xml:lang="fin">
@@ -6581,7 +6581,7 @@
    </e>
    <e id="A_655">
       <lg>
-         <l pos="A">kuástis</l>
+         <l status="_unknown_" pos="A">kuástis</l>
       </lg>
       <mg rest="kuás'tá # kuás'ti-">
          <tg xml:lang="fin">
@@ -6666,7 +6666,7 @@
    </e>
    <e id="A_664">
       <lg>
-         <l pos="A">kuhesmielâlii</l>
+         <l status="_unknown_" pos="A">kuhesmielâlii</l>
       </lg>
       <mg rest="-mie'lâlii">
          <tg xml:lang="fin">
@@ -6712,7 +6712,7 @@
    </e>
    <e id="A_668">
       <lg>
-         <l pos="A">kukkee</l>
+         <l status="_unknown_" pos="A">kukkee</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -6732,7 +6732,7 @@
    </e>
    <e id="A_671">
       <lg>
-         <l pos="A">kulâjâš</l>
+         <l status="_known_as_N" pos="A">kulâjâš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -6825,7 +6825,7 @@
    </e>
    <e id="A_680">
       <lg>
-         <l pos="A">kuodduustuvvâš</l>
+         <l status="_unknown_" pos="A">kuodduustuvvâš</l>
       </lg>
       <mg rest="kuod'duustuvvii">
          <tg xml:lang="fin">
@@ -6835,7 +6835,7 @@
    </e>
    <e id="A_681">
       <lg>
-         <l pos="A">kuoirâm</l>
+         <l status="_known_as_N" pos="A">kuoirâm</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -6845,7 +6845,7 @@
    </e>
    <e id="A_682">
       <lg>
-         <l attr="kuoirâ" pos="A">kuoirâs</l>
+         <l attr="kuoirâ" status="_unknown_" pos="A">kuoirâs</l>
       </lg>
       <mg rest="kuoi'râs # kuoi'râ">
          <tg xml:lang="fin">
@@ -6915,7 +6915,7 @@
    </e>
    <e id="A_688">
       <lg>
-         <l pos="A">kuvdâlâs</l>
+         <l status="_unknown_" pos="A">kuvdâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7040,7 +7040,7 @@
    </e>
    <e id="A_699">
       <lg>
-         <l pos="A">käcci</l>
+         <l status="_unknown_" pos="A">käcci</l>
       </lg>
       <mg rest="kääci # käcis">
          <tg xml:lang="fin">
@@ -7055,7 +7055,7 @@
    </e>
    <e id="A_700">
       <lg>
-         <l pos="A">kähvijuhâlâs</l>
+         <l status="_unknown_" pos="A">kähvijuhâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7096,7 +7096,7 @@
    </e>
    <e id="A_705">
       <lg>
-         <l pos="A">käähvijuhâlâs</l>
+         <l status="_unknown_" pos="A">käähvijuhâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7187,7 +7187,7 @@
    </e>
    <e id="A_720">
       <lg>
-         <l pos="A">lakkaahánnáá</l>
+         <l status="_unknown_" pos="A">lakkaahánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -7207,7 +7207,7 @@
    </e>
    <e id="A_723">
       <lg>
-         <l pos="A">lapsum</l>
+         <l status="_unknown_" pos="A">lapsum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7217,7 +7217,7 @@
    </e>
    <e id="A_724">
       <lg>
-         <l attr="láskunjuolgâdis" pos="A">láskunjuolgâd</l>
+         <l attr="láskunjuolgâ" pos="A">láskunjuolgâd</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7253,7 +7253,7 @@
    </e>
    <e id="A_728">
       <lg>
-         <l pos="A">lavâlistum</l>
+         <l status="_unknown_" pos="A">lavâlistum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7273,7 +7273,7 @@
    </e>
    <e id="A_730">
       <lg>
-         <l pos="A">leehâsthánnáá</l>
+         <l status="_unknown_" pos="A">leehâsthánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -7294,7 +7294,7 @@
    </e>
    <e id="A_732">
       <lg>
-         <l pos="A">lehâhánnáá</l>
+         <l status="_unknown_" pos="A">lehâhánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -7324,7 +7324,7 @@
    </e>
    <e id="A_735">
       <lg>
-         <l pos="A">lieđvi</l>
+         <l status="_unknown_" pos="A">lieđvi</l>
       </lg>
       <mg rest="lieđvi # lie'đvis">
          <tg xml:lang="fin">
@@ -7369,7 +7369,7 @@
    </e>
    <e id="A_742">
       <lg>
-         <l pos="A">lijgešoddâm</l>
+         <l status="_known_as_N" pos="A">lijgešoddâm</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7424,7 +7424,7 @@
    </e>
    <e id="A_746">
       <lg>
-         <l pos="A">livtes</l>
+         <l status="_unknown_" pos="A">livtes</l>
       </lg>
       <mg rest="lihtás">
          <tg xml:lang="fin">
@@ -7665,7 +7665,7 @@
    </e>
    <e id="A_769">
       <lg>
-         <l pos="A">luátis</l>
+         <l status="_unknown_" pos="A">luátis</l>
       </lg>
       <mg rest="luát'tá">
          <tg xml:lang="fin">
@@ -7700,7 +7700,7 @@
    </e>
    <e id="A_772">
       <lg>
-         <l pos="A">luážži</l>
+         <l status="_known_as_N" pos="A">luážži</l>
       </lg>
       <mg rest="luáži # luá'žis">
          <tg xml:lang="fin">
@@ -7782,7 +7782,7 @@
    </e>
    <e id="A_781">
       <lg>
-         <l pos="A">lyeddejum</l>
+         <l status="_unknown_" pos="A">lyeddejum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7838,7 +7838,7 @@
    </e>
    <e id="A_786">
       <lg>
-         <l pos="A">lävvid</l>
+         <l status="_known_as_N" pos="A">lävvid</l>
       </lg>
       <mg rest="# läVidis -âs">
          <tg xml:lang="fin">
@@ -7865,7 +7865,7 @@
    </e>
    <e id="A_789">
       <lg>
-         <l pos="A">läätis</l>
+         <l status="_unknown_" pos="A">läätis</l>
       </lg>
       <mg rest="láttá # lätis">
          <tg xml:lang="fin">
@@ -7896,7 +7896,7 @@
    </e>
    <e id="A_793">
       <lg>
-         <l pos="A">mááinuh</l>
+         <l status="_unknown_" pos="A">mááinuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7911,7 +7911,7 @@
    </e>
    <e id="A_794">
       <lg>
-         <l pos="A">maaizâs</l>
+         <l status="_known_as_N" pos="A">maaizâs</l>
       </lg>
       <mg rest="maizâs">
          <tg xml:lang="fin">
@@ -8088,7 +8088,7 @@
    </e>
    <e id="A_813">
       <lg>
-         <l pos="A">majebáš</l>
+         <l status="_unknown_" pos="A">majebáš</l>
       </lg>
       <mg rest="majebáá">
          <tg xml:lang="fin">
@@ -8119,7 +8119,7 @@
    </e>
    <e id="A_818">
       <lg>
-         <l pos="A">máksupeivittem</l>
+         <l status="_known_as_N" pos="A">máksupeivittem</l>
       </lg>
       <mg rest="# -pe'ivittes">
          <tg xml:lang="fin">
@@ -8201,7 +8201,7 @@
    </e>
    <e id="A_825">
       <lg>
-         <l pos="A">maŋebáš</l>
+         <l status="_unknown_" pos="A">maŋebáš</l>
       </lg>
       <mg rest="maŋebáá">
          <tg xml:lang="fin">
@@ -8382,7 +8382,7 @@
    </e>
    <e id="A_845">
       <lg>
-         <l pos="A">meridum</l>
+         <l status="_unknown_" pos="A">meridum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -8430,7 +8430,7 @@
    </e>
    <e id="A_849">
       <lg>
-         <l pos="A">mieđetteijee</l>
+         <l status="_known_as_N" pos="A">mieđetteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -8450,7 +8450,7 @@
    </e>
    <e id="A_851">
       <lg>
-         <l attr="mielâkiddiivis" pos="A">mielâkiddiivâš</l>
+         <l attr="mielâkiddiivâš" pos="A">mielâkiddiivâš</l>
       </lg>
       <mg rest="-kiddiiváá">
          <tg xml:lang="fin">
@@ -8460,7 +8460,7 @@
    </e>
    <e id="A_852">
       <lg>
-         <l pos="A">mielâlii</l>
+         <l status="_unknown_" pos="A">mielâlii</l>
       </lg>
       <mg rest="mie'lâlii">
          <tg xml:lang="fin">
@@ -8939,7 +8939,7 @@
    </e>
    <e id="A_907">
       <lg>
-         <l pos="A">murrâšlâš</l>
+         <l status="_unknown_" pos="A">murrâšlâš</l>
       </lg>
       <mg rest="muurrâšlii">
          <tg xml:lang="fin">
@@ -9056,7 +9056,7 @@
    </e>
    <e id="A_921">
       <lg>
-         <l pos="A">najâhánnáá</l>
+         <l status="_unknown_" pos="A">najâhánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -9076,7 +9076,7 @@
    </e>
    <e id="A_923">
       <lg>
-         <l pos="A">nakkanttim</l>
+         <l status="_unknown_" pos="A">nakkanttim</l>
       </lg>
       <mg rest="# -es">
          <tg xml:lang="fin">
@@ -9128,7 +9128,7 @@
    </e>
    <e id="A_927">
       <lg>
-         <l pos="A">navalâm</l>
+         <l status="_unknown_" pos="A">navalâm</l>
       </lg>
       <mg rest="páljás # päljis">
          <tg xml:lang="fin">
@@ -9158,7 +9158,7 @@
    </e>
    <e id="A_930">
       <lg>
-         <l pos="A">neetâs</l>
+         <l status="_unknown_" pos="A">neetâs</l>
       </lg>
       <mg rest="# nettâ">
          <tg xml:lang="fin">
@@ -9179,7 +9179,7 @@
    </e>
    <e id="A_932">
       <lg>
-         <l pos="A">nievri</l>
+         <l status="_unknown_" pos="A">nievri</l>
       </lg>
       <mg rest="nievri # nie'vris">
          <tg xml:lang="fin">
@@ -9189,7 +9189,7 @@
    </e>
    <e id="A_933">
       <lg>
-         <l pos="A">nievrismielâlii</l>
+         <l status="_unknown_" pos="A">nievrismielâlii</l>
       </lg>
       <mg rest="-mie'lâlii">
          <tg xml:lang="fin">
@@ -9269,7 +9269,7 @@
    </e>
    <e id="A_941">
       <lg>
-         <l pos="A">njaalgâsiähá</l>
+         <l status="_unknown_" pos="A">njaalgâsiähá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -9485,7 +9485,7 @@
    </e>
    <e id="A_967">
       <lg>
-         <l attr="njuolgâdis" pos="A">njuolgâd</l>
+         <l attr="njuolgâ" pos="A">njuolgâd</l>
       </lg>
       <mg rest="# njuol'gâ">
          <tg xml:lang="fin">
@@ -9520,7 +9520,7 @@
    </e>
    <e id="A_971">
       <lg>
-         <l pos="A">njuorâdeijee</l>
+         <l status="_known_as_N" pos="A">njuorâdeijee</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -9571,7 +9571,7 @@
    </e>
    <e id="A_975">
       <lg>
-         <l pos="A">njyeijil</l>
+         <l status="_unknown_" pos="A">njyeijil</l>
       </lg>
       <mg rest="# njye'jilis">
          <tg xml:lang="fin">
@@ -9581,7 +9581,7 @@
    </e>
    <e id="A_976">
       <lg>
-         <l pos="A">njäälmmieldlemnim</l>
+         <l status="_unknown_" pos="A">njäälmmieldlemnim</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -9668,7 +9668,7 @@
    </e>
    <e id="A_987">
       <lg>
-         <l pos="A">nubbááš</l>
+         <l status="_unknown_" pos="A">nubbááš</l>
       </lg>
       <mg rest="nubbáá">
          <tg xml:lang="fin">
@@ -9766,7 +9766,7 @@
    </e>
    <e id="A_999">
       <lg>
-         <l pos="A">nyeli</l>
+         <l status="_unknown_" pos="A">nyeli</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -9802,7 +9802,7 @@
    </e>
    <e id="A_1001">
       <lg>
-         <l pos="A">nyeskidum</l>
+         <l status="_unknown_" pos="A">nyeskidum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -9812,7 +9812,7 @@
    </e>
    <e id="A_1002">
       <lg>
-         <l pos="A">näggejeijee</l>
+         <l status="_known_as_N" pos="A">näggejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -9965,7 +9965,7 @@
    </e>
    <e id="A_1018">
       <lg>
-         <l pos="A">ollâgub</l>
+         <l status="_unknown_" pos="A">ollâgub</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -10119,7 +10119,7 @@
    </e>
    <e id="A_1033">
       <lg>
-         <l pos="A">oovdemuš</l>
+         <l status="_unknown_" pos="A">oovdemuš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -10321,7 +10321,7 @@
    </e>
    <e id="A_1054">
       <lg>
-         <l pos="A">oppâm</l>
+         <l status="_known_as_N" pos="A">oppâm</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -10358,7 +10358,7 @@
    </e>
    <e id="A_1057">
       <lg>
-         <l pos="A">ornijduuhánnáá</l>
+         <l status="_unknown_" pos="A">ornijduuhánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -10487,7 +10487,7 @@
    </e>
    <e id="A_1072">
       <lg>
-         <l pos="A">ovdâsteijeevâš</l>
+         <l status="_unknown_" pos="A">ovdâsteijeevâš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -10517,7 +10517,7 @@
    </e>
    <e id="A_1075">
       <lg>
-         <l pos="A">ovdebáš</l>
+         <l status="_unknown_" pos="A">ovdebáš</l>
       </lg>
       <mg rest="o'vdebáá">
          <tg xml:lang="fin">
@@ -10563,7 +10563,7 @@
    </e>
    <e id="A_1080">
       <lg>
-         <l pos="A">ovtâstittum</l>
+         <l status="_unknown_" pos="A">ovtâstittum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -10629,7 +10629,7 @@
    </e>
    <e id="A_1088">
       <lg>
-         <l pos="A">paattum</l>
+         <l status="_known_as_N" pos="A">paattum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -10781,7 +10781,7 @@
    </e>
    <e id="A_1106">
       <lg>
-         <l pos="A">parfe</l>
+         <l status="_unknown_" pos="A">parfe</l>
       </lg>
       <mg rest="-) pa'rfe">
          <tg xml:lang="fin">
@@ -10857,7 +10857,7 @@
    </e>
    <e id="A_1113">
       <lg>
-         <l pos="A">párudeijee</l>
+         <l status="_known_as_N" pos="A">párudeijee</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -10933,7 +10933,7 @@
    </e>
    <e id="A_1119">
       <lg>
-         <l pos="A">pegâlmâs</l>
+         <l status="_unknown_" pos="A">pegâlmâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -10953,7 +10953,7 @@
    </e>
    <e id="A_1121">
       <lg>
-         <l pos="A">peittum</l>
+         <l status="_unknown_" pos="A">peittum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -11015,7 +11015,7 @@
    </e>
    <e id="A_1130">
       <lg>
-         <l pos="A">piccum</l>
+         <l status="_unknown_" pos="A">piccum</l>
       </lg>
       <mg rest="piccuum piccoo">
          <tg xml:lang="fin">
@@ -11090,7 +11090,7 @@
    </e>
    <e id="A_1137">
       <lg>
-         <l pos="A">pilláá</l>
+         <l status="_known_as_Adv" pos="A">pilláá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -11116,7 +11116,7 @@
    </e>
    <e id="A_1139">
       <lg>
-         <l pos="A">pilledeijee</l>
+         <l status="_known_as_N" pos="A">pilledeijee</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -11182,7 +11182,7 @@
    </e>
    <e id="A_1147">
       <lg>
-         <l pos="A">pivâstum</l>
+         <l status="_unknown_" pos="A">pivâstum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -11297,7 +11297,7 @@
    </e>
    <e id="A_1157">
       <lg>
-         <l pos="A">ponemuš</l>
+         <l status="_unknown_" pos="A">ponemuš</l>
       </lg>
       <mg rest="poNemuu">
          <tg xml:lang="fin">
@@ -11337,7 +11337,7 @@
    </e>
    <e id="A_1162">
       <lg>
-         <l pos="A">poođâmieldlemnim</l>
+         <l status="_known_as_N" pos="A">poođâmieldlemnim</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -11368,7 +11368,7 @@
    </e>
    <e id="A_1165">
       <lg>
-         <l pos="A">pooliš</l>
+         <l status="_unknown_" pos="A">pooliš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -11378,7 +11378,7 @@
    </e>
    <e id="A_1166">
       <lg>
-         <l pos="A">poonjeel</l>
+         <l status="_unknown_" pos="A">poonjeel</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -11408,7 +11408,7 @@
    </e>
    <e id="A_1168">
       <lg>
-         <l pos="A">poovčâs</l>
+         <l status="_known_as_N" pos="A">poovčâs</l>
       </lg>
       <mg rest="pohčâs">
          <tg xml:lang="fin">
@@ -11728,7 +11728,7 @@
    </e>
    <e id="A_1203">
       <lg>
-         <l pos="A">puosâh</l>
+         <l status="_unknown_" pos="A">puosâh</l>
       </lg>
       <mg rest="# puo'sâhis">
          <tg xml:lang="fin">
@@ -11778,7 +11778,7 @@
    </e>
    <e id="A_1208">
       <lg>
-         <l pos="A">puunjij</l>
+         <l status="_unknown_" pos="A">puunjij</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -11854,7 +11854,7 @@
    </e>
    <e id="A_1216">
       <lg>
-         <l pos="A">pyeši</l>
+         <l status="_unknown_" pos="A">pyeši</l>
       </lg>
       <mg rest="pyeši pye'šis">
          <tg xml:lang="fin">
@@ -11894,7 +11894,7 @@
    </e>
    <e id="A_1221">
       <lg>
-         <l pos="A">pälgisliäkkoo</l>
+         <l status="_known_as_N" pos="A">pälgisliäkkoo</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -11914,7 +11914,7 @@
    </e>
    <e id="A_1223">
       <lg>
-         <l pos="A">pälhittes</l>
+         <l status="_unknown_" pos="A">pälhittes</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -11934,7 +11934,7 @@
    </e>
    <e id="A_1226">
       <lg>
-         <l pos="A">päris</l>
+         <l status="_unknown_" pos="A">päris</l>
       </lg>
       <mg rest="páárrás páárrâs # päris päres">
          <tg xml:lang="fin">
@@ -12141,7 +12141,7 @@
    </e>
    <e id="A_1245">
       <lg>
-         <l pos="A">rájášum</l>
+         <l status="_unknown_" pos="A">rájášum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -12171,7 +12171,7 @@
    </e>
    <e id="A_1248">
       <lg>
-         <l pos="A">ranttu</l>
+         <l status="_unknown_" pos="A">ranttu</l>
       </lg>
       <mg rest="raantu # ranttuus ra'ntus">
          <tg xml:lang="fin">
@@ -12259,7 +12259,7 @@
    </e>
    <e id="A_1255">
       <lg>
-         <l pos="A">rávhuidittum</l>
+         <l status="_unknown_" pos="A">rávhuidittum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -12299,7 +12299,7 @@
    </e>
    <e id="A_1259">
       <lg>
-         <l pos="A">ravžâ</l>
+         <l status="_unknown_" pos="A">ravžâ</l>
       </lg>
       <mg rest="raavžâ">
          <tg xml:lang="fin">
@@ -12330,7 +12330,7 @@
    </e>
    <e id="A_1263">
       <lg>
-         <l pos="A">ričče</l>
+         <l status="_unknown_" pos="A">ričče</l>
       </lg>
       <mg rest="riče">
          <tg xml:lang="fin">
@@ -12471,7 +12471,7 @@
    </e>
    <e id="A_1278">
       <lg>
-         <l pos="A">risthâs</l>
+         <l status="_unknown_" pos="A">risthâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -12481,7 +12481,7 @@
    </e>
    <e id="A_1280">
       <lg>
-         <l pos="A">robdâmuš</l>
+         <l status="_unknown_" pos="A">robdâmuš</l>
       </lg>
       <mg rest="ro'bdâmuu">
          <tg xml:lang="fin">
@@ -12643,7 +12643,7 @@
    </e>
    <e id="A_1299">
       <lg>
-         <l pos="A">ruásmuttum</l>
+         <l status="_unknown_" pos="A">ruásmuttum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -12653,7 +12653,7 @@
    </e>
    <e id="A_1300">
       <lg>
-         <l pos="A">ruástum</l>
+         <l status="_known_as_N" pos="A">ruástum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -12754,7 +12754,7 @@
    </e>
    <e id="A_1310">
       <lg>
-         <l pos="A">ruoinâm</l>
+         <l status="_known_as_N" pos="A">ruoinâm</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -12897,7 +12897,7 @@
    </e>
    <e id="A_1331">
       <lg>
-         <l pos="A">räägis</l>
+         <l status="_unknown_" pos="A">räägis</l>
       </lg>
       <mg rest="rággá # rägis">
          <tg xml:lang="fin">
@@ -12970,7 +12970,7 @@
    </e>
    <e id="A_1337">
       <lg>
-         <l pos="A">šadottes</l>
+         <l status="_unknown_" pos="A">šadottes</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -12995,7 +12995,7 @@
    </e>
    <e id="A_1339">
       <lg>
-         <l pos="A">saivâ</l>
+         <l status="_unknown_" pos="A">saivâ</l>
       </lg>
       <mg rest="saaivâ">
          <tg xml:lang="fin">
@@ -13035,7 +13035,7 @@
    </e>
    <e id="A_1344">
       <lg>
-         <l pos="A">sannjii</l>
+         <l status="_unknown_" pos="A">sannjii</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -13101,7 +13101,7 @@
    </e>
    <e id="A_1352">
       <lg>
-         <l pos="A">seeli</l>
+         <l status="_unknown_" pos="A">seeli</l>
       </lg>
       <mg rest="sele # seles">
          <tg xml:lang="fin">
@@ -13143,7 +13143,7 @@
    </e>
    <e id="A_1357">
       <lg>
-         <l pos="A">seles</l>
+         <l status="_unknown_" pos="A">seles</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -13276,7 +13276,7 @@
    </e>
    <e id="A_1372">
       <lg>
-         <l pos="A">sierâmielâlii</l>
+         <l status="_unknown_" pos="A">sierâmielâlii</l>
       </lg>
       <mg rest="-mie'lâlii">
          <tg xml:lang="fin">
@@ -13311,7 +13311,7 @@
    </e>
    <e id="A_1375">
       <lg>
-         <l pos="A">sierrejum</l>
+         <l status="_unknown_" pos="A">sierrejum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -13363,7 +13363,7 @@
    </e>
    <e id="A_1380">
       <lg>
-         <l pos="A">šievmielâlii</l>
+         <l status="_unknown_" pos="A">šievmielâlii</l>
       </lg>
       <mg rest="-mie'lâlii">
          <tg xml:lang="fin">
@@ -13480,7 +13480,7 @@
    </e>
    <e id="A_1389">
       <lg>
-         <l pos="A">siskelub</l>
+         <l status="_unknown_" pos="A">siskelub</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -13520,7 +13520,7 @@
    </e>
    <e id="A_1393">
       <lg>
-         <l pos="A">siähá</l>
+         <l status="_unknown_" pos="A">siähá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -13545,7 +13545,7 @@
    </e>
    <e id="A_1396">
       <lg>
-         <l pos="A">siämmáááigásâš</l>
+         <l status="_unknown_" pos="A">siämmáááigásâš</l>
       </lg>
       <mg rest="-áigásii">
          <tg xml:lang="fin">
@@ -13697,7 +13697,7 @@
    </e>
    <e id="A_1411">
       <lg>
-         <l pos="A">skeerčâ</l>
+         <l status="_unknown_" pos="A">skeerčâ</l>
       </lg>
       <mg rest="# ske'rčâ">
          <tg xml:lang="fin">
@@ -13757,7 +13757,7 @@
    </e>
    <e id="A_1418">
       <lg>
-         <l pos="A">skolmo</l>
+         <l status="_unknown_" pos="A">skolmo</l>
       </lg>
       <mg rest="sko'lmo">
          <tg xml:lang="fin">
@@ -13863,7 +13863,7 @@
    </e>
    <e id="A_1430">
       <lg>
-         <l pos="A">smiäru</l>
+         <l status="_unknown_" pos="A">smiäru</l>
       </lg>
       <mg rest="smiäru # smiä'rus">
          <tg xml:lang="fin">
@@ -13966,7 +13966,7 @@
    </e>
    <e id="A_1436">
       <lg>
-         <l pos="A">šohânum</l>
+         <l status="_unknown_" pos="A">šohânum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -14069,7 +14069,7 @@
    </e>
    <e id="A_1447">
       <lg>
-         <l pos="A">soovđâs</l>
+         <l status="_unknown_" pos="A">soovđâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -14175,7 +14175,7 @@
    </e>
    <e id="A_1457">
       <lg>
-         <l pos="A">sovđâlum</l>
+         <l status="_unknown_" pos="A">sovđâlum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -14237,7 +14237,7 @@
    </e>
    <e id="A_1463">
       <lg>
-         <l pos="A">sraŋgâttes</l>
+         <l status="_unknown_" pos="A">sraŋgâttes</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -14328,7 +14328,7 @@
    </e>
    <e id="A_1472">
       <lg>
-         <l pos="A">stulláá</l>
+         <l status="_known_as_Adv" pos="A">stulláá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -14438,7 +14438,7 @@
    </e>
    <e id="A_1482">
       <lg>
-         <l pos="A">suámálâš</l>
+         <l status="_known_as_N" pos="A">suámálâš</l>
       </lg>
       <mg rest="suá'málii">
          <tg xml:lang="fin">
@@ -14474,7 +14474,7 @@
    </e>
    <e id="A_1485">
       <lg>
-         <l pos="A">suápáttem</l>
+         <l status="_unknown_" pos="A">suápáttem</l>
       </lg>
       <mg rest="suá'páttes">
          <tg xml:lang="fin">
@@ -14514,7 +14514,7 @@
    </e>
    <e id="A_1489">
       <lg>
-         <l pos="A">suhčâdum</l>
+         <l status="_unknown_" pos="A">suhčâdum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -14549,7 +14549,7 @@
    </e>
    <e id="A_1492">
       <lg>
-         <l pos="A">sujâttum</l>
+         <l status="_unknown_" pos="A">sujâttum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -14699,7 +14699,7 @@
    </e>
    <e id="A_1507">
       <lg>
-         <l pos="A">suvrodhánnáá</l>
+         <l status="_unknown_" pos="A">suvrodhánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -14919,7 +14919,7 @@
    </e>
    <e id="A_1527">
       <lg>
-         <l pos="A">táálááš</l>
+         <l status="_unknown_" pos="A">táálááš</l>
       </lg>
       <mg rest="tááláá">
          <tg xml:lang="fin">
@@ -15005,7 +15005,7 @@
    </e>
    <e id="A_1535">
       <lg>
-         <l pos="A">tabebâš</l>
+         <l status="_unknown_" pos="A">tabebâš</l>
       </lg>
       <mg rest="tabebáá">
          <tg xml:lang="fin">
@@ -15015,7 +15015,7 @@
    </e>
    <e id="A_1536">
       <lg>
-         <l pos="A">tabemuš</l>
+         <l status="_unknown_" pos="A">tabemuš</l>
       </lg>
       <mg rest="tabemuu">
          <tg xml:lang="fin">
@@ -15138,7 +15138,7 @@
    </e>
    <e id="A_1550">
       <lg>
-         <l pos="A">tátuhánnáá</l>
+         <l status="_unknown_" pos="A">tátuhánnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -15169,7 +15169,7 @@
    </e>
    <e id="A_1553">
       <lg>
-         <l pos="A">távástum</l>
+         <l status="_unknown_" pos="A">távástum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -15514,7 +15514,7 @@
    </e>
    <e id="A_1596">
       <lg>
-         <l pos="A">toledum</l>
+         <l status="_unknown_" pos="A">toledum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -15524,7 +15524,7 @@
    </e>
    <e id="A_1597">
       <lg>
-         <l pos="A">tolehumos</l>
+         <l status="_unknown_" pos="A">tolehumos</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -15535,7 +15535,7 @@
    </e>
    <e id="A_1598">
       <lg>
-         <l pos="A">tolemus</l>
+         <l status="_unknown_" pos="A">tolemus</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -15891,7 +15891,7 @@
    </e>
    <e id="A_1633">
       <lg>
-         <l pos="A">tuihme</l>
+         <l status="_unknown_" pos="A">tuihme</l>
       </lg>
       <mg rest="tu'ihme # tu'ihmes">
          <tg xml:lang="fin">
@@ -16075,7 +16075,7 @@
    </e>
    <e id="A_1655">
       <lg>
-         <l pos="A">tuššâdeijee</l>
+         <l status="_known_as_N" pos="A">tuššâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -16121,7 +16121,7 @@
    </e>
    <e id="A_1662">
       <lg>
-         <l pos="A">täbibâš</l>
+         <l status="_unknown_" pos="A">täbibâš</l>
       </lg>
       <mg rest="täbibáá">
          <tg xml:lang="fin">
@@ -16131,7 +16131,7 @@
    </e>
    <e id="A_1663">
       <lg>
-         <l pos="A">täbimuš</l>
+         <l status="_unknown_" pos="A">täbimuš</l>
       </lg>
       <mg rest="täbimuu">
          <tg xml:lang="fin">
@@ -16445,7 +16445,7 @@
    </e>
    <e id="A_1701">
       <lg>
-         <l pos="A">uccáávijđánâm</l>
+         <l status="_unknown_" pos="A">uccáávijđánâm</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -16500,7 +16500,7 @@
    </e>
    <e id="A_1709">
       <lg>
-         <l pos="A">uces</l>
+         <l status="_unknown_" pos="A">uces</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -16522,7 +16522,7 @@
    </e>
    <e id="A_1711">
       <lg>
-         <l pos="A">ucessiähá</l>
+         <l status="_unknown_" pos="A">ucessiähá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -16607,7 +16607,7 @@
    </e>
    <e id="A_1720">
       <lg>
-         <l pos="A">umáttum</l>
+         <l status="_unknown_" pos="A">umáttum</l>
       </lg>
       <mg rest="# -is">
          <tg xml:lang="fin">
@@ -16764,7 +16764,7 @@
    </e>
    <e id="A_1739">
       <lg>
-         <l pos="A">vaibâm</l>
+         <l status="_known_as_N" pos="A">vaibâm</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -16815,7 +16815,7 @@
    </e>
    <e id="A_1744">
       <lg>
-         <l pos="A">váimuskâddâm</l>
+         <l status="_known_as_N" pos="A">váimuskâddâm</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -16848,7 +16848,7 @@
    </e>
    <e id="A_1748">
       <lg>
-         <l pos="A">vájáldittum</l>
+         <l status="_unknown_" pos="A">vájáldittum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -16868,7 +16868,7 @@
    </e>
    <e id="A_1750">
       <lg>
-         <l pos="A">vajemielâlii</l>
+         <l status="_unknown_" pos="A">vajemielâlii</l>
       </lg>
       <mg rest="-mie'lâlii">
          <tg xml:lang="fin">
@@ -17022,7 +17022,7 @@
    </e>
    <e id="A_1765">
       <lg>
-         <l pos="A">vaste</l>
+         <l status="_unknown_" pos="A">vaste</l>
       </lg>
       <mg rest="va'ste # va'stes">
          <tg xml:lang="fin">
@@ -17088,7 +17088,7 @@
    </e>
    <e id="A_1770">
       <lg>
-         <l pos="A">veitâlâs</l>
+         <l status="_unknown_" pos="A">veitâlâs</l>
       </lg>
       <mg rest="ve'itâlii">
          <tg xml:lang="fin">
@@ -17200,7 +17200,7 @@
    </e>
    <e id="A_1780">
       <lg>
-         <l pos="A">vierâdekes</l>
+         <l status="_unknown_" pos="A">vierâdekes</l>
       </lg>
       <mg rest="vie'râdiäk'ká">
          <tg xml:lang="fin">
@@ -17210,7 +17210,7 @@
    </e>
    <e id="A_1781">
       <lg>
-         <l pos="A">vierâdeves</l>
+         <l status="_unknown_" pos="A">vierâdeves</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -17220,7 +17220,7 @@
    </e>
    <e id="A_1782">
       <lg>
-         <l pos="A">vierâduves</l>
+         <l status="_unknown_" pos="A">vierâduves</l>
       </lg>
       <mg rest="vie'râduvveeh">
          <tg xml:lang="fin">
@@ -17241,7 +17241,7 @@
    </e>
    <e id="A_1784">
       <lg>
-         <l pos="A">viettejeijee</l>
+         <l status="_known_as_N" pos="A">viettejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -17307,7 +17307,7 @@
    </e>
    <e id="A_1790">
       <lg>
-         <l pos="A">vijnáttum</l>
+         <l status="_unknown_" pos="A">vijnáttum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -17524,7 +17524,7 @@
    </e>
    <e id="A_1815">
       <lg>
-         <l pos="A">voojiš</l>
+         <l status="_unknown_" pos="A">voojiš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -17743,7 +17743,7 @@
    </e>
    <e id="A_1836">
       <lg>
-         <l pos="A">vuojâttem</l>
+         <l status="_known_as_N" pos="A">vuojâttem</l>
       </lg>
       <mg rest="# vuo'jâttes vuo'jâttemes">
          <tg xml:lang="fin">
@@ -17930,7 +17930,7 @@
    </e>
    <e id="A_1857">
       <lg>
-         <l pos="A">vyesvis</l>
+         <l status="_unknown_" pos="A">vyesvis</l>
       </lg>
       <mg rest="vuás'vá">
          <tg xml:lang="fin">
@@ -18040,7 +18040,7 @@
    </e>
    <e id="A_1871">
       <lg>
-         <l pos="A">älkkeb</l>
+         <l status="_unknown_" pos="A">älkkeb</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18213,7 +18213,7 @@
    </e>
    <e id="A_1887">
       <lg>
-         <l pos="A">huksejeijee</l>
+         <l status="_known_as_N" pos="A">huksejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18223,7 +18223,7 @@
    </e>
    <e id="A_1889">
       <lg>
-         <l pos="A">häälleh</l>
+         <l status="_unknown_" pos="A">häälleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18233,7 +18233,7 @@
    </e>
    <e id="A_1890">
       <lg>
-         <l pos="A">iberdeijee</l>
+         <l status="_known_as_N" pos="A">iberdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18280,7 +18280,7 @@
    </e>
    <e id="A_1896">
       <lg>
-         <l pos="A">jiehhee</l>
+         <l status="_known_as_N" pos="A">jiehhee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18290,7 +18290,7 @@
    </e>
    <e id="A_1897">
       <lg>
-         <l pos="A">jiellâhistee</l>
+         <l status="_unknown_" pos="A">jiellâhistee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18320,7 +18320,7 @@
    </e>
    <e id="A_1902">
       <lg>
-         <l pos="A">juárbulâs</l>
+         <l status="_unknown_" pos="A">juárbulâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18331,7 +18331,7 @@
    </e>
    <e id="A_1903">
       <lg>
-         <l pos="A">juátkoo</l>
+         <l status="_known_as_N" pos="A">juátkoo</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18341,7 +18341,7 @@
    </e>
    <e id="A_1906">
       <lg>
-         <l pos="A">jämmee</l>
+         <l status="_known_as_N" pos="A">jämmee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18356,7 +18356,7 @@
    </e>
    <e id="A_1907">
       <lg>
-         <l pos="A">jäämithánnáá</l>
+         <l status="_unknown_" pos="A">jäämithánnáá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18413,7 +18413,7 @@
    </e>
    <e id="A_1914">
       <lg>
-         <l pos="A">kinccámuš</l>
+         <l status="_unknown_" pos="A">kinccámuš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18423,7 +18423,7 @@
    </e>
    <e id="A_1915">
       <lg>
-         <l pos="A">kiärdoo</l>
+         <l status="_known_as_N" pos="A">kiärdoo</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18433,7 +18433,7 @@
    </e>
    <e id="A_1916">
       <lg>
-         <l pos="A">kiäsutteijee</l>
+         <l status="_known_as_N" pos="A">kiäsutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18489,7 +18489,7 @@
    </e>
    <e id="A_1925">
       <lg>
-         <l pos="A">kuhendâlâšjuurbâs</l>
+         <l status="_known_as_N" pos="A">kuhendâlâšjuurbâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18539,7 +18539,7 @@
    </e>
    <e id="A_1938">
       <lg>
-         <l pos="A">lyetitteijee</l>
+         <l status="_known_as_N" pos="A">lyetitteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18559,7 +18559,7 @@
    </e>
    <e id="A_1940">
       <lg>
-         <l pos="A">lyetittijjee</l>
+         <l status="_unknown_" pos="A">lyetittijjee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18579,7 +18579,7 @@
    </e>
    <e id="A_1948">
       <lg>
-         <l pos="A">maŋasčyeccee</l>
+         <l status="_unknown_" pos="A">maŋasčyeccee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18599,7 +18599,7 @@
    </e>
    <e id="A_1950">
       <lg>
-         <l pos="A">merhâšeijee</l>
+         <l status="_known_as_N" pos="A">merhâšeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18609,7 +18609,7 @@
    </e>
    <e id="A_1951">
       <lg>
-         <l pos="A">merhâšijjee</l>
+         <l status="_unknown_" pos="A">merhâšijjee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18669,7 +18669,7 @@
    </e>
    <e id="A_1960">
       <lg>
-         <l pos="A">nanodeijee</l>
+         <l status="_known_as_N" pos="A">nanodeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18679,7 +18679,7 @@
    </e>
    <e id="A_1961">
       <lg>
-         <l pos="A">neehuš</l>
+         <l status="_unknown_" pos="A">neehuš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18699,7 +18699,7 @@
    </e>
    <e id="A_1965">
       <lg>
-         <l pos="A">nuhâlâs</l>
+         <l status="_unknown_" pos="A">nuhâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18709,7 +18709,7 @@
    </e>
    <e id="A_1968">
       <lg>
-         <l pos="A">orroo</l>
+         <l status="_known_as_N" pos="A">orroo</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18725,7 +18725,7 @@
    </e>
    <e id="A_1968">
       <lg>
-         <l pos="A">orroo</l>
+         <l status="_known_as_N" pos="A">orroo</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18737,7 +18737,7 @@
    </e>
    <e id="A_1969">
       <lg>
-         <l pos="A">oskotteijee</l>
+         <l status="_known_as_N" pos="A">oskotteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18747,7 +18747,7 @@
    </e>
    <e id="A_1970">
       <lg>
-         <l pos="A">paččee</l>
+         <l status="_known_as_N" pos="A">paččee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18757,7 +18757,7 @@
    </e>
    <e id="A_1970">
       <lg>
-         <l pos="A">paččee</l>
+         <l status="_known_as_N" pos="A">paččee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18767,7 +18767,7 @@
    </e>
    <e id="A_1971">
       <lg>
-         <l pos="A">paimâlâs</l>
+         <l status="_unknown_" pos="A">paimâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18777,7 +18777,7 @@
    </e>
    <e id="A_1972">
       <lg>
-         <l pos="A">paldee</l>
+         <l status="_known_as_N" pos="A">paldee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18787,7 +18787,7 @@
    </e>
    <e id="A_1973">
       <lg>
-         <l pos="A">pargoadelemkenigâs</l>
+         <l status="_known_as_N" pos="A">pargoadelemkenigâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18807,7 +18807,7 @@
    </e>
    <e id="A_1975">
       <lg>
-         <l pos="A">pirrâčuoppuuhánnáá</l>
+         <l status="_unknown_" pos="A">pirrâčuoppuuhánnáá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18827,7 +18827,7 @@
    </e>
    <e id="A_1977">
       <lg>
-         <l pos="A">pissoo</l>
+         <l status="_known_as_N" pos="A">pissoo</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18858,7 +18858,7 @@
    </e>
    <e id="A_1981">
       <lg>
-         <l pos="A">purâtteijee</l>
+         <l status="_known_as_N" pos="A">purâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18868,7 +18868,7 @@
    </e>
    <e id="A_1982">
       <lg>
-         <l pos="A">purâttijee</l>
+         <l status="_known_as_N" pos="A">purâttijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18878,7 +18878,7 @@
    </e>
    <e id="A_1984">
       <lg>
-         <l pos="A">šiäštálâs</l>
+         <l status="_unknown_" pos="A">šiäštálâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18888,7 +18888,7 @@
    </e>
    <e id="A_1986">
       <lg>
-         <l pos="A">šlieđâs</l>
+         <l status="_unknown_" pos="A">šlieđâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18909,7 +18909,7 @@
    </e>
    <e id="A_1989">
       <lg>
-         <l pos="A">spiekâsteijee</l>
+         <l status="_known_as_N" pos="A">spiekâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18919,7 +18919,7 @@
    </e>
    <e id="A_1992">
       <lg>
-         <l pos="A">säälhis</l>
+         <l status="_unknown_" pos="A">säälhis</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18929,7 +18929,7 @@
    </e>
    <e id="A_1993">
       <lg>
-         <l pos="A">tipšohánnáá</l>
+         <l status="_unknown_" pos="A">tipšohánnáá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18979,7 +18979,7 @@
    </e>
    <e id="A_2000">
       <lg>
-         <l pos="A">uáinittep</l>
+         <l status="_unknown_" pos="A">uáinittep</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18999,7 +18999,7 @@
    </e>
    <e id="A_2002">
       <lg>
-         <l pos="A">uáinojeijee</l>
+         <l status="_known_as_N" pos="A">uáinojeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19019,7 +19019,7 @@
    </e>
    <e id="A_2005">
       <lg>
-         <l pos="A">uđâsmuuhánnáá</l>
+         <l status="_unknown_" pos="A">uđâsmuuhánnáá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19039,7 +19039,7 @@
    </e>
    <e id="A_2007">
       <lg>
-         <l pos="A">unnuuvâš</l>
+         <l status="_unknown_" pos="A">unnuuvâš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19089,7 +19089,7 @@
    </e>
    <e id="A_2014">
       <lg>
-         <l pos="A">verditittee</l>
+         <l status="_unknown_" pos="A">verditittee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19099,7 +19099,7 @@
    </e>
    <e id="A_2016">
       <lg>
-         <l pos="A">vuáđusteijee</l>
+         <l status="_known_as_N" pos="A">vuáđusteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19109,7 +19109,7 @@
    </e>
    <e id="A_2017">
       <lg>
-         <l pos="A">vuáláneijee</l>
+         <l status="_known_as_N" pos="A">vuáláneijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19139,7 +19139,7 @@
    </e>
    <e id="A_2020">
       <lg>
-         <l pos="A">västideijee</l>
+         <l status="_known_as_N" pos="A">västideijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19279,7 +19279,7 @@
    </e>
    <e id="N_4286">
       <lg>
-         <l pos="A">kuheldâlâšjuurbâs</l>
+         <l status="_known_as_N" pos="A">kuheldâlâšjuurbâs</l>
       </lg>
       <mg rest="-jurbâs # -jurbâ">
          <tg xml:lang="fin">
@@ -19311,7 +19311,7 @@
    </e>
    <e id="N_6231">
       <lg>
-         <l pos="A">naagâs</l>
+         <l status="_known_as_N" pos="A">naagâs</l>
       </lg>
       <mg rest="naggâs # naggâ">
          <tg xml:lang="fin">
@@ -19426,7 +19426,7 @@
    </e>
    <e id="N_9688">
       <lg>
-         <l pos="A">šiiŋâs</l>
+         <l status="_known_as_N" pos="A">šiiŋâs</l>
       </lg>
       <mg rest="šiŋŋâs # šiŋŋâ">
          <tg xml:lang="fin">
@@ -19480,7 +19480,7 @@
    </e>
    <e id="N_10909">
       <lg>
-         <l pos="A">taavâs</l>
+         <l status="_known_as_N" pos="A">taavâs</l>
       </lg>
       <mg rest="tavvâs # tavâs">
          <tg xml:lang="fin">
@@ -19589,7 +19589,7 @@
    </e>
    <e id="N_4735">
       <lg>
-         <l pos="A">laađâs</l>
+         <l status="_known_as_N" pos="A">laađâs</l>
       </lg>
       <mg rest="laađđâs # lađâs">
          <tg xml:lang="fin">
@@ -19642,7 +19642,7 @@
    </e>
    <e id="N_1344">
       <lg>
-         <l pos="A">čuovrâs</l>
+         <l status="_known_as_N" pos="A">čuovrâs</l>
       </lg>
       <mg rest="čuov'râs # čuovrâ">
          <tg xml:lang="fin">
@@ -19662,7 +19662,7 @@
    </e>
    <e id="N_1026">
       <lg>
-         <l pos="A">čoovgâs</l>
+         <l status="_known_as_N" pos="A">čoovgâs</l>
       </lg>
       <mg rest="čovgâs # čovgâ">
          <tg xml:lang="fin">
@@ -19679,7 +19679,7 @@
    </e>
    <e id="N_427_A_correction">
       <lg>
-         <l pos="A">ánnoo</l>
+         <l status="_known_as_N" pos="A">ánnoo</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19689,7 +19689,7 @@
    </e>
    <e id="N_1127_A_correction">
       <lg>
-         <l pos="A">čuáskim</l>
+         <l status="_known_as_N" pos="A">čuáskim</l>
       </lg>
       <mg rest="# -âs">
          <tg xml:lang="fin">
@@ -19727,7 +19727,7 @@
    </e>
    <e id="N_12160_A_correction">
       <lg>
-         <l pos="A">uubâs</l>
+         <l status="_known_as_N" pos="A">uubâs</l>
       </lg>
       <mg rest="ubbâs # ubbâ">
          <tg xml:lang="fin">
@@ -19737,7 +19737,7 @@
    </e>
    <e id="N_11387_A_correction">
       <lg>
-         <l pos="A">tooškâs</l>
+         <l status="_known_as_N" pos="A">tooškâs</l>
       </lg>
       <mg rest="toškâs # toškâ">
          <tg xml:lang="fin">
@@ -19758,7 +19758,7 @@
    </e>
    <e id="N_10775_A_correction">
       <lg>
-         <l pos="A">säiđi</l>
+         <l status="_known_as_N" pos="A">säiđi</l>
       </lg>
       <mg rest="sääiđi # sáiđáá">
          <tg xml:lang="fin">
@@ -19770,7 +19770,7 @@
    </e>
    <e id="N_10691_A_correction">
       <lg>
-         <l pos="A">suvre</l>
+         <l status="_known_as_N" pos="A">suvre</l>
       </lg>
       <mg rest="su'vre # suvre">
          <tg xml:lang="fin">
@@ -19780,7 +19780,7 @@
    </e>
    <e id="N_9721_A_correction">
       <lg>
-         <l pos="A">sijvo</l>
+         <l status="_known_as_N" pos="A">sijvo</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19790,7 +19790,7 @@
    </e>
    <e id="N_6023_A_correction">
       <lg>
-         <l pos="A">moskos</l>
+         <l status="_known_as_N" pos="A">moskos</l>
       </lg>
       <mg rest="moskos # mo'sko-">
          <tg xml:lang="fin">
@@ -19836,7 +19836,7 @@
    </e>
    <e id="N_7615_A_correction">
       <lg>
-         <l pos="A">pettee</l>
+         <l status="_known_as_N" pos="A">pettee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19856,7 +19856,7 @@
    </e>
    <e id="N_90">
       <lg>
-         <l pos="A">áámmáttáiđulâš</l>
+         <l attr="áámmáttáiđulâš" pos="A">áámmáttáiđulâš</l>
       </lg>
       <mg rest="-tá'iđulii">
          <tg xml:lang="fin">
@@ -19866,7 +19866,7 @@
    </e>
    <e id="N_270">
       <lg>
-         <l pos="A">aldauáinee</l>
+         <l status="_unknown_" pos="A">aldauáinee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19876,7 +19876,7 @@
    </e>
    <e id="N_322">
       <lg>
-         <l pos="A">álgualgâlâš</l>
+         <l attr="álgualgâlâš" pos="A">álgualgâlâš</l>
       </lg>
       <mg rest="-a'lgâlii">
          <tg xml:lang="fin">
@@ -19886,7 +19886,7 @@
    </e>
    <e id="N_373">
       <lg>
-         <l pos="A">almos</l>
+         <l attr="almos" pos="A">almos</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19907,7 +19907,7 @@
    </e>
    <e id="N_466">
       <lg>
-         <l pos="A">apsalâs</l>
+         <l attr="apsalâs" pos="A">apsalâs</l>
       </lg>
       <mg rest="# apsalâs, apsee">
          <tg xml:lang="fin">
@@ -19917,7 +19917,7 @@
    </e>
    <e id="N_467">
       <lg>
-         <l pos="A">apsee</l>
+         <l status="_unknown_" pos="A">apsee</l>
       </lg>
       <mg rest="# apsees, apsalâs">
          <tg xml:lang="fin">
@@ -19927,7 +19927,7 @@
    </e>
    <e id="N_491">
       <lg>
-         <l pos="A">ármugâs</l>
+         <l attr="ármugâs" pos="A">ármugâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19938,7 +19938,7 @@
    </e>
    <e id="N_660">
       <lg>
-         <l pos="A">čaavdes</l>
+         <l attr="čaavdes" pos="A">čaavdes</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19948,7 +19948,7 @@
    </e>
    <e id="N_997">
       <lg>
-         <l pos="A">čolmiš</l>
+         <l attr="čolmišis" pos="A">čolmiš</l>
       </lg>
       <mg rest="# čolmišâs">
          <tg xml:lang="fin">
@@ -19959,7 +19959,7 @@
    </e>
    <e id="N_1053">
       <lg>
-         <l pos="A">čuákkáá</l>
+         <l attr="čuákkáás" pos="A">čuákkáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -19969,7 +19969,7 @@
    </e>
    <e id="N_1094">
       <lg>
-         <l pos="A">cuápcil</l>
+         <l attr="cuápcilis" pos="A">cuápcil</l>
       </lg>
       <mg rest="# -âs">
          <tg xml:lang="fin">
@@ -19979,7 +19979,7 @@
    </e>
    <e id="N_1126">
       <lg>
-         <l pos="A">čuásis</l>
+         <l attr="čuásis" pos="A">čuásis</l>
       </lg>
       <mg rest="čuássás # čuá'sis">
          <tg xml:lang="fin">
@@ -19989,7 +19989,7 @@
    </e>
    <e id="N_1128">
       <lg>
-         <l pos="A">čuáskis</l>
+         <l attr="čuáskis" pos="A">čuáskis</l>
       </lg>
       <mg rest="čuás'ká čuás'kásist">
          <tg xml:lang="fin">
@@ -19999,7 +19999,7 @@
    </e>
    <e id="N_1132">
       <lg>
-         <l pos="A">čuássid</l>
+         <l attr="čuásidis;čuásidâs" pos="A">čuássid</l>
       </lg>
       <mg rest="# čuá'sidâs čuá'sidis">
          <tg xml:lang="fin">
@@ -20009,7 +20009,7 @@
    </e>
    <e id="N_1170">
       <lg>
-         <l pos="A">čuážžuvâš</l>
+         <l attr="čuážžuvis" pos="A">čuážžuvâš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -20019,7 +20019,7 @@
    </e>
    <e id="N_1395">
       <lg>
-         <l pos="A">čyeti-ihásâš</l>
+         <l attr="čyeti-ihásâš" pos="A">čyeti-ihásâš</l>
       </lg>
       <mg rest="-ihásii">
          <tg xml:lang="fin">
@@ -20029,7 +20029,7 @@
    </e>
    <e id="N_1408">
       <lg>
-         <l pos="A">čäcijiehhee</l>
+         <l attr="čäcijiehhee" pos="A">čäcijiehhee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -20040,7 +20040,7 @@
    </e>
    <e id="N_1424">
       <lg>
-         <l pos="A">čäcinallii</l>
+         <l attr="čäcinalliis" pos="A">čäcinallii</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -20050,7 +20050,7 @@
    </e>
    <e id="N_1475">
       <lg>
-         <l pos="A">čäällimtáiđulâš</l>
+         <l attr="čäällimtáiđulâš" pos="A">čäällimtáiđulâš</l>
       </lg>
       <mg rest="-tá'iđulii">
          <tg xml:lang="fin">
@@ -20060,7 +20060,7 @@
    </e>
    <e id="N_1645">
       <lg>
-         <l pos="A">elettemviälvulâš</l>
+         <l attr="elettemviälvulâš" pos="A">elettemviälvulâš</l>
       </lg>
       <mg rest="-viä'lvulii">
          <tg xml:lang="fin">
@@ -20070,7 +20070,7 @@
    </e>
    <e id="N_1693">
       <lg>
-         <l pos="A">epilyetittettee</l>
+         <l attr="epilyetittettee" pos="A">epilyetittettee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -20080,7 +20080,7 @@
    </e>
    <e id="N_1694">
       <lg>
-         <l pos="A">epilyetittijjee</l>
+         <l status="_unknown_" pos="A">epilyetittijjee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -20090,7 +20090,7 @@
    </e>
    <e id="N_1696">
       <lg>
-         <l pos="A">epimiärulâš</l>
+         <l attr="epimiärulâš" pos="A">epimiärulâš</l>
       </lg>
       <mg rest="epimiä'Rulii">
          <tg xml:lang="fin">
@@ -20100,7 +20100,7 @@
    </e>
    <e id="N_1698">
       <lg>
-         <l pos="A">epioovtâdlâš</l>
+         <l attr="epioovtâdlâš" pos="A">epioovtâdlâš</l>
       </lg>
       <mg rest="-oovtâdlii">
          <tg xml:lang="fin">
@@ -20110,7 +20110,7 @@
    </e>
    <e id="N_1704">
       <lg>
-         <l pos="A">epitärkki</l>
+         <l attr="epitärhis" pos="A">epitärkki</l>
       </lg>
       <mg rest="-täärhi # -tä'rhis -tärkki">
          <tg xml:lang="fin">
@@ -20120,7 +20120,7 @@
    </e>
    <e id="N_1773">
       <lg>
-         <l pos="A">faantâs</l>
+         <l attr="fanttâ" pos="A">faantâs</l>
       </lg>
       <mg rest="fanttâs # fanttâ">
          <tg xml:lang="fin">
@@ -20132,7 +20132,7 @@
    </e>
    <e id="N_2284">
       <lg>
-         <l pos="A">hänis</l>
+         <l status="_unknown_" pos="A">hänis</l>
       </lg>
       <mg rest="háánnás # hänis hänes">
          <tg xml:lang="fin">
@@ -20142,7 +20142,7 @@
    </e>
    <e id="N_2305">
       <lg>
-         <l pos="A">hävski</l>
+         <l attr="hävskis" pos="A">hävski</l>
       </lg>
       <mg rest="häävski # hä'vskis">
          <tg xml:lang="fin">
@@ -20152,7 +20152,7 @@
    </e>
    <e id="N_2310">
       <lg>
-         <l pos="A">hääitis</l>
+         <l attr="häitis" pos="A">hääitis</l>
       </lg>
       <mg rest="háittás # hä'itis">
          <tg xml:lang="fin">
@@ -20162,7 +20162,7 @@
    </e>
    <e id="N_2313">
       <lg>
-         <l pos="A">häänis</l>
+         <l attr="hänis" pos="A">häänis</l>
       </lg>
       <mg rest="háánnás # hänis hänes">
          <tg xml:lang="fin">
@@ -20174,7 +20174,7 @@
    </e>
    <e id="N_2664">
       <lg>
-         <l pos="A">jieŋâkoolmâs</l>
+         <l attr="jieŋâkolmâ" pos="A">jieŋâkoolmâs</l>
       </lg>
       <mg rest="-kolmâs # -kolmâ">
          <tg xml:lang="fin">
@@ -20184,7 +20184,7 @@
    </e>
    <e id="N_2919">
       <lg>
-         <l pos="A">juurbâs</l>
+         <l attr="jurbâ" pos="A">juurbâs</l>
       </lg>
       <mg rest="jurbâs # jurbâ">
          <tg xml:lang="fin">
@@ -20194,7 +20194,7 @@
    </e>
    <e id="N_3016">
       <lg>
-         <l pos="A">káálgus</l>
+         <l attr="kálgus" pos="A">káálgus</l>
       </lg>
       <mg rest="kálgus # ká'lgus">
          <tg xml:lang="fin">
@@ -20209,7 +20209,7 @@
    </e>
    <e id="N_3747">
       <lg>
-         <l pos="A">kiähnu</l>
+         <l status="_unknown_" pos="A">kiähnu</l>
       </lg>
       <mg rest="kiähnu # kiä'hnus">
          <tg xml:lang="fin">
@@ -20219,7 +20219,7 @@
    </e>
    <e id="N_3965">
       <lg>
-         <l pos="A">koolmâs</l>
+         <l attr="kolmâ" pos="A">koolmâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -20235,7 +20235,7 @@
    </e>
    <e id="N_4374">
       <lg>
-         <l pos="A">kunneehäänis</l>
+         <l attr="kunneehänis" pos="A">kunneehäänis</l>
       </lg>
       <mg rest="-háánnás # -hänis">
          <tg xml:lang="fin">
@@ -20245,7 +20245,7 @@
    </e>
    <e id="N_4633">
       <lg>
-         <l pos="A">käcci</l>
+         <l status="_unknown_" pos="A">käcci</l>
       </lg>
       <mg rest="kääci # käcis">
          <tg xml:lang="fin">
@@ -20255,7 +20255,7 @@
    </e>
    <e id="N_4728">
       <lg>
-         <l pos="A">käärgis</l>
+         <l attr="kärgis" pos="A">käärgis</l>
       </lg>
       <mg rest="kárgás # kä'rgis">
          <tg xml:lang="fin">
@@ -20265,7 +20265,7 @@
    </e>
    <e id="N_4751">
       <lg>
-         <l pos="A">laanâs</l>
+         <l status="_known_as_N" pos="A">laanâs</l>
       </lg>
       <mg rest="laannâs # lanâs">
          <tg xml:lang="fin">
@@ -20275,7 +20275,7 @@
    </e>
    <e id="N_4775">
       <lg>
-         <l pos="A">laavtâs</l>
+         <l attr="lahtâ" pos="A">laavtâs</l>
       </lg>
       <mg rest="lahtâs # lahtâ">
          <tg xml:lang="fin">
@@ -20285,7 +20285,7 @@
    </e>
    <e id="N_5139">
       <lg>
-         <l pos="A">liägus</l>
+         <l attr="liägus" pos="A">liägus</l>
       </lg>
       <mg rest="liäg'gus # liä'gus">
          <tg xml:lang="fin">
@@ -20295,7 +20295,7 @@
    </e>
    <e id="N_5140">
       <lg>
-         <l pos="A">liähmus</l>
+         <l attr="liähmu" pos="A">liähmus</l>
       </lg>
       <mg rest="liäh'mus # liä'hmu">
          <tg xml:lang="fin">
@@ -20305,7 +20305,7 @@
    </e>
    <e id="N_5214">
       <lg>
-         <l pos="A">loožâs</l>
+         <l status="_unknown_" pos="A">loožâs</l>
       </lg>
       <mg rest="ložžâs # ložžâ">
          <tg xml:lang="fin">
@@ -20315,7 +20315,7 @@
    </e>
    <e id="N_5258">
       <lg>
-         <l pos="A">luáđhus</l>
+         <l attr="luáđhus" pos="A">luáđhus</l>
       </lg>
       <mg rest="luát'kus # luá'đhus luát'ku-">
          <tg xml:lang="fin">
@@ -20326,7 +20326,7 @@
    </e>
    <e id="N_5394">
       <lg>
-         <l pos="A">luuškâs</l>
+         <l attr="luškâ" pos="A">luuškâs</l>
       </lg>
       <mg rest="luškâs # luškâ">
          <tg xml:lang="fin">
@@ -20336,7 +20336,7 @@
    </e>
    <e id="N_5427">
       <lg>
-         <l pos="A">läbžiloje</l>
+         <l status="_unknown_" pos="A">läbžiloje</l>
       </lg>
       <mg rest="-loje # -lojes">
          <tg xml:lang="fin">
@@ -20346,7 +20346,7 @@
    </e>
    <e id="N_5459">
       <lg>
-         <l pos="A">läämi</l>
+         <l attr="lämis" pos="A">läämi</l>
       </lg>
       <mg rest="láámmás # lämis">
          <tg xml:lang="fin">
@@ -20371,7 +20371,7 @@
    </e>
    <e id="N_5847">
       <lg>
-         <l pos="A">mieskâs</l>
+         <l attr="mieskâ" pos="A">mieskâs</l>
       </lg>
       <mg rest="mies'kâs # mies'kâ">
          <tg xml:lang="fin">
@@ -20381,7 +20381,7 @@
    </e>
    <e id="N_6286">
       <lg>
-         <l pos="A">neehuš</l>
+         <l status="_unknown_" pos="A">neehuš</l>
       </lg>
       <mg rest="nehhuš # nehhusâš">
          <tg xml:lang="fin">
@@ -20391,7 +20391,7 @@
    </e>
    <e id="N_6605">
       <lg>
-         <l pos="A">njäälgis</l>
+         <l attr="njälgis;njaalgâ" pos="A">njäälgis</l>
       </lg>
       <mg rest="njálgá # njä'lgis njaalgâ">
          <tg xml:lang="fin">
@@ -20403,7 +20403,7 @@
    </e>
    <e id="N_7080">
       <lg>
-         <l pos="A">ovtâskâs</l>
+         <l attr="ovtâskâs" pos="A">ovtâskâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -20413,7 +20413,7 @@
    </e>
    <e id="N_7131">
       <lg>
-         <l pos="A">paasnik</l>
+         <l status="_known_as_N" pos="A">paasnik</l>
       </lg>
       <mg rest="paasnikeh # pa'snikkâs">
          <tg xml:lang="fin">
@@ -20424,7 +20424,7 @@
    </e>
    <e id="N_7499">
       <lg>
-         <l pos="A">pelijuurbâs</l>
+         <l status="_known_as_N" pos="A">pelijuurbâs</l>
       </lg>
       <mg rest="-jurbâs # -jurbâ">
          <tg xml:lang="fin">
@@ -20434,7 +20434,7 @@
    </e>
    <e id="N_7501">
       <lg>
-         <l pos="A">pelikukke</l>
+         <l status="_unknown_" pos="A">pelikukke</l>
       </lg>
       <mg rest="-kuhe # -kuhes">
          <tg xml:lang="fin">
@@ -20444,7 +20444,7 @@
    </e>
    <e id="N_7752">
       <lg>
-         <l pos="A">pirrâjuurbâs</l>
+         <l status="_known_as_N" pos="A">pirrâjuurbâs</l>
       </lg>
       <mg rest="-jurbâs # -jurbâ">
          <tg xml:lang="fin">
@@ -20454,7 +20454,7 @@
    </e>
    <e id="N_7799">
       <lg>
-         <l pos="A">piägus</l>
+         <l attr="piäggu" pos="A">piägus</l>
       </lg>
       <mg rest="piäg'gus # piä'gus">
          <tg xml:lang="fin">
@@ -20464,7 +20464,7 @@
    </e>
    <e id="N_8312">
       <lg>
-         <l pos="A">puurgâs</l>
+         <l status="_known_as_N" pos="A">puurgâs</l>
       </lg>
       <mg rest="purgâs # porge-">
          <tg xml:lang="fin">
@@ -20474,7 +20474,7 @@
    </e>
    <e id="N_8515">
       <lg>
-         <l pos="A">raavžâs</l>
+         <l attr="ravžâ" pos="A">raavžâs</l>
       </lg>
       <mg rest="ravžâs # ravžâ">
          <tg xml:lang="fin">
@@ -20484,7 +20484,7 @@
    </e>
    <e id="N_8731">
       <lg>
-         <l pos="A">riičâs</l>
+         <l attr="riččâ" pos="A">riičâs</l>
       </lg>
       <mg rest="riččâs # riččâ">
          <tg xml:lang="fin">
@@ -20495,7 +20495,7 @@
    </e>
    <e id="N_8958">
       <lg>
-         <l pos="A">ruávis</l>
+         <l attr="ruávis" pos="A">ruávis</l>
       </lg>
       <mg rest="ruávvás # ruá'vis">
          <tg xml:lang="fin">
@@ -20505,7 +20505,7 @@
    </e>
    <e id="N_9000">
       <lg>
-         <l pos="A">ruoinâs</l>
+         <l attr="ruoinâ" pos="A">ruoinâs</l>
       </lg>
       <mg rest="ruoi'nâs # ruoi'nâ">
          <tg xml:lang="fin">
@@ -20515,7 +20515,7 @@
    </e>
    <e id="N_9271">
       <lg>
-         <l pos="A">räähis</l>
+         <l attr="rähis" pos="A">räähis</l>
       </lg>
       <mg rest="rákkás # rähis">
          <tg xml:lang="fin">
@@ -20525,7 +20525,7 @@
    </e>
    <e id="N_9274">
       <lg>
-         <l pos="A">räänis</l>
+         <l attr="ränis" pos="A">räänis</l>
       </lg>
       <mg rest="ráánnás # ränis">
          <tg xml:lang="fin">
@@ -20535,7 +20535,7 @@
    </e>
    <e id="N_9287">
       <lg>
-         <l pos="A">saaibâs</l>
+         <l status="_known_as_N" pos="A">saaibâs</l>
       </lg>
       <mg rest="saibâs # saibâ-">
          <tg xml:lang="fin">
@@ -20545,7 +20545,7 @@
    </e>
    <e id="N_9498">
       <lg>
-         <l pos="A">seegis</l>
+         <l attr="segis" pos="A">seegis</l>
       </lg>
       <mg rest="siäg'gás # segis">
          <tg xml:lang="fin">
@@ -20555,7 +20555,7 @@
    </e>
    <e id="N_9504">
       <lg>
-         <l pos="A">seeŋâs</l>
+         <l status="_known_as_N" pos="A">seeŋâs</l>
       </lg>
       <mg rest="seeŋ'ŋâs # seŋes">
          <tg xml:lang="fin">
@@ -20565,7 +20565,7 @@
    </e>
    <e id="N_9826">
       <lg>
-         <l pos="A">šiälgus</l>
+         <l attr="šiälgus" pos="A">šiälgus</l>
       </lg>
       <mg rest="šiäl'gus # šiä'lgus">
          <tg xml:lang="fin">
@@ -20576,7 +20576,7 @@
    </e>
    <e id="N_9854">
       <lg>
-         <l pos="A">siävŋus</l>
+         <l attr="siävŋus" pos="A">siävŋus</l>
       </lg>
       <mg rest="siäv'ŋus # siä'vŋus">
          <tg xml:lang="fin">
@@ -20593,7 +20593,7 @@
    </e>
    <e id="N_10006">
       <lg>
-         <l pos="A">šliedâs</l>
+         <l status="_known_as_N" pos="A">šliedâs</l>
       </lg>
       <mg rest="šlied'dâs # šlied'dâ">
          <tg xml:lang="fin">
@@ -20605,7 +20605,7 @@
    </e>
    <e id="N_10007">
       <lg>
-         <l pos="A">šlieđâs</l>
+         <l status="_unknown_" pos="A">šlieđâs</l>
       </lg>
       <mg rest="šlieđ'đâs # šlieđ'đâ">
          <tg xml:lang="fin">
@@ -20615,7 +20615,7 @@
    </e>
    <e id="N_10023">
       <lg>
-         <l pos="A">šlunde</l>
+         <l attr="šlundes" pos="A">šlunde</l>
       </lg>
       <mg rest="šlu'nde # šlu'ndes">
          <tg xml:lang="fin">
@@ -20627,7 +20627,7 @@
    </e>
    <e id="N_10044">
       <lg>
-         <l pos="A">smiäru</l>
+         <l status="_unknown_" pos="A">smiäru</l>
       </lg>
       <mg rest="smiäru # smiä'rus">
          <tg xml:lang="fin">
@@ -20637,7 +20637,7 @@
    </e>
    <e id="N_10264">
       <lg>
-         <l pos="A">spoonâs</l>
+         <l status="_known_as_N" pos="A">spoonâs</l>
       </lg>
       <mg rest="spoonnâs # spoNâ">
          <tg xml:lang="fin">
@@ -20647,7 +20647,7 @@
    </e>
    <e id="N_10643">
       <lg>
-         <l pos="A">suotâs</l>
+         <l attr="suotâs;suottâsis" pos="A">suotâs</l>
       </lg>
       <mg rest="suot'tâs # suot'tâsis">
          <tg xml:lang="fin">
@@ -20657,7 +20657,7 @@
    </e>
    <e id="N_10872">
       <lg>
-         <l pos="A">sävri</l>
+         <l attr="sävris" pos="A">sävri</l>
       </lg>
       <mg rest="säävri # sä'vris">
          <tg xml:lang="fin">
@@ -20667,7 +20667,7 @@
    </e>
    <e id="N_11493">
       <lg>
-         <l pos="A">tuáris</l>
+         <l attr="tuáris" pos="A">tuáris</l>
       </lg>
       <mg rest="tuár'rás # tuá'ris">
          <tg xml:lang="fin">
@@ -20677,7 +20677,7 @@
    </e>
    <e id="N_11699">
       <lg>
-         <l pos="A">tušše</l>
+         <l attr="tušes" pos="A">tušše</l>
       </lg>
       <mg rest="tuše # tušes">
          <tg xml:lang="fin">
@@ -20688,7 +20688,7 @@
    </e>
    <e id="N_11923">
       <lg>
-         <l pos="A">uánihâš</l>
+         <l attr="uánihis" pos="A">uánihâš</l>
       </lg>
       <mg rest="uá'niháá # uá'nihâš">
          <tg xml:lang="fin">
@@ -20698,7 +20698,7 @@
    </e>
    <e id="N_11951">
       <lg>
-         <l pos="A">uárnji</l>
+         <l status="_unknown_" pos="A">uárnji</l>
       </lg>
       <mg rest="uárnji # uá'rnjis">
          <tg xml:lang="fin">
@@ -20708,7 +20708,7 @@
    </e>
    <e id="N_11952">
       <lg>
-         <l pos="A">uárŋi</l>
+         <l status="_unknown_" pos="A">uárŋi</l>
       </lg>
       <mg rest="uárŋi # uá'rŋis">
          <tg xml:lang="fin">
@@ -20718,7 +20718,7 @@
    </e>
    <e id="N_11958">
       <lg>
-         <l pos="A">uárvi</l>
+         <l status="_known_as_N" pos="A">uárvi</l>
       </lg>
       <mg rest="uárvi # uá'rvis">
          <tg xml:lang="fin">
@@ -20728,7 +20728,7 @@
    </e>
    <e id="N_12208">
       <lg>
-         <l pos="A">vaalmâš</l>
+         <l attr="valmâš" pos="A">vaalmâš</l>
       </lg>
       <mg rest="valmâš # va'lmâš">
          <tg xml:lang="fin">
@@ -20738,7 +20738,7 @@
    </e>
    <e id="N_12339">
       <lg>
-         <l pos="A">várdu</l>
+         <l status="_known_as_N" pos="A">várdu</l>
       </lg>
       <mg rest="váárdu # vá'rdus">
          <tg xml:lang="fin">
@@ -20748,7 +20748,7 @@
    </e>
    <e id="N_12387">
       <lg>
-         <l pos="A">veetâs</l>
+         <l attr="vettâ" pos="A">veetâs</l>
       </lg>
       <mg rest="vettâs # vettâ">
          <tg xml:lang="fin">
@@ -20758,7 +20758,7 @@
    </e>
    <e id="N_12545">
       <lg>
-         <l pos="A">viijses</l>
+         <l attr="vijses" pos="A">viijses</l>
       </lg>
       <mg rest="vijssás vijssá vijsá # vi'jses,">
          <tg xml:lang="fin">
@@ -20768,7 +20768,7 @@
    </e>
    <e id="N_12998">
       <lg>
-         <l pos="A">vuorâs</l>
+         <l attr="vuorâs;vuorâs;vuorâs;vuorâs" pos="A">vuorâs</l>
       </lg>
       <mg rest="vuorrâs vuorrâs # vuo'râs">
          <tg xml:lang="fin">
@@ -20779,7 +20779,7 @@
    </e>
    <e id="N_13170">
       <lg>
-         <l pos="A">väädis</l>
+         <l attr="vädis" pos="A">väädis</l>
       </lg>
       <mg rest="váddá váddás # vädis">
          <tg xml:lang="fin">
