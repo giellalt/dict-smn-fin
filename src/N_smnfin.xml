@@ -2705,16 +2705,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_272">
-      <lg>
-         <l pos="N" sg_gen="aldemuš">aldemuš</l>
-      </lg>
-      <mg rest="a'ldemuu">
-         <tg xml:lang="fin">
-            <t pos="N">lähin</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_273">
       <lg>
          <l pos="N" sg_gen="ááldu">áldu</l>
@@ -5242,16 +5232,6 @@
       <mg rest="-naavcâ">
          <tg xml:lang="fin">
             <t pos="N">päättelykyky</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_532">
-      <lg>
-         <l pos="N" sg_gen="árvuštellee">árvuštellee</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kriitikko</t>
          </tg>
       </mg>
    </e>
@@ -14151,6 +14131,11 @@
          <tg xml:lang="fin">
             <t pos="N">letto</t>
             <t pos="N">rimpi</t>
+         </tg>
+      </mg>
+      <mg rest="-jeegi">
+         <tg xml:lang="fin">
+            <t pos="N">vetinen suo</t>
          </tg>
       </mg>
    </e>
@@ -27765,16 +27750,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_2771">
-      <lg>
-         <l pos="N" sg_gen="jormo">jormo</l>
-      </lg>
-      <mg rest="jo'rmo">
-         <tg xml:lang="fin">
-            <t pos="N">jurmu</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_2772">
       <lg>
          <l pos="N" sg_gen="joorŋâ">jorŋâ</l>
@@ -36199,6 +36174,7 @@
             <t pos="N">hansikas</t>
             <t pos="N">hanska</t>
             <t pos="N">kinnas</t>
+            <t pos="N">rukkanen</t>
          </tg>
       </mg>
    </e>
@@ -37470,16 +37446,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">kilpa-ajo</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_3732">
-      <lg>
-         <l pos="N" sg_gen="kistuu">kiistâ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">rukkanen</t>
          </tg>
       </mg>
    </e>
@@ -122508,11 +122474,11 @@
    </e>
    <e id="N_12175">
       <lg>
-         <l pos="N" status="_unknown_N">uurguh</l>
+         <l pos="N" nr="Pl">uurguh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">urut</t>
+            <t pos="N" nr="Pl">urut</t>
          </tg>
       </mg>
    </e>
@@ -136233,16 +136199,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_202">
-      <lg>
-         <l pos="N" sg_gen="čäcijeegi">čäcijeggi</l>
-      </lg>
-      <mg rest="-jeegi">
-         <tg xml:lang="fin">
-            <t pos="N">vetinen suo</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_282">
       <lg>
          <l pos="N" sg_gen="fastâomâduv">fastâomâdâh</l>
@@ -136277,6 +136233,11 @@
       <lg>
          <l pos="N" sg_gen="jormo">jormo</l>
       </lg>
+      <mg rest="jo'rmo">
+         <tg xml:lang="fin">
+            <t pos="N">jurmu</t>
+         </tg>
+      </mg>
       <mg rest="jo'rmo">
          <tg xml:lang="fin">
             <t pos="N">syvänne kosken alla</t>
