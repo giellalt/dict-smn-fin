@@ -136911,4 +136911,886 @@
          </tg>
       </mg>
    </e>
+   <e id="A_113">
+      <lg>
+         <l pos="N">čálámuš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">kirjoitettava</t>
+            <t pos="N">kirjoitus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_151">
+      <lg>
+         <l pos="N">čiärulâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">itkuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_158">
+      <lg>
+         <l pos="N">čololâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">pulautteleva (imeväisestä, joka pulauttelee syötön jälkeen)</t>
+            <t pos="N">pulauttelija</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_442">
+      <lg>
+         <l pos="N">jáldu</l>
+      </lg>
+      <mg rest="jááldu">
+         <tg xml:lang="fin">
+            <t pos="A">viileä</t>
+         </tg>
+      </mg>
+      <mg rest="jááldu">
+         <tg xml:lang="fin">
+            <t pos="N">viileä sää (kesällä, hyttyset eivät lennä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_479">
+      <lg>
+         <l pos="N">jorádâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">syvänne (vedessä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_523">
+      <lg>
+         <l pos="N">káđus</l>
+      </lg>
+      <mg rest="káttus">
+         <tg xml:lang="fin">
+            <t pos="N">katos</t>
+         </tg>
+      </mg>
+      <mg rest="káttus">
+         <tg xml:lang="fin">
+            <t pos="N">aitta (väliaikainen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_534">
+      <lg>
+         <l pos="N">karsti</l>
+      </lg>
+      <mg rest="kaarsti">
+         <tg xml:lang="fin">
+            <t pos="N">karsti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_760">
+      <lg>
+         <l pos="N">luákki</l>
+      </lg>
+      <mg rest="luáhi">
+         <tg xml:lang="fin">
+            <t pos="N">tyyni sää (tuulisella ilmalla tai navakan tuulen jälkeen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_812">
+      <lg>
+         <l pos="N">majebááh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">jälkeiset</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">myöhemmät</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_963">
+      <lg>
+         <l pos="N">njuálgus</l>
+      </lg>
+      <mg rest="njuál'gus">
+         <tg xml:lang="fin">
+            <t pos="N">suora (matem.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_981">
+      <lg>
+         <l pos="N">noppânjavkke</l>
+      </lg>
+      <mg rest="-nja'vke -njaavke">
+         <tg xml:lang="fin">
+            <t pos="N">lyhyt hanka (korvamerkissä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_982">
+      <lg>
+         <l pos="N">noppe</l>
+      </lg>
+      <mg rest="nope">
+         <tg xml:lang="fin">
+            <t pos="N">korkea niemi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_985">
+      <lg>
+         <l pos="N">nuáski</l>
+      </lg>
+      <mg rest="nuáski">
+         <tg xml:lang="fin">
+            <t pos="N">alava painanne (puita kasvava)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_998">
+      <lg>
+         <l pos="N">nursse</l>
+      </lg>
+      <mg rest="nu'rse">
+         <tg xml:lang="fin">
+            <t pos="N">tylppä esine</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1086">
+      <lg>
+         <l pos="N">paastaho</l>
+      </lg>
+      <mg rest="-taVo">
+         <tg xml:lang="fin">
+            <t pos="N">paha teko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1123">
+      <lg>
+         <l pos="N">pelisuormâhât</l>
+      </lg>
+      <mg rest="-suor'mâhâđah">
+         <tg xml:lang="fin">
+            <t pos="N">kynsikäs (käsine)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1193">
+      <lg>
+         <l pos="N">puhhiittâh</l>
+      </lg>
+      <mg rest="puhhiittuv">
+         <tg xml:lang="fin">
+            <t pos="N">kapea kohta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1247">
+      <lg>
+         <l pos="N">ramppâ</l>
+      </lg>
+      <mg rest="raampâ">
+         <tg xml:lang="fin">
+            <t pos="N">luiska</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1276">
+      <lg>
+         <l pos="N">ristâhâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">kristitty</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1285">
+      <lg>
+         <l pos="N">rohâdâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">vaikeakulkuinen maastonkohta (tiheikkö tai louhikko)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1293">
+      <lg>
+         <l pos="N">ruámnjádâhpieggâ</l>
+      </lg>
+      <mg rest="-piegâ">
+         <tg xml:lang="fin">
+            <t pos="N">puuskainen tuuli</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1297">
+      <lg>
+         <l pos="N">ruántti</l>
+      </lg>
+      <mg rest="ruánti">
+         <tg xml:lang="fin">
+            <t pos="N">vanha, pitkä ja laiha kala</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1304">
+      <lg>
+         <l pos="N">ruátu</l>
+      </lg>
+      <mg rest="ruáđu ruá'đo">
+         <tg xml:lang="fin">
+            <t pos="N">resu</t>
+         </tg>
+      </mg>
+      <mg rest="ruáđu ruá'đo">
+         <tg xml:lang="fin">
+            <t pos="N">rähjä</t>
+         </tg>
+      </mg>
+      <mg rest="ruáđu ruá'đo">
+         <tg xml:lang="fin">
+            <t pos="N">röttelö</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1311">
+      <lg>
+         <l pos="N">ruoŋâ</l>
+      </lg>
+      <mg rest="ruoŋâ">
+         <tg xml:lang="fin">
+            <t pos="N">vähäluminen keli (huono ajokeli)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1315">
+      <lg>
+         <l pos="N">ruottâsiih</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">juurekkaat Collybia</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1318">
+      <lg>
+         <l pos="N">ruttâuážžum</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">rahasaatava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1322">
+      <lg>
+         <l pos="N">ružže</l>
+      </lg>
+      <mg rest="ruže">
+         <tg xml:lang="fin">
+            <t pos="N">irvinaama</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1329">
+      <lg>
+         <l pos="N">rävisolmooš</l>
+      </lg>
+      <mg rest="-ulmuu">
+         <tg xml:lang="fin">
+            <t pos="N">aikuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1330">
+      <lg>
+         <l pos="N">rävkki</l>
+      </lg>
+      <mg rest="räävki">
+         <tg xml:lang="fin">
+            <t pos="N">raukka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1340">
+      <lg>
+         <l pos="N">saivâčääci</l>
+      </lg>
+      <mg rest="-čääsi">
+         <tg xml:lang="fin">
+            <t pos="N">makea vesi (suolaisen veden vastakohtana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1350">
+      <lg>
+         <l pos="N">savadâh</l>
+      </lg>
+      <mg rest="savaduv">
+         <tg xml:lang="fin">
+            <t pos="N">huono, luistamaton keli</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1351">
+      <lg>
+         <l pos="N">savjâčääci</l>
+      </lg>
+      <mg rest="-čääsi">
+         <tg xml:lang="fin">
+            <t pos="N">makea vesi (suolaisen veden vastakohtana)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1355">
+      <lg>
+         <l pos="N">seevi</l>
+      </lg>
+      <mg rest="seevi">
+         <tg xml:lang="fin">
+            <t pos="N">kova lumi (kevättalvella)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1359">
+      <lg>
+         <l pos="N">semiolmooš</l>
+      </lg>
+      <mg rest="-ulmuu">
+         <tg xml:lang="fin">
+            <t pos="N">tokkurainen (ihminen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1363">
+      <lg>
+         <l pos="N">setioornig</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">satunnainen järjestys</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1364">
+      <lg>
+         <l pos="N">sevetäävtih</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">ylimmät kylkiluut</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1366">
+      <lg>
+         <l pos="N">sevŋistiälkku</l>
+      </lg>
+      <mg rest="-tiälhu">
+         <tg xml:lang="fin">
+            <t pos="N">sokeatäplä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1368">
+      <lg>
+         <l pos="N">sieblâ</l>
+      </lg>
+      <mg rest="sieb'luu">
+         <tg xml:lang="fin">
+            <t pos="N">nuoska (upottava, märkä lumi)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1384">
+      <lg>
+         <l pos="N">sijdâolmooš</l>
+      </lg>
+      <mg rest="-ulmuu">
+         <tg xml:lang="fin">
+            <t pos="N">kyläläinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1406">
+      <lg>
+         <l pos="N">šiärádâh</l>
+      </lg>
+      <mg rest="šiä'Ráduv">
+         <tg xml:lang="fin">
+            <t pos="N">kirkas sää</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1414">
+      <lg>
+         <l pos="N">skinne</l>
+      </lg>
+      <mg rest="skiNe">
+         <tg xml:lang="fin">
+            <t pos="N">karvattomaksi kulunut nahka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1415">
+      <lg>
+         <l pos="N">skinnemuáddá</l>
+      </lg>
+      <mg rest="-muádá">
+         <tg xml:lang="fin">
+            <t pos="N">karvattomaksi kulunut peski</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1421">
+      <lg>
+         <l pos="N">skuárádâh</l>
+      </lg>
+      <mg rest="skuá'ráduv">
+         <tg xml:lang="fin">
+            <t pos="N">rahiseva hiihtokeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1422">
+      <lg>
+         <l pos="N">skuirepuásui</l>
+      </lg>
+      <mg rest="-poccuu">
+         <tg xml:lang="fin">
+            <t pos="N">laiha poro (sairauden takia laihtunut)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1473">
+      <lg>
+         <l pos="N">stuorrâjuáhu</l>
+      </lg>
+      <mg rest="-juáVu">
+         <tg xml:lang="fin">
+            <t pos="N">isojako</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1474">
+      <lg>
+         <l pos="N">stuorrâraddetekki</l>
+      </lg>
+      <mg rest="-teehi">
+         <tg xml:lang="fin">
+            <t pos="N">iso rintalihas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1495">
+      <lg>
+         <l pos="N">summe</l>
+      </lg>
+      <mg rest="suMe">
+         <tg xml:lang="fin">
+            <t pos="N">summa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1522">
+      <lg>
+         <l pos="N">sätioornig</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">satunnainen järjestys</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1544">
+      <lg>
+         <l pos="N">tálvádâh</l>
+      </lg>
+      <mg rest="tá'lváduv">
+         <tg xml:lang="fin">
+            <t pos="N">talvinen sää</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1548">
+      <lg>
+         <l pos="N">tárukielâ</l>
+      </lg>
+      <mg rest="-kielâ">
+         <tg xml:lang="fin">
+            <t pos="N">norja (kieli)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1575">
+      <lg>
+         <l pos="N">timádâh</l>
+      </lg>
+      <mg rest="timáduv">
+         <tg xml:lang="fin">
+            <t pos="N">pehmeä tai upottava keli</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1625">
+      <lg>
+         <l pos="N">tuárbumpeeli</l>
+      </lg>
+      <mg rest="-pele">
+         <tg xml:lang="fin">
+            <t pos="N">vasen puoli nuotattaessa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1655">
+      <lg>
+         <l pos="N">tuššâdeijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">tuhoaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1689">
+      <lg>
+         <l pos="N">uárbášnjâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">nimetön (sormi)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1691">
+      <lg>
+         <l pos="N">uárbišmâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">nimetön (sormi)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1717">
+      <lg>
+         <l pos="N">ulgâ</l>
+      </lg>
+      <mg rest="uulgâ">
+         <tg xml:lang="fin">
+            <t pos="N">jalallinen riuku</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1727">
+      <lg>
+         <l pos="N">uulguš</l>
+      </lg>
+      <mg rest="ulguu">
+         <tg xml:lang="fin">
+            <t pos="N">päällinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1736">
+      <lg>
+         <l pos="N">vaanhimeh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">vanhemmat</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1747">
+      <lg>
+         <l pos="N">váivádâh</l>
+      </lg>
+      <mg rest="vá'iváduv">
+         <tg xml:lang="fin">
+            <t pos="N">hankalat olosuhteet, jolloin kulku on vaikeaa (esim. paksun lumen, upottavan suon tms. takia)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1757">
+      <lg>
+         <l pos="N">vanhimeh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">vanhemmat</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1802">
+      <lg>
+         <l pos="N">vivvâpeeli</l>
+      </lg>
+      <mg rest="-pele">
+         <tg xml:lang="fin">
+            <t pos="N">nuoremman sisaren mies</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1810">
+      <lg>
+         <l pos="N">viäroiolmooš</l>
+      </lg>
+      <mg rest="-ulmuu">
+         <tg xml:lang="fin">
+            <t pos="N">outo ihminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1824">
+      <lg>
+         <l pos="N">vuárádâh</l>
+      </lg>
+      <mg rest="vuá'ráduv">
+         <tg xml:lang="fin">
+            <t pos="N">aurinkoinen ja selkeä sää</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1839">
+      <lg>
+         <l pos="N">vuorâsolmooš</l>
+      </lg>
+      <mg rest="-ulmuu">
+         <tg xml:lang="fin">
+            <t pos="N">aikuinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1840">
+      <lg>
+         <l pos="N">vuosah</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">jälkeiset</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1863">
+      <lg>
+         <l pos="N">vääni</l>
+      </lg>
+      <mg rest="vääni">
+         <tg xml:lang="fin">
+            <t pos="N">niukkuus</t>
+            <t pos="N">puute</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1869">
+      <lg>
+         <l pos="N">äimiskerkkâ</l>
+      </lg>
+      <mg rest="-skeerhâ">
+         <tg xml:lang="fin">
+            <t pos="N">vyölliset (erit. neulakota)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1870">
+      <lg>
+         <l pos="N">äimiskiärkku</l>
+      </lg>
+      <mg rest="-skiärhu">
+         <tg xml:lang="fin">
+            <t pos="N">vyölliset (erit. neulakota)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1887">
+      <lg>
+         <l pos="N">huksejeijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">rakentaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1890">
+      <lg>
+         <l pos="N">iberdeijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">ymmärtäjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1894">
+      <lg>
+         <l pos="N">installisteijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="X">asentaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1904">
+      <lg>
+         <l pos="N">juhâmâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">juoma</t>
+            <t pos="N">juotava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1906">
+      <lg>
+         <l pos="N">jämmee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">kuollut</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1910">
+      <lg>
+         <l pos="N">keejâdmâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">katseltava</t>
+            <t pos="N">nähtävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1919">
+      <lg>
+         <l pos="N">kođámâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">neulottava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1922">
+      <lg>
+         <l pos="N">kuáddámuš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">kannettava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1923">
+      <lg>
+         <l pos="N">kuárumâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">neulottava</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">ommeltava</t>
+            <t pos="N">ompelus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1924">
+      <lg>
+         <l pos="N">kuárumuš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">neulottava</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">ommeltava</t>
+            <t pos="N">ompelus</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1943">
+      <lg>
+         <l pos="N">máksámâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">maksettava (se, joka maksetaan)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1960">
+      <lg>
+         <l pos="N">nanodeijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">vahvistin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1963">
+      <lg>
+         <l pos="N">njuorâhpáárnáš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">imeväisikäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_2016">
+      <lg>
+         <l pos="N">vuáđusteijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">alustaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_2017">
+      <lg>
+         <l pos="N">vuáláneijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">alistuja</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_2020">
+      <lg>
+         <l pos="N">västideijee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">vastaaja</t>
+         </tg>
+      </mg>
+   </e>
 </r>

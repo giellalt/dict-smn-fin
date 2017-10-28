@@ -925,4 +925,44 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="A_1566">
+      <lg>
+         <l pos="Pron">tieggáár</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">sellainen (puhuteltavan lähellä olevasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1617">
+      <lg>
+         <l pos="Pron">tuággáár</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">tuollainen (viitataan etäämmällä olevaan)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1640">
+      <lg>
+         <l pos="Pron">tuoggáár</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">tuollainen (viitataan etäämmällä olevaan)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1659">
+      <lg>
+         <l pos="Pron">tyeggáár</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">tuollainen (viitataan etäämmällä olevaan)</t>
+         </tg>
+      </mg>
+   </e>
 </r>
