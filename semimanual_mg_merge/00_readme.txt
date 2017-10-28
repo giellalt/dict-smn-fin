@@ -15,13 +15,12 @@
 
 ###
 
- - for V: Sg1 form
-   ==> TODO
+ - for V: Sg1, Sg3, and Pl3 form
+   ==> DONE
 
-###
-
- - for V': Sg1 form and Sg3 form
-   ==> TODO
+src>grep '<l ' V_smnfin.xml |grep -v ' Pl3'|wc -l
+42
+ ==> 42 forms either without word forms (negation verbs, multi-word expressions, or non-recognised by the FST)
 
 ###
 
