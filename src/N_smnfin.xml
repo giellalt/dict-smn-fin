@@ -7165,11 +7165,11 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-	   <t pos="N">tilaisuus</t>
-	   <xg>
-	     <x>leđe  čalmevárdái</x>
-	     <xt>pitää silmällä</xt>
-	   </xg>
+            <t pos="N">tilaisuus</t>
+            <xg>
+               <x>leđe  čalmevárdái</x>
+               <xt>pitää silmällä</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -40777,11 +40777,11 @@
       </lg>
       <mg rest="ko'ško">
          <tg xml:lang="fin">
-	   <t pos="N">jano</t>
-	   <xg>
-	     <x>leđe koškoost</x>
-	     <xt>janottaa</xt>
-	   </xg>
+            <t pos="N">jano</t>
+            <xg>
+               <x>leđe koškoost</x>
+               <xt>janottaa</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -75164,16 +75164,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_7524">
-      <lg>
-         <l pos="N" nr="Pl">peljipiltoh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kuulokkeet</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_7525">
       <lg>
          <l pos="N" sg_gen="peljipiilto;peljipilto">peljipiltto</l>
@@ -75211,16 +75201,6 @@
       <mg rest="-puái'dáá">
          <tg xml:lang="fin">
             <t pos="N">korvannipukka</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7529">
-      <lg>
-         <l pos="N" nr="Pl">peljipunceh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">korvatulpat</t>
          </tg>
       </mg>
    </e>
@@ -75291,16 +75271,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">alasin (korvassa)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7537">
-      <lg>
-         <l pos="N" nr="Pl">peljisyejeh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kuulosuojaimet</t>
          </tg>
       </mg>
    </e>
@@ -75708,16 +75678,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_7578">
-      <lg>
-         <l pos="N" nr="Pl">persovnpápáreh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">henkilöpaperit</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_7579">
       <lg>
          <l pos="N" sg_gen="persovnpargoive">persovnpargoihe</l>
@@ -75745,16 +75705,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">henkilörekisteri</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7582">
-      <lg>
-         <l pos="N" nr="Pl">persovntiäđuh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">henkilötiedot</t>
          </tg>
       </mg>
    </e>
@@ -75984,16 +75934,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_7607">
-      <lg>
-         <l pos="N" nr="Pl">pessijááh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">pääsiäinen</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_7608">
       <lg>
          <l pos="N" sg_gen="pessikuárvih">pessikuárvih</l>
@@ -76155,16 +76095,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_7625">
-      <lg>
-         <l pos="N" nr="Pl">pevditäävih</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">pöytätavat</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_7626">
       <lg>
          <l pos="N" sg_gen="piano">piano</l>
@@ -76265,16 +76195,6 @@
       <mg rest="-jyelgi">
          <tg xml:lang="fin">
             <t pos="N">poro, jonka koivissa kuin säpikkäät</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7636">
-      <lg>
-         <l pos="N" nr="Pl">piđoh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">pidot</t>
          </tg>
       </mg>
    </e>
@@ -77186,16 +77106,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_7728">
-      <lg>
-         <l pos="N" nr="Pl">pinseteh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">pinsetit</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_7729">
       <lg>
          <l pos="N" sg_gen="pintedem">pintedem</l>
@@ -77454,16 +77364,6 @@
       <mg rest="# -is">
          <tg xml:lang="fin">
             <t pos="N">kirpeä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7757">
-      <lg>
-         <l pos="N" nr="Pl">piškoolodeh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Apodiformes" nr="Pl">kirskulinnut</t>
          </tg>
       </mg>
    </e>
@@ -78520,16 +78420,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_7863">
-      <lg>
-         <l pos="N" nr="Pl">piärgušivetteh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">lihakarja</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_7864">
       <lg>
          <l pos="N" sg_gen="piärtušm">piärtušm</l>
@@ -78707,16 +78597,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_7881">
-      <lg>
-         <l pos="N" nr="Pl">planktonelleeh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">eläinplankton</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_7882">
       <lg>
          <l pos="N" sg_gen="planktonšado">planktonšaddo</l>
@@ -78806,16 +78686,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_7890">
-      <lg>
-         <l pos="N" nr="Pl">pocceerääsih</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Apiaceae" nr="Pl">sarjakukkaiskasvit</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_7891">
       <lg>
          <l pos="N" sg_gen="pocceešado">pocceešaddo</l>
@@ -78843,16 +78713,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">putkiasentaja</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7895">
-      <lg>
-         <l pos="N" nr="Pl">poccuujáháleh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Cladina" nr="Pl">poronjäkälät</t>
          </tg>
       </mg>
    </e>
@@ -78945,16 +78805,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">irtain</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7905">
-      <lg>
-         <l pos="N" nr="Pl">pođoinjâsah</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">irtaimisto</t>
          </tg>
       </mg>
    </e>
@@ -79257,17 +79107,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_7936">
-      <lg>
-         <l pos="N" nr="Pl">poneh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kahvin porot</t>
-            <t pos="N">sakka</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_7937">
       <lg>
          <l pos="N" sg_gen="ponjemiestuu">ponjemiestâ</l>
@@ -79276,16 +79115,6 @@
          <tg xml:lang="fin">
             <t pos="N" tt_auto="Frangula alnus">korpipaatsama</t>
             <t pos="N" tt_auto="Rhamnus frangula">paatsama</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7938">
-      <lg>
-         <l pos="N" nr="Pl">ponjemiestâšadoh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Rhamnaceae" nr="Pl">paatsamakasvit</t>
          </tg>
       </mg>
    </e>
@@ -79486,17 +79315,6 @@
       <mg rest="-kuob'bâr">
          <tg xml:lang="fin">
             <t pos="N">pesusieni</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7959">
-      <lg>
-         <l pos="N" nr="Pl">poostah</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">hohtimet</t>
-            <t pos="N" nr="Pl">pihdit</t>
          </tg>
       </mg>
    </e>
@@ -79719,17 +79537,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">syöjä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7981">
-      <lg>
-         <l pos="N" nr="Pl">porthááh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">portaat</t>
-            <t pos="N" nr="Pl">rappuset</t>
          </tg>
       </mg>
    </e>
@@ -122467,16 +122274,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">uraani</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_12175">
-      <lg>
-         <l pos="N" nr="Pl">uurguh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">urut</t>
          </tg>
       </mg>
    </e>
