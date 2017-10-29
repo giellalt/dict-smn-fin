@@ -14704,7 +14704,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1461">
       <lg>
-         <l pos="N">čäcjiehhee</l>
+         <l pos="N">čäcijehhee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -85547,16 +85547,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_8573">
-      <lg>
-         <l pos="N">ramppâ</l>
-      </lg>
-      <mg rest="raampâ">
-         <tg xml:lang="fin">
-            <t pos="N">ramppi</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_8574">
       <lg>
          <l pos="N" sg_gen="raampi">ramppi</l>
@@ -95053,14 +95043,15 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_9509">
+   <e id="A_1355">
       <lg>
          <l pos="N">seevi</l>
       </lg>
       <mg rest="seevi">
          <tg xml:lang="fin">
-            <t pos="N">hanki (kantava, ei luja)</t>
-            <t pos="N">sevä (kova lumi kevättalvella)</t>
+            <t pos="N">hanki</t>
+            <t pos="N">sevä</t>
+            <t pos="N">kova lumi kevättalvella</t>
          </tg>
       </mg>
    </e>
@@ -113277,7 +113268,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="tâi miinii tagarijd)">
          <tg xml:lang="fin">
-            <t pos="N">tms. (tai muuta sellaista)</t>
+            <t pos="N">tms.</t>
+            <t pos="N">tai muuta sellaista</t>
          </tg>
       </mg>
    </e>
@@ -113287,7 +113279,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">ikään (painottava lisäsana)</t>
+            <t pos="N" re="painottava lisäsana">ikään</t>
          </tg>
       </mg>
    </e>
@@ -136905,6 +136897,11 @@ For the full license text, see the link above.
       </lg>
       <mg rest="raampâ">
          <tg xml:lang="fin">
+            <t pos="N">ramppi</t>
+         </tg>
+      </mg>
+      <mg rest="raampâ">
+         <tg xml:lang="fin">
             <t pos="N">luiska</t>
          </tg>
       </mg>
@@ -137056,16 +137053,6 @@ For the full license text, see the link above.
       <mg rest="-čääsi">
          <tg xml:lang="fin">
             <t pos="N">makea vesi (suolaisen veden vastakohtana)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1355">
-      <lg>
-         <l pos="N">seevi</l>
-      </lg>
-      <mg rest="seevi">
-         <tg xml:lang="fin">
-            <t pos="N">kova lumi (kevättalvella)</t>
          </tg>
       </mg>
    </e>
