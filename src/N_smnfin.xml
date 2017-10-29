@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="smn">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_smnfin.dtd">
+<r id="smnfin" xml:lang="smn">
+   <lics xml:space="preserve">
+  <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.
+</lic>
+<ref>Work by Marja-Liisa Olthuis and Taarna Valtonen, and by Giellatekno at UiT,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailtofeedback@divvun.no</a> and <a>mailtogiellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote></lics>
    <e id="N_1">
       <lg>
          <l pos="N" sg_gen="aabis">aabis</l>
@@ -6463,16 +6489,16 @@
    </e>
    <e id="N_659">
       <lg>
-         <l pos="N">čáárváh</l>
+         <l pos="N" nr="Pl">čáárváh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">sormenpäät</t>
+            <t pos="N" nr="Pl">sormenpäät</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">sormet</t>
+            <t pos="N" nr="Pl">sormet</t>
          </tg>
       </mg>
    </e>
@@ -6569,7 +6595,7 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">heinä (huono, käyttökelvoton heinä, joka varisee tai murtuu, kun kurikalla pehmitettäessä)</t>
+            <t pos="N">huono, käyttökelvoton heinä, joka varisee tai murtuu, kun kurikalla pehmitettäessä</t>
          </tg>
       </mg>
    </e>
@@ -7015,11 +7041,11 @@
    </e>
    <e id="N_714">
       <lg>
-         <l pos="N">čalmerammâseh</l>
+         <l pos="N" nr="Pl">čalmerammâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">silmäripset</t>
+            <t pos="N" nr="Pl">silmäripset</t>
          </tg>
       </mg>
    </e>
@@ -7035,7 +7061,7 @@
    </e>
    <e id="N_716">
       <lg>
-         <l pos="N">čalmerommâseh</l>
+         <l pos="N" nr="Pl">čalmerommâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7073,11 +7099,11 @@
    </e>
    <e id="N_719">
       <lg>
-         <l pos="N">čalmesinoh</l>
+         <l pos="N" nr="Pl">čalmesinoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Euphrasiaceae">silmäruohot</t>
+            <t pos="N" tt_auto="Euphrasiaceae" nr="Pl">silmäruohot</t>
          </tg>
       </mg>
    </e>
@@ -7187,11 +7213,11 @@
    </e>
    <e id="N_728">
       <lg>
-         <l pos="N">čánásiih</l>
+         <l pos="N" nr="Pl">čánásiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">helttasienet</t>
+            <t pos="N" nr="Pl">helttasienet</t>
          </tg>
       </mg>
       <mg rest="">
@@ -9542,11 +9568,11 @@
    </e>
    <e id="N_952">
       <lg>
-         <l pos="N">ciärkuheh</l>
+         <l pos="N" nr="Pl">ciärkuheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Cantharellus">vahverot</t>
+            <t pos="N" tt_auto="Cantharellus" nr="Pl">vahverot</t>
          </tg>
       </mg>
    </e>
@@ -9653,11 +9679,11 @@
    </e>
    <e id="N_963">
       <lg>
-         <l pos="N">čogâlmâsah</l>
+         <l pos="N" nr="Pl">čogâlmâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">kekkerit</t>
+            <t pos="N" nr="Pl">kekkerit</t>
          </tg>
       </mg>
       <mg rest="">
@@ -10066,16 +10092,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">sitoumus</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_1004">
-      <lg>
-         <l pos="N">čoođâ-čoođâ čuog'giistâh</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">etupistoilla tehty ommel (ommel)</t>
          </tg>
       </mg>
    </e>
@@ -11366,11 +11382,11 @@
    </e>
    <e id="N_1137">
       <lg>
-         <l pos="N">čuávjih</l>
+         <l pos="N" nr="Pl">čuávjih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">vaadin kantava</t>
+            <t pos="N" nr="Pl">vaadin kantava</t>
          </tg>
       </mg>
    </e>
@@ -13406,11 +13422,11 @@
    </e>
    <e id="N_1336">
       <lg>
-         <l pos="N">čuovjistáásnáššadoh</l>
+         <l pos="N" nr="Pl">čuovjistáásnáššadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N" tt_auto="Gentianaceae">katkerokasvit</t>
+            <t pos="N" tt_auto="Gentianaceae" nr="Pl">katkerokasvit</t>
          </tg>
       </mg>
    </e>
@@ -19152,7 +19168,7 @@
    </e>
    <e id="N_1911">
       <lg>
-         <l pos="N">geeniárbádâh</l>
+         <l pos="N" nr="Pl">geeniárbádâh</l>
       </lg>
       <mg rest="-á'rbáduv">
          <tg xml:lang="fin">
@@ -19891,7 +19907,7 @@
    </e>
    <e id="N_1985">
       <lg>
-         <l pos="N">háldáttâh</l>
+         <l pos="N">haldáttâh</l>
       </lg>
       <mg rest="há'ldáttuv">
          <tg xml:lang="fin">
@@ -22886,31 +22902,31 @@
    </e>
    <e id="N_2286">
       <lg>
-         <l pos="N">hänskeleh</l>
+         <l pos="N" nr="Pl">hänskeleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">henkselit</t>
+            <t pos="N" nr="Pl">henkselit</t>
          </tg>
       </mg>
    </e>
    <e id="N_2287">
       <lg>
-         <l pos="N">häŋkseleh</l>
+         <l pos="N" nr="Pl">häŋkseleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">henkselit</t>
+            <t pos="N" nr="Pl">henkselit</t>
          </tg>
       </mg>
    </e>
    <e id="N_2288">
       <lg>
-         <l pos="N">häŋkselih</l>
+         <l pos="N" nr="Pl">häŋkselih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">henkselit</t>
+            <t pos="N" nr="Pl">henkselit</t>
          </tg>
       </mg>
    </e>
@@ -23147,11 +23163,11 @@
    </e>
    <e id="N_2314">
       <lg>
-         <l pos="N">häävdidmeh</l>
+         <l pos="N" nr="Pl">häävdidmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">hautajaiset</t>
+            <t pos="N" nr="Pl">hautajaiset</t>
          </tg>
       </mg>
    </e>
@@ -25713,7 +25729,7 @@
    </e>
    <e id="N_2567">
       <lg>
-         <l pos="N">jávrádâh</l>
+         <l pos="N" nr="Pl">jávrádâh</l>
       </lg>
       <mg rest="já'vrádoh já'vráduh já'vráduv">
          <tg xml:lang="fin">
@@ -27398,7 +27414,7 @@
    </e>
    <e id="N_2734">
       <lg>
-         <l pos="N">jiäŋŋumčuágástuh</l>
+         <l pos="N" nr="Pl">jiäŋŋumčuágástuh</l>
       </lg>
       <mg rest="-čuá'gástuv">
          <tg xml:lang="fin">
