@@ -123,7 +123,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">lahjoittaa (antaa lahjaksi)</t>
-            <t pos="V">lahjoittaa (antaa lahjaksi)</t>
          </tg>
       </mg>
    </e>
@@ -290,7 +289,7 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">aitoa (urh.)</t>
+            <t pos="V" re="urh.">aitoa</t>
          </tg>
       </mg>
       <mg rest="">
@@ -705,7 +704,23 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">pitää (+ ess.) (jnak, jnkinlaisena)</t>
+	   <t pos="V">pitää (+ ess.) (jnak, jnkinlaisena)</t>
+	   <xg>
+	     <x>anneeđ šooŋâid</x>
+	     <xt>pitää (+ akk.) (tietynlaisia säitä)</xt>
+	   </xg>
+	   <xg>
+	     <x>anneeđ čalmeest</x>
+	     <xt>pitää silmällä</xt>
+	   </xg>
+	   <xg>
+         <x>anneeđ syeleest</x>
+	 <xt>pitää salassa</xt>
+	   </xg>
+	   <xg>  
+         <x>anneeđ mielâst</x>
+	 <xt>pitää mielessä</xt>
+	   </xg>
          </tg>
       </mg>
       <mg rest="">
@@ -713,86 +728,14 @@
             <t pos="V">tarvita</t>
          </tg>
       </mg>
-   </e>
-   <e id="V_65_corrected">
-      <lg>
-         <l pos="V">anneeđ šooŋâid</l>
-      </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">pitää (+ akk.) (tietynlaisia säitä)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_65_corrected">
-      <lg>
-         <l pos="V">anneeđ huolâ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">huolehtia (jälkeläisestä, esim. vaadin vasasta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">huolehtia (jstak tai jstk)</t>
-            <t pos="V">pitää huolta (jstak tai jstk)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_65_corrected">
-      <lg>
-         <l pos="V">anneeđ áárvust</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">arvostaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_65_corrected">
-      <lg>
-         <l pos="V">anneeđ čalmeest</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää silmällä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">valvoa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tarkkailla</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_65_corrected">
-      <lg>
-         <l pos="V">anneeđ syeleest</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää salassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_65_corrected">
-      <lg>
-         <l pos="V">anneeđ mielâst</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää mielessä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">muistaa</t>
-         </tg>
+	   <t pos="V">huolehtia</t>
+	   <xg>
+	     <x>anneeđ huolâ</x>
+	     <xt>huolehtia (jälkeläisestä, esim. vaadin vasasta)</xt>
+	   </xg>
+	 </tg>
       </mg>
    </e>
    <e id="V_66">
@@ -1850,26 +1793,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">sokaista</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_163">
-      <lg>
-         <l pos="V">čalmevárdái anneeđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää silmällä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_164">
-      <lg>
-         <l pos="V">leđe čalmevárdái</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">pitää silmällä</t>
          </tg>
       </mg>
    </e>
@@ -4574,17 +4497,11 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kerätä</t>
-            <t pos="V">poimia</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_405_b">
-      <lg>
-         <l pos="V">čuággiđ kuobbârijd</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">sienestää</t>
+	    <t pos="V">poimia</t>
+	    <xg>
+	      <x>čuággiđ kuobbârijd</x>
+	      <xt>sienestää</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -6056,16 +5973,6 @@
          <tg xml:lang="fin">
             <t pos="V">huudahtaa</t>
             <t pos="V">huutaa (kerran)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_533">
-      <lg>
-         <l pos="V">leđe čuosân</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">olla sulkasadossa</t>
          </tg>
       </mg>
    </e>
@@ -10992,17 +10899,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">yltyä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_991">
-      <lg>
-         <l pos="V">anneeđ ilgâdin</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">inhota</t>
-            <t pos="V">pitää rumana tai vastenmielisenä</t>
          </tg>
       </mg>
    </e>
@@ -18215,16 +18111,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kuivahtaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_1655">
-      <lg>
-         <l pos="V">leđe koškoost</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">janottaa</t>
          </tg>
       </mg>
    </e>

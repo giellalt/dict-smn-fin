@@ -4177,7 +4177,11 @@
             <t pos="A">ilkeä (nähtävä)</t>
             <t pos="A">iljettävä (nähtävä)</t>
             <t pos="A">vastenmielinen (ruma)</t>
-            <t pos="A">pahannäköinen</t>
+	    <t pos="A">pahannäköinen</t>
+	    <xg>
+	      <x>anneeđ ilgâdin</x>
+	      <xt>pitää rumana tai vastenmielisenä</xt>
+	    </xg>
          </tg>
       </mg>
    </e>

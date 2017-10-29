@@ -7159,6 +7159,20 @@
          </tg>
       </mg>
    </e>
+   <e id="N_726">
+      <lg>
+         <l pos="N" status="_unknown_N">čalmeväärdis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+	   <t pos="N">tilaisuus</t>
+	   <xg>
+	     <x>leđe  čalmevárdái</x>
+	     <xt>pitää silmällä</xt>
+	   </xg>
+         </tg>
+      </mg>
+   </e>
    <e id="N_727">
       <lg>
          <l pos="N" sg_gen="čalmevuáláá">čalmevuálááš</l>
@@ -40763,7 +40777,11 @@
       </lg>
       <mg rest="ko'ško">
          <tg xml:lang="fin">
-            <t pos="N">jano</t>
+	   <t pos="N">jano</t>
+	   <xg>
+	     <x>leđe koškoost</x>
+	     <xt>janottaa</xt>
+	   </xg>
          </tg>
       </mg>
    </e>
