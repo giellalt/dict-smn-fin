@@ -1692,6 +1692,11 @@
       </lg>
       <mg rest="# čuá'sidâs čuá'sidis">
          <tg xml:lang="fin">
+            <t pos="A">kylmä</t>
+         </tg>
+      </mg>
+      <mg rest="# čuá'sidâs čuá'sidis">
+         <tg xml:lang="fin">
             <t pos="A">viileä</t>
          </tg>
       </mg>
@@ -3561,16 +3566,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_354">
-      <lg>
-         <l status="_known_as_Adv" pos="A">hiälpub</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">helpompi (komp.)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_355">
       <lg>
          <l status="_unknown_" pos="A">hiälpubiššááš</l>
@@ -3946,7 +3941,7 @@
    </e>
    <e id="A_385">
       <lg>
-         <l status="_unknown_" pos="A">hänis</l>
+         <l attr="häänis" pos="A">hänis</l>
       </lg>
       <mg rest="háánnás # hänis hänes">
          <tg xml:lang="fin">
@@ -20001,16 +19996,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_1132">
-      <lg>
-         <l attr="čuásidis;čuásidâs" pos="A">čuássid</l>
-      </lg>
-      <mg rest="# čuá'sidâs čuá'sidis">
-         <tg xml:lang="fin">
-            <t pos="A">kylmä</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_1170">
       <lg>
          <l attr="čuážžuvis" pos="A">čuážžuvâš</l>
@@ -20098,7 +20083,7 @@
       </lg>
       <mg rest="epimiä'Rulii">
          <tg xml:lang="fin">
-            <t pos="A">epämääräinen (kielitiet.)</t>
+            <t pos="A" re="kielitiet">epämääräinen</t>
          </tg>
       </mg>
    </e>
@@ -20602,15 +20587,8 @@
       <mg rest="šlied'dâs # šlied'dâ">
          <tg xml:lang="fin">
             <t pos="A">uupunut</t>
-            <t pos="A">veltto</t>
-            <t pos="A">voimaton</t>
          </tg>
       </mg>
-   </e>
-   <e id="N_10007">
-      <lg>
-         <l status="_unknown_" pos="A">šlieđâs</l>
-      </lg>
       <mg rest="šlieđ'đâs # šlieđ'đâ">
          <tg xml:lang="fin">
             <t pos="A">veltto</t>
