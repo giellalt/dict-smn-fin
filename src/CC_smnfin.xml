@@ -36,6 +36,11 @@ For the full license text, see the link above.
             <t pos="CC">elikkä</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CC">tai</t>
+         </tg>
+      </mg>
    </e>
    <e id="CC_2">
       <lg>
@@ -45,6 +50,11 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="CC">eli</t>
             <t pos="CC">elikkä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CC">tai</t>
          </tg>
       </mg>
    </e>
