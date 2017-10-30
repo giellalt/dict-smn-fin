@@ -18,13 +18,13 @@ Some statistics:
   action point ==> add these forms to the adj-lexc file
  
 src>grep '<l ' A_smnfin.xml |grep 'status="_unknown_"'|wc -l
-229
+221
 
 
 (2) 103 recognised forms by the current smn-FST, however as N or Adv
   action point ==> check and correct pos-values accordingly
-     96 _known_as_N
-      7 _known_as_Adv
+     92 _known_as_N
+      6 _known_as_Adv
 
 (3) Overgeneration of attr forms with the current smn-FST:
  action point ==> correct paths in the continuation classes
@@ -32,17 +32,7 @@ src>grep '<l ' A_smnfin.xml |grep 'status="_unknown_"'|wc -l
 src>pwd
 /Users/cipriangerstenberger/main/words/dicts/smnfin/src
 src>grep '<l ' A_smnfin.xml |g ';'|cut -d '"' -f2|tr ';' '\n'|sort|uniq -c|sort -nr
-
-      4 vuorâs
-      4 jiešráđálâš
-      2 čuásidâs
-      2 čuásidis
-      2 siskelumos
-      2 ovdemuš
-      2 koskâlumos
-      2 ibbeerdmáttum
-      2 ibbeerdmettum
-      2 alemus
+DONE
 
 (4) still double-entries
 DONE

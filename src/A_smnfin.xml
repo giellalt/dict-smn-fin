@@ -420,21 +420,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_46">
-      <lg>
-         <l attr="alemus;alemus" pos="A">alemus</l>
-      </lg>
-      <mg rest="alemuu">
-         <tg xml:lang="fin">
-            <t pos="A">ylin</t>
-         </tg>
-      </mg>
-      <mg rest="alemuu">
-         <tg xml:lang="fin">
-            <t pos="A">korkein</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_47">
       <lg>
          <l attr="alfanummeerlâš" pos="A">alfanummeerlâš</l>
@@ -4005,17 +3990,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_390">
-      <lg>
-         <l attr="ibbeerdmettum;ibbeerdmáttum" pos="A">ibbeerdmáttum</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">käsittämätön</t>
-            <t pos="A">ymmärtämätön</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_391">
       <lg>
          <l attr="ibbeerdmettum;ibbeerdmáttum" pos="A">ibbeerdmettum</l>
@@ -4743,7 +4717,7 @@
    </e>
    <e id="A_464">
       <lg>
-         <l attr="jiešráđálâš;jiešráđálâš;jiešráđálâš;jiešráđálâš" pos="A">jiešráđálâš</l>
+         <l attr="jiešráđálâš" pos="A">jiešráđálâš</l>
       </lg>
       <mg rest="-ráđálii">
          <tg xml:lang="fin">
@@ -6318,7 +6292,7 @@
    </e>
    <e id="A_625">
       <lg>
-         <l attr="koskâlumos;koskâlumos" pos="A">koskâlumos</l>
+         <l attr="koskâlumos" pos="A">koskâlumos</l>
       </lg>
       <mg rest="koskâlummoos">
          <tg xml:lang="fin">
@@ -10124,7 +10098,7 @@
    </e>
    <e id="A_1033">
       <lg>
-         <l status="_unknown_" pos="A">oovdemuš</l>
+         <l pos="N">oovdemuš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -13480,7 +13454,7 @@
    </e>
    <e id="A_1390">
       <lg>
-         <l attr="siskelumos;siskelumos" pos="A">siskelumos</l>
+         <l attr="siskelumos" pos="A">siskelumos</l>
       </lg>
       <mg rest="siskelummoos">
          <tg xml:lang="fin">
@@ -20635,7 +20609,7 @@
    </e>
    <e id="N_12998">
       <lg>
-         <l attr="vuorâs;vuorâs;vuorâs;vuorâs" pos="A">vuorâs</l>
+         <l attr="vuorâs" pos="A">vuorâs</l>
       </lg>
       <mg rest="vuorrâs vuorrâs # vuo'râs">
          <tg xml:lang="fin">
