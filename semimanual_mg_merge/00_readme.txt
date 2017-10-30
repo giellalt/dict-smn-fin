@@ -45,24 +45,7 @@ src>grep '<l ' A_smnfin.xml |g ';'|cut -d '"' -f2|tr ';' '\n'|sort|uniq -c|sort 
       2 alemus
 
 (4) still double-entries
-
-      2 šlieđâs
-      2 čuássid
-      2 čaavdes
-      2 tušše
-      2 sävri
-      2 smiäru
-      2 ruávis
-      2 paččee
-      2 ovtâskâs
-      2 orroo
-      2 neehuš
-      2 luáđhus
-      2 käcci
-      2 kiähnu
-      2 hävski
-      2 hänis
-
+DONE
 
 
 ###
