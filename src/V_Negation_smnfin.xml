@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<r id="smnfin" xml:lang="smn">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic><ref>Work by ...
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote></lics>
+   <e id="V_1105">
+      <lg>
+         <l pos="V">jiem</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">en</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_1101">
+      <lg>
+         <l pos="V" v_type="rv">jieh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">et</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_618">
+      <lg>
+         <l pos="V" v_type="rv">ep</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">emme (mon.)</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e id="V_620">
+      <lg>
+         <l pos="V">eppeđ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ette (mon.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_621">
+      <lg>
+         <l pos="V">eppee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">ette (kaks.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_1040">
+      <lg>
+         <l pos="V" v_type="rv">iä</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">eivät (mon.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_1044">
+      <lg>
+         <l pos="V">iäge</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">eivätkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_1053">
+      <lg>
+         <l pos="V" v_type="rv">iän</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">emme (kaks.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_1071">
+      <lg>
+         <l pos="V" v_type="rv">iävá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">eivät (duaali)</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e id="V_604">
+      <lg>
+         <l pos="V" v_type="rv">ele</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">älä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_611">
+      <lg>
+         <l pos="V">elleđ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">älkää (mon.)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_612">
+      <lg>
+         <l pos="V">ellee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">älkää (kaks.)</t>
+         </tg>
+      </mg>
+   </e>
+</r>
