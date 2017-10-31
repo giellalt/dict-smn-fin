@@ -14,16 +14,15 @@
    ==> DONE
 
 Some statistics:
-(1) 229 unknown=unrecognised forms by the current smn-FST
+(1) 219 unknown=unrecognised forms by the current smn-FST
   action point ==> add these forms to the adj-lexc file
  
 src>grep '<l ' A_smnfin.xml |grep 'status="_unknown_"'|wc -l
-221
-
+219
 
 (2) 103 recognised forms by the current smn-FST, however as N or Adv
   action point ==> check and correct pos-values accordingly
-     92 _known_as_N
+     45 _known_as_N
       6 _known_as_Adv
 
 (3) Overgeneration of attr forms with the current smn-FST:
@@ -37,6 +36,10 @@ DONE
 (4) still double-entries
 DONE
 
+(5) analysed as Adj but not attr form generated (might be an error but it might be not: there are adj without attr forms, I assume)
+ 53
+Example:
+<l status="no_attr" pos="A">tulcesčievâg</l>
 
 ###
 
