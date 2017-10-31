@@ -10,16 +10,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_414">
-      <lg>
-         <l nr="Pl" pos="N">amnâsluhâmeh</l>
-      </lg>
-      <mg rest="-luhâmij">
-         <tg xml:lang="fin">
-            <t nr="Pl" pos="N">aineopinnot</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_418">
       <lg>
          <l nr="Pl" pl_gen="amnâsuápui" pos="N">amnâsuápuh</l>
@@ -1180,7 +1170,7 @@
    </e>
    <e id="N_5055">
       <lg>
-         <l pos="N">lieveeh<l
+         <l pos="N">lieveeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
