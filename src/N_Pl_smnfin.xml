@@ -30,16 +30,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_432">
-      <lg>
-         <l nr="Pl" pos="N">anopiivtâs</l>
-      </lg>
-      <mg rest="-pihtâsij">
-         <tg xml:lang="fin">
-            <t nr="Pl" pos="N">arkivaatteet</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_472">
       <lg>
          <l nr="Pl" pos="N">arâiiđeeduđđâseh</l>
@@ -57,7 +47,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t nr="Pl" pos="N">sadehousut</t>
-            <t nr="Pl" pos="N">kurahousut</t>
          </tg>
       </mg>
    </e>
