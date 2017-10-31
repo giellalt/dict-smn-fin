@@ -137581,4 +137581,36 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="A_1033">
+      <lg>
+         <l pos="N">oovdemuš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">etummainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1968">
+      <lg>
+         <l pos="N">orroo</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">asuja</t>
+            <t pos="N">asukas</t>
+            <t pos="N">olija</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1970">
+      <lg>
+         <l pos="N">paččee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">lypsäjä</t>
+         </tg>
+      </mg>
+   </e>
 </r>
