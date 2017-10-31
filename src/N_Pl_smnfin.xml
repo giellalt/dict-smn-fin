@@ -106,7 +106,7 @@
    </e>
    <e id="N_747">
       <lg>
-         <l nr="Pl" pos="N">čapiskääsih</l>
+         <l  pos="N">čapiskääsih</l>
       </lg>
       <mg rest="-kässih">
          <tg xml:lang="fin">
@@ -1180,7 +1180,7 @@
    </e>
    <e id="N_5055">
       <lg>
-         <l nr="Pl" pl_gen="lievei" pos="N">lieveeh</l>
+         <l pos="N">lieveeh<l
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2313,16 +2313,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_5515">
-      <lg>
-         <l pos="N" nr="Pl">máánutaavdah</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" nr="Pl">kuukautiset</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_5614">
       <lg>
          <l pos="N" nr="Pl">maneráávsáh</l>
@@ -2939,7 +2929,7 @@
    </e>
    <e id="N_9714">
       <lg>
-         <l pos="N" nr="Pl">sijđostâh</l>
+         <l pos="N">sijđostâh</l>
       </lg>
       <mg rest="si'jđostuv">
          <tg xml:lang="fin">
@@ -2969,7 +2959,7 @@
    </e>
    <e id="N_9823">
       <lg>
-         <l pos="N" nr="Pl">siäládâh</l>
+         <l pos="N">siäládâh</l>
       </lg>
       <mg rest="siä'Láduv">
          <tg xml:lang="fin">
@@ -3473,7 +3463,7 @@
    </e>
    <e id="N_12001">
       <lg>
-         <l pos="N" nr="Pl">ucâdâh</l>
+         <l pos="N">ucâdâh</l>
       </lg>
       <mg rest="ucâduv">
          <tg xml:lang="fin">
@@ -3544,7 +3534,7 @@
    </e>
    <e id="N_12282">
       <lg>
-         <l pos="N" nr="Pl">vakšuuttâh</l>
+         <l pos="N">vakšuuttâh</l>
       </lg>
       <mg rest="vakšuuttuv">
          <tg xml:lang="fin">
@@ -3606,7 +3596,7 @@
    </e>
    <e id="N_12658">
       <lg>
-         <l pos="N" nr="Pl">vistádâh</l>
+         <l pos="N">vistádâh</l>
       </lg>
       <mg rest="vistáduv">
          <tg xml:lang="fin">
