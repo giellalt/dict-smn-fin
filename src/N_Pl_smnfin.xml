@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <r>
    <e id="N_233">
       <lg>
@@ -3681,7 +3683,7 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N" nr="Pl">voimavarat</t>
-            <t pos="N" nr="Pl">voimat (fyysiset)</t>
+            <t pos="N" nr="Pl">fyysiset voimat</t>
          </tg>
       </mg>
    </e>
