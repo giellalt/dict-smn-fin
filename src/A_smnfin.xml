@@ -1689,16 +1689,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_172">
-      <lg>
-         <l status="_unknown_" pos="A">čuávdihánnáá</l>
-      </lg>
-      <mg rest="# -s">
-         <tg xml:lang="fin">
-            <t pos="A">avaamaton (esim. solmu)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_174">
       <lg>
          <l attr="cuávis" pos="A">cuávis</l>
@@ -1746,16 +1736,6 @@
       <mg rest="-čievvâg">
          <tg xml:lang="fin">
             <t pos="A">teräväkulmainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_179">
-      <lg>
-         <l status="_unknown_" pos="A">čuhčâdum</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">kuivumaan pantu</t>
          </tg>
       </mg>
    </e>
@@ -3174,18 +3154,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_319">
-      <lg>
-         <l status="_unknown_" pos="A">hárjánâm</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">kokenut</t>
-            <t pos="A">tottunut</t>
-            <t pos="A">harjaantunut</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_320">
       <lg>
          <l attr="hárjánmettum;hárjánmáttum" pos="A">hárjánmettum</l>
@@ -3321,16 +3289,6 @@
       <mg rest="# heeppâdtemes">
          <tg xml:lang="fin">
             <t pos="A">häpeämätön</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_333">
-      <lg>
-         <l status="_unknown_" pos="A">helppiittum</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">helpottunut</t>
          </tg>
       </mg>
    </e>
