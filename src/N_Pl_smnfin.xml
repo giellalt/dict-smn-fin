@@ -94,16 +94,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_747">
-      <lg>
-         <l  pos="N">čapiskääsih</l>
-      </lg>
-      <mg rest="-kässih">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Hygrophorus camarophyllus">mustavahakas</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_826">
       <lg>
          <l nr="Pl" pl_gen="čevđâstuvâi" pos="N">čevđâstuvah</l>
@@ -1165,16 +1155,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t nr="Pl" pos="N">avajaiset</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_5055">
-      <lg>
-         <l pos="N">lieveeh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">joen leventymä</t>
          </tg>
       </mg>
    </e>
@@ -2917,16 +2897,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_9714">
-      <lg>
-         <l pos="N">sijđostâh</l>
-      </lg>
-      <mg rest="si'jđostuv">
-         <tg xml:lang="fin">
-            <t pos="N">sivusto</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_9727">
       <lg>
          <l pos="N" nr="Pl">silbâmiestâšadoh</l>
@@ -2944,16 +2914,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">karja (kotieläimistä)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_9823">
-      <lg>
-         <l pos="N">siäládâh</l>
-      </lg>
-      <mg rest="siä'Láduv">
-         <tg xml:lang="fin">
-            <t pos="N">hyvä keli, jolloin lumi on kuohkeaa</t>
          </tg>
       </mg>
    </e>
@@ -3451,16 +3411,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_12001">
-      <lg>
-         <l pos="N">ucâdâh</l>
-      </lg>
-      <mg rest="ucâduv">
-         <tg xml:lang="fin">
-            <t pos="N">hakemisto</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_12051">
       <lg>
          <l pos="N" nr="Pl">uccpuvssiih</l>
@@ -3522,16 +3472,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_12282">
-      <lg>
-         <l pos="N">vakšuuttâh</l>
-      </lg>
-      <mg rest="vakšuuttuv">
-         <tg xml:lang="fin">
-            <t pos="N">tarkkaamo</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_12285">
       <lg>
          <l pos="N" nr="Pl">valastâllâmpuuvsah</l>
@@ -3581,16 +3521,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N" tt_auto="Pleurotus" nr="Pl">vinokkaat</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_12658">
-      <lg>
-         <l pos="N">vistádâh</l>
-      </lg>
-      <mg rest="vistáduv">
-         <tg xml:lang="fin">
-            <t pos="N">huoneisto</t>
          </tg>
       </mg>
    </e>
