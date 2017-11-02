@@ -1351,7 +1351,7 @@
    </e>
    <e id="A_135">
       <lg>
-         <l status="_known_as_N" pos="A">čielgilâš</l>
+         <l attr="čielgilâš" pos="A">čielgilâš</l>
       </lg>
       <mg rest="čielgilii">
          <tg xml:lang="fin">
@@ -1568,7 +1568,7 @@
    </e>
    <e id="A_164">
       <lg>
-         <l attr="čovgis" status="_unknown_" pos="A">čovgâd</l>
+         <l status="_unknown_" pos="A">čovgâd</l>
       </lg>
       <mg rest="# čovgâ čo'vgis">
          <tg xml:lang="fin">
@@ -6784,7 +6784,7 @@
    </e>
    <e id="A_682">
       <lg>
-         <l attr="kuoirâ" status="_unknown_" pos="A">kuoirâs</l>
+         <l status="_unknown_" pos="A">kuoirâs</l>
       </lg>
       <mg rest="kuoi'râs # kuoi'râ">
          <tg xml:lang="fin">
@@ -10710,7 +10710,7 @@
    </e>
    <e id="A_1106">
       <lg>
-         <l status="_unknown_" pos="A">parfe</l>
+         <l status="_known_as_N" pos="A">parfe</l>
       </lg>
       <mg rest="-) pa'rfe">
          <tg xml:lang="fin">
@@ -11019,7 +11019,7 @@
    </e>
    <e id="A_1137">
       <lg>
-         <l status="_known_as_Adv" pos="A">pilláá</l>
+         <l attr="pilláás" pos="A">pilláá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -12259,7 +12259,7 @@
    </e>
    <e id="A_1263">
       <lg>
-         <l status="_unknown_" pos="A">ričče</l>
+         <l status="_known_as_N" pos="A">ričče</l>
       </lg>
       <mg rest="riče">
          <tg xml:lang="fin">
@@ -14236,7 +14236,7 @@
    </e>
    <e id="A_1472">
       <lg>
-         <l status="_known_as_Adv" pos="A">stulláá</l>
+         <l attr="stulláás" pos="A">stulláá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -14346,7 +14346,7 @@
    </e>
    <e id="A_1482">
       <lg>
-         <l status="_known_as_N" pos="A">suámálâš</l>
+         <l attr="suámálâš" pos="A">suámálâš</l>
       </lg>
       <mg rest="suá'málii">
          <tg xml:lang="fin">
@@ -17002,7 +17002,7 @@
    </e>
    <e id="A_1770">
       <lg>
-         <l status="_unknown_" pos="A">veitâlâs</l>
+         <l status="_known_as_N" pos="A">veitâlâs</l>
       </lg>
       <mg rest="ve'itâlii">
          <tg xml:lang="fin">
