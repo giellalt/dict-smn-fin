@@ -13,17 +13,24 @@
  - for A: Attr form
    ==> DONE
 
+---update:
+20171103
+    211          <l status="_unknown_" pos="A"
+     53          <l status="no_attr" pos="A"
+     46          <l status="_known_as_N" pos="A"
+      4          <l status="_known_as_Adv" pos="A"
+update---
+
+
+
 Some statistics:
-(1) 219 unknown=unrecognised forms by the current smn-FST
+(1) 211 unknown=unrecognised forms by the current smn-FST
   action point ==> add these forms to the adj-lexc file
  
-src>grep '<l ' A_smnfin.xml |grep 'status="_unknown_"'|wc -l
-219
-
-(2) 103 recognised forms by the current smn-FST, however as N or Adv
+(2) 50 recognised forms by the current smn-FST, however as N or Adv
   action point ==> check and correct pos-values accordingly
-     45 _known_as_N
-      6 _known_as_Adv
+     46 _known_as_N
+      4 _known_as_Adv
 
 (3) Overgeneration of attr forms with the current smn-FST:
  action point ==> correct paths in the continuation classes
@@ -31,10 +38,19 @@ src>grep '<l ' A_smnfin.xml |grep 'status="_unknown_"'|wc -l
 src>pwd
 /Users/cipriangerstenberger/main/words/dicts/smnfin/src
 src>grep '<l ' A_smnfin.xml |g ';'|cut -d '"' -f2|tr ';' '\n'|sort|uniq -c|sort -nr
-DONE
+
+      4 epilyetittettee
+      2 siskelumos
+      2 ovdemuš
+      2 koskâlumos
+
+ ==> TODO
 
 (4) still double-entries
-DONE
+      2 sävri
+      2 häänis
+
+ == TODO
 
 (5) analysed as Adj but not attr form generated (might be an error but it might be not: there are adj without attr forms, I assume)
  53
