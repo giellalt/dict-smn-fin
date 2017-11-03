@@ -1126,7 +1126,7 @@
    </e>
    <e id="A_112">
       <lg>
-         <l status="_unknown_" pos="A">čálálâs</l>
+         <l attr="čálálâs" pos="A">čálálâs</l>
       </lg>
       <mg rest="čálálii">
          <tg xml:lang="fin">
@@ -3176,7 +3176,7 @@
    </e>
    <e id="A_322">
       <lg>
-         <l status="_unknown_" pos="A">hástálâs</l>
+         <l attr="hástálâs" pos="A">hástálâs</l>
       </lg>
       <mg rest="hástálii">
          <tg xml:lang="fin">
@@ -18760,7 +18760,7 @@
    </e>
    <e id="A_1984">
       <lg>
-         <l status="_unknown_" pos="A">šiäštálâs</l>
+         <l attr="šiäštálâs" pos="A">šiäštálâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -20236,7 +20236,7 @@
    </e>
    <e id="N_7501">
       <lg>
-         <l status="_unknown_" pos="A">pelikukke</l>
+         <l attr="pelikuhes" pos="A">pelikukke</l>
       </lg>
       <mg rest="-kuhe # -kuhes">
          <tg xml:lang="fin">
