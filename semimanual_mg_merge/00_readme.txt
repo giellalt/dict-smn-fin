@@ -8,6 +8,18 @@
  - for N: Gen+Sg form
    ==> DONE
 
+(1) dict sg nouns without sg_gen form
+g '<l ' 4_final_output_sg/N_smnfin.xml |g -v ' sg_'|g -v ' status'
+         <l pos="N">penâkkullâm</l>
+         <l pos="N">psykiatrâ</l>
+         <l pos="N">siemkiärtuš</l>
+         <l pos="N">telegram</l>
+
+(2) 1184 dict sg noun entries with analysis issues
+
+g '<l ' 4_final_output_sg/N_smnfin.xml |g ' status'|cut -d '>' -f1|t
+   1184          <l pos="N" status="_unknown_N"
+
 ###
 
  - for A: Attr form
