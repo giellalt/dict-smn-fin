@@ -620,7 +620,7 @@
    </e>
    <e id="A_67">
       <lg>
-         <l status="_unknown_" pos="A">ánulâs</l>
+         <l attr="ánulâs" pos="A">ánulâs</l>
       </lg>
       <mg rest="ánulii">
          <tg xml:lang="fin">
@@ -1324,7 +1324,7 @@
    </e>
    <e id="A_132">
       <lg>
-         <l status="_unknown_" pos="A">čiehčâlâs</l>
+         <l attr="čiehčâlâs" pos="A">čiehčâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1766,7 +1766,7 @@
    </e>
    <e id="A_183">
       <lg>
-         <l status="_unknown_" pos="A">čuojâlâs</l>
+         <l attr="čuojâlâs" pos="A">čuojâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1883,7 +1883,7 @@
    </e>
    <e id="A_194">
       <lg>
-         <l status="_unknown_" pos="A">čurvolâs</l>
+         <l attr="čurvolâs" pos="A">čurvolâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1982,7 +1982,7 @@
    </e>
    <e id="A_203">
       <lg>
-         <l status="_unknown_" pos="A">čäcijuhâlâs</l>
+         <l attr="čäcijuhâlâs" pos="A">čäcijuhâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2057,7 +2057,7 @@
    </e>
    <e id="A_211">
       <lg>
-         <l status="_unknown_" pos="A">eđâbiššááš</l>
+         <l attr="eđâbiššáá" pos="A">eđâbiššááš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3514,7 +3514,7 @@
    </e>
    <e id="A_355">
       <lg>
-         <l status="_unknown_" pos="A">hiälpubiššááš</l>
+         <l attr="hiälpubiššáá" pos="A">hiälpubiššááš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3802,7 +3802,7 @@
    </e>
    <e id="A_377">
       <lg>
-         <l status="_unknown_" pos="A">hutolâs</l>
+         <l attr="hutolâs" pos="A">hutolâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4958,7 +4958,7 @@
    </e>
    <e id="A_492">
       <lg>
-         <l status="_unknown_" pos="A">juhâlâs</l>
+         <l attr="juhâlâs" pos="A">juhâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5112,7 +5112,7 @@
    </e>
    <e id="A_506">
       <lg>
-         <l status="_unknown_" pos="A">jyehi-ivvááš</l>
+         <l attr="jyehi-ivváá" pos="A">jyehi-ivvááš</l>
       </lg>
       <mg rest="-ivváá">
          <tg xml:lang="fin">
@@ -6854,7 +6854,7 @@
    </e>
    <e id="A_688">
       <lg>
-         <l status="_unknown_" pos="A">kuvdâlâs</l>
+         <l attr="kuvdâlâs" pos="A">kuvdâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -6994,7 +6994,7 @@
    </e>
    <e id="A_700">
       <lg>
-         <l status="_unknown_" pos="A">kähvijuhâlâs</l>
+         <l attr="kähvijuhâlâs" pos="A">kähvijuhâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7035,7 +7035,7 @@
    </e>
    <e id="A_705">
       <lg>
-         <l status="_unknown_" pos="A">käähvijuhâlâs</l>
+         <l attr="käähvijuhâlâs" pos="A">käähvijuhâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -9356,7 +9356,7 @@
    </e>
    <e id="A_957">
       <lg>
-         <l status="_unknown_" pos="A">njolgááš</l>
+         <l attr="njolgáá" pos="A">njolgááš</l>
       </lg>
       <mg rest="njolgáá">
          <tg xml:lang="fin">
@@ -9607,7 +9607,7 @@
    </e>
    <e id="A_987">
       <lg>
-         <l status="_unknown_" pos="A">nubbááš</l>
+         <l attr="nubbáá" pos="A">nubbááš</l>
       </lg>
       <mg rest="nubbáá">
          <tg xml:lang="fin">
@@ -18234,7 +18234,7 @@
    </e>
    <e id="A_1902">
       <lg>
-         <l status="_unknown_" pos="A">juárbulâs</l>
+         <l attr="juárbulâs" pos="A">juárbulâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18493,7 +18493,7 @@
    </e>
    <e id="A_1948">
       <lg>
-         <l status="_unknown_" pos="A">maŋasčyeccee</l>
+         <l attr="maŋasčyeccee" pos="A">maŋasčyeccee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18603,7 +18603,7 @@
    </e>
    <e id="A_1965">
       <lg>
-         <l status="_unknown_" pos="A">nuhâlâs</l>
+         <l attr="nuhâlâs" pos="A">nuhâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18649,7 +18649,7 @@
    </e>
    <e id="A_1971">
       <lg>
-         <l status="_unknown_" pos="A">paimâlâs</l>
+         <l attr="paimâlâs" pos="A">paimâlâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
