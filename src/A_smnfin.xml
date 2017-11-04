@@ -2,6 +2,16 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <r id="smnfin" xml:lang="smn">
+   <e id="N_9829">
+      <lg>
+         <l pos="A">siämmáámaanaag</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">samamunainen</t>
+         </tg>
+      </mg>
+   </e>
    <e id="A_1">
       <lg>
          <l attr="aakuustlâš" pos="A">aakuustlâš</l>

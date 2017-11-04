@@ -21679,16 +21679,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_2179">
-      <lg>
-         <l pos="N" status="_unknown_N">hiävukuávlualue</l>
-      </lg>
-      <mg rest="-kuávlu">
-         <tg xml:lang="fin">
-            <t pos="N">tuho</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_2180">
       <lg>
          <l pos="N" sg_gen="hiäppuš">hiävuš</l>
@@ -36046,39 +36036,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">kivääri</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_3608">
-      <lg>
-         <l pos="N" status="_unknown_N">kiivšád</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kiusallasi (2. pers.)</t>
-            <t pos="N">kiusoittelumielessä (2. pers.)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_3609">
-      <lg>
-         <l pos="N" status="_unknown_N">kiivšán</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kiusallani (1. pers.)</t>
-            <t pos="N">kiusoittelumielessä (1. pers.)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_3610">
-      <lg>
-         <l pos="N" status="_unknown_N">kiivšás</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kiusallaan (3. pers.)</t>
-            <t pos="N">kiusoittelumielessä (3. pers.)</t>
          </tg>
       </mg>
    </e>
@@ -66027,36 +65984,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">toiselle puolelle</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_6652">
-      <lg>
-         <l pos="N" status="_unknown_N">nubepeln</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">toisella puolella</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_6653">
-      <lg>
-         <l pos="N" status="_unknown_N">nubetove</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">toisella kertaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_6654">
-      <lg>
-         <l pos="N" status="_unknown_N">nubetuv</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">toisella kertaa</t>
          </tg>
       </mg>
    </e>
@@ -96863,36 +96790,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_9786">
-      <lg>
-         <l pos="N" status="_unknown_N">siskiibel</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">sisäpuolelle</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_9787">
-      <lg>
-         <l pos="N" status="_unknown_N">siskiibele</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">sisäpuolelta</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_9788">
-      <lg>
-         <l pos="N" status="_unknown_N">siskiibeln</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">sisäpuolella</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_9789">
       <lg>
          <l pos="N" status="_unknown_N">siskiš</l>
@@ -97266,16 +97163,6 @@
       <mg rest="siälu">
          <tg xml:lang="fin">
             <t pos="N">sielu</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_9829">
-      <lg>
-         <l pos="N" status="_unknown_N">siämmáámaanaag</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">samamunainen</t>
          </tg>
       </mg>
    </e>
@@ -103348,7 +103235,7 @@
    </e>
    <e id="N_10444">
       <lg>
-         <l pos="N" status="_unknown_N">suá´tivie´hâsaje</l>
+         <l pos="N">suátiviehâsaje</l>
       </lg>
       <mg rest="-saje">
          <tg xml:lang="fin">

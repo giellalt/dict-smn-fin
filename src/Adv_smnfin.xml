@@ -6210,6 +6210,66 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_6652">
+      <lg>
+         <l pos="Adv">nubepeln</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">toisella puolella</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6653">
+      <lg>
+         <l pos="Adv">nubetove</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">toisella kertaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6654">
+      <lg>
+         <l pos="Adv">nubetuv</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">toisella kertaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_9786">
+      <lg>
+         <l pos="Adv">siskiibel</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sisäpuolelle</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_9787">
+      <lg>
+         <l pos="Adv">siskiibele</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sisäpuolelta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_9788">
+      <lg>
+         <l pos="Adv">siskiibeln</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sisäpuolella</t>
+         </tg>
+      </mg>
+   </e>
    <e id="Adv_536">
       <lg>
          <l pos="Adv">nubenáál</l>
