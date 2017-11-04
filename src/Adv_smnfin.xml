@@ -27,6 +27,153 @@ For the full license text, see the link above.
      or could be wrongly sorted.
      </sourcenote></lics>
 
+   <e id="N_2373">
+      <lg>
+         <l pos="N" status="_unknown_N">iiŋŋân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">rutikuivuuden aikana</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_35">
+      <lg>
+         <l pos="N" status="_unknown_N">áálgukeččin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">alkupäässä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_12424">
+      <lg>
+         <l pos="N" status="_unknown_N">verrin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">varalta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7487">
+      <lg>
+         <l pos="N" status="_unknown_N">pelduvvâin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">puoliksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7542">
+      <lg>
+         <l pos="N" status="_unknown_N">pellduvvâin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">puoliksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4863">
+      <lg>
+         <l pos="N" status="_unknown_N">lain</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">lailla (tavoin)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10908">
+      <lg>
+         <l pos="N" status="_unknown_N">taavaapeln</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">pohjoispuolella</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7184">
+      <lg>
+         <l pos="N" status="_unknown_N">pajaluv</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">ylen (esim. katsoa ylen, halveksua)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_8649">
+      <lg>
+         <l pos="N" status="_unknown_N">rekkân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">juurta jaksaen</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">kerralla</t>
+         </tg>
+      </mg>
+   </e>
+     
+    <e id="N_5391">
+      <lg>
+         <l pos="Adv" status="_unknown_N">luusâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">luoksesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5392">
+      <lg>
+         <l pos="Adv" status="_unknown_N">luusân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">luokseni</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5393">
+      <lg>
+         <l pos="Adv" status="_unknown_N">luusâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">luokseen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5396">
+      <lg>
+         <l pos="Adv" status="_unknown_N">luussân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">luokseni</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5397">
+      <lg>
+         <l pos="Adv" status="_unknown_N">luussâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">luokseen</t>
+         </tg>
+      </mg>
+   </e>
+
    <e id="V_1757">
       <lg>
          <l pos="Adv">kuhheeht</l>
@@ -89,6 +236,26 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">ainakin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11261">
+      <lg>
+         <l pos="Adv">tiäđoost</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+           <t pos="Adv">tiedossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_9514">
+      <lg>
+         <l pos="Adv">seevvist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sekaisin (mieleltään)</t>
          </tg>
       </mg>
    </e>
@@ -3354,6 +3521,107 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="Adv">jälleen</t>
             <t pos="Adv">taas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11437">
+      <lg>
+         <l pos="N" status="_unknown_N">tovnpeln</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">toisella puolella</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11949">
+      <lg>
+         <l pos="N" status="_unknown_N">uárjipeln</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">länsipuolella</t>
+            <t pos="N">länsipuolelta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6528">
+      <lg>
+         <l pos="N" status="_unknown_N">njunolâsân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">nenälleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_8667">
+      <lg>
+         <l pos="N" status="_unknown_N">revnigâsân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">reunaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11987">
+      <lg>
+         <l pos="N" status="_unknown_N">ubânâsân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">ylipäätään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2799">
+      <lg>
+         <l pos="N" status="_unknown_N">jotonpieijum</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">vireillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11361">
+      <lg>
+         <l pos="N" status="_unknown_N">tonnân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">juuri sinä (esim. päivänä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2629">
+      <lg>
+         <l pos="N" status="_unknown_N">jiehtinâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">eilispäivänä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_8802">
+      <lg>
+         <l pos="N" status="_unknown_N">ristâlâsân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">ristiin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2438">
+      <lg>
+         <l pos="N" status="_unknown_N">iptoppeln</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">varjopuolella</t>
          </tg>
       </mg>
    </e>
