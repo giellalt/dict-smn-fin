@@ -14,26 +14,26 @@
    </e>
    <e id="N_13501">
       <lg>
-         <l pos="N" status="_unknown_N">uđamâg</l>
+         <l pos="A">uđamâg</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">opettamaton (porosta)</t>
+            <t pos="A">opettamaton (porosta)</t>
          </tg>
       </mg>
    </e>
    <e id="N_6511">
       <lg>
-         <l pos="N" status="_unknown_N">njuigo</l>
+         <l pos="A">njuigo</l>
       </lg>
       <mg rest="nju'igo">
          <tg xml:lang="fin">
-            <t pos="N">liian kapea (esim. ahkiosta)</t>
+            <t pos="A">liian kapea (esim. ahkiosta)</t>
          </tg>
       </mg>
       <mg rest="nju'igo">
          <tg xml:lang="fin">
-            <t pos="N">liian pitkä (esim. kengän kärjestä)</t>
+            <t pos="A">liian pitkä (esim. kengän kärjestä)</t>
          </tg>
       </mg>
    </e>

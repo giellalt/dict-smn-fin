@@ -2,6 +2,32 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <r>
+   <e id="N_8561">
+      <lg>
+         <l pos="N" nr="Pl">railâseh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t nr="Pl" pos="N">tikapuut</t>
+            <t nr="Pl" pos="N">tikkaat</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2031">
+      <lg>
+         <l pos="N" status="_unknown_N">haskuleh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">voimat tehdä jtak</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">yritys tehdä jtak</t>
+         </tg>
+      </mg>
+   </e>
    <e id="N_233">
       <lg>
          <l nr="Pl" pl_gen="áimuvuoimij" pos="N">áimuvyeimih</l>
@@ -170,6 +196,36 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t nr="Pl" pos="N">lannenikamat</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_12865">
+      <lg>
+         <l pos="N" status="_unknown_N">vuásváh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">tähde, jonka raskaana oleva nainen on jättänyt, kun ei ole ruokahalua esim. pahoinvoinnin takia</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_669">
+      <lg>
+         <l pos="N" nr="Pl">cáimáttuvah</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">huono, käyttökelvoton heinä, joka varisee tai murtuu, kun kurikalla pehmitettäessä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_12563">
+      <lg>
+         <l pos="N" nr="Pl">vijlâseh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">viileke (jk esineen asento toisen olan yli ja toisen ali)</t>
          </tg>
       </mg>
    </e>
