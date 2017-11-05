@@ -2015,16 +2015,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_201">
-      <lg>
-         <l status="_unknown_" pos="Adv">čyevtib</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">enemmän</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_203">
       <lg>
          <l attr="čäcijuhâlâs" pos="A">čäcijuhâlâs</l>
@@ -5041,16 +5031,6 @@
       <mg rest="ju'lgâlii">
          <tg xml:lang="fin">
             <t pos="A">julkinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_496">
-      <lg>
-         <l status="_unknown_" pos="N">julle</l>
-      </lg>
-      <mg rest="juLe">
-         <tg xml:lang="fin">
-            <t pos="N">sarveton poro</t>
          </tg>
       </mg>
    </e>
@@ -11697,16 +11677,6 @@
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">hidas (ihmisestä)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1208">
-      <lg>
-         <l status="_unknown_" pos="Adv">puunjij</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">kierosti</t>
          </tg>
       </mg>
    </e>
