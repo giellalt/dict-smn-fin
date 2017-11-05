@@ -2,6 +2,26 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <r id="smnfin" xml:lang="smn">
+   <e id="N_3297">
+      <lg>
+         <l pos="A">keđgipajasâš</l>
+      </lg>
+      <mg rest="-paJasii">
+         <tg xml:lang="fin">
+            <t pos="A">kivikautinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6847">
+      <lg>
+         <l pos="N" status="_unknown_N">ollâgumos</l>
+      </lg>
+      <mg rest="ollâgummoos">
+         <tg xml:lang="fin">
+            <t pos="N">korkein</t>
+         </tg>
+      </mg>
+   </e>
    <e id="N_8789">
       <lg>
          <l status="_unknown_" pos="A">riskes</l>

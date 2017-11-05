@@ -417,6 +417,10 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="Pron">joka</t>
             <t pos="Pron">mikä</t>
+	    <xg>
+	      <x>mii ihánes</x>
+	      <xt>mikä hyvänsä</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
