@@ -1,29 +1,27 @@
-lasa:lasa x ;       ! ovenpieli_(paikka_heti_oven_vieressä)
+195 " x "
+
+lasa:lasa 2KISSA ;       ! ovenpieli_(paikka_heti_oven_vieressä) CHECK
 ambassaad:ambassaad 3LITTER ;       ! suurlähetystö
 nijbástillee:nijbástillee C_LOHHEE ;       ! puukottaja 
 miähástillee:miähástillee C_LOHHEE ;       ! miekkailija    !
 čyeđđee:čyeđđee C_LOHHEE ;       ! porohirvas_
 ohe:o^RVh^RCe 2VAHE ;       ! sikiö
 suátiviehâsaje:suátiviehâsa^RVj^RCe 2NJUNE ;       ! varuskunta
-tuume:tuume x ;       ! tuuma_(mittayksikkö)
+tuume:tuume 2KUMPPI ;       ! tuuma_(mittayksikkö)
 skinne:ski^RVnne 2ALGE ;       ! karvattomaksi_kulunut_nahka
 noppe:no^RVppe 2ALGE ;       ! korkea_niemi
-ovdedemise:ovdedemise x ;       ! kehitysapu
+ovdedemise:ovdedemise x ;       ! kehitysapu    ! typo ovdedemiše 
 site:sit^RCe 2NJUNE ;       ! teline_(ristikonmuotoinen,_esim._juuston_paistoon_tai_kuivaukseen)
 sote:sot^RCe 2NJUNE ;       ! resu_(kulunut_vaatekappale)™sote
 tažilig:tažilig 4CAHALIG ;       ! lisko™tažilig
 skoorig:skoorig 3LITTER ;       ! kauha™skoorig CHECK
-kaimârig:kaimârig x ;       ! lapamato
-siäháviärdág:siäháviärdág x ;       ! sekovartinen
-cáimáttuvah:cáimáttuvah x ;       ! heinä_(huono,_käyttökelvoton_heinä,
-haskuleh:haskuleh x ;       ! voimat_tehdä_jtak™haskuleh
-railâseh:railâseh x ;       ! tikapuut™railâseh
-vijlâseh:vijlâseh x ;       ! viileke_(jk_esineen_asento_toisen_olan_yli_ja_toisen_ali)
-piässdoh:piässdoh x ;       ! vitsas
-kalmaattoh:kalmaattoh x ;       ! pakaste™kalmaattoh
-kieđâlohlááiđuh:kieđâlohlááiđuh x ;       ! porolla_ajavaa_lähinnä_takana_oleva_poro
-vuásváh:vuásváh x ;       ! tähde,_jonka_raskaana_oleva_nainen_on_jättänyt
-stuárááh:stuárááh x ;       ! isokokoinen_poro_tai_muu_eläin
+kaimârig:kaimârig 4CAHALIG ;       ! lapamato
+siäháviärdág:siähá#viärdág x ;       ! sekovartinen
+railâs:ra^RVi4lâs 3PIIVTAS "tikapuut" ;!
+piäsádâh+Err/Orth:piässdoh 4KUBALOH ;       ! vitsas    ! pyereeb: piäsádâh
+kalmattoh+Err/Orth:kalmaattoh K ;       ! pakaste™kalmaattoh    ! typo kalmattoh
+kieđâlohlááiđuh:kieđâloh#lááiđuh 3EEMEED ;       ! porolla_ajavaa_lähinnä_takana_oleva_poro
+stuárááh:stuárááh 3EEMEED ;       ! isokokoinen_poro_tai_muu_eläin ! kalga testađ
 äigiavadâh:äigiavad 4JOTOLAH ;       ! aikavyöhyke
 savadâh:savad 4JOTOLAH ;       ! huono,_luistamaton_keli
 veeddâh:veedd 4JOTOLAH ;       ! lieassa_oleva_(eläin)
@@ -90,20 +88,17 @@ uággi:uággi 2AIGI ;       ! lahti_(pieni,_kapeasuinen_tai_terävä)
 lievgi:lievgi 2AIGI ;       ! nuotanperän_ylä-_ja_alapaula
 ääci:ääc^RCi 2CAACI ;       ! koipienväli™ääci
 pyramid+Err/Orth:pyramidi APINA ;       ! pyramidi
-passii:passii x ;       ! pentele
-čuottii:čuottii x ;       ! sadasti™čuottii
 šyeji:šyej^RCi3 2SYEJI ;       ! vainajan_henki™šyeji
 šyeiji:šyei4j^RCi3 2SYEJI ;       ! vainajan_henki™šyeiji
-detalji:detalji x ;       ! yksityiskohta
+detalji:detalji APINA ;       ! yksityiskohta
 čevnji:čevnji 2AIGI ;       ! soppi_(kodan)™čevnji
 härji:härji 2AIGI ;       ! harja_(esim._hevosen_tai_katon)™härji
 spiekki:spiekk4i 2AIGI ;       ! romu
-verkki:ve^RVrkk4i x ;       ! raaka-aine™verkki
-snärkki:snä^RVrkk4i x ;       ! sotku_(narussa_tai_langassa)™snärkki
-luákki:luákk4i 2AIGI ;       ! tyyni_sää_(tuulisella_ilmalla_tai_navakan_tuulen_jälkeen)
+verkki:ve^RVrkk4i 2AIGI ;       ! raaka-aine™verkki
+snärkki:snä^RVrkk4i 2AIGI ;       ! sotku_(narussa_tai_langassa)™snärkki
+luákki:luákk4i 2KUMPPI ;  !?      ! tyyni_sää_(tuulisella_ilmalla_tai_navakan_tuulen_jälkeen)
 tuákki:tuákk4i 2AIGI ;       ! lintuparvi_(iso)
 čuákki:čuákk4i 2AIGI ;       ! kerääntymä
-solki:solki x ;       ! vyönsolki
 peski:pe^RVski 2AIGI ;       ! notkelma™peski
 nuáski:nuáski 2AIGI ;       ! alava_painanne_(puita_kasvava)
 myetki:myetki 2AIGI ;       ! taival
@@ -111,81 +106,70 @@ ruuki:ruuki APINA ;       ! kaivos_(teollinen)
 tali:tali APINA ;       ! tali
 vyeli:vyel^RCi3 2KYELI ;       ! alus
 tilli:ti^RVlli 2KUMPPI ;       ! tilli
-puálli:puálli x ;       ! suvanto_(lyhyt,_toisella_rannalla_lahti)
+puálli:puálli 2AIGI ;       ! suvanto_(lyhyt,_toisella_rannalla_lahti)
 kooli:kooli APINA ;       ! vati
 tuárjuvuoli:tuárju#vuoli APINA ;       ! vuoli_(katon_alla_salvoskatoksessa)™tuárjuvuoli
 suávli:suávli 2AIGI ;       ! sohjo™suávli
 pääli:pääl^RCi 2SAAMI ;       ! hetki™pääli
 kieimi:kiei4mi 2AIGI ;       ! kiima-aika
-semmi:se^RVmmi 2KUMPPI ;       ! unenpöpperö™semmi
+semmi:se^RVmmi 2AIGI ;       ! unenpöpperö™semmi
 jiesmi:jiesmi 2AIGI ;       ! joutsen_(alle_yksivuotias,_kunnes_saa_puhtaanvalkoisen_höyhenpuvun)™jiesmi
 jesmi:je^RVsmi 2AIGI ;       ! laulujoutsen_(puolivuotiaaksi_asti)
 leđmi:le^RVđmi 2AIGI ;       ! lapa_(airon_tms.)
 hurrikaani:hurrikaani APINA ;       ! hurrigaan
 mäini:mäi4ni 2AIGI ;       ! finni™mäini
-ehidâsvijni:ehidâsvijni x ;       ! ehtoollisviini
+ehidâsviini+Err/Orth:ehidâs#vijni 2KUMPPI ;       ! ehtoollisviini
 kerni:ke^RVrni 2AIGI ;       ! hanki_(ohut,_kova,_leikkaava)
 revni:re^RVvni 2AIGI ;       ! reuna
 čevni:če^RVvni 2AIGI ;       ! soppi_(kodan)™čevni
 dyyni:dyyni ARINA ;       ! dyyni
-puájoi:puájoi x ;       ! paju
-urmápoaroi:urmápoaroi x ;       ! kurmupaarma™urmápoaroi
-kurmápoaroi:kurmápoaroi x ;       ! kurmupaarma™kurmápoaroi
-njuároi:njuároi x ;       ! purolähdesammal
-cuáŋoi:cuáŋoi x ;       ! kantohanki™cuáŋoi
-neepi:neepi 2AIGI ;       ! sisaren_lapsi
+puájui+N+Sg+Nom+Err/Orth:puájoi K ;       ! paju
+cuáŋui+N+Sg+Nom+Err/Orth:cuáŋoi K ;       ! kantohanki™cuáŋoi
+neepi:neep^RCi 2KYELI ;       ! sisaren_lapsi
 lieppi:lieppi 2AIGI ;       ! kalakoukku_(lyötävä)™lieppi
-harppi:ha^RVrppi 2AIGI ;       ! harppi
-luuppi:luuppi 2AIGI ;       ! luuppi_(suurennuslasi)
+harppi:ha^RVrppi 2KUMPPI ;       ! harppi
+luuppi:luuppi 2KUMPPI ;       ! luuppi_(suurennuslasi)
 ruáppi:ruáppi 2AIGI ;       ! surma
-aspi:a^RVspi 2AIGI ;       ! sinkilä
-sorvâkolari:sorvâkolari APINA ;       ! hirvikolari
+aspi:a^RVspi 2KUMPPI ;       ! sinkilä
 kevri:ke^RVvri 2AIGI ;       ! sompa
 astkääri:astkääri x ;       ! äyskäri
-myesi:myesi x ;       ! rauha
-äksi:äksi x ;       ! otsaluu_(poron)
+myesi:myes^RCi 2SAAMI ;       ! rauha
+äksi:ä^RVksi 2AIGI ;       ! otsaluu_(poron)
 soosi:soosi APINA ;       ! kastike
-pessi:pessi APINA ;       ! tuohi
+pessi:pe^RVssi 2KUMPPI ;       ! tuohi
 potenssi:potenssi APINA ;       ! potenssi
 ruusukvartsi:ruusukvartsi APINA ;       ! ruusukvartsi
 abiturienti:abiturienti APINA ;       ! abiturientti
-kemisti:kemisti x ;       ! kemisti
-karsti:karsti x ;       ! karsti
-ryetti:ryetti x ;       ! karsta
-heŋgâvieltti:heŋgâvieltti x ;       ! rinne_(jyrkkä)
-vintti:vi^RVntti 2AIGI ;       ! vintti™vintti
+kemisti:kemisti APINA ;       ! kemisti
+karsti:ka^RVrsti 2KUMPPI ;       ! karsti
+ryetti:ryetti 2AIGI ;       ! karsta
+heŋgâvieltti:heŋgâ#vieltti 2AIGI ;       ! rinne_(jyrkkä)
+vintti:vi^RVntti 2KUMPPI ;       ! vintti™vintti
 ruántti:ruántti 2AIGI ;       ! vanha,_pitkä_ja_laiha_kala
-raavi:raavi x ;       ! oja_(tien,_pellon_tms.)
-peskâheivi:peskâheivi 2AIGI ;       ! peski,_joka_on_kaunis,_hyvä_ja/tai_sopiva
-juvâttemkolvi:juvâttemkolvi 2AIGI ;       ! juottokolvi
-läävi:läävi 2SAAMI ;       ! noita_(vähävoimainen)
-cyezzi:cyezzi x ;       ! nahka_(sarvien_välissä)
-puázzi:puázzi x ;       ! viilto_(ansavarvussa_lankaa_varten)
-almostusâi:almostusâi x ;       ! ilmestyskirja
-kiddâluvâi:kiddâluvâi x ;       ! kiinnitysten
-maŋaspoođâi:maŋaspoođâi x ;       ! takaperin
-myeiđi:myeiđi 2AIGI ;       ! peuranpyynti_talvella
-stänži:stänži 2AIGI ;       ! sotku™stänži
-pärši:pärši 2AIGI ;       ! kukkula
-čevŋi:čevŋi 2AIGI ;       ! soppi_(kodan)™čevŋi
+raavi:raavi APINA ;       ! oja_(tien,_pellon_tms.)
+peskâheivi:peskâ#he^RVi4vi 2KUMPPI ;       ! peski,_joka_on_kaunis,_hyvä_ja/tai_sopiva
+juvâttemkolvi:juvâttem"ko^RVlvi 2KUMPPI ;       ! juottokolvi
+läävi:lääv^RCi 2SAAMI ;       ! noita_(vähävoimainen)
+cyezzi:cyezzi 2AIGI ;       ! nahka_(sarvien_välissä)
+puázzi:puázzi 2AIGI ;       ! viilto_(ansavarvussa_lankaa_varten)
+myeiđi:myei4đi 2AIGI ;       ! peuranpyynti_talvella
+stänži:stä^RVnži 2AIGI ;       ! sotku™stänži
+pärši:pä^RVrši 2AIGI ;       ! kukkula
+čevŋi:če^RVvŋi 2AIGI ;       ! soppi_(kodan)™čevŋi
 viežži:viežži 2AIGI ;       ! iljanne
 kyešši:kyešši 2AIGI ;       ! tuohirove_(sangallinen)™kyešši
-pelčči:pelčči 2AIGI ;       ! keula_(ahkion)
-kiäigusjuolgij:kiäigusjuolgij x ;       ! jalat_suorina
-ragetij:ragetij x ;       ! ilotulitus
-raketij:raketij x ;       ! ilotulitus
-snuortij:snuortij x ;       ! vetosolmussa
-ruopsisailak:ruopsisailak 3LITTER ;       ! puna-ailakki
+pelčči:pe^RVlčči 2AIGI ;       ! keula_(ahkion)
+ruopsisailak:ruopsis#ailak 3LITTER ;       ! puna-ailakki
 piirak:piirak 3LITTER ;       ! piirakka
 russak:russak 3LITTER ;       ! russakka
 arnik:arnik 3LITTER ;       ! arnikki
-topârik:topârik x ;       ! kama™topârik
+topârik:topârik 3LITTER ;       ! kama™topârik
 mansik:mansik 3LITTER ;       ! mansikka
-kuolbâmansik:kuolbâmansik 3LITTER ;       ! ahomansikka
-maaŋgâpovijseitik:maaŋgâpovijseitik 3LITTER ;       ! monivyöseitikki
-inuk:inuk x ;       ! inuitti™inuk
-siŋnaal:siŋnaal 3EEMEED ;       ! signaali
-genitaal:genitaal 3EEMEED ;       ! sukupuolielin
+kuolbâmansik:kuolbâ#mansik 3LITTER ;       ! ahomansikka
+maaŋgâpovijseitik:maaŋgâpovij#seitik 3LITTER ;       ! monivyöseitikki
+inuk:inuk 3LITTER ;       ! inuitti™inuk
+siŋnaal:siŋnaal 3LITTER ;       ! signaali
+genitaal:genitaal 3LITTER ;       ! sukupuolielin
 ruupeel:ruupeel 3EEMEED ;       ! propelli
 peljipel:peljipel x ;       ! pistohanka_(korvamerkissä)
 skalpel:skalpel 3LITTER ;       ! skalpelli
@@ -193,11 +177,11 @@ vaskool:vaskool 3LITTER ;       ! vaskoli
 takstool:takstool 3LITTER ;       ! kattotuoli
 kolesterol:kolesterol 3LITTER ;       ! kolesteroli
 sámbyl:sámbyl 3LITTER ;       ! sämpylä
-viinyl:viinyl 3LITTER ;       ! vinyyli
+viinyl:viinyl 3EEMEED ;       ! vinyyli
 jurbâl:jurbâl 3LITTER ;       ! sämpylä
-siessâl:siessâl x ;       ! veljenlapsi_(isän_puoleiselle_tädilleen)
-tooŋâl:tooŋâl x ;       ! niskajänne_(poron)
-muođđâl:muođđâl x ;       ! sisarenlapsi_(äidin_nuoremman_sisaren_lapsi_tädille)
+siessâl:siessâl 3LITTER ;       ! veljenlapsi_(isän_puoleiselle_tädilleen)
+tooŋâl:tooŋâl 3EEMEED ;       ! niskajänne_(poron)
+muođđâl:muođđâl 3EEMEED ;       ! sisarenlapsi_(äidin_nuoremman_sisaren_lapsi_tädille)
 suvâlâšlasânem:suvâlâšlasânem x ;       ! suvullinen_lisääntyminen
 reaktem:reaktem 3LITTER ;       ! reaktio
 juuvâšvuojâttem:juuvâšvuojâttem x ;       ! purouitto
@@ -543,3 +527,47 @@ kozzâš:kozzâš x ;       ! kynnys
 koozzâš:koozzâš x ;       ! kyntynen
 kuovđâš:kuovđâš x ;       ! painanne_(pieni,_kostea,_ruohikkoinen)
 čäcikuávđâš:čäcikuávđâš x ;       ! vesipäästäinen
+
+C_PUASUI-leksikon:
+njuárui+N+Sg+Nom+Err/Orth:njuároi C_PUASUI "purolähdesammal" ;       ! 
+njuárui:njo^RVrru C_PUASUI "purolähdesammal" ; !¢njorruin, njorrust, njorrui, njorruu
+kiällupuásui:kiällu#po^RVcc4u C_PUASUI "kelloporo" ; 
+
+
+cuábui:cuobbu C_PUASUI "sammakko" ; ! YAML ¢cuobbuin, cuobbust, cuobbui, cuobbuu
+cuáŋui:cuoŋŋu C_PUASUI "hanki" ;	!¢cuoŋŋuin, cuoŋŋust, cuoŋŋui, cuoŋŋuu
+elettempuásui:elettem#po^RVcc4u C_PUASUI "eloporo" ;
+fiskisjyelgčiävžui:fiskisjyelg#če^RVvžu C_PUASUI "keltajalkaviklo" ;
+iänui:e^RVnnu C_PUASUI "eno" ; !¢ennuin, ennust, ennui, ennuu
+juhânjuárui:juhâ#njuorru C_PUASUI "kalkkilähdesammal" ;
+kiällupuásui:kiällu#po^RVcc4u C_PUASUI "kelloporo" ;
+koddempuásui:koddem#po^RVcc4u C_PUASUI "" ;
+kolbâcuábui:kolbâ#cuobbu C_PUASUI "kilpikonna" ;
+kuddumpuávui:kuddum#puohhu C_PUASUI "äkämä" ;
+kurmápuárui:kurmá#po^RVrru C_PUASUI ;
+kuámui:kuommu C_PUASUI "pötsinsisältö" ;	!¢kuommuin, kuommust, kuommui, kuommuu
+láddučiävžui:láddu#če^RVvžu C_PUASUI "lampiviklo" ;
+njunepuárui:njune#po^RVrru C_PUASUI "nenäsaivartaja" ;
+njuovvâmpuásui:njuovvâm#po^RVcc4u C_PUASUI "teurasporo" ;
+njurgui:njurgu C_PUASUI "mustalintu" ;	!¢njurguin, njurgust, njurgui, njurguu
+njuárui:njuorru C_PUASUI "purolähdesammal" ; !¢njuorruin, njuorrust, njuorrui, njuorruu
+nuárvui:nuorvu C_PUASUI "nuha" ; !¢nuorvuin, nuorvust, nuorvui, nuorvuu
+piäldupuágui:piäldu#poggu C_PUASUI "peltopyy" ; !¢piäldupuogguin, piäldupuoggust, piäldupuoggui, piäldupuogguu
+preeriačiävžui:preeria#če^RVvžu C_PUASUI "preeriaviklo" ; 
+puágui:po^RVggu C_PUASUI "pyy" ; !¢pogguin, poggust, poggui, pogguu
+puárui:po^RVrru C_PUASUI "lehmäpaarma" ; ! YAML¢porruin, porrust, porrui, porruu
+puásui:po^RVcc4u C_PUASUI "poro" ; ! YAML ¢poccuin
+puávui:puohhu C_PUASUI "paise" ;	!¢puohhuin, puohhust, puohhui, puohhuu
+ruopsisjyelgčiävžui:ruopsisjyelg#če^RVvžu C_PUASUI "punajalkaviklo" ;
+ryebbicuábui:ryebbi#cuobbu C_PUASUI "rupikonna" ;
+skuirepuásui:skuire#po^RVcc4u C_PUASUI "" ;
+stuorrâčiävžui:stuorrâ#če^RVvžu C_PUASUI "valkoviklo" ;
+suálui:suollu C_PUASUI "saari" ; ! YAML ¢suolluin, suollust, suollui, suolluu
+tuodârčiävžui:tuodâr#če^RVvžu C_PUASUI "" ;
+urmápuárui:urmá#po^RVrru C_PUASUI ;
+viäruipuásui:viärui#po^RVcc4u C_PUASUI "" ;
+vyevdičiävžui:vyevdi#če^RVvžu C_PUASUI "metsäviklo" ;
+čapisčiävžui:čapis#če^RVvžu C_PUASUI "mustaviklo" ;
+čiävžui:če^RVvžu C_PUASUI "viklo" ; !¢čevžuin, čevžust, čevžui, čevžuu
+čunui:čunnu C_PUASUI "hiekka" ;	!¢čunnuin, čunnust, čunnui, čunnuu 
+kuádui:kuoddu C_PUASUI "jurakko" ;

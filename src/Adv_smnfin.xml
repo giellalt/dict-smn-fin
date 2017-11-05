@@ -1820,6 +1820,46 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_3425">
+      <lg>
+         <l pos="N" status="_unknown_N">kiddâluvâi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">kiinnitysten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5643">
+      <lg>
+         <l pos="N" status="_unknown_N">maŋaspoođâi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">takaperin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3750">
+      <lg>
+         <l pos="N" status="_unknown_N">kiäigusjuolgij</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">jalat suorina</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10070">
+      <lg>
+         <l pos="N" status="_unknown_N">snuortij</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">vetosolmussa</t>
+         </tg>
+      </mg>
+   </e>
    <e id="Adv_140">
       <lg>
          <l pos="Adv">kiddâ</l>
