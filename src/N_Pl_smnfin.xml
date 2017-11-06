@@ -4,7 +4,11 @@
 <r>
    <e id="N_8561">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="railâsij" pos="N">railâseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="railâsij"
+            pl_ill="railâsáid"
+            pos="N">railâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -30,7 +34,11 @@
    </e>
    <e id="N_233">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="áimuvuoimij" pos="N">áimuvyeimih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="áimuvuoimij"
+            pl_ill="áimuvuoimijd"
+            pos="N">áimuvyeimih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -40,7 +48,11 @@
    </e>
    <e id="N_418">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="amnâsuápui" pos="N">amnâsuápuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="amnâsuápui"
+            pl_ill="amnâsuáppoid"
+            pos="N">amnâsuápuh</l>
       </lg>
       <mg rest="-uápui">
          <tg xml:lang="fin">
@@ -50,7 +62,11 @@
    </e>
    <e id="N_472">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">arâiiđeeduđđâseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="arâiiđeeduđđâsij"
+            pl_ill="arâiiđeeduđđâsáid"
+            pos="N">arâiiđeeduđđâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -60,7 +76,11 @@
    </e>
    <e id="N_514">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="arvepuuvsâi;arvepuvsâi" pos="N">arvepuuvsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="arvepuuvsâi;arvepuvsâi"
+            pl_ill="arvepuvssáid;arvepuvsâi"
+            pos="N">arvepuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -70,7 +90,11 @@
    </e>
    <e id="N_559">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="asteršadoi" pos="N">asteršadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="asteršadoi"
+            pl_ill="asteršaddoid"
+            pos="N">asteršadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -80,7 +104,11 @@
    </e>
    <e id="N_614">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="avrampiergâsij" pos="N">avrampiergâseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="avrampiergâsij"
+            pl_ill="avrampiergâsáid"
+            pos="N">avrampiergâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -91,7 +119,11 @@
    </e>
    <e id="N_624">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ávutuálui" pos="N">ávutuáluh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ávutuálui"
+            pl_ill="ávutuáloid"
+            pos="N">ávutuáluh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -101,7 +133,11 @@
    </e>
    <e id="N_704">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čalmekulmesoksâmij" pos="N">čalmekulmesoksâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čalmekulmesoksâmij"
+            pl_ill="čalmekulmesoksâmáid"
+            pos="N">čalmekulmesoksâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -111,7 +147,11 @@
    </e>
    <e id="N_707">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čalmelaasâi;čalmelasâi" pos="N">čalmelaasah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čalmelaasâi;čalmelasâi"
+            pl_ill="čalmelaasáid;čalmelasâi"
+            pos="N">čalmelaasah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -121,7 +161,11 @@
    </e>
    <e id="N_826">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čevđâstuvâi" pos="N">čevđâstuvah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čevđâstuvâi"
+            pl_ill="čevđâstuvváid"
+            pos="N">čevđâstuvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -131,7 +175,11 @@
    </e>
    <e id="N_834">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čevelođđâsij" pos="N">čevelođđâseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čevelođđâsij"
+            pl_ill="čevelođđâsáid"
+            pos="N">čevelođđâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -141,7 +189,11 @@
    </e>
    <e id="N_838">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čevetaavtij;čevetavtij" pos="N">čevetäävtih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čevetaavtij;čevetavtij"
+            pl_ill="čevetavtij;čevetavttijd"
+            pos="N">čevetäävtih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -151,7 +203,11 @@
    </e>
    <e id="N_929">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čivrosij" pos="N">čivroseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čivrosij"
+            pl_ill="čivrosáid"
+            pos="N">čivroseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -162,7 +218,11 @@
    </e>
    <e id="N_939">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čiähuliinsâi;čiähulinsâi" pos="N">čiähuliinsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čiähuliinsâi;čiähulinsâi"
+            pl_ill="čiähulinssáid;čiähulinsâi"
+            pos="N">čiähuliinsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -172,7 +232,11 @@
    </e>
    <e id="N_1064">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čolij;čoolij" pos="N">čuálih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čolij;čoolij"
+            pl_ill="čolij;čoolijd"
+            pos="N">čuálih</l>
       </lg>
       <mg rest="čuá'leh">
          <tg xml:lang="fin">
@@ -185,6 +249,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="čuárbbeltaavtij;čuárbbeltavtij"
+            pl_ill="čuárbbeltavtij;čuárbbeltavttijd"
             pos="N">čuárbbeltäävtih</l>
       </lg>
       <mg rest="">
@@ -225,7 +290,11 @@
    </e>
    <e id="N_1110">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čuárvijáhálij" pos="N">čuárvijáháleh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čuárvijáhálij"
+            pl_ill="čuárvijáháláid"
+            pos="N">čuárvijáháleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -235,7 +304,11 @@
    </e>
    <e id="N_1116">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čuárviriistâi;čuárviristâi" pos="N">čuárviriistah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čuárviriistâi;čuárviristâi"
+            pl_ill="čuárviristáid;čuárviristâi"
+            pos="N">čuárviriistah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -245,7 +318,11 @@
    </e>
    <e id="N_1258">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čuoldâkuobbârij" pos="N">čuoldâkuobbâreh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čuoldâkuobbârij"
+            pl_ill="čuoldâkuobbâráid"
+            pos="N">čuoldâkuobbâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -255,7 +332,11 @@
    </e>
    <e id="N_1300">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čuovâi" pos="N">čuovah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čuovâi"
+            pl_ill="čuováid"
+            pos="N">čuovah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -268,7 +349,8 @@
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čuovjiskierâšadoi;čuovjâdiskierâšadoi"
+            pl_gen="čuovjiskierâšaddoid;čuovjiskierâšadoi"
+            pl_ill="čuovjiskierâšaddoid;čuovjiskierâšadoi"
             pos="N">čuovjiskierâšadoh</l>
       </lg>
       <mg rest="">
@@ -279,7 +361,11 @@
    </e>
    <e id="N_1355">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čuožžâmij" pos="N">čuožžâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čuožžâmij"
+            pl_ill="čuožžâmáid"
+            pos="N">čuožžâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -289,7 +375,11 @@
    </e>
    <e id="N_1402">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čäciherttâšadoi" pos="N">čäciherttâšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čäciherttâšadoi"
+            pl_ill="čäciherttâšaddoid"
+            pos="N">čäciherttâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -299,7 +389,11 @@
    </e>
    <e id="N_1715">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ergikunâgâsvuájui" pos="N">ergikunâgâsvuájuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ergikunâgâsvuájui"
+            pl_ill="ergikunâgâsvuájoid"
+            pos="N">ergikunâgâsvuájuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -309,7 +403,11 @@
    </e>
    <e id="N_1775">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="faarkui;farkui" pos="N">faarkuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="faarkui;farkui"
+            pl_ill="farkoid;farkui"
+            pos="N">faarkuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -321,7 +419,11 @@
    </e>
    <e id="N_1797">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="farmarpuuvsâi;farmarpuvsâi" pos="N">farmarpuuvsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="farmarpuuvsâi;farmarpuvsâi"
+            pl_ill="farmarpuvssáid;farmarpuvsâi"
+            pos="N">farmarpuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -335,7 +437,8 @@
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="fiskisräsišadoi;fiskâdisräsišadoi"
+            pl_gen="fiskisräsišaddoid;fiskisräsišadoi"
+            pl_ill="fiskisräsišaddoid;fiskisräsišadoi"
             pos="N">fiskisräsišadoh</l>
       </lg>
       <mg rest="">
@@ -346,7 +449,11 @@
    </e>
    <e id="N_1932">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="haalarij" pos="N">haalareh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="haalarij"
+            pl_ill="haalaráid"
+            pos="N">haalareh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -356,7 +463,11 @@
    </e>
    <e id="N_2019">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="harjakkái" pos="N">harjakkááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="harjakkái"
+            pl_ill="harjakkáid"
+            pos="N">harjakkááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -366,7 +477,11 @@
    </e>
    <e id="N_2037">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="havdajái" pos="N">havdajááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="havdajái"
+            pl_ill="havdajáid"
+            pos="N">havdajááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -376,7 +491,11 @@
    </e>
    <e id="N_2038">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">hávdájááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="hávdájái"
+            pl_ill="hávdájáid"
+            pos="N">hávdájááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -386,7 +505,11 @@
    </e>
    <e id="N_2049">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="heejâi;hejâi" pos="N">heejah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="heejâi;hejâi"
+            pl_ill="heejáid;hejâi"
+            pos="N">heejah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -396,7 +519,11 @@
    </e>
    <e id="N_2072">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="helduvai" pos="N">helduvah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="helduvai"
+            pl_ill="helduvaid"
+            pos="N">helduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -406,7 +533,11 @@
    </e>
    <e id="N_2092">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="heŋkselij" pos="N">heŋkseleh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="heŋkselij"
+            pl_ill="heŋkseláid"
+            pos="N">heŋkseleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -416,7 +547,11 @@
    </e>
    <e id="N_2097">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="herskukuobbârij" pos="N">herskukuobbâreh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="herskukuobbârij"
+            pl_ill="herskukuobbâráid"
+            pos="N">herskukuobbâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -426,7 +561,11 @@
    </e>
    <e id="N_2106">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="herttâšadoi" pos="N">herttâšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="herttâšadoi"
+            pl_ill="herttâšaddoid"
+            pos="N">herttâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -436,7 +575,11 @@
    </e>
    <e id="N_2216">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="huáppuvaljiimij" pos="N">huáppuvaljiimeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="huáppuvaljiimij"
+            pl_ill="huáppuvaljiimáid"
+            pos="N">huáppuvaljiimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -446,7 +589,11 @@
    </e>
    <e id="N_2223">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="huáššišadoi" pos="N">huáššišadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="huáššišadoi"
+            pl_ill="huáššišaddoid"
+            pos="N">huáššišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -456,7 +603,11 @@
    </e>
    <e id="N_2318">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="idâpuuvsâi;idâpuvsâi" pos="N">idâpuuvsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="idâpuuvsâi;idâpuvsâi"
+            pl_ill="idâpuvssáid;idâpuvsâi"
+            pos="N">idâpuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -466,7 +617,11 @@
    </e>
    <e id="N_2341">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="iđospäččeešadoi" pos="N">iđospäččeešadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="iđospäččeešadoi"
+            pl_ill="iđospäččeešaddoid"
+            pos="N">iđospäččeešadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -476,7 +631,11 @@
    </e>
    <e id="N_2366">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="iiđeeduđđâsij" pos="N">iiđeeduđđâseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="iiđeeduđđâsij"
+            pl_ill="iiđeeduđđâsáid"
+            pos="N">iiđeeduđđâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -487,7 +646,11 @@
    </e>
    <e id="N_2368">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="iilâskšadoi" pos="N">iilâskšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="iilâskšadoi"
+            pl_ill="iilâskšaddoid"
+            pos="N">iilâskšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -502,7 +665,11 @@
    </e>
    <e id="N_2456">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="išeráttái" pos="N">išeráttáh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="išeráttái"
+            pl_ill="išeráttáid"
+            pos="N">išeráttáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -512,7 +679,11 @@
    </e>
    <e id="N_2473">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ištâmij" pos="N">ištâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ištâmij"
+            pl_ill="ištâmáid"
+            pos="N">ištâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -523,7 +694,11 @@
    </e>
    <e id="N_2495">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="iälánij" pos="N">iäláneh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="iälánij"
+            pl_ill="iälánáid"
+            pos="N">iäláneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -533,7 +708,11 @@
    </e>
    <e id="N_2516">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="iärutiervuođâi" pos="N">iärutiervuođah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="iärutiervuođâi"
+            pl_ill="iärutiervuođáid"
+            pos="N">iärutiervuođah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -544,7 +723,11 @@
    </e>
    <e id="N_2541">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="jáávui" pos="N">jáávuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="jáávui"
+            pl_ill="jáávuid"
+            pos="N">jáávuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -554,7 +737,11 @@
    </e>
    <e id="N_2606">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="jeggiuloi" pos="N">jeggiuloh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="jeggiuloi"
+            pl_ill="jeggiulloid"
+            pos="N">jeggiuloh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -564,7 +751,11 @@
    </e>
    <e id="N_2612">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="jesânij" pos="N">jesâneh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="jesânij"
+            pl_ill="jesânáid"
+            pos="N">jesâneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -574,7 +765,11 @@
    </e>
    <e id="N_2694">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="jiereehšadoi" pos="N">jiereehšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="jiereehšadoi"
+            pl_ill="jiereehšaddoid"
+            pos="N">jiereehšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -584,7 +779,11 @@
    </e>
    <e id="N_2770">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="jormevaarij;jormevarij" pos="N">jormeväärih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="jormevaarij;jormevarij"
+            pl_ill="jormevaarijd;jormevarij"
+            pos="N">jormeväärih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -594,7 +793,11 @@
    </e>
    <e id="N_2776">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="jorreei;jorrei" pos="N">jorreeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="jorreei"
+            pl_ill="jorreeid"
+            pos="N">jorreeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -604,7 +807,11 @@
    </e>
    <e id="N_2852">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="juhlekammui" pos="N">juhlekammuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="juhlekammui"
+            pl_ill="juhlekammuid"
+            pos="N">juhlekammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -614,7 +821,11 @@
    </e>
    <e id="N_2879">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="juovlâi" pos="N">juovlah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="juovlâi"
+            pl_ill="juovláid"
+            pos="N">juovlah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -625,7 +836,11 @@
    </e>
    <e id="N_2883">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="juovlâpoosij;juovlâposij" pos="N">juovlâpaseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="juovlâpoosij;juovlâposij"
+            pl_ill="juovlâpoosijd;juovlâposij"
+            pos="N">juovlâpaseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -635,7 +850,11 @@
    </e>
    <e id="N_2933">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="juvâlmâsâi" pos="N">juvâlmâsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="juvâlmâsâi"
+            pl_ill="juvâlmâssáid"
+            pos="N">juvâlmâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -645,7 +864,11 @@
    </e>
    <e id="N_3005">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kaaicâraasij;kaaicârasij" pos="N">kaaicârääsih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kaaicâraasij;kaaicârasij"
+            pl_ill="kaaicârasij;kaaicârassijd"
+            pos="N">kaaicârääsih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -655,7 +878,11 @@
    </e>
    <e id="N_3011">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kááijumliivij;kááijumlivij" pos="N">kááijumliivih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kááijumliivij;kááijumlivij"
+            pl_ill="kááijumliivijd;kááijumlivij"
+            pos="N">kááijumliivih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -665,7 +892,11 @@
    </e>
    <e id="N_3018">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kaališadoi" pos="N">kaališadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kaališadoi"
+            pl_ill="kaališaddoid"
+            pos="N">kaališadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -675,7 +906,11 @@
    </e>
    <e id="N_3037">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kárvui;káárvui" pos="N">káárvuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kárvui;káárvui"
+            pl_ill="kárvoid;kárvui"
+            pos="N">káárvuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -685,7 +920,11 @@
    </e>
    <e id="N_3094">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="káiduslaasâi;káiduslasâi" pos="N">káiduslaasah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="káiduslaasâi;káiduslasâi"
+            pl_ill="káiduslaasáid;káiduslasâi"
+            pos="N">káiduslaasah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -695,7 +934,11 @@
    </e>
    <e id="N_3144">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kalsarij" pos="N">kalsareh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kalsarij"
+            pl_ill="kalsaráid"
+            pos="N">kalsareh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -706,7 +949,11 @@
    </e>
    <e id="N_3154">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kamâspidoi" pos="N">kamâspidoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kamâspidoi"
+            pl_ill="kamâspiddoid"
+            pos="N">kamâspidoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -717,7 +964,11 @@
    </e>
    <e id="N_3155">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kamâspuuvsâi;kamâspuvsâi" pos="N">kamâspuuvsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kamâspuuvsâi;kamâspuvsâi"
+            pl_ill="kamâspuvssáid;kamâspuvsâi"
+            pos="N">kamâspuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -728,7 +979,11 @@
    </e>
    <e id="N_3323">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="keessimráttái" pos="N">keessimráttáh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="keessimráttái"
+            pl_ill="keessimráttáid"
+            pos="N">keessimráttáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -738,7 +993,11 @@
    </e>
    <e id="N_3369">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kerivij" pos="N">keriveh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kerivij"
+            pl_ill="keriváid"
+            pos="N">keriveh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -748,7 +1007,11 @@
    </e>
    <e id="N_3380">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kesikammui" pos="N">kesikammuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kesikammui"
+            pl_ill="kesikammuid"
+            pos="N">kesikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -758,7 +1021,11 @@
    </e>
    <e id="N_3417">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kiđđâčalmešadoi" pos="N">kiđđâčalmešadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kiđđâčalmešadoi"
+            pl_ill="kiđđâčalmešaddoid"
+            pos="N">kiđđâčalmešadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -768,7 +1035,11 @@
    </e>
    <e id="N_3528">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kiesâlduvâi" pos="N">kiesâlduvah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kiesâlduvâi"
+            pl_ill="kiesâlduvváid"
+            pos="N">kiesâlduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -778,7 +1049,11 @@
    </e>
    <e id="N_3543">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kietâruuđâi;kietâruđâi" pos="N">kietâruuđah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kietâruuđâi;kietâruđâi"
+            pl_ill="kietâruuđáid;kietâruđâi"
+            pos="N">kietâruuđah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -788,7 +1063,11 @@
    </e>
    <e id="N_3549">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kietâvuoimij" pos="N">kietâvyeimih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kietâvuoimij"
+            pl_ill="kietâvuoimijd"
+            pos="N">kietâvyeimih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -798,7 +1077,11 @@
    </e>
    <e id="N_3566">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kihlájái" pos="N">kihlájááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kihlájái"
+            pl_ill="kihlájáid"
+            pos="N">kihlájááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -808,7 +1091,11 @@
    </e>
    <e id="N_3640">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kiŋgârij" pos="N">kiŋgâreh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kiŋgârij"
+            pl_ill="kiŋgârijd"
+            pos="N">kiŋgâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -818,7 +1105,11 @@
    </e>
    <e id="N_3649">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kirdeekiivsâi;kirdeekivsâi" pos="N">kirdeekiivsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kirdeekiivsâi;kirdeekivsâi"
+            pl_ill="kirdeekivssáid;kirdeekivsâi"
+            pos="N">kirdeekiivsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -828,7 +1119,11 @@
    </e>
    <e id="N_3667">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kirhomiänui" pos="N">kirhomiänuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kirhomiänui"
+            pl_ill="kirhomiänoid"
+            pos="N">kirhomiänuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -838,7 +1133,11 @@
    </e>
    <e id="N_3732">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kistui" pos="N">kistuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kistui"
+            pl_ill="kistuid"
+            pos="N">kistuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -848,7 +1147,11 @@
    </e>
    <e id="N_3770">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kiällušadoi" pos="N">kiällušadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kiällušadoi"
+            pl_ill="kiällušaddoid"
+            pos="N">kiällušadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -858,7 +1161,11 @@
    </e>
    <e id="N_3772">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kiällutoŋâsšadoi" pos="N">kiällutoŋâsšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kiällutoŋâsšadoi"
+            pl_ill="kiällutoŋâsšaddoid"
+            pos="N">kiällutoŋâsšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -868,7 +1175,11 @@
    </e>
    <e id="N_3802">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kiärppáálostâšadoi" pos="N">kiärppáálostâšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kiärppáálostâšadoi"
+            pl_ill="kiärppáálostâšaddoid"
+            pos="N">kiärppáálostâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -878,7 +1189,11 @@
    </e>
    <e id="N_3838">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="koččomij" pos="N">koččomeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="koččomij"
+            pl_ill="koččomáid"
+            pos="N">koččomeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -888,7 +1203,11 @@
    </e>
    <e id="N_3843">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kođđeemsaagij;kođđeemsagij" pos="N">kođđeemsäägih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kođđeemsaagij;kođđeemsagij"
+            pl_ill="kođđeemsaggijd;kođđeemsagij"
+            pos="N">kođđeemsäägih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -899,7 +1218,11 @@
    </e>
    <e id="N_3873">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="koldâskerrei" pos="N">koldâskerreeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="koldâskerrei"
+            pl_ill="koldâskerreid"
+            pos="N">koldâskerreeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -909,7 +1232,11 @@
    </e>
    <e id="N_4017">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="korrâpuuvsâi;korrâpuvsâi" pos="N">korrâpuuvsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="korrâpuuvsâi;korrâpuvsâi"
+            pl_ill="korrâpuvssáid;korrâpuvsâi"
+            pos="N">korrâpuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -919,7 +1246,11 @@
    </e>
    <e id="N_4055">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="koskâvuoiŋâšij" pos="N">koskâvuoiŋâšeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="koskâvuoiŋâšij"
+            pl_ill="koskâvuoiŋâšijd"
+            pos="N">koskâvuoiŋâšeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -929,7 +1260,11 @@
    </e>
    <e id="N_4080">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kuuvij;kuvij" pos="N">koveh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kuuvij;kuvij"
+            pl_ill="kuuvijd;kuvij"
+            pos="N">koveh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -939,7 +1274,11 @@
    </e>
    <e id="N_4240">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kuávdášvuoiŋâšij" pos="N">kuávdášvuoiŋâšeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kuávdášvuoiŋâšij"
+            pl_ill="kuávdášvuoiŋâšijd"
+            pos="N">kuávdášvuoiŋâšeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -949,7 +1288,11 @@
    </e>
    <e id="N_4254">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kuávlu-uđđâsij" pos="N">kuávlu-uđđâseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kuávlu-uđđâsij"
+            pl_ill="kuávlu-uđđâsáid"
+            pos="N">kuávlu-uđđâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -959,7 +1302,11 @@
    </e>
    <e id="N_4266">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kubdâlostâšadoi" pos="N">kubdâlostâšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kubdâlostâšadoi"
+            pl_ill="kubdâlostâšaddoid"
+            pos="N">kubdâlostâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -969,7 +1316,11 @@
    </e>
    <e id="N_4288">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kuhesčuovai;kuhesčuovâi" pos="N">kuhesčuovah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kuhesčuovai"
+            pl_ill="kuhesčuovaid"
+            pos="N">kuhesčuovah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -979,7 +1330,11 @@
    </e>
    <e id="N_4331">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kulosuojij" pos="N">kulosyejeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kulosuojij"
+            pl_ill="kulosuoijijd"
+            pos="N">kulosyejeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -989,7 +1344,11 @@
    </e>
    <e id="N_4333">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kulotaavtij;kulotavtij" pos="N">kulotäävtih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kulotaavtij;kulotavtij"
+            pl_ill="kulotavtij;kulotavttijd"
+            pos="N">kulotäävtih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -999,7 +1358,11 @@
    </e>
    <e id="N_4346">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kumistevilij" pos="N">kumistevileh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kumistevilij"
+            pl_ill="kumisteviláid"
+            pos="N">kumistevileh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1009,7 +1372,11 @@
    </e>
    <e id="N_4360">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kunjopoksâmij" pos="N">kunjopoksâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kunjopoksâmij"
+            pl_ill="kunjopoksâmáid"
+            pos="N">kunjopoksâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1019,7 +1386,11 @@
    </e>
    <e id="N_4406">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kuolâi" pos="N">kuolah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kuolâi"
+            pl_ill="kuoláid"
+            pos="N">kuolah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1031,7 +1402,11 @@
    </e>
    <e id="N_4447">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kuorâkuobbârij" pos="N">kuorâkuobbâreh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kuorâkuobbârij"
+            pl_ill="kuorâkuobbâráid"
+            pos="N">kuorâkuobbâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1041,7 +1416,11 @@
    </e>
    <e id="N_4492">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kuovsâkkâsâi" pos="N">kuovsâkkâsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kuovsâkkâsâi"
+            pl_ill="kuovsâkkâssáid"
+            pos="N">kuovsâkkâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1051,7 +1430,11 @@
    </e>
    <e id="N_4495">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kuovskâsij" pos="N">kuovskâseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kuovskâsij"
+            pl_ill="kuovskâsáid"
+            pos="N">kuovskâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1061,7 +1444,11 @@
    </e>
    <e id="N_4584">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kyeddimmuorâi" pos="N">kyeddimmuorah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kyeddimmuorâi"
+            pl_ill="kyeddimmuoráid"
+            pos="N">kyeddimmuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1074,6 +1461,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="kyevtpiähtulaasâi;kyevtpiähtulasâi"
+            pl_ill="kyevtpiähtulaasáid;kyevtpiähtulasâi"
             pos="N">kyevtpiähtulaasah</l>
       </lg>
       <mg rest="">
@@ -1084,7 +1472,11 @@
    </e>
    <e id="N_4637">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kägismuorâi" pos="N">kägismuorah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kägismuorâi"
+            pl_ill="kägismuoráid"
+            pos="N">kägismuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1094,7 +1486,11 @@
    </e>
    <e id="N_4691">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kässihij" pos="N">kässiheh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kässihij"
+            pl_ill="kässiháid"
+            pos="N">kässiheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1107,6 +1503,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="käällimpuuvsâi;käällimpuvsâi"
+            pl_ill="käällimpuvssáid;käällimpuvsâi"
             pos="N">käällimpuuvsah</l>
       </lg>
       <mg rest="">
@@ -1117,7 +1514,11 @@
    </e>
    <e id="N_4826">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="lahâsaanij;lahâsanij" pos="N">lahâsäänih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="lahâsaanij;lahâsanij"
+            pl_ill="lahâsaanijd;lahâsanij"
+            pos="N">lahâsäänih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1127,7 +1528,11 @@
    </e>
    <e id="N_4912">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="lasamuorâi" pos="N">lasamuorah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="lasamuorâi"
+            pl_ill="lasamuoráid"
+            pos="N">lasamuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1137,7 +1542,11 @@
    </e>
    <e id="N_4952">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="lattimravvui" pos="N">lattimravvuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="lattimravvui"
+            pl_ill="lattimravvuid"
+            pos="N">lattimravvuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1147,7 +1556,11 @@
    </e>
    <e id="N_4963">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="lavdhái" pos="N">lavdhááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="lavdhái"
+            pl_ill="lavdháid"
+            pos="N">lavdhááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1157,7 +1570,11 @@
    </e>
    <e id="N_4999">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="leeŋgij;leŋgij" pos="N">leeŋgih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="leeŋgij;leŋgij"
+            pl_ill="leŋgij;leŋgijd"
+            pos="N">leeŋgih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1171,6 +1588,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="leggiŋspuuvsâi;leggiŋspuvsâi"
+            pl_ill="leggiŋspuvssáid;leggiŋspuvsâi"
             pos="N">leggiŋspuuvsah</l>
       </lg>
       <mg rest="">
@@ -1181,7 +1599,11 @@
    </e>
    <e id="N_5024">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="lekkâmjuhlij;lekkâmjuuhlij" pos="N">lekkâmjuhleh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="lekkâmjuhlij;lekkâmjuuhlij"
+            pl_ill="lekkâmjuhlij;lekkâmjuhlijd"
+            pos="N">lekkâmjuhleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1191,7 +1613,11 @@
    </e>
    <e id="N_5089">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="likkâmčolmij;likkâmčoolmij" pos="N">likkâmčalmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="likkâmčolmij;likkâmčoolmij"
+            pl_ill="likkâmčolmij;likkâmčolmijd"
+            pos="N">likkâmčalmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1201,7 +1627,11 @@
    </e>
    <e id="N_5205">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="loostâi;lostâi" pos="N">loostah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="loostâi;lostâi"
+            pl_ill="lostáid;lostâi"
+            pos="N">loostah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1211,7 +1641,11 @@
    </e>
    <e id="N_5260">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="luádusvaarij;luádusvarij" pos="N">luádusväärih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="luádusvaarij;luádusvarij"
+            pl_ill="luádusvaarijd;luádusvarij"
+            pos="N">luádusväärih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1221,7 +1655,11 @@
    </e>
    <e id="N_5288">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="luáppijái" pos="N">luáppijááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="luáppijái"
+            pl_ill="luáppijáid"
+            pos="N">luáppijááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1231,7 +1669,11 @@
    </e>
    <e id="N_5314">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="luhteešadoi" pos="N">luhteešadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="luhteešadoi"
+            pl_ill="luhteešaddoid"
+            pos="N">luhteešadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1241,7 +1683,11 @@
    </e>
    <e id="N_5318">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="luistimij" pos="N">luistimeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="luistimij"
+            pl_ill="luistimáid"
+            pos="N">luistimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1251,7 +1697,11 @@
    </e>
    <e id="N_5328">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="lummoruuđâi;lummoruđâi" pos="N">lummoruuđah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="lummoruuđâi;lummoruđâi"
+            pl_ill="lummoruuđáid;lummoruđâi"
+            pos="N">lummoruuđah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1261,7 +1711,11 @@
    </e>
    <e id="N_5431">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="läbžišadoi" pos="N">läbžišadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="läbžišadoi"
+            pl_ill="läbžišaddoid"
+            pos="N">läbžišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1271,7 +1725,11 @@
    </e>
    <e id="N_5437">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="lädikammui" pos="N">lädikammuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="lädikammui"
+            pl_ill="lädikammuid"
+            pos="N">lädikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1281,7 +1739,11 @@
    </e>
    <e id="N_5554">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="madârvanhimij" pos="N">madârvanhimeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="madârvanhimij"
+            pl_ill="madârvanhimáid"
+            pos="N">madârvanhimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1291,7 +1753,11 @@
    </e>
    <e id="N_5558">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="maddârij" pos="N">maddâreh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="maddârij"
+            pl_ill="maddâráid"
+            pos="N">maddâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1301,7 +1767,11 @@
    </e>
    <e id="N_5559">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="maddui" pos="N">madduuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="maddui"
+            pl_ill="madduid"
+            pos="N">madduuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1311,7 +1781,11 @@
    </e>
    <e id="N_5621">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="mannasuvrâmij" pos="N">mannasuvrâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="mannasuvrâmij"
+            pl_ill="mannasuvrâmáid"
+            pos="N">mannasuvrâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1321,7 +1795,7 @@
    </e>
    <e id="N_5625">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="manoi" pos="N">manoh</l>
+         <l g_stem="Pl" nr="Pl" pl_gen="manoi" pl_ill="manoid" pos="N">manoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1341,7 +1815,11 @@
    </e>
    <e id="N_5637">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="mánutaavdâi;mánutavdâi" pos="N">mánutaavdah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="mánutaavdâi;mánutavdâi"
+            pl_ill="mánutavdáid;mánutavdâi"
+            pos="N">mánutaavdah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1351,7 +1829,11 @@
    </e>
    <e id="N_5691">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="meccikammui" pos="N">meccikammuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="meccikammui"
+            pl_ill="meccikammuid"
+            pos="N">meccikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1361,7 +1843,11 @@
    </e>
    <e id="N_5735">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="meesui;mesui" pos="N">meesuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="meesui;mesui"
+            pl_ill="messuid;mesui"
+            pos="N">meesuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1371,7 +1857,11 @@
    </e>
    <e id="N_5803">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="miehtâkozzâhij" pos="N">miehtâkozzâheh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="miehtâkozzâhij"
+            pl_ill="miehtâkozzâháid"
+            pos="N">miehtâkozzâheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1381,7 +1871,11 @@
    </e>
    <e id="N_5806">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="mieigâsmuorâi" pos="N">mieigâsmuorah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="mieigâsmuorâi"
+            pl_ill="mieigâsmuoráid"
+            pos="N">mieigâsmuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1391,7 +1885,11 @@
    </e>
    <e id="N_5835">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="mielkkišivettij" pos="N">mielkkišivetteh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="mielkkišivettij"
+            pl_ill="mielkkišivettáid"
+            pos="N">mielkkišivetteh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1401,7 +1899,11 @@
    </e>
    <e id="N_5844">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="mieskâduvâi" pos="N">mieskâduvah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="mieskâduvâi"
+            pl_ill="mieskâduvváid"
+            pos="N">mieskâduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1411,7 +1913,11 @@
    </e>
    <e id="N_5846">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="mieskâruáđihij" pos="N">mieskâruáđiheh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="mieskâruáđihij"
+            pl_ill="mieskâruáđiháid"
+            pos="N">mieskâruáđiheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1421,7 +1927,11 @@
    </e>
    <e id="N_5849">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="mieskâšovkkâhij" pos="N">mieskâšovkkâheh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="mieskâšovkkâhij"
+            pl_ill="mieskâšovkkâháid"
+            pos="N">mieskâšovkkâheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1431,7 +1941,11 @@
    </e>
    <e id="N_5850">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="mieskâttâsâi" pos="N">mieskâttâsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="mieskâttâsâi"
+            pl_ill="mieskâttâssáid"
+            pos="N">mieskâttâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1441,7 +1955,11 @@
    </e>
    <e id="N_5964">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="molsottuvâi" pos="N">molsottuvah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="molsottuvâi"
+            pl_ill="molsottuvváid"
+            pos="N">molsottuvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1451,7 +1969,11 @@
    </e>
    <e id="N_6033">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="muáđoi" pos="N">muáđoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="muáđoi"
+            pl_ill="muáđoid"
+            pos="N">muáđoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1461,7 +1983,11 @@
    </e>
    <e id="N_6035">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="muáđoi;muáđui" pos="N">muáđuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="muáđoi;muáđui"
+            pl_ill="muáđoi;muáđoid"
+            pos="N">muáđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1471,7 +1997,11 @@
    </e>
    <e id="N_6091">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="muorâi" pos="N">muorah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="muorâi"
+            pl_ill="muoráid"
+            pos="N">muorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1481,7 +2011,11 @@
    </e>
    <e id="N_6120">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="muotâkammui" pos="N">muotâkammuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="muotâkammui"
+            pl_ill="muotâkammuid"
+            pos="N">muotâkammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1491,7 +2025,11 @@
    </e>
    <e id="N_6205">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="mäđirij" pos="N">mäđireh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="mäđirij"
+            pl_ill="mäđiráid"
+            pos="N">mäđireh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1501,7 +2039,11 @@
    </e>
    <e id="N_6212">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="mälisraađij;mälisrađij" pos="N">mälisrääđih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="mälisraađij;mälisrađij"
+            pl_ill="mälisraađijd;mälisrađij"
+            pos="N">mälisrääđih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1511,7 +2053,11 @@
    </e>
    <e id="N_6224">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="määđiršadoi" pos="N">määđiršadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="määđiršadoi"
+            pl_ill="määđiršaddoid"
+            pos="N">määđiršadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1521,7 +2067,11 @@
    </e>
    <e id="N_6243">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="naavcâi;navcâi" pos="N">naavcah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="naavcâi;navcâi"
+            pl_ill="navccáid;navcâi"
+            pos="N">naavcah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1533,7 +2083,11 @@
    </e>
    <e id="N_6373">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="niävui" pos="N">niävuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="niävui"
+            pl_ill="niävvoid"
+            pos="N">niävuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1543,7 +2097,11 @@
    </e>
    <e id="N_6391">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="njadosšadoi" pos="N">njadosšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njadosšadoi"
+            pl_ill="njadosšaddoid"
+            pos="N">njadosšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1553,7 +2111,11 @@
    </e>
    <e id="N_6398">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="njálgái" pos="N">njálgáh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njálgái"
+            pl_ill="njálgáid"
+            pos="N">njálgáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1564,7 +2126,11 @@
    </e>
    <e id="N_6403">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="njammaliivij;njammalivij" pos="N">njammaliivih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njammaliivij;njammalivij"
+            pl_ill="njammaliivijd;njammalivij"
+            pos="N">njammaliivih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1576,7 +2142,8 @@
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="njomâttemnjammaliivij;njomâttemnjammalivij"
+            pl_gen="njomâttemnjammaliivij;njomâttemnjammaliivijd;njomâttemnjammalivij"
+            pl_ill="njomâttemnjammaliivij;njomâttemnjammaliivijd;njomâttemnjammalivij"
             pos="N">njomâttemnjammaliivih</l>
       </lg>
       <mg rest="">
@@ -1590,6 +2157,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="njuámmilraasij;njuámmilrasij"
+            pl_ill="njuámmilrasij;njuámmilrassijd"
             pos="N">njuámmilrääsih</l>
       </lg>
       <mg rest="">
@@ -1600,7 +2168,11 @@
    </e>
    <e id="N_6521">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="njunesoksâmij" pos="N">njunesoksâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njunesoksâmij"
+            pl_ill="njunesoksâmáid"
+            pos="N">njunesoksâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1610,7 +2182,11 @@
    </e>
    <e id="N_6530">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="njunošij" pos="N">njunošeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njunošij"
+            pl_ill="njunošáid"
+            pos="N">njunošeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1621,7 +2197,11 @@
    </e>
    <e id="N_6543">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="njuolâsšadoi" pos="N">njuolâsšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njuolâsšadoi"
+            pl_ill="njuolâsšaddoid"
+            pos="N">njuolâsšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1631,7 +2211,11 @@
    </e>
    <e id="N_6562">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="njuovâduvâi" pos="N">njuovâduvah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njuovâduvâi"
+            pl_ill="njuovâduvváid"
+            pos="N">njuovâduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1641,7 +2225,11 @@
    </e>
    <e id="N_6596">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="njälmiruovdij" pos="N">njälmiryevdih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njälmiruovdij"
+            pl_ill="njälmiruovdijd"
+            pos="N">njälmiryevdih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1651,7 +2239,11 @@
    </e>
    <e id="N_6600">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="njävilij" pos="N">njävileh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njävilij"
+            pl_ill="njäviláid"
+            pos="N">njävileh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1661,7 +2253,11 @@
    </e>
    <e id="N_6606">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="njaavij;njavij" pos="N">njäävih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njaavij;njavij"
+            pl_ill="njavij;njavijd"
+            pos="N">njäävih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1671,7 +2267,11 @@
    </e>
    <e id="N_6695">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="nuottâsárgái" pos="N">nuottâsárgáh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="nuottâsárgái"
+            pl_ill="nuottâsárgáid"
+            pos="N">nuottâsárgáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1681,7 +2281,11 @@
    </e>
    <e id="N_6862">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="olmooškoskâvuođâi" pos="N">olmooškoskâvuođah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="olmooškoskâvuođâi"
+            pl_ill="olmooškoskâvuođáid"
+            pos="N">olmooškoskâvuođah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1691,7 +2295,11 @@
    </e>
    <e id="N_6987">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="orrooruuđâi;orrooruđâi" pos="N">orrooruuđah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="orrooruuđâi;orrooruđâi"
+            pl_ill="orrooruuđáid;orrooruđâi"
+            pos="N">orrooruuđah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1701,7 +2309,11 @@
    </e>
    <e id="N_7045">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ovdâšij" pos="N">ovdâšeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ovdâšij"
+            pl_ill="ovdâšáid"
+            pos="N">ovdâšeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1715,6 +2327,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="ovdâskoddevaaljâi;ovdâskoddevaljâi"
+            pl_ill="ovdâskoddevaljáid;ovdâskoddevaljâi"
             pos="N">ovdâskoddevaaljah</l>
       </lg>
       <mg rest="">
@@ -1725,7 +2338,11 @@
    </e>
    <e id="N_7089">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ovttij" pos="N">ovttiih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ovttij"
+            pl_ill="ovttijd"
+            pos="N">ovttiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1736,7 +2353,11 @@
    </e>
    <e id="N_7114">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="pálui;páálui" pos="N">pááluh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="pálui;páálui"
+            pl_ill="pálloid;pálui"
+            pos="N">pááluh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1749,6 +2370,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="pajalistruuđâi;pajalistruđâi"
+            pl_ill="pajalistruuđáid;pajalistruđâi"
             pos="N">pajalistruuđah</l>
       </lg>
       <mg rest="">
@@ -1759,7 +2381,11 @@
    </e>
    <e id="N_7238">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="palsamšadoi" pos="N">palsamšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="palsamšadoi"
+            pl_ill="palsamšaddoid"
+            pos="N">palsamšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1769,7 +2395,11 @@
    </e>
    <e id="N_7352">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="párnáiráttái" pos="N">párnáiráttáh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="párnáiráttái"
+            pl_ill="párnáiráttáid"
+            pos="N">párnáiráttáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1779,7 +2409,11 @@
    </e>
    <e id="N_7355">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="parnâmčaasij;parnâmčasij" pos="N">parnâmčääsih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="parnâmčaasij;parnâmčasij"
+            pl_ill="parnâmčasij;parnâmčassijd"
+            pos="N">parnâmčääsih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1789,7 +2423,11 @@
    </e>
    <e id="N_11159">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tieppimaddui" pos="N">tieppimadduuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tieppimaddui"
+            pl_ill="tieppimadduid"
+            pos="N">tieppimadduuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1799,7 +2437,11 @@
    </e>
    <e id="N_178">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ahevattui" pos="N">ahevattuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ahevattui"
+            pl_ill="ahevattuid"
+            pos="N">ahevattuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1809,7 +2451,11 @@
    </e>
    <e id="N_482">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="argâpihtâsij" pos="N">argâpihtâseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="argâpihtâsij"
+            pl_ill="argâpihtâsáid"
+            pos="N">argâpihtâseh</l>
       </lg>
       <mg rest="-pihtâsij">
          <tg xml:lang="fin">
@@ -1819,7 +2465,11 @@
    </e>
    <e id="N_12175">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="urgui;uurgui" pos="N">uurguh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="urgui;uurgui"
+            pl_ill="urgoid;urgui"
+            pos="N">uurguh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1829,7 +2479,11 @@
    </e>
    <e id="N_7524">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="peljipiiltoi;peljipiltoi" pos="N">peljipiltoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="peljipiiltoi;peljipiltoi"
+            pl_ill="peljipiltoi;peljipilttoid"
+            pos="N">peljipiltoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1839,7 +2493,11 @@
    </e>
    <e id="N_7529">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="peljipuncij;peljipuuncij" pos="N">peljipunceh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="peljipuncij;peljipuuncij"
+            pl_ill="peljipunccijd;peljipuncij"
+            pos="N">peljipunceh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1849,7 +2507,11 @@
    </e>
    <e id="N_7537">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="peljisuojij" pos="N">peljisyejeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="peljisuojij"
+            pl_ill="peljisuoijijd"
+            pos="N">peljisyejeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1859,7 +2521,11 @@
    </e>
    <e id="N_7578">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="persovnpápárij" pos="N">persovnpápáreh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="persovnpápárij"
+            pl_ill="persovnpápáráid"
+            pos="N">persovnpápáreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1869,7 +2535,11 @@
    </e>
    <e id="N_7582">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="persovntiäđui" pos="N">persovntiäđuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="persovntiäđui"
+            pl_ill="persovntiäđoid"
+            pos="N">persovntiäđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1879,7 +2549,11 @@
    </e>
    <e id="N_7607">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="pessijái" pos="N">pessijááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="pessijái"
+            pl_ill="pessijáid"
+            pos="N">pessijááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1889,7 +2563,11 @@
    </e>
    <e id="N_7625">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="pevditaavij;pevditavij" pos="N">pevditäävih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="pevditaavij;pevditavij"
+            pl_ill="pevditaavijd;pevditavij"
+            pos="N">pevditäävih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1899,7 +2577,7 @@
    </e>
    <e id="N_7636">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="piđoi" pos="N">piđoh</l>
+         <l g_stem="Pl" nr="Pl" pl_gen="piđoi" pl_ill="piđoid" pos="N">piđoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1909,7 +2587,11 @@
    </e>
    <e id="N_7728">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="pinsetij" pos="N">pinseteh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="pinsetij"
+            pl_ill="pinsetáid"
+            pos="N">pinseteh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1919,7 +2601,11 @@
    </e>
    <e id="N_7757">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="piškooludij;piškooluudij" pos="N">piškoolodeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="piškooludij;piškooluudij"
+            pl_ill="piškooluddijd;piškooludij"
+            pos="N">piškoolodeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1929,7 +2615,11 @@
    </e>
    <e id="N_7863">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="piärgušivettij" pos="N">piärgušivetteh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="piärgušivettij"
+            pl_ill="piärgušivettáid"
+            pos="N">piärgušivetteh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1941,7 +2631,8 @@
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="planktonelleei;planktonellei"
+            pl_gen="planktonelleei"
+            pl_ill="planktonelleeid"
             pos="N">planktonelleeh</l>
       </lg>
       <mg rest="">
@@ -1952,7 +2643,11 @@
    </e>
    <e id="N_7890">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="pocceeraasij;pocceerasij" pos="N">pocceerääsih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="pocceeraasij;pocceerasij"
+            pl_ill="pocceerasij;pocceerassijd"
+            pos="N">pocceerääsih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1962,7 +2657,11 @@
    </e>
    <e id="N_7895">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="poccuujáhálij" pos="N">poccuujáháleh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="poccuujáhálij"
+            pl_ill="poccuujáháláid"
+            pos="N">poccuujáháleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1972,7 +2671,11 @@
    </e>
    <e id="N_7905">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="pođoinjâsâi" pos="N">pođoinjâsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="pođoinjâsâi"
+            pl_ill="pođoinjâssáid"
+            pos="N">pođoinjâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1982,7 +2685,11 @@
    </e>
    <e id="N_7936">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="punij;puunij" pos="N">poneh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="punij;puunij"
+            pl_ill="punij;punnijd"
+            pos="N">poneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1993,7 +2700,11 @@
    </e>
    <e id="N_7938">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ponjemiestâšadoi" pos="N">ponjemiestâšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ponjemiestâšadoi"
+            pl_ill="ponjemiestâšaddoid"
+            pos="N">ponjemiestâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2003,7 +2714,11 @@
    </e>
    <e id="N_7959">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="poostâi;postâi" pos="N">poostah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="poostâi;postâi"
+            pl_ill="postáid;postâi"
+            pos="N">poostah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2014,7 +2729,11 @@
    </e>
    <e id="N_7981">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="porthái" pos="N">porthááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="porthái"
+            pl_ill="portháid"
+            pos="N">porthááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2060,7 +2779,11 @@
    </e>
    <e id="N_719">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čalmesinoi" pos="N">čalmesinoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čalmesinoi"
+            pl_ill="čalmesinoid"
+            pos="N">čalmesinoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2070,7 +2793,11 @@
    </e>
    <e id="N_728">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">čánásiih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čánásiij"
+            pl_ill="čánásiijd"
+            pos="N">čánásiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2085,7 +2812,11 @@
    </e>
    <e id="N_952">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">ciärkuheh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ciärkuhij"
+            pl_ill="ciärkuháid"
+            pos="N">ciärkuheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2095,7 +2826,11 @@
    </e>
    <e id="N_963">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čogâlmâsâi" pos="N">čogâlmâsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čogâlmâsâi"
+            pl_ill="čogâlmâssáid"
+            pos="N">čogâlmâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2110,7 +2845,11 @@
    </e>
    <e id="N_1137">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="čoovjij;čovjij" pos="N">čuávjih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čoovjij;čovjij"
+            pl_ill="čovjij;čovjijd"
+            pos="N">čuávjih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2120,7 +2859,11 @@
    </e>
    <e id="N_1336">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">čuovjistáásnáššadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="čuovjistáásnáššadoi"
+            pl_ill="čuovjistáásnáššaddoid"
+            pos="N">čuovjistáásnáššadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2130,7 +2873,7 @@
    </e>
    <e id="N_1911">
       <lg>
-         <l g_stem="Sg" nr="Pl" pl_gen="geeniárbáduvâi" pos="N">geeniárbádâh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">geeniárbádâh</l>
       </lg>
       <mg rest="-á'rbáduv">
          <tg xml:lang="fin">
@@ -2140,7 +2883,11 @@
    </e>
    <e id="N_2287">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">häŋkseleh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="häŋkselij"
+            pl_ill="häŋkseláid"
+            pos="N">häŋkseleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2171,7 +2918,7 @@
    </e>
    <e id="N_2734">
       <lg>
-         <l g_stem="Sg" nr="Pl" pl_gen="jiäŋŋumčuágástuvâi" pos="N">jiäŋŋumčuágástuh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">jiäŋŋumčuágástuh</l>
       </lg>
       <mg rest="-čuá'gástuv">
          <tg xml:lang="fin">
@@ -2181,7 +2928,11 @@
    </e>
    <e id="N_3701">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="kirkkomiänui" pos="N">kirkkomiänuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kirkkomiänui"
+            pl_ill="kirkkomiänoid"
+            pos="N">kirkkomiänuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2191,7 +2942,11 @@
    </e>
    <e id="N_3824">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">kobđoolostâsiih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kobđoolostâsiij"
+            pl_ill="kobđoolostâsiijd"
+            pos="N">kobđoolostâsiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2201,7 +2956,11 @@
    </e>
    <e id="N_4044">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="koskâpuuvsâi;koskâpuvsâi" pos="N">koskâpuuvsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="koskâpuuvsâi;koskâpuvsâi"
+            pl_ill="koskâpuvssáid;koskâpuvsâi"
+            pos="N">koskâpuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2211,7 +2970,11 @@
    </e>
    <e id="N_4174">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">kuámmirâššadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="kuámmirâššadoi"
+            pl_ill="kuámmirâššaddoid"
+            pos="N">kuámmirâššadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2251,7 +3014,11 @@
    </e>
    <e id="N_4849">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">lahtâsyeinih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="lahtâsuoinij"
+            pl_ill="lahtâsuoinijd"
+            pos="N">lahtâsyeinih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2261,7 +3028,11 @@
    </e>
    <e id="N_4989">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="leđmikammui" pos="N">leđmikammuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="leđmikammui"
+            pl_ill="leđmikammuid"
+            pos="N">leđmikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2281,7 +3052,7 @@
    </e>
    <e id="N_5348">
       <lg>
-         <l g_stem="Sg" nr="Pl" pl_gen="luoddâratkuuttuvâi" pos="N">luoddâratkuuttâh</l>
+         <l nr="Pl" pos="N" status="_unknown_N">luoddâratkuuttâh</l>
       </lg>
       <mg rest="-ratkuuttuv">
          <tg xml:lang="fin">
@@ -2291,7 +3062,11 @@
    </e>
    <e id="N_5510">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">maalikeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="maalikij"
+            pl_ill="maalikáid"
+            pos="N">maalikeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2301,7 +3076,11 @@
    </e>
    <e id="N_5614">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="manerávsái;maneráávsái" pos="N">maneráávsáh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="manerávsái;maneráávsái"
+            pl_ill="manerávssáid;manerávsái"
+            pos="N">maneráávsáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2311,7 +3090,11 @@
    </e>
    <e id="N_5627">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">mánotaavdah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="mánotaavdâi;mánotavdâi"
+            pl_ill="mánotavdáid;mánotavdâi"
+            pos="N">mánotaavdah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2321,7 +3104,11 @@
    </e>
    <e id="N_5928">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">miäidáttuvah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="miäidáttuvâi"
+            pl_ill="miäidáttuvváid"
+            pos="N">miäidáttuvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2341,7 +3128,11 @@
    </e>
    <e id="N_6455">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">njiäluráávsáh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njiälurávsái;njiäluráávsái"
+            pl_ill="njiälurávssáid;njiälurávsái"
+            pos="N">njiäluráávsáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2351,7 +3142,11 @@
    </e>
    <e id="N_6512">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">njulčâheh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="njulčâhij"
+            pl_ill="njulčâháid"
+            pos="N">njulčâheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2371,7 +3166,11 @@
    </e>
    <e id="N_6751">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">näpihááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="näpihái"
+            pl_ill="näpiháid"
+            pos="N">näpihááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2382,7 +3181,11 @@
    </e>
    <e id="N_6752">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">näpiheh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="näpihij"
+            pl_ill="näpiháid"
+            pos="N">näpiheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2402,7 +3205,11 @@
    </e>
    <e id="N_7381">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="poosij;posij" pos="N">paseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="poosij;posij"
+            pl_ill="poosijd;posij"
+            pos="N">paseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2412,7 +3219,11 @@
    </e>
    <e id="N_7384">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="pasepihtâsij" pos="N">pasepihtâseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="pasepihtâsij"
+            pl_ill="pasepihtâsáid"
+            pos="N">pasepihtâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2422,7 +3233,11 @@
    </e>
    <e id="N_7420">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="pecišadoi" pos="N">pecišadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="pecišadoi"
+            pl_ill="pecišaddoid"
+            pos="N">pecišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2432,7 +3247,11 @@
    </e>
    <e id="N_7556">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="pennuujuŋŋâšadoi" pos="N">pennuujuŋŋâšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="pennuujuŋŋâšadoi"
+            pl_ill="pennuujuŋŋâšaddoid"
+            pos="N">pennuujuŋŋâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2442,7 +3261,7 @@
    </e>
    <e id="N_7782">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="pivoi" pos="N">pivoh</l>
+         <l g_stem="Pl" nr="Pl" pl_gen="pivoi" pl_ill="pivoid" pos="N">pivoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2452,7 +3271,11 @@
    </e>
    <e id="N_7810">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="piäivááčalmešadoi" pos="N">piäivááčalmešadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="piäivááčalmešadoi"
+            pl_ill="piäivááčalmešaddoid"
+            pos="N">piäivááčalmešadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2462,7 +3285,11 @@
    </e>
    <e id="N_7824">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="piäivášlaasâi;piäivášlasâi" pos="N">piäivášlaasah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="piäivášlaasâi;piäivášlasâi"
+            pl_ill="piäivášlaasáid;piäivášlasâi"
+            pos="N">piäivášlaasah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2472,7 +3299,11 @@
    </e>
    <e id="N_7849">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="piäljásij" pos="N">piäljáseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="piäljásij"
+            pl_ill="piäljásáid"
+            pos="N">piäljáseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2482,7 +3313,11 @@
    </e>
    <e id="N_7854">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="piäluštâsvuoimij" pos="N">piäluštâsvyeimih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="piäluštâsvuoimij"
+            pl_ill="piäluštâsvuoimijd"
+            pos="N">piäluštâsvyeimih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2492,7 +3327,11 @@
    </e>
    <e id="N_7858">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="piämmuvaanhimij" pos="N">piämmuvaanhimeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="piämmuvaanhimij"
+            pl_ill="piämmuvaanhimáid"
+            pos="N">piämmuvaanhimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2503,7 +3342,11 @@
    </e>
    <e id="N_7989">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="posâlduvâi" pos="N">posâlduvah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="posâlduvâi"
+            pl_ill="posâlduvváid"
+            pos="N">posâlduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2513,7 +3356,11 @@
    </e>
    <e id="N_8072">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="puáđoi;puáđui" pos="N">puáđuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="puáđoid;puáđui"
+            pl_ill="puáđoid;puáđui"
+            pos="N">puáđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2523,7 +3370,11 @@
    </e>
    <e id="N_8102">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="puáldimsoksâmij" pos="N">puáldimsoksâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="puáldimsoksâmij"
+            pl_ill="puáldimsoksâmáid"
+            pos="N">puáldimsoksâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2533,7 +3384,11 @@
    </e>
    <e id="N_8188">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="puicce-elleei;puicce-ellei" pos="N">puicce-elleeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="puicce-elleei"
+            pl_ill="puicce-elleeid"
+            pos="N">puicce-elleeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2543,7 +3398,11 @@
    </e>
    <e id="N_8191">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="puksâištâmij" pos="N">puksâištâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="puksâištâmij"
+            pl_ill="puksâištâmáid"
+            pos="N">puksâištâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2553,7 +3412,11 @@
    </e>
    <e id="N_8226">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">puoidâmâsšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="puoidâmâsšadoi"
+            pl_ill="puoidâmâsšaddoid"
+            pos="N">puoidâmâsšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2563,7 +3426,11 @@
    </e>
    <e id="N_8233">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="puolikkuobbârij" pos="N">puolikkuobbâreh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="puolikkuobbârij"
+            pl_ill="puolikkuobbâráid"
+            pos="N">puolikkuobbâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2573,7 +3440,11 @@
    </e>
    <e id="N_8255">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="purâdemriäidui" pos="N">purâdemriäiduh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="purâdemriäidui"
+            pl_ill="purâdemriäidoid"
+            pos="N">purâdemriäiduh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2583,7 +3454,11 @@
    </e>
    <e id="N_8286">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="puškoraasij;puškorasij" pos="N">puškorääsih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="puškoraasij;puškorasij"
+            pl_ill="puškorasij;puškorassijd"
+            pos="N">puškorääsih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2593,7 +3468,11 @@
    </e>
    <e id="N_8321">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="puustavij" pos="N">puustaveh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="puustavij"
+            pl_ill="puustavijd"
+            pos="N">puustaveh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2604,7 +3483,11 @@
    </e>
    <e id="N_8328">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="puuvsâi;puvsâi" pos="N">puuvsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="puuvsâi;puvsâi"
+            pl_ill="puvssáid;puvsâi"
+            pos="N">puuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2614,7 +3497,11 @@
    </e>
    <e id="N_8414">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="päljissiemâšadoi" pos="N">päljissiemâšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="päljissiemâšadoi"
+            pl_ill="päljissiemâšaddoid"
+            pos="N">päljissiemâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2624,7 +3511,11 @@
    </e>
    <e id="N_8430">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="päniruovdij" pos="N">päniryevdih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="päniruovdij"
+            pl_ill="päniruovdijd"
+            pos="N">päniryevdih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2634,7 +3525,11 @@
    </e>
    <e id="N_8461">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">pääihiulmuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="pääihiulmui"
+            pl_ill="pääihiulmuid"
+            pos="N">pääihiulmuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2644,7 +3539,11 @@
    </e>
    <e id="N_8552">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="raiđâlâsâi" pos="N">raiđâlâsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="raiđâlâsâi"
+            pl_ill="raiđâlâssáid"
+            pos="N">raiđâlâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2655,7 +3554,11 @@
    </e>
    <e id="N_8570">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ramâssoksâmij" pos="N">ramâssoksâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ramâssoksâmij"
+            pl_ill="ramâssoksâmáid"
+            pos="N">ramâssoksâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2665,7 +3568,11 @@
    </e>
    <e id="N_8599">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ráttái" pos="N">ráttáh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ráttái"
+            pl_ill="ráttáid"
+            pos="N">ráttáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2675,7 +3582,11 @@
    </e>
    <e id="N_8608">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ravijái" pos="N">ravijááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ravijái"
+            pl_ill="ravijáid"
+            pos="N">ravijááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2685,7 +3596,11 @@
    </e>
    <e id="N_8635">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="reevtij;revtij" pos="N">reevtih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="reevtij;revtij"
+            pl_ill="revtij;revtijd"
+            pos="N">reevtih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2695,7 +3610,7 @@
    </e>
    <e id="N_8773">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="rilái" pos="N">riláh</l>
+         <l g_stem="Pl" nr="Pl" pl_gen="rilái" pl_ill="riláid" pos="N">riláh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2705,7 +3620,11 @@
    </e>
    <e id="N_8848">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="româssoksâmij" pos="N">româssoksâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="româssoksâmij"
+            pl_ill="româssoksâmáid"
+            pos="N">româssoksâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2715,7 +3634,11 @@
    </e>
    <e id="N_8902">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">ruáđiheh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ruáđihij"
+            pl_ill="ruáđiháid"
+            pos="N">ruáđiheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2725,7 +3648,11 @@
    </e>
    <e id="N_8904">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">ruáđimaalikeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ruáđimaalikij"
+            pl_ill="ruáđimaalikáid"
+            pos="N">ruáđimaalikeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2735,7 +3662,11 @@
    </e>
    <e id="N_8917">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ruákkiruáđui" pos="N">ruákkiruáđuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ruákkiruáđui"
+            pl_ill="ruákkiruáđoid"
+            pos="N">ruákkiruáđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2745,7 +3676,11 @@
    </e>
    <e id="N_8928">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ruánáájievjâmij" pos="N">ruánáájievjâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ruánáájievjâmij"
+            pl_ill="ruánáájievjâmáid"
+            pos="N">ruánáájievjâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2755,7 +3690,11 @@
    </e>
    <e id="N_9081">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ruotâsmumsoksâmij" pos="N">ruotâsmumsoksâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ruotâsmumsoksâmij"
+            pl_ill="ruotâsmumsoksâmáid"
+            pos="N">ruotâsmumsoksâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2765,7 +3704,11 @@
    </e>
    <e id="N_9164">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ruusušadoi" pos="N">ruusušadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ruusušadoi"
+            pl_ill="ruusušaddoid"
+            pos="N">ruusušadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2775,7 +3718,11 @@
    </e>
    <e id="N_9172">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ruvâšjávui;ruvâšjáávui" pos="N">ruvâšjáávuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ruvâšjávui;ruvâšjáávui"
+            pl_ill="ruvâšjávui;ruvâšjáávoid"
+            pos="N">ruvâšjáávuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2785,7 +3732,11 @@
    </e>
    <e id="N_9179">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ruvnájái" pos="N">ruvnájááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ruvnájái"
+            pl_ill="ruvnájáid"
+            pos="N">ruvnájááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2795,7 +3746,11 @@
    </e>
    <e id="N_9221">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="räigipoostâi;räigipostâi" pos="N">räigipoostah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="räigipoostâi;räigipostâi"
+            pl_ill="räigipoostâi;räigipostáid;räigipostâi"
+            pos="N">räigipoostah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2805,7 +3760,11 @@
    </e>
    <e id="N_9363">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="sáhálivvârij" pos="N">sáhálivvâreh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="sáhálivvârij"
+            pl_ill="sáhálivvâráid"
+            pos="N">sáhálivvâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2815,7 +3774,11 @@
    </e>
    <e id="N_9430">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">sálttušadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="sálttušadoi"
+            pl_ill="sálttušaddoid"
+            pos="N">sálttušadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2825,7 +3788,11 @@
    </e>
    <e id="N_9439">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">sanikkááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="sanikkái"
+            pl_ill="sanikkáid"
+            pos="N">sanikkááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2835,7 +3802,11 @@
    </e>
    <e id="N_9446">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="sapilâsai;sapilâsâi" pos="N">sapilâsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="sapilâsai;sapilâsaid;sapilâsâi"
+            pl_ill="sapilâsai;sapilâsaid;sapilâssáid"
+            pos="N">sapilâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2855,7 +3826,11 @@
    </e>
    <e id="N_9483">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="savosuonâsiij" pos="N">savosuonâsiih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="savosuonâsiij"
+            pl_ill="savosuonâsiijd"
+            pos="N">savosuonâsiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2865,7 +3840,11 @@
    </e>
    <e id="N_9539">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">seitikeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="seitikij"
+            pl_ill="seitikáid"
+            pos="N">seitikeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2875,7 +3854,11 @@
    </e>
    <e id="N_9613">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="sieđgâšadoi" pos="N">sieđgâšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="sieđgâšadoi"
+            pl_ill="sieđgâšaddoid"
+            pos="N">sieđgâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2885,7 +3868,11 @@
    </e>
    <e id="N_9656">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="sierâtäsimieigâsmuorâi" pos="N">sierâtäsimieigâsmuorah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="sierâtäsimieigâsmuorâi"
+            pl_ill="sierâtäsimieigâsmuoráid"
+            pos="N">sierâtäsimieigâsmuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2895,7 +3882,11 @@
    </e>
    <e id="N_9682">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="siijđoi;sijđoi" pos="N">siijđoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="siijđoi;sijđoi"
+            pl_ill="sijđoi;sijđoid"
+            pos="N">siijđoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2905,7 +3896,11 @@
    </e>
    <e id="N_9694">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="siirdâpoostâi;siirdâpostâi" pos="N">siirdâpoostah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="siirdâpoostâi;siirdâpostâi"
+            pl_ill="siirdâpostáid;siirdâpostâi"
+            pos="N">siirdâpoostah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2915,7 +3910,11 @@
    </e>
    <e id="N_9727">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="silbâmiestâšadoi" pos="N">silbâmiestâšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="silbâmiestâšadoi"
+            pl_ill="silbâmiestâšaddoid"
+            pos="N">silbâmiestâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2925,7 +3924,11 @@
    </e>
    <e id="N_9802">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="šivettij" pos="N">šivetteh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="šivettij"
+            pl_ill="šivettáid"
+            pos="N">šivetteh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2935,7 +3938,11 @@
    </e>
    <e id="N_9824">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">šiälgulodeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="šiälguludij;šiälguluudij"
+            pl_ill="šiälguluddijd;šiälguludij"
+            pos="N">šiälgulodeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2945,7 +3952,11 @@
    </e>
    <e id="N_9847">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="šiäštui" pos="N">šiäštuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="šiäštui"
+            pl_ill="šiäštoid"
+            pos="N">šiäštuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2955,7 +3966,11 @@
    </e>
    <e id="N_9881">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="skerrei" pos="N">skerreeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="skerrei"
+            pl_ill="skerreid"
+            pos="N">skerreeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2965,7 +3980,11 @@
    </e>
    <e id="N_9908">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="skiältturuovdij" pos="N">skiältturyevdih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="skiältturuovdij"
+            pl_ill="skiältturuovdijd"
+            pos="N">skiältturyevdih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2985,7 +4004,11 @@
    </e>
    <e id="N_10060">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">šnjirgooh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="šnjirgoi"
+            pl_ill="šnjirgoid"
+            pos="N">šnjirgooh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2995,7 +4018,11 @@
    </e>
    <e id="N_10061">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">šnjirgoolodeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="šnjirgooludij;šnjirgooluudij"
+            pl_ill="šnjirgooluddijd;šnjirgooludij"
+            pos="N">šnjirgoolodeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3005,7 +4032,11 @@
    </e>
    <e id="N_10063">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">snoorrâmpäddikammuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="snoorrâmpäddikammui"
+            pl_ill="snoorrâmpäddikammuid"
+            pos="N">snoorrâmpäddikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3015,7 +4046,11 @@
    </e>
    <e id="N_10085">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="šoddâdempuáldáttuvâi" pos="N">šoddâdempuáldáttuvah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="šoddâdempuáldáttuvâi"
+            pl_ill="šoddâdempuáldáttuvváid"
+            pos="N">šoddâdempuáldáttuvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3025,7 +4060,11 @@
    </e>
    <e id="N_10142">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="šoorcij;šorcij" pos="N">šoorcih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="šoorcij;šorcij"
+            pl_ill="šorcij;šorcijd"
+            pos="N">šoorcih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3035,7 +4074,11 @@
    </e>
    <e id="N_10202">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">šovkkâheh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="šovkkâhij"
+            pl_ill="šovkkâháid"
+            pos="N">šovkkâheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3048,6 +4091,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="sporijdempárui;sporijdempáárui"
+            pl_ill="sporijdempárui;sporijdempáároid"
             pos="N">sporijdempááruh</l>
       </lg>
       <mg rest="">
@@ -3058,7 +4102,11 @@
    </e>
    <e id="N_10279">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="sraŋgâpoostâi;sraŋgâpostâi" pos="N">sraŋgâpoostah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="sraŋgâpoostâi;sraŋgâpostâi"
+            pl_ill="sraŋgâpoostâi;sraŋgâpostáid;sraŋgâpostâi"
+            pos="N">sraŋgâpoostah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3068,7 +4116,11 @@
    </e>
    <e id="N_10298">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="staatâpeeivij;staatâpeivij" pos="N">staatâpeeivih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="staatâpeeivij;staatâpeivij"
+            pl_ill="staatâpeivij;staatâpeivijd"
+            pos="N">staatâpeeivih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3078,7 +4130,11 @@
    </e>
    <e id="N_10349">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="stivái" pos="N">stiváh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="stivái"
+            pl_ill="stivváid"
+            pos="N">stiváh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3089,7 +4145,11 @@
    </e>
    <e id="N_10411">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="stuorrâruottâsij" pos="N">stuorrâruottâsiih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="stuorrâruottâsiij;stuorrâruottâsáid"
+            pl_ill="stuorrâruottâsiijd;stuorrâruottâsáid"
+            pos="N">stuorrâruottâsiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3099,7 +4159,11 @@
    </e>
    <e id="N_10455">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="suáhišadoi" pos="N">suáhišadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="suáhišadoi"
+            pl_ill="suáhišaddoid"
+            pos="N">suáhišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3109,7 +4173,11 @@
    </e>
    <e id="N_10559">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="sukkápuuvsâi;sukkápuvsâi" pos="N">sukkápuuvsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="sukkápuuvsâi;sukkápuvsâi"
+            pl_ill="sukkápuvssáid;sukkápuvsâi"
+            pos="N">sukkápuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3122,6 +4190,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="suohislivvârij;suohâdislivvârij"
+            pl_ill="suohislivvâráid;suohâdislivvârij;suohâdislivvâráid"
             pos="N">suohislivvâreh</l>
       </lg>
       <mg rest="">
@@ -3132,7 +4201,11 @@
    </e>
    <e id="N_10637">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="suormâraasij;suormârasij" pos="N">suormârääsih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="suormâraasij;suormârasij"
+            pl_ill="suormârasij;suormârassijd"
+            pos="N">suormârääsih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3142,7 +4215,11 @@
    </e>
    <e id="N_10663">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="šušmekammui" pos="N">šušmekammuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="šušmekammui"
+            pl_ill="šušmekammuid"
+            pos="N">šušmekammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3152,7 +4229,11 @@
    </e>
    <e id="N_10717">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="syeinišadoi" pos="N">syeinišadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="syeinišadoi"
+            pl_ill="syeinišaddoid"
+            pos="N">syeinišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3162,7 +4243,11 @@
    </e>
    <e id="N_10729">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="syejilaasâi;syejilasâi" pos="N">syejilaasah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="syejilaasâi;syejilasâi"
+            pl_ill="syejilaasáid;syejilasâi"
+            pos="N">syejilaasah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3175,6 +4260,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="sämitiggevaaljâi;sämitiggevaljâi"
+            pl_ill="sämitiggevaljáid;sämitiggevaljâi"
             pos="N">sämitiggevaaljah</l>
       </lg>
       <mg rest="">
@@ -3195,7 +4281,11 @@
    </e>
    <e id="N_10839">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="säpligraasij;säpligrasij" pos="N">säpligrääsih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="säpligraasij;säpligrasij"
+            pl_ill="säpligrasij;säpligrassijd"
+            pos="N">säpligrääsih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3205,7 +4295,11 @@
    </e>
    <e id="N_10854">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="särgimuorâi" pos="N">särgimuorah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="särgimuorâi"
+            pl_ill="särgimuoráid"
+            pos="N">särgimuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3215,7 +4309,11 @@
    </e>
    <e id="N_10855">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="särgipuuvsâi;särgipuvsâi" pos="N">särgipuuvsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="särgipuuvsâi;särgipuvsâi"
+            pl_ill="särgipuvssáid;särgipuvsâi"
+            pos="N">särgipuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3225,7 +4323,11 @@
    </e>
    <e id="N_10933">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tahopänij;tahopäänij" pos="N">tahopäneh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tahopänij;tahopäänij"
+            pl_ill="tahopänij;tahopäänijd"
+            pos="N">tahopäneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3235,7 +4337,11 @@
    </e>
    <e id="N_10934">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tahopaanij;tahopanij" pos="N">tahopäänih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tahopaanij;tahopanij"
+            pl_ill="tahopaanijd;tahopanij"
+            pos="N">tahopäänih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3245,7 +4351,11 @@
    </e>
    <e id="N_10960">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="taldrikij" pos="N">taldrikeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="taldrikij"
+            pl_ill="taldrikáid"
+            pos="N">taldrikeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3255,7 +4365,11 @@
    </e>
    <e id="N_11008">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tarbâšij" pos="N">tarbâšeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tarbâšij"
+            pl_ill="tarbâšáid"
+            pos="N">tarbâšeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3265,7 +4379,11 @@
    </e>
    <e id="N_11171">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tiervuođâi" pos="N">tiervuođah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tiervuođâi"
+            pl_ill="tiervuođáid"
+            pos="N">tiervuođah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3275,7 +4393,11 @@
    </e>
    <e id="N_11251">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tivrelostâšadoi" pos="N">tivrelostâšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tivrelostâšadoi"
+            pl_ill="tivrelostâšaddoid"
+            pos="N">tivrelostâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3285,7 +4407,11 @@
    </e>
    <e id="N_11367">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="toŋâsšadoi" pos="N">toŋâsšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="toŋâsšadoi"
+            pl_ill="toŋâsšaddoid"
+            pos="N">toŋâsšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3295,7 +4421,11 @@
    </e>
    <e id="N_11380">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tooŋgij;toŋgij" pos="N">tooŋgih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tooŋgij;toŋgij"
+            pl_ill="toŋgij;toŋgijd"
+            pos="N">tooŋgih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3316,7 +4446,11 @@
    </e>
    <e id="N_11526">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tubdâmušâi;tubdâmâšâi" pos="N">tubdâmušah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tubdâmušâi;tubdâmuššáid"
+            pl_ill="tubdâmušâi;tubdâmuššáid"
+            pos="N">tubdâmušah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3326,7 +4460,11 @@
    </e>
    <e id="N_11554">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tullâraađij;tullârađij" pos="N">tullârääđih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tullâraađij;tullârađij"
+            pl_ill="tullâraađijd;tullârađij"
+            pos="N">tullârääđih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3336,7 +4474,11 @@
    </e>
    <e id="N_11681">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="turbesoksâmij" pos="N">turbesoksâmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="turbesoksâmij"
+            pl_ill="turbesoksâmáid"
+            pos="N">turbesoksâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3346,7 +4488,11 @@
    </e>
    <e id="N_11742">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tyejipihtâsij" pos="N">tyejipihtâseh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tyejipihtâsij"
+            pl_ill="tyejipihtâsáid"
+            pos="N">tyejipihtâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3356,7 +4502,11 @@
    </e>
    <e id="N_11772">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tälvikammui" pos="N">tälvikammuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tälvikammui"
+            pl_ill="tälvikammuid"
+            pos="N">tälvikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3366,7 +4516,11 @@
    </e>
    <e id="N_11780">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tälvipuuvsâi;tälvipuvsâi" pos="N">tälvipuuvsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tälvipuuvsâi;tälvipuvsâi"
+            pl_ill="tälvipuvssáid;tälvipuvsâi"
+            pos="N">tälvipuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3376,7 +4530,11 @@
    </e>
    <e id="N_11784">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tälviruottâsij" pos="N">tälviruottâsiih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tälviruottâsij"
+            pl_ill="tälviruottâsijd;tälviruottâsáid"
+            pos="N">tälviruottâsiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3386,7 +4544,11 @@
    </e>
    <e id="N_11808">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="täsnikukái" pos="N">täsnikukáh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="täsnikukái"
+            pl_ill="täsnikukkáid"
+            pos="N">täsnikukáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3396,7 +4558,11 @@
    </e>
    <e id="N_11811">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="täsniraasij;täsnirasij" pos="N">täsnirääsih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="täsniraasij;täsnirasij"
+            pl_ill="täsnirasij;täsnirassijd"
+            pos="N">täsnirääsih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3406,7 +4572,11 @@
    </e>
    <e id="N_11820">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tävgiruáđui" pos="N">tävgiruáđuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tävgiruáđui"
+            pl_ill="tävgiruáđoid"
+            pos="N">tävgiruáđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3416,7 +4586,11 @@
    </e>
    <e id="N_11832">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="taavij;tavij" pos="N">täävih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="taavij;tavij"
+            pl_ill="taavijd;tavij"
+            pos="N">täävih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3427,7 +4601,11 @@
    </e>
    <e id="N_11840">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="uáđáduvâi" pos="N">uáđáduvah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="uáđáduvâi"
+            pl_ill="uáđáduvváid"
+            pos="N">uáđáduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3438,7 +4616,11 @@
    </e>
    <e id="N_12051">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="uccpuvssiij" pos="N">uccpuvssiih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="uccpuvssiij"
+            pl_ill="uccpuvssiijd"
+            pos="N">uccpuvssiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3449,7 +4631,11 @@
    </e>
    <e id="N_12112">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ullopuuvsâi;ullopuvsâi" pos="N">ullopuuvsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ullopuuvsâi;ullopuvsâi"
+            pl_ill="ullopuvssáid;ullopuvsâi"
+            pos="N">ullopuuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3459,7 +4645,11 @@
    </e>
    <e id="N_12116">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ullosuhái" pos="N">ullosuháh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ullosuhái"
+            pl_ill="ullosuhháid"
+            pos="N">ullosuháh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3469,7 +4659,11 @@
    </e>
    <e id="N_12201">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="váldui;vááldui" pos="N">váálduh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="váldui;vááldui"
+            pl_ill="váldoid;váldui"
+            pos="N">váálduh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3479,7 +4673,11 @@
    </e>
    <e id="N_12205">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vaaljâi;valjâi" pos="N">vaaljah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vaaljâi;valjâi"
+            pl_ill="valjáid;valjâi"
+            pos="N">vaaljah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3489,7 +4687,11 @@
    </e>
    <e id="N_12213">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vaaluutvaarij;vaaluutvarij" pos="N">vaaluutväärih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vaaluutvaarij;vaaluutvarij"
+            pl_ill="vaaluutvaarijd;vaaluutvarij"
+            pos="N">vaaluutväärih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3502,6 +4704,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="valastâllâmpuuvsâi;valastâllâmpuvsâi"
+            pl_ill="valastâllâmpuvssáid;valastâllâmpuvsâi"
             pos="N">valastâllâmpuuvsah</l>
       </lg>
       <mg rest="">
@@ -3513,7 +4716,11 @@
    </e>
    <e id="N_12331">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vandârdemkammui" pos="N">vandârdemkammuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vandârdemkammui"
+            pl_ill="vandârdemkammuid"
+            pos="N">vandârdemkammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3523,7 +4730,11 @@
    </e>
    <e id="N_12384">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="veerdižij" pos="N">veerdižeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="veerdižij"
+            pl_ill="veerdižijd"
+            pos="N">veerdižeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3534,7 +4745,11 @@
    </e>
    <e id="N_12535">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vihkjái" pos="N">vihkjááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vihkjái"
+            pl_ill="vihkjáid"
+            pos="N">vihkjááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3544,7 +4759,11 @@
    </e>
    <e id="N_12589">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vinjohij" pos="N">vinjoheh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vinjohij"
+            pl_ill="vinjoháid"
+            pos="N">vinjoheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3554,7 +4773,11 @@
    </e>
    <e id="N_12797">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vuáđutiäđui" pos="N">vuáđutiäđuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vuáđutiäđui"
+            pl_ill="vuáđutiäđoid"
+            pos="N">vuáđutiäđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3564,7 +4787,11 @@
    </e>
    <e id="N_12817">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vuáláášmuorâi" pos="N">vuáláášmuorah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vuáláášmuorâi"
+            pl_ill="vuáláášmuoráid"
+            pos="N">vuáláášmuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3574,7 +4801,11 @@
    </e>
    <e id="N_12829">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vuállái" pos="N">vuállááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vuállái"
+            pl_ill="vuálláid"
+            pos="N">vuállááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3584,7 +4815,11 @@
    </e>
    <e id="N_12839">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vuárbádmij" pos="N">vuárbádmeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vuárbádmij"
+            pl_ill="vuárbádmáid"
+            pos="N">vuárbádmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3594,7 +4829,11 @@
    </e>
    <e id="N_12868">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vuáváámij" pos="N">vuáváámeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vuáváámij"
+            pl_ill="vuáváámáid"
+            pos="N">vuáváámeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3604,7 +4843,11 @@
    </e>
    <e id="N_12903">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vuoijâmjyelgikammui" pos="N">vuoijâmjyelgikammuuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vuoijâmjyelgikammui"
+            pl_ill="vuoijâmjyelgikammuid"
+            pos="N">vuoijâmjyelgikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3617,6 +4860,7 @@
          <l g_stem="Pl"
             nr="Pl"
             pl_gen="vuoijâmpuuvsâi;vuoijâmpuvsâi"
+            pl_ill="vuoijâmpuvssáid;vuoijâmpuvsâi"
             pos="N">vuoijâmpuuvsah</l>
       </lg>
       <mg rest="">
@@ -3627,7 +4871,11 @@
    </e>
    <e id="N_12917">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vuoiŋâšij" pos="N">vuoiŋâšeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vuoiŋâšij"
+            pl_ill="vuoiŋâšijd"
+            pos="N">vuoiŋâšeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3657,7 +4905,11 @@
    </e>
    <e id="N_12972">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vuonjâčij;vuonjâččij" pos="N">vuonjâččeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vuonjâčij;vuonjâččij"
+            pl_ill="vuonjâčij;vuonjâčáid;vuonjâččáid"
+            pos="N">vuonjâččeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3667,7 +4919,11 @@
    </e>
    <e id="N_13017">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vuovdâšadoi" pos="N">vuovdâšadoh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vuovdâšadoi"
+            pl_ill="vuovdâšaddoid"
+            pos="N">vuovdâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3677,7 +4933,11 @@
    </e>
    <e id="N_13249">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="äpiludij;äpiluudij" pos="N">äpilodeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="äpiludij;äpiluudij"
+            pl_ill="äpiluddijd;äpiludij"
+            pos="N">äpilodeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3687,7 +4947,11 @@
    </e>
    <e id="N_13251">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="äpisodâsteijei" pos="N">äpisodâsteijeeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="äpisodâsteijei"
+            pl_ill="äpisodâsteijeid"
+            pos="N">äpisodâsteijeeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3697,7 +4961,11 @@
    </e>
    <e id="N_13252">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="äpispálvái" pos="N">äpispálvááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="äpispálvái"
+            pl_ill="äpispálváid"
+            pos="N">äpispálvááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3707,7 +4975,11 @@
    </e>
    <e id="N_13327">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="aapij;apij" pos="N">ääpih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="aapij;apij"
+            pl_ill="apij;appijd"
+            pos="N">ääpih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3718,7 +4990,11 @@
    </e>
    <e id="N_13331">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">uánihissuájásâškirdeekiivsah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="uánihissuájásâškirdeekiivsâi;uánihissuájásâškirdeekivsâi"
+            pl_ill="uánihissuájásâškirdeekivssáid;uánihissuájásâškirdeekivsâi"
+            pos="N">uánihissuájásâškirdeekiivsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3728,7 +5004,11 @@
    </e>
    <e id="N_13337">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">jeggilumvyevih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="jeggilumvuovij"
+            pl_ill="jeggilumvuovvijd"
+            pos="N">jeggilumvyevih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3738,7 +5018,11 @@
    </e>
    <e id="N_13338">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">jieggilumvyevih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="jieggilumvuovij"
+            pl_ill="jieggilumvuovvijd"
+            pos="N">jieggilumvyevih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3748,7 +5032,11 @@
    </e>
    <e id="N_13339">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="jievjâvuoptâi" pos="N">jievjâvuoptah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="jievjâvuoptâi"
+            pl_ill="jievjâvuoptáid"
+            pos="N">jievjâvuoptah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3758,7 +5046,11 @@
    </e>
    <e id="N_13379">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="lasanemorgaanij" pos="N">lasanemorgaaneh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="lasanemorgaanij"
+            pl_ill="lasanemorgaanáid"
+            pos="N">lasanemorgaaneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3768,7 +5060,11 @@
    </e>
    <e id="N_13441">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">rišottuvah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="rišottuvâi"
+            pl_ill="rišottuvváid"
+            pos="N">rišottuvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3778,7 +5074,11 @@
    </e>
    <e id="N_13449">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ruávskui" pos="N">ruávskuh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ruávskui"
+            pl_ill="ruávskoid"
+            pos="N">ruávskuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3798,7 +5098,11 @@
    </e>
    <e id="N_13483">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="suitij;suuitij" pos="N">suuitih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="suitij;suuitij"
+            pl_ill="suitij;suittijd"
+            pos="N">suuitih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3808,7 +5112,11 @@
    </e>
    <e id="N_13494">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="tuálvumušâi;tuálvumâšâi" pos="N">tuálvumušah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="tuálvumušâi;tuálvumâšâi"
+            pl_ill="tuálvumušâi;tuálvumuššáid;tuálvumâššáid"
+            pos="N">tuálvumušah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3818,7 +5126,11 @@
    </e>
    <e id="N_13523">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="ulgâi;uulgâi" pos="N">uulgah</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ulgâi;uulgâi"
+            pl_ill="ulgáid;ulgâi"
+            pos="N">uulgah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3828,7 +5140,11 @@
    </e>
    <e id="A_1195">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="puksâlogij;puksâloogij" pos="N">puksâluágih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="puksâlogij;puksâloogij"
+            pl_ill="puksâloggijd;puksâlogij"
+            pos="N">puksâluágih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3838,7 +5154,11 @@
    </e>
    <e id="A_812">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">majebááh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="majebái"
+            pl_ill="majebáid"
+            pos="N">majebááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3853,7 +5173,11 @@
    </e>
    <e id="A_1315">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">ruottâsiih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="ruottâsiij"
+            pl_ill="ruottâsiijd"
+            pos="N">ruottâsiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3863,7 +5187,11 @@
    </e>
    <e id="A_1364">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="sevetaavtij;sevetavtij" pos="N">sevetäävtih</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="sevetaavtij;sevetavtij"
+            pl_ill="sevetavtij;sevetavttijd"
+            pos="N">sevetäävtih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3873,7 +5201,11 @@
    </e>
    <e id="A_1736">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vaanhimij" pos="N">vaanhimeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vaanhimij"
+            pl_ill="vaanhimáid"
+            pos="N">vaanhimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3883,7 +5215,11 @@
    </e>
    <e id="A_1757">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="vanhimij" pos="N">vanhimeh</l>
+         <l g_stem="Pl"
+            nr="Pl"
+            pl_gen="vanhimij"
+            pl_ill="vanhimáid"
+            pos="N">vanhimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
