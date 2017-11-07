@@ -74,34 +74,33 @@ Example:
  - for V: Sg1, Sg3, and Pl3 form
    ==> DONE
 
-generate_V>g '<l ' 2_dd_out_analysis/V_smnfin.xml |cut -d '>' -f1|t|g ' 2 '|cl
-62
-
-There are 62 double entries in the V-file at the moment.
+There are 59 double entries in the V-file at the moment.
  ==> action point: to be unified accordingly
 
-There are only 20 verbs missing.
+There are only 15 verbs missing.
 
          <l pos="V">čuárvuđâttâđ</l>
-         <l pos="V">leđe čuozân</l>
          <l pos="V">hámsutâttâđ</l>
-         <l pos="V">leđe kuástusist</l>
-         <l pos="V">leđe kuhij</l>
-         <l pos="V">leđe kuuhij</l>
          <l pos="V">ráijâšuđ</l>
          <l pos="V">registeeriđ</l>
-         <l pos="V">räđđejeijee</l>
+         <l pos="N">räđđejeijee</l>
          <l pos="V">sámáiditteđ</l>
          <l pos="V">seivâgistiđ</l>
          <l pos="V">siävŋuditteđ</l>
          <l pos="V">skaappuđ</l>
          <l pos="V">spelliđ</l>
          <l pos="V">taaidârâššâđ</l>
-         <l pos="V">tuápán moonnâđ</l>
          <l pos="V">vaaibâs leđe</l>
          <l pos="V">vyebdimed</l>
          <l pos="V">peessiđ</l>
          <l pos="V">viskâdâs</l>
+
+
+TODO: the gt-dict-norm-generator delivers nothing for some entries: to debug (perhaps because of +Hom flag)
+
+generate_V>g '+?' 2_dd_out_analysis/V_smnfin.xml
+         <l pl3="juávviđ+V+Ind+Prs+Pl3&#09;+?" sg1="juávviđ+V+Ind+Prs+Sg1&#09;+?" sg3="juává" pos="V">juávviđ</l>
+         <l pl3="kuullâđ+V+Ind+Prs+Pl3&#09;+?" sg1="kuullâđ+V+Ind+Prs+Sg1&#09;+?" sg3="kuullâđ+V+Ind+Prs+Sg3&#09;+?" pos="V">kuullâđ</l>
 
 
 ###
