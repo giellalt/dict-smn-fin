@@ -6100,16 +6100,6 @@
          </tg>
       </mg>
    </e>
-   <e id="V_544">
-      <lg>
-         <l pos="V">leđe čuozân</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">olla sulkasadossa</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_545">
       <lg>
          <l Pl3="čuožâsteh" Sg1="čuožâstâm" Sg3="čuožžâst" pos="V" v_type="3v">čuožâstiđ</l>
@@ -18800,17 +18790,6 @@
          </tg>
       </mg>
    </e>
-   <e id="V_1731">
-      <lg>
-         <l pos="V">leđe kuástusist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">häämöttää</t>
-            <t pos="V">olla näkyvillä</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_1732">
       <lg>
          <l Pl3="kuásuttâlleh;kuásuttelleh" Sg1="kuásuttâlâm" Sg3="kuásuttâl" pos="V" v_type="rv">kuásuttâllâđ</l>
@@ -19085,21 +19064,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">jatkaa (vaatetta tai peittoa pitemmäksi)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_1758">
-      <lg>
-         <l pos="V">leđe kuhij</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">olla pitkässä hihnassa (koirasta)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">olla olla pidempi tai ulkonevampi kuin muut (esineistä)</t>
          </tg>
       </mg>
    </e>
@@ -20240,21 +20204,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kutea</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_1866">
-      <lg>
-         <l pos="V">leđe kuuhij</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">olla pidempi tai ulkonevampi kuin muut (esineistä)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">olla pitkässä hihnassa (koirasta)</t>
          </tg>
       </mg>
    </e>
@@ -40417,11 +40366,11 @@
    </e>
    <e id="V_3711">
       <lg>
-         <l pos="V">räđđejeijee</l>
+         <l pos="N">räđđejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">vallitseva ominaisuus</t>
+            <t pos="N">vallitseva ominaisuus</t>
          </tg>
       </mg>
    </e>
@@ -51297,21 +51246,6 @@
          <tg xml:lang="fin">
             <t pos="V">kangistua</t>
             <t pos="V">tulla kömpelöksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="V_4711">
-      <lg>
-         <l pos="V">tuápán moonnâđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">huopua</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">kutistua (villavaatteesta)</t>
          </tg>
       </mg>
    </e>

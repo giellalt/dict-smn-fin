@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<r id="smnfin" xml:lang="smn">
+   <e id="V_544">
+      <lg>
+         <l pos="V">leđe čuozân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">olla sulkasadossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_1731">
+      <lg>
+         <l pos="V">leđe kuástusist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">häämöttää</t>
+            <t pos="V">olla näkyvillä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_1758">
+      <lg>
+         <l pos="V">leđe kuhij</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">olla pitkässä hihnassa (koirasta)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">olla olla pidempi tai ulkonevampi kuin muut (esineistä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_1866">
+      <lg>
+         <l pos="V">leđe kuuhij</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">olla pidempi tai ulkonevampi kuin muut (esineistä)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">olla pitkässä hihnassa (koirasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_4711">
+      <lg>
+         <l pos="V">tuápán moonnâđ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">huopua</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">kutistua (villavaatteesta)</t>
+         </tg>
+      </mg>
+   </e>
+
+</r>
