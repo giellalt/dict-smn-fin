@@ -1,46 +1,51 @@
-peljipel:peljipel x ;       ! pistohanka_(korvamerkissä) ! kuálussääni koskâuási?
-uk-ujostâlâm:uk-ujostâlâm x ;       ! pk-yritys
-siäháviärdág:siähá#viärdág x ;       ! sekovartinen
-suvâlâšlasânem:suvâlâš#lasânem x ;       ! suvullinen_lisääntyminen
-luáidupeegâr:luáidu#peegâr x ;       ! permantopalkki
-toldemes:toldemes x ;       ! pidättelijä
-mandeves:mandeves x ;       ! menentelijä_(tav._porosta)™mandeves
+peljipel:pelji#pel^RCi3 2KYELI ;       ! pistohanka_(korvamerkissä) ! kuálussääni koskâuási?
+uk-irâttâs:uk-irâttâss 4KUNAGAS ;       ! pk-yritys
+siäháviärdág:siähá#viärdág 3EEMEED ;       ! sekovartinen
+suvâlâšlasânem:suvâlâš#lasân 3KEPIDEM ;       ! suvullinen_lisääntyminen
+luáidupeegâr:luáidu#pe^RVggâr 3VEESKIR ;       ! permantopalkki
+toldemes:toldemes x ;       ! pidättelijä_toldiäkká
+mandeves:mandeves x ;       ! menentelijä_(tav._porosta)™mandeves_mandiäkká
 meeris:meeris x ;       ! kirveskalsu_(huono,_tylsä_kirves)
 mieris:mieris x ;       ! kirveskalsu_(huono,_tylsä_kirves)
 meerris:meerris x ;       ! kirveskalsu_(huono,_tylsä_kirves)
-iäpádus:iäpádus x ;       ! epäilys
-kuolbâmiälkus:kuolbâmiälkus x ;       ! kangasmaitikka
-etimus:etimus x ;       ! juolukka
-tetanus:tetanus x ;       ! jäykkäkouristus
-luáváttus:luáváttus x ;       ! tohveli™luáváttus
-ráŋgáštâsááiđus:ráŋgáštâs#ái4đus x ;       ! jäähyaitio
-káđus:kátt4us x ;       ! katos™káđus
-koskâtienás:koskâ#tienás x ;       ! keskitulo
-sudâhánnáás:sudâ#hánnáás x ;       ! ikirouta
-ááŋáás:ááŋáás x ;       ! polvijänne_(poron_etujalassa_polven_etupuolella)™ááŋáás
-vuolttâs:vuolttâs x ;       ! lastu_(erit._vuoltu)
+iäpádus:iäpáduss 4KUNAGAS ;       ! epäilys
+kuolbâmiälkus:kuolbâmiälkus x ;       ! kangasmaitikka_miälhus_exists
+etimus:etimus 3LITTER ;       ! juolukka
+tetanus:tetanus 3LITTER ;       ! jäykkäkouristus
+luáváttus:luáváttuss 4KUNAGAS "" ;      ! tohveli™luáváttus
+ráŋgáštâsááiđus:ráŋgáštâs#á^RVi4đus 3VEESKIR ;  ;       ! jäähyaitio
+káđus:kátt4us 3VEESKIR ;       ! katos™káđus
+koskâtienás:koskâ#tiennás 3RUONAS ;       ! keskitulo
+ááŋáás:ááŋáás x ;       ! polvijänne_(poron_etujalassa_polven_etupuolella)™ááŋáás_ááŋás_exists
+vuolttâs:vuolttâs 3PIIVTAS ;       ! lastu_(erit._vuoltu)
 pelemat:pelemat x ;       ! noin_puolet
 njyeribit:njyeribit x ;       ! tuulenpyörre
 sáákkást:sáákkást x ;       ! sakasti
-ruávvást:ruávvást x ;       ! rovasti
-tuámuruávvást:tuámu#ruávvást x ;       ! tuomiorovasti
-kááccât:kááccât x ;       ! ristiluu_(selässä_porolla)
-späilihât:späilihât x ;       ! pailakan_talja
-topsáhât:topsáhât x ;       ! höperö_(tökerökäytöksinen)
-suormâhât:suormâhât x ;       ! sormikas™suormâhât
-pelisuormâhât:peli#suormâhât x ;       ! kynsikäs_(käsine)
-ráđkká:rá^RVđkk4á x ;       ! kataja™ráđkká
-čuánnjááhuáš:čuánnjááhuáš x ;       ! metsäkorte
-kuškâdiämááš:kuškâdiämááš x ;       ! kuivattu_kala_
-lovvááš:lovvááš x ;       ! kymppi_(numero)™lovvááš
-urbiâš:urbiâš x ;       ! urpiainen
-satiâš:satiâš x ;       ! satiainen
-palvâluslinjâš:palvâlus#linjâš x ;       ! palvelulinja
-umolâš:umolâš x ;       ! vauva
-uáivirâš:uáivirâš x ;       ! pääpuoli_(erit._sängyssä)
-iäpárâš:iäpárâš x ;       ! äpärä_(lapsivainaja)
-faddârâš:faddârâš x ;       ! kummit_(yhtenä_kokonaisuutena)
+ruávvást:ruávvást 3EEMEED ;       ! rovasti_ruávást_exists
+tuámuruávvást:tuámu#ruávvást 3EEMEED ;       ! tuomiorovasti_ruávást_exists
+kááccât:kááccât 3POTTAAK ;       ! ristiluu_(selässä_porolla)
+späilihât:späilihât nounstems ;       ! pailakan_talja
+topsáhât:topsáhât nounstems ;       ! höperö_(tökerökäytöksinen)
+suormâhât:suormâhât nounstems  ;       ! sormikas™suormâhât
+pelisuormâhât:peli#suormâhât nounstems "" ;      ! kynsikäs_(käsine)
+ráđkká:rá^RVđkk4á 2VUAGGU ;       ! kataja™ráđkká
+rátká:rá^RVđk4á 2VUAGGU ;
+kuškâdiämááš:kuškâd#iämá S_VUALAAS ;       ! kuivattu_kala_
+lovvááš:lovvá S_CISSAAS ;       ! kymppi_(numero)™lovvááš
+urbiâš:urbiá 4C_RASTAGAS ;       ! urpiainen
+satiâš:satiá 4C_RASTAGAS ;       ! satiainen
+palvâluslinjâš:palvâlus#linjá 4C_RASTAGAS ;       ! palvelulinja
+umolâš:umol 4LAS_NOUN ;       ! vauva
+uáivirâš:uáivir 4LAS_NOUN ;       ! pääpuoli_(erit._sängyssä)
+iäpárâš:iäpár 4LAS_NOUN ;       ! äpärä_(lapsivainaja)
+faddârâš:faddâr 4LAS_NOUN ;       ! kummit_(yhtenä_kokonaisuutena)
 kozzâš:kozzâš x ;       ! kynnys
 koozzâš:koozzâš x ;       ! kyntynen
-kuovđâš:kuovđâš x ;       ! painanne_(pieni,_kostea,_ruohikkoinen)
-čäcikuávđâš:čäci#kuávđâš x ;       ! vesipäästäinen
+kuovđâš:kuovđâš 3EEMEED ;       ! painanne_(pieni,_kostea,_ruohikkoinen)
+čäcikuávđâš:čäci#kuávđâš 3EEMEED ;       ! vesipäästäinen
+
+
+späilihât:späilihât nounstems ;       ! pailakan_talja
+topsáhât:topsáhât nounstems ;       ! höperö_(tökerökäytöksinen)
+suormâhât:suormâhât nounstems  ;       ! sormikas™suormâhât
+pelisuormâhât:peli#suormâhât nounstems "" ;      ! kynsikäs_(käsine)
