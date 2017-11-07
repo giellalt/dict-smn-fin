@@ -74,9 +74,11 @@ Example:
  - for V: Sg1, Sg3, and Pl3 form
    ==> DONE
 
-src>grep '<l ' V_smnfin.xml |grep -v ' Pl3'|wc -l
-42
- ==> 42 forms either without word forms (negation verbs, multi-word expressions, or non-recognised by the FST)
+generate_V>g '<l ' 2_dd_out_analysis/V_smnfin.xml |cut -d '>' -f1|t|g ' 2 '|cl
+62
+
+There are 62 double entries in the V-file at the moment.
+ ==> action point: to be unified accordingly
 
 ###
 
