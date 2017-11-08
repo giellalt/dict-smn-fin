@@ -58160,16 +58160,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_506">
-      <lg>
-         <l pl3="arvâlisteh" sg1="arvâlistám" sg3="arvâlist" pos="V">arvâlistiđ</l>
-      </lg>
-      <mg rest="arvâlistám">
-         <tg xml:lang="fin">
-            <t pos="V">arvella</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_903">
       <lg>
          <l pl3="činehuveh" sg1="činehuum" sg3="činehuvá" pos="V">činehuđ</l>
@@ -58294,16 +58284,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">näkyä auringon sapesta</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_4305">
-      <lg>
-         <l pl3="kukkejeh" sg1="kukkiim" sg3="kukkee" pos="V">kukkiđ</l>
-      </lg>
-      <mg rest="kukkiim kukkee">
-         <tg xml:lang="fin">
-            <t pos="V">kukkia</t>
          </tg>
       </mg>
    </e>
