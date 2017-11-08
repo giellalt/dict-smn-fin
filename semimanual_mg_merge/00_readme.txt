@@ -25,24 +25,18 @@ g '<l ' 4_final_output_sg/N_smnfin.xml |g ' status'|cut -d '>' -f1|t
  - for A: Attr form
    ==> DONE
 
----update:
-20171103
-    211          <l status="_unknown_" pos="A"
-     53          <l status="no_attr" pos="A"
-     46          <l status="_known_as_N" pos="A"
-      4          <l status="_known_as_Adv" pos="A"
-update---
-
-
 
 Some statistics:
-(1) 211 unknown=unrecognised forms by the current smn-FST
+(1) 26 unknown=unrecognised forms by the current smn-FST
   action point ==> add these forms to the adj-lexc file
  
-(2) 50 recognised forms by the current smn-FST, however as N or Adv
+(2) recognised forms by the current smn-FST, however as N, Adv,
+    V, or even A but not as base form (26)
   action point ==> check and correct pos-values accordingly
-     46 _known_as_N
-      4 _known_as_Adv
+     58 _known_as_N
+      6 _known_as_Adv
+      26 +A+Attr
+      62 _known_as_V
 
 (3) Overgeneration of attr forms with the current smn-FST:
  action point ==> correct paths in the continuation classes
