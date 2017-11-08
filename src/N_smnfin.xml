@@ -15008,12 +15008,12 @@
    </e>
    <e id="N_1407">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="čäcijehhee" sg_ill="čäcijehhei">čäcijehhee</l>
+         <l g_stem="Sg" pos="A" sg_gen="čäcijehhee" sg_ill="čäcijehhei">čäcijehhee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">vedenpitävä</t>
-            <t pos="N">vesitiivis</t>
+            <t pos="A">vedenpitävä</t>
+            <t pos="A">vesitiivis</t>
          </tg>
       </mg>
    </e>
@@ -15562,17 +15562,6 @@
    <e id="N_1460">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="čäcjehhee" sg_ill="čäcjehhei">čäcjehhee</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">vedenpitävä</t>
-            <t pos="N">vesitiivis</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_1461">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="čäcijehhee" sg_ill="čäcijehhei">čäcijehhee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -35072,16 +35061,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_3306">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="keejâdmâš" sg_ill="keejâdmâšân">keejâdmâš</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">katselmus</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_3307">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="kelduu" sg_ill="keldui">keeldâ</l>
@@ -43505,6 +43484,11 @@
             <t pos="N">koveli</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">kynsikäs (sieni) Lyophyllum</t>
+         </tg>
+      </mg>
    </e>
    <e id="N_4103">
       <lg>
@@ -43848,6 +43832,11 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">taakka</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">kannettava</t>
          </tg>
       </mg>
    </e>
@@ -49611,6 +49600,11 @@
          <tg xml:lang="fin">
             <t pos="N">honka (pieni)</t>
             <t pos="N">kelo (pieni)</t>
+         </tg>
+      </mg>
+      <mg rest="kärigáá">
+         <tg xml:lang="fin">
+            <t pos="N">kitukasvuinen mänty</t>
          </tg>
       </mg>
    </e>
@@ -56539,6 +56533,7 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">jurakko (ajokkaasta)</t>
+			<t pos="N">vastahakoinen ajokas</t>
          </tg>
       </mg>
    </e>
@@ -68235,6 +68230,11 @@
             <t pos="N">liitos (köysien)</t>
          </tg>
       </mg>
+      <mg rest="njođđuu">
+         <tg xml:lang="fin">
+            <t pos="N">ohut jääkerros (vedessä ensipakkasten jälkeen)</t>
+         </tg>
+      </mg>
    </e>
    <e id="N_6473">
       <lg>
@@ -68974,16 +68974,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_6546">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="njuolgâdus" sg_ill="njuolgâdusân">njuolgâdus</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">sääntö</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_6547">
       <lg>
          <l g_stem="Sg" pos="N">njuolgim</l>
@@ -69025,6 +69015,7 @@
       <mg rest="-párnáá">
          <tg xml:lang="fin">
             <t pos="N">pikkuvauva</t>
+			<t pos="N">imeväisikäinen</t>
          </tg>
       </mg>
    </e>
@@ -70912,7 +70903,12 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">härkäpäinen</t>
+            <t pos="A">härkäpäinen</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">inttäjä</t>
          </tg>
       </mg>
    </e>
@@ -73075,7 +73071,8 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">ensimmäinen (useasta)</t>
+            <t pos="N">ensimmäinen (useasta)</t> 
+			<t pos="A">etummainen</t>
          </tg>
       </mg>
    </e>
@@ -93064,6 +93061,11 @@
             <t pos="N">kuoppa</t>
          </tg>
       </mg>
+      <mg rest="roge">
+         <tg xml:lang="fin">
+            <t pos="N">syvä uoma</t>
+         </tg>
+      </mg>
    </e>
    <e id="N_8844">
       <lg>
@@ -97687,6 +97689,7 @@
       </lg>
       <mg rest="-ulmuu">
          <tg xml:lang="fin">
+			 <t pos="N">aikuinen</t>
             <t pos="N">aikaihminen</t>
          </tg>
       </mg>
@@ -100943,6 +100946,11 @@
       <mg rest="-ulmuu">
          <tg xml:lang="fin">
             <t pos="N">unenpöpperöinen (ihminen)</t>
+         </tg>
+      </mg>
+      <mg rest="-ulmuu">
+         <tg xml:lang="fin">
+            <t pos="N">tokkurainen (ihminen)</t>
          </tg>
       </mg>
    </e>
@@ -104383,6 +104391,11 @@
       <mg rest="-muádá">
          <tg xml:lang="fin">
             <t pos="N">sisnatakki</t>
+         </tg>
+      </mg>
+      <mg rest="-muádá">
+         <tg xml:lang="fin">
+            <t pos="N">karvattomaksi kulunut peski</t>
          </tg>
       </mg>
    </e>
@@ -127840,6 +127853,7 @@
       <mg rest="uulgâ">
          <tg xml:lang="fin">
             <t pos="N">orsi (jalallinen)</t>
+			<t pos="N">jalallinen riuku</t>
             <t pos="N">ulku</t>
          </tg>
       </mg>
@@ -128535,7 +128549,8 @@
       </mg>
       <mg rest="ulguu">
          <tg xml:lang="fin">
-            <t pos="N">päällys</t>
+            <t pos="N">päällys</t> 
+            <t pos="N">päällinen</t>
          </tg>
       </mg>
    </e>
@@ -139635,19 +139650,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_13216">
-      <lg>
-         <l g_stem="Sg"
-            pos="N"
-            sg_gen="äijihkuobbâr"
-            sg_ill="äijihkuobbârân">äijihkuobâr</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Macrolepiota">ukonsieni</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_13217">
       <lg>
          <l g_stem="Sg"
@@ -139780,6 +139782,11 @@
          <tg xml:lang="fin">
             <t pos="N">neulakota</t>
             <t pos="N">äimäkotelo</t>
+         </tg>
+      </mg>
+      <mg rest="-skeerhâ">
+         <tg xml:lang="fin">
+            <t pos="N">vyölliset (erit. neulakota)</t>
          </tg>
       </mg>
    </e>
@@ -140937,16 +140944,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_13343">
-      <lg>
-         <l g_stem="Sg" pos="N">juhâmâš</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">juoma</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_13344">
       <lg>
          <l g_stem="Sg" pos="N">juhâmuš</l>
@@ -140954,11 +140951,7 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">juoma</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">juotava</t>
+			<t pos="N">juotava</t>
          </tg>
       </mg>
    </e>
@@ -141821,6 +141814,7 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">uskovainen (kristitty)</t>
+			<t pos="N">kristitty</t>
          </tg>
       </mg>
    </e>
@@ -142839,10 +142833,10 @@
       <lg>
          <l g_stem="Sg"
             pos="N"
-            sg_gen="suvâlâšlasânem"
-            sg_ill="suvâlâšlasânmân">suvâlâšlasânem</l>
+            sg_gen="suvâlâšlasanem"
+            sg_ill="suvâlâšlasanmân">suvâlâšlasanem</l>
       </lg>
-      <mg rest="lasânem">
+      <mg rest="lasanem">
          <tg xml:lang="fin">
             <t pos="N">suvullinen lisääntyminen</t>
          </tg>
@@ -142970,16 +142964,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_642">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="kozzâh" sg_ill="kozzâhân">kozzâh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kynsikäs (sieni) Lyophyllum</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_648">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="kuálhi" sg_ill="kuálkán">kuálkki</l>
@@ -142987,16 +142971,6 @@
       <mg rest="kuálhi">
          <tg xml:lang="fin">
             <t pos="N">tyyni sää</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_701">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="kärigáá" sg_ill="kärigâžân">kärigâš</l>
-      </lg>
-      <mg rest="kärigáá">
-         <tg xml:lang="fin">
-            <t pos="N">kitukasvuinen mänty</t>
          </tg>
       </mg>
    </e>
@@ -143078,26 +143052,6 @@
             <t pos="N">parka</t>
             <t pos="N">raukka</t>
             <t pos="N">rukka</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_772">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="luáži" sg_ill="luážán">luážži</l>
-      </lg>
-      <mg rest="luáži">
-         <tg xml:lang="fin">
-            <t pos="N">heikkotuulinen sää</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_776">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="luobdâh" sg_ill="luobdâhân">luobdâh</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">vastahakoinen ajokas</t>
          </tg>
       </mg>
    </e>
@@ -143192,16 +143146,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_958">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="njođđâm" sg_ill="njođđâmân">njoođâ</l>
-      </lg>
-      <mg rest="njođđuu">
-         <tg xml:lang="fin">
-            <t pos="N">ohut jääkerros (vedessä ensipakkasten jälkeen)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_968">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="njuolgâdâs" sg_ill="njuolgâdâsân">njuolgâdâs</l>
@@ -143255,16 +143199,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_1002">
-      <lg>
-         <l g_stem="Sg" pos="N">näggejeijee</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">inttäjä</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_1081">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="paajaa" sg_ill="pajažân">paajaaš</l>
@@ -143297,19 +143231,6 @@
       <mg rest="-pele">
          <tg xml:lang="fin">
             <t pos="A">pariton</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1124">
-      <lg>
-         <l g_stem="Sg"
-            pos="N"
-            sg_gen="peljipiilto;peljipilto"
-            sg_ill="peljipiilton;peljipilto">peljipiltto</l>
-      </lg>
-      <mg rest="-pi'lto">
-         <tg xml:lang="fin">
-            <t pos="N">korvallinen (korvan peittävä osa hatussa)</t>
          </tg>
       </mg>
    </e>
@@ -143351,16 +143272,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_1260">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="reedleeibi" sg_ill="reedliäibán">reedleibi</l>
-      </lg>
-      <mg rest="-leeibi">
-         <tg xml:lang="fin">
-            <t pos="N">kohotettu vehnäleipä (räätileipä)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_1279">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="riävu" sg_ill="riäpun">riäpu</l>
@@ -143371,16 +143282,6 @@
             <t pos="N">ressukka</t>
             <t pos="N">riepu</t>
             <t pos="N">rukka</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1284">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="roge" sg_ill="roogán">rogge</l>
-      </lg>
-      <mg rest="roge">
-         <tg xml:lang="fin">
-            <t pos="N">syvä uoma</t>
          </tg>
       </mg>
    </e>
@@ -143571,16 +143472,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_1276">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="ristâhâs" sg_ill="ristâhâsân">ristâhâs</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kristitty</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_1285">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="rohâdâs" sg_ill="rohâdâsân">rohâdâs</l>
@@ -143664,16 +143555,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_1329">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="rävisulmuu" sg_ill="rävisulmui">rävisolmooš</l>
-      </lg>
-      <mg rest="-ulmuu">
-         <tg xml:lang="fin">
-            <t pos="N">aikuinen</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_1330">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="räävki" sg_ill="ráávkán">rävkki</l>
@@ -143711,16 +143592,6 @@
       <mg rest="-čääsi">
          <tg xml:lang="fin">
             <t pos="N">makea vesi (suolaisen veden vastakohtana)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1359">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="semiulmuu" sg_ill="semiulmui">semiolmooš</l>
-      </lg>
-      <mg rest="-ulmuu">
-         <tg xml:lang="fin">
-            <t pos="N">tokkurainen (ihminen)</t>
          </tg>
       </mg>
    </e>
@@ -143784,16 +143655,6 @@
       <mg rest="skiNe">
          <tg xml:lang="fin">
             <t pos="N">karvattomaksi kulunut nahka</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1415">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="skinnemuádá" sg_ill="skinnemuádán">skinnemuáddá</l>
-      </lg>
-      <mg rest="-muádá">
-         <tg xml:lang="fin">
-            <t pos="N">karvattomaksi kulunut peski</t>
          </tg>
       </mg>
    </e>
@@ -143933,26 +143794,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_1717">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="uulgâ" sg_ill="uulgân">ulgâ</l>
-      </lg>
-      <mg rest="uulgâ">
-         <tg xml:lang="fin">
-            <t pos="N">jalallinen riuku</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1727">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="ulguu" sg_ill="ulguužân">uulguš</l>
-      </lg>
-      <mg rest="ulguu">
-         <tg xml:lang="fin">
-            <t pos="N">päällinen</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_1802">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="vivvâpele" sg_ill="vivvâpiälán">vivvâpeeli</l>
@@ -144001,16 +143842,6 @@
          <tg xml:lang="fin">
             <t pos="N">niukkuus</t>
             <t pos="N">puute</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1869">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="äimiskeerhâ" sg_ill="äimiskeerkân">äimiskerkkâ</l>
-      </lg>
-      <mg rest="-skeerhâ">
-         <tg xml:lang="fin">
-            <t pos="N">vyölliset (erit. neulakota)</t>
          </tg>
       </mg>
    </e>
@@ -144088,6 +143919,11 @@
             <t pos="N">nähtävä</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">katselmus</t>
+         </tg>
+      </mg>
    </e>
    <e id="A_1919">
       <lg>
@@ -144096,16 +143932,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">neulottava</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1922">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="kuáddámuš" sg_ill="kuáddámušân">kuáddámuš</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kannettava</t>
          </tg>
       </mg>
    </e>
@@ -144161,19 +143987,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_1963">
-      <lg>
-         <l g_stem="Sg"
-            pos="N"
-            sg_gen="njuorâhpárnáá"
-            sg_ill="njuorâhpárnážân">njuorâhpáárnáš</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">imeväisikäinen</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_2016">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="vuáđusteijee" sg_ill="vuáđusteijei">vuáđusteijee</l>
@@ -144201,16 +144014,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">vastaaja</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1033">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="oovdemuš" sg_ill="oovdemušân">oovdemuš</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">etummainen</t>
          </tg>
       </mg>
    </e>

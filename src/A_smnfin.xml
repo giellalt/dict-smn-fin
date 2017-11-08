@@ -4210,16 +4210,13 @@
       <mg rest="háánnás # hänis hänes">
          <tg xml:lang="fin">
             <t pos="A">nuuka</t>
+            <t pos="A">pihi</t>
+            <t pos="A">saita</t>
          </tg>
       </mg>
       <mg rest="háánnás # hänis hänes">
          <tg xml:lang="fin">
             <t pos="A">ahne</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">pihi</t>
          </tg>
       </mg>
    </e>
@@ -15780,7 +15777,7 @@
       <mg rest="säävri # sä'vris">
          <tg xml:lang="fin">
             <t pos="A">sitkeä</t>
-            <t pos="A">hyväkuntoinen</t>
+            <t pos="A"re="fyysiseltä kunnoltaan">hyväkuntoinen</t>
          </tg>
       </mg>
       <mg rest="säävri # sä'vris">
@@ -15791,16 +15788,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A" re="vaatteesta">tukeva</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_10872">
-      <lg>
-         <l attr="sävris" gen="säävri" ill="sáávrán" pos="A">sävri</l>
-      </lg>
-      <mg rest="säävri # sä'vris">
-         <tg xml:lang="fin">
-            <t pos="A" re="fyysiseltä kunnoltaan">hyväkuntoinen</t>
          </tg>
       </mg>
    </e>
@@ -21333,18 +21320,6 @@
       <mg rest="háittás # hä'itis">
          <tg xml:lang="fin">
             <t pos="A">tulikuuma</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_2313">
-      <lg>
-         <l attr="hänis" gen="háánnás" ill="hánásân" pos="A">häänis</l>
-      </lg>
-      <mg rest="háánnás # hänis hänes">
-         <tg xml:lang="fin">
-            <t pos="A">ahne</t>
-            <t pos="A">pihi</t>
-            <t pos="A">saita</t>
          </tg>
       </mg>
    </e>
