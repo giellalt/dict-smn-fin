@@ -21855,4 +21855,69 @@
          </tg>
       </mg>
    </e>
+   <e id="Adv_45">
+      <lg>
+         <l pos="A">čuávulâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">helposti seuraava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Adv_75">
+      <lg>
+         <l pos="A">fijnáht lättejeijee</l>
+      </lg>
+      <mg rest="lättejeijee">
+         <tg xml:lang="fin">
+            <t pos="A">hienovarainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Adv_324">
+      <lg>
+         <l pos="A">puáidudekes</l>
+      </lg>
+      <mg rest="puá'idudiäk'ká">
+         <tg xml:lang="fin">
+            <t pos="A">helposti lihova</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Adv_325">
+      <lg>
+         <l pos="A">puáidudeves</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">helposti lihova</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Adv_372">
+      <lg>
+         <l pos="A">suttâlâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">helposti suuttuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Adv_478">
+      <lg>
+         <l pos="A">vienâlâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">helposti kipeytyvä (esim. raajasta)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">helposti venähtävä (esim. raajasta)</t>
+         </tg>
+      </mg>
+   </e>
 </r>
