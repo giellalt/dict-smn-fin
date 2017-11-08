@@ -4,6 +4,30 @@
 
 ###############################
 
+TODO: double entries in the Adv file:
+      2 čyevtib
+      2 čuákkist
+      2 čuottii
+      2 čoođâg
+      2 uáivist
+      2 ucánjihhii
+      2 tástán
+      2 tievâ
+      2 pelijieggâst
+      2 pajeláá
+      2 pajeláhháá
+      2 ovdâlist
+      2 nubetuv
+      2 nubetove
+      2 njihhood
+      2 máccud
+      2 mielâst
+      2 mannjeed
+      2 kuhe
+      2 jävriláá
+
+
+
 - using the smn-FST, too, I have to generate the word forms as requested by Hannu Kangasniemi for a “printed” version (HTML/PDF/etc.)
  - for N: Gen+Sg form
    ==> DONE
