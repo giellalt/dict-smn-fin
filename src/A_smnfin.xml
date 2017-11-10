@@ -1716,7 +1716,7 @@
    </e>
    <e id="A_164">
       <lg>
-         <l pos="A">čovgâd</l>
+         <l attr="čovgâ" gen="čovgâd" ill="čovgâdân" pos="A">čovgâd</l>
       </lg>
       <mg rest="# čovgâ čo'vgis">
          <tg xml:lang="fin">
@@ -3691,7 +3691,7 @@
    </e>
    <e id="A_345">
       <lg>
-         <l attr="hirmos" gen="hirmos" ill="hirmosân" pos="A">hirmos</l>
+         <l attr="hirmos" gen="hirmoos" ill="hirmosân" pos="A">hirmos</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5111,7 +5111,7 @@
    </e>
    <e id="A_468">
       <lg>
-         <l pos="A">jiešvises</l>
+         <l attr="jiešvises" gen="jiešvissás" ill="jiešvissásân" pos="A">jiešvises</l>
       </lg>
       <mg rest="-vissás">
          <tg xml:lang="fin">
@@ -5409,7 +5409,7 @@
    </e>
    <e id="A_497">
       <lg>
-         <l attr="julmes" gen="julme" ill="juulmán" pos="A">julme</l>
+         <l attr="julme" gen="julme" ill="juulmán" pos="A">julme</l>
       </lg>
       <mg rest="ju'lme">
          <tg xml:lang="fin">
@@ -5709,7 +5709,7 @@
    </e>
    <e id="A_528">
       <lg>
-         <l attr="kaljes" gen="kalje" ill="kaljan" pos="A">kalje</l>
+         <l attr="kaljes" gen="kalje" ill="kaaljan" pos="A">kalje</l>
       </lg>
       <mg rest="ka'lje # ka'ljes">
          <tg xml:lang="fin">
@@ -6960,7 +6960,7 @@
    </e>
    <e id="A_655">
       <lg>
-         <l pos="A">kuástis</l>
+         <l attr="kuástis" gen="kuástás" ill="kuástásân" pos="A">kuástis</l>
       </lg>
       <mg rest="kuás'tá # kuás'ti-">
          <tg xml:lang="fin">
@@ -7452,7 +7452,7 @@
    </e>
    <e id="A_699">
       <lg>
-         <l attr="käcis" gen="käci" ill="kácán" pos="A">käcci</l>
+         <l attr="käcis" gen="kääci" ill="káácán" pos="A">käcci</l>
       </lg>
       <mg rest="kääci # käcis">
          <tg xml:lang="fin">
@@ -8137,7 +8137,7 @@
    </e>
    <e id="A_769">
       <lg>
-         <l pos="A">luátis</l>
+         <l attr="luátis" gen="luáttás" ill="luáttásân" pos="A">luátis</l>
       </lg>
       <mg rest="luát'tá">
          <tg xml:lang="fin">
@@ -8699,7 +8699,7 @@
    </e>
    <e id="A_822">
       <lg>
-         <l pos="A">mandeves</l>
+         <l gen="mandiäkká" ill="mandiäkkás" pos="A">mandeves</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -9733,7 +9733,7 @@
    </e>
    <e id="A_930">
       <lg>
-         <l pos="A">neetâs</l>
+         <l attr="nettâ" gen="nettâs" ill="nettâsân" pos="A">neetâs</l>
       </lg>
       <mg rest="# nettâ">
          <tg xml:lang="fin">
@@ -9944,7 +9944,7 @@
    </e>
    <e id="A_951">
       <lg>
-         <l attr="njeeđes" gen="njeđe" ill="njiäđán" pos="A">njeeđi</l>
+         <l attr="njeđes" gen="njeđe" ill="njiäđán" pos="A">njeeđi</l>
       </lg>
       <mg rest="njeeđi # njeđes">
          <tg xml:lang="fin">
@@ -11940,7 +11940,7 @@
    </e>
    <e id="A_1151">
       <lg>
-         <l attr="počâ" gen="poočâ" ill="poočân" pos="A">poččâ</l>
+         <l attr="počis" gen="poočâ" ill="poočân" pos="A">poččâ</l>
       </lg>
       <mg rest="# počis počâs">
          <tg xml:lang="fin">
@@ -13697,7 +13697,7 @@
    </e>
    <e id="A_1331">
       <lg>
-         <l pos="A">räägis</l>
+         <l attr="rägis" gen="rággás" ill="rágásân" pos="A">räägis</l>
       </lg>
       <mg rest="rággá # rägis">
          <tg xml:lang="fin">
@@ -13907,7 +13907,7 @@
    </e>
    <e id="A_1352">
       <lg>
-         <l attr="seelis" gen="seeli" ill="siälán" pos="A">seeli</l>
+         <l attr="seles" gen="sele" ill="siälán" pos="A">seeli</l>
       </lg>
       <mg rest="sele # seles">
          <tg xml:lang="fin">
@@ -14551,7 +14551,7 @@
    </e>
    <e id="A_1411">
       <lg>
-         <l attr="skeerčâ" gen="skeerčâ" ill="skeerčân" pos="A">skeerčâ</l>
+         <l pos="A">skeerčâ</l>
       </lg>
       <mg rest="# ske'rčâ">
          <tg xml:lang="fin">
@@ -14670,7 +14670,7 @@
    </e>
    <e id="A_1425">
       <lg>
-         <l pos="A">skuuiper</l>
+         <l attr="skuiper" gen="skuipper" ill="skuipperân" pos="A">skuuiper</l>
       </lg>
       <mg rest="skuipper # skuipperis">
          <tg xml:lang="fin">
@@ -14920,7 +14920,7 @@
    </e>
    <e id="A_1447">
       <lg>
-         <l pos="A">soovđâs</l>
+         <l attr="sovđâ" gen="sovđâs" ill="sovđâsân" pos="A">soovđâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -15924,7 +15924,7 @@
    </e>
    <e id="A_1536">
       <lg>
-         <l pos="A">tabemuš</l>
+         <l attr="tabemuš" gen="tabemuu" ill="tabemužân" pos="A">tabemuš</l>
       </lg>
       <mg rest="tabemuu">
          <tg xml:lang="fin">
@@ -16815,7 +16815,7 @@
    </e>
    <e id="A_1630">
       <lg>
-         <l attr="tuble" pos="A">tuble</l>
+         <l pos="A">tuble</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18122,7 +18122,7 @@
    </e>
    <e id="A_1768">
       <lg>
-         <l pos="A">veeri</l>
+         <l attr="veeri" gen="vere" ill="viärán" pos="A">veeri</l>
       </lg>
       <mg rest="vere">
          <tg xml:lang="fin">
@@ -18273,7 +18273,7 @@
    </e>
    <e id="A_1781">
       <lg>
-         <l pos="A">vierâdeves</l>
+         <l gen="vierâdiäkká" ill="vierâdiäkkás" pos="A">vierâdeves</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18827,7 +18827,10 @@
    </e>
    <e id="A_1836">
       <lg>
-         <l pos="A">vuojâttem</l>
+         <l attr="vuojâttes;vuojâttemes"
+            gen="vuojâtteme"
+            ill="vuojâttiämán"
+            pos="A">vuojâttem</l>
       </lg>
       <mg rest="# vuo'jâttes vuo'jâttemes">
          <tg xml:lang="fin">
@@ -20920,7 +20923,7 @@
    </e>
    <e id="N_10691_A_correction">
       <lg>
-         <l pos="A">suvre</l>
+         <l attr="suvre" gen="suvre" ill="suuvrán" pos="A">suvre</l>
       </lg>
       <mg rest="su'vre # suvre">
          <tg xml:lang="fin">
