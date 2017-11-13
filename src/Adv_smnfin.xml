@@ -29,6 +29,12 @@
             <t pos="Adv">juuri tässä</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">tässä paikassa</t>
+            <t pos="Adv">tästä paikasta</t>
+         </tg>
+      </mg>
    </e>
    <e id="N_12440">
       <lg>
@@ -48,6 +54,7 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">sata kertaa</t>
+			<t pos="Adv">sadasti</t>
          </tg>
       </mg>
    </e>
@@ -662,16 +669,6 @@
          </tg>
       </mg>
    </e>
-   <e id="Adv_39">
-      <lg>
-         <l pos="Adv">čoođâg</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">jatkuvasti</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Adv_40">
       <lg>
          <l pos="Adv">čuákán</l>
@@ -761,16 +758,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">päittäin (ei poikittain)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Adv_50">
-      <lg>
-         <l pos="Adv">čuottii</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">sadasti</t>
          </tg>
       </mg>
    </e>
@@ -877,6 +864,11 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kovemmin</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">enemmän</t>
          </tg>
       </mg>
    </e>
@@ -1692,6 +1684,11 @@
             <t pos="Adv">lähemmäs järveä</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">lähempänä järveä</t>
+         </tg>
+      </mg>
    </e>
    <e id="Adv_129">
       <lg>
@@ -2236,6 +2233,7 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kauan</t>
+			<t pos="Adv">pitkään</t>
          </tg>
       </mg>
    </e>
@@ -3690,6 +3688,7 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">ennen</t>
+			<t pos="Adv">aiemmin</t>
          </tg>
       </mg>
    </e>
@@ -3926,6 +3925,11 @@
             <t pos="Adv">ylemmäs</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ylempänä</t>
+         </tg>
+      </mg>
    </e>
    <e id="Adv_308">
       <lg>
@@ -3934,6 +3938,11 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">ylemmäs (vähäsen)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ylempänä (vähäsen)</t>
          </tg>
       </mg>
    </e>
@@ -3975,6 +3984,7 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">henkihieverissä</t>
+			<t pos="Adv">henkitoreissa</t>
          </tg>
       </mg>
    </e>
@@ -4797,17 +4807,6 @@
          </tg>
       </mg>
    </e>
-   <e id="Adv_388">
-      <lg>
-         <l pos="Adv">tástán</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">tässä paikassa</t>
-            <t pos="Adv">tästä paikasta</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Adv_389">
       <lg>
          <l pos="Adv">tástân</l>
@@ -5058,6 +5057,11 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">täynnä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">täyteen</t>
          </tg>
       </mg>
    </e>
@@ -5508,21 +5512,6 @@
          </tg>
       </mg>
    </e>
-   <e id="Adv_455">
-      <lg>
-         <l pos="Adv">uáivist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">juovuksissa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">päihtynyt</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Adv_457">
       <lg>
          <l pos="Adv">uávŋild</l>
@@ -5587,6 +5576,12 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">vähäsen</t>
+			<t pos="Adv">vähän</t>
+         </tg>
+      </mg> 
+	  <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">hetkisen</t>
          </tg>
       </mg>
    </e>
@@ -6398,6 +6393,11 @@
             <t pos="Adv">toisella kertaa</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">toistamiseen</t>
+         </tg>
+      </mg>
    </e>
    <e id="N_6654">
       <lg>
@@ -6406,6 +6406,11 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">toisella kertaa</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">toistamiseen</t>
          </tg>
       </mg>
    </e>
@@ -6446,26 +6451,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">toisin</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Adv_537">
-      <lg>
-         <l pos="Adv">nubetove</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">toistamiseen</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Adv_538">
-      <lg>
-         <l pos="Adv">nubetuv</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">toistamiseen</t>
          </tg>
       </mg>
    </e>
@@ -7138,6 +7123,11 @@
             <t pos="Adv">etukenoon</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vino</t>
+         </tg>
+      </mg>
    </e>
    <e id="N_6527">
       <lg>
@@ -7455,17 +7445,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_1059">
-      <lg>
-         <l pos="Adv">čuákkist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">koolla</t>
-            <t pos="Adv">koossa</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_1351">
       <lg>
          <l pos="Adv">čuožâd</l>
@@ -7706,16 +7685,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">siksi</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_823_Adv_correction">
-      <lg>
-         <l pos="Adv">mannjeed</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">myöhään</t>
          </tg>
       </mg>
    </e>
@@ -8140,29 +8109,6 @@
          </tg>
       </mg>
    </e>
-   <e id="N_5547">
-      <lg>
-         <l pos="Adv">máccud</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">poimulla</t>
-            <t pos="Adv">taitteella (ei pysyvästi)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_5815">
-      <lg>
-         <l pos="Adv">mielâst</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">mielessä</t>
-            <t pos="Adv">mielissään</t>
-            <t pos="Adv">mielellään</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_6169">
       <lg>
          <l pos="Adv">muuneeld</l>
@@ -8231,16 +8177,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_661">
-      <lg>
-         <l pos="Adv">kuhe</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">pitkään</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_669">
       <lg>
          <l pos="Adv">kukkeláhháá</l>
@@ -8304,6 +8240,11 @@
          <tg xml:lang="fin">
             <t pos="Adv">myöhäinen</t>
             <t pos="Adv">myöhä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">myöhään</t>
          </tg>
       </mg>
    </e>
@@ -8376,16 +8317,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_953">
-      <lg>
-         <l pos="Adv">njihhood</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">vino</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_961">
       <lg>
          <l pos="Adv">njuálgud</l>
@@ -8406,16 +8337,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_1066">
-      <lg>
-         <l pos="Adv">ovdâlist</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">aiemmin</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_1071">
       <lg>
          <l pos="Adv">ovdâsmaŋas</l>
@@ -8423,26 +8344,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">edestakaisin</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1097">
-      <lg>
-         <l pos="Adv">pajeláá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">ylempänä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1098">
-      <lg>
-         <l pos="Adv">pajeláhháá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">ylempänä (vähäsen)</t>
          </tg>
       </mg>
    </e>
@@ -8567,16 +8468,6 @@
          <tg xml:lang="fin">
             <t pos="Adv">kohtisuoraan</t>
             <t pos="Adv">kohtisuorassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_516">
-      <lg>
-         <l pos="Adv">jävriláá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">lähempänä järveä</t>
          </tg>
       </mg>
    </e>
@@ -8761,17 +8652,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_1569">
-      <lg>
-         <l pos="Adv">tievâ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">täyteen</t>
-            <t pos="Adv">täynnä</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_1570">
       <lg>
          <l pos="Adv">tievâšaddoost</l>
@@ -8888,8 +8768,14 @@
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">humalainen</t>
             <t pos="Adv">humalassa</t>
+			<t pos="Adv">juovuksissa</t>
+			<t pos="Adv">päihtynyt</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">humalainen</t>
          </tg>
       </mg>
    </e>
@@ -8900,21 +8786,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">oikealla</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_1697">
-      <lg>
-         <l pos="Adv">ucánjihhii</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">hetkisen</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">vähän</t>
          </tg>
       </mg>
    </e>
@@ -9130,16 +9001,6 @@
          </tg>
       </mg>
    </e>
-   <e id="A_201">
-      <lg>
-         <l pos="Adv">čyevtib</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">enemmän</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_1208">
       <lg>
          <l pos="Adv">puunjij</l>
@@ -9147,16 +9008,6 @@
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kierosti</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7498">
-      <lg>
-         <l pos="N" status="_unknown_N">pelijieggâst</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">henkitoreissaan</t>
          </tg>
       </mg>
    </e>
