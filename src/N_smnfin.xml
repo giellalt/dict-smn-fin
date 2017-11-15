@@ -47785,17 +47785,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_4506">
-      <lg>
-         <l pos="N" status="_unknown_N">kurmápoaroi</l>
-      </lg>
-      <mg rest="-porruu">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Hypoderma tarandi">porokiiliäinen</t>
-            <t pos="N" tt_auto="Hypoderma tarandi">kurmupaarma</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_4507">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="kurmáporruu" sg_ill="kurmáporrui">kurmápuárui</l>
@@ -68569,16 +68558,6 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="N">tuulenpyörre</t>
             <t pos="N">kova tuuli</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_6502">
-      <lg>
-         <l pos="N" status="_unknown_N">njuároi</l>
-      </lg>
-      <mg rest="njuor'ruu">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Philonotus fontana">purolähdesammal</t>
          </tg>
       </mg>
    </e>
