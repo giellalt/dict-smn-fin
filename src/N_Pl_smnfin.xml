@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r id="smnfin" xml:lang="smn">
    <lics xml:space="preserve">
   <lic xml:lang="en">
@@ -26,11 +28,7 @@ For the full license text, see the link above.
      </sourcenote></lics>
    <e id="N_8561">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="railâsij"
-            pl_ill="railâsáid"
-            pos="N">railâseh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="railâsij;railâsáid" pos="N">railâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -41,7 +39,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2031">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">haskuleh</l>
+         <l nr="Pl" pos="N">haskuleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -56,11 +54,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_233">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="áimuvuoimij"
-            pl_ill="áimuvuoimijd"
-            pos="N">áimuvyeimih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="áimuvuoimij;áimuvuoimijd" pos="N">áimuvyeimih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -70,11 +64,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_418">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="amnâsuápui"
-            pl_ill="amnâsuáppoid"
-            pos="N">amnâsuápuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="amnâsuáppoid;amnâsuápui" pos="N">amnâsuápuh</l>
       </lg>
       <mg rest="-uápui">
          <tg xml:lang="fin">
@@ -86,8 +76,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="arâiiđeeduđđâsij"
-            pl_ill="arâiiđeeduđđâsáid"
+            pl_ill="arâiiđeeduđđâsij;arâiiđeeduđđâsáid"
             pos="N">arâiiđeeduđđâseh</l>
       </lg>
       <mg rest="">
@@ -100,8 +89,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="arvepuuvsâi;arvepuvsâi"
-            pl_ill="arvepuvssáid;arvepuvsâi"
+            pl_ill="arvepuuvsâi;arvepuvssáid;arvepuvsâi"
             pos="N">arvepuuvsah</l>
       </lg>
       <mg rest="">
@@ -112,11 +100,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_559">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="asteršadoi"
-            pl_ill="asteršaddoid"
-            pos="N">asteršadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="asteršaddoid;asteršadoi" pos="N">asteršadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -128,8 +112,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="avrampiergâsij"
-            pl_ill="avrampiergâsáid"
+            pl_ill="avrampiergâsij;avrampiergâsáid"
             pos="N">avrampiergâseh</l>
       </lg>
       <mg rest="">
@@ -141,11 +124,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_624">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ávutuálui"
-            pl_ill="ávutuáloid"
-            pos="N">ávutuáluh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ávutuáloid;ávutuálui" pos="N">ávutuáluh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -157,8 +136,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čalmekulmesoksâmij"
-            pl_ill="čalmekulmesoksâmáid"
+            pl_ill="čalmekulmesoksâmij;čalmekulmesoksâmáid"
             pos="N">čalmekulmesoksâmeh</l>
       </lg>
       <mg rest="">
@@ -171,8 +149,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čalmelaasâi;čalmelasâi"
-            pl_ill="čalmelaasáid;čalmelasâi"
+            pl_ill="čalmelaasáid;čalmelaasâi;čalmelasâi"
             pos="N">čalmelaasah</l>
       </lg>
       <mg rest="">
@@ -183,11 +160,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_826">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="čevđâstuvâi"
-            pl_ill="čevđâstuvváid"
-            pos="N">čevđâstuvah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="čevđâstuvváid;čevđâstuvâi" pos="N">čevđâstuvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -197,11 +170,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_834">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="čevelođđâsij"
-            pl_ill="čevelođđâsáid"
-            pos="N">čevelođđâseh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="čevelođđâsij;čevelođđâsáid" pos="N">čevelođđâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -213,8 +182,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čevetaavtij;čevetavtij"
-            pl_ill="čevetavtij;čevetavttijd"
+            pl_ill="čevetaavtij;čevetavtij;čevetavttijd"
             pos="N">čevetäävtih</l>
       </lg>
       <mg rest="">
@@ -225,11 +193,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_929">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="čivrosij"
-            pl_ill="čivrosáid"
-            pos="N">čivroseh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="čivrosij;čivrosáid" pos="N">čivroseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -242,8 +206,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čiähuliinsâi;čiähulinsâi"
-            pl_ill="čiähulinssáid;čiähulinsâi"
+            pl_ill="čiähuliinsâi;čiähulinssáid;čiähulinsâi"
             pos="N">čiähuliinsah</l>
       </lg>
       <mg rest="">
@@ -254,11 +217,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1064">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="čolij;čoolij"
-            pl_ill="čolij;čoolijd"
-            pos="N">čuálih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="čolij;čoolij;čoolijd" pos="N">čuálih</l>
       </lg>
       <mg rest="čuá'leh">
          <tg xml:lang="fin">
@@ -270,8 +229,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čuárbbeltaavtij;čuárbbeltavtij"
-            pl_ill="čuárbbeltavtij;čuárbbeltavttijd"
+            pl_ill="čuárbbeltaavtij;čuárbbeltavtij;čuárbbeltavttijd"
             pos="N">čuárbbeltäävtih</l>
       </lg>
       <mg rest="">
@@ -282,7 +240,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12865">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">vuásváh</l>
+         <l nr="Pl" pos="N">vuásváh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -292,7 +250,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_669">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">cáimáttuvah</l>
+         <l nr="Pl" pos="N">cáimáttuvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -302,7 +260,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12563">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">vijlâseh</l>
+         <l nr="Pl" pos="N">vijlâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -314,8 +272,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čuárvijáhálij"
-            pl_ill="čuárvijáháláid"
+            pl_ill="čuárvijáhálij;čuárvijáháláid"
             pos="N">čuárvijáháleh</l>
       </lg>
       <mg rest="">
@@ -328,8 +285,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čuárviriistâi;čuárviristâi"
-            pl_ill="čuárviristáid;čuárviristâi"
+            pl_ill="čuárviriistâi;čuárviristáid;čuárviristâi"
             pos="N">čuárviriistah</l>
       </lg>
       <mg rest="">
@@ -342,8 +298,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čuoldâkuobbârij"
-            pl_ill="čuoldâkuobbâráid"
+            pl_ill="čuoldâkuobbârij;čuoldâkuobbâráid"
             pos="N">čuoldâkuobbâreh</l>
       </lg>
       <mg rest="">
@@ -354,11 +309,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1300">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="čuovâi"
-            pl_ill="čuováid"
-            pos="N">čuovah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="čuováid;čuovâi" pos="N">čuovah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -371,8 +322,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čuovjiskierâšaddoid;čuovjiskierâšadoi"
-            pl_ill="čuovjiskierâšaddoid;čuovjiskierâšadoi"
+            pl_ill="čuovjiskierâšaddoid;čuovjiskierâšadoi;čuovjâdiskierâšadoi"
             pos="N">čuovjiskierâšadoh</l>
       </lg>
       <mg rest="">
@@ -383,11 +333,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1355">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="čuožžâmij"
-            pl_ill="čuožžâmáid"
-            pos="N">čuožžâmeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="čuožžâmij;čuožžâmáid" pos="N">čuožžâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -399,8 +345,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čäciherttâšadoi"
-            pl_ill="čäciherttâšaddoid"
+            pl_ill="čäciherttâšaddoid;čäciherttâšadoi"
             pos="N">čäciherttâšadoh</l>
       </lg>
       <mg rest="">
@@ -413,8 +358,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="ergikunâgâsvuájui"
-            pl_ill="ergikunâgâsvuájoid"
+            pl_ill="ergikunâgâsvuájoid;ergikunâgâsvuájui"
             pos="N">ergikunâgâsvuájuh</l>
       </lg>
       <mg rest="">
@@ -425,11 +369,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1775">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="faarkui;farkui"
-            pl_ill="farkoid;farkui"
-            pos="N">faarkuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="faarkui;farkoid;farkui" pos="N">faarkuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -443,8 +383,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="farmarpuuvsâi;farmarpuvsâi"
-            pl_ill="farmarpuvssáid;farmarpuvsâi"
+            pl_ill="farmarpuuvsâi;farmarpuvssáid;farmarpuvsâi"
             pos="N">farmarpuuvsah</l>
       </lg>
       <mg rest="">
@@ -459,8 +398,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="fiskisräsišaddoid;fiskisräsišadoi"
-            pl_ill="fiskisräsišaddoid;fiskisräsišadoi"
+            pl_ill="fiskisräsišaddoid;fiskisräsišadoi;fiskâdisräsišadoi"
             pos="N">fiskisräsišadoh</l>
       </lg>
       <mg rest="">
@@ -471,11 +409,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1932">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="haalarij"
-            pl_ill="haalaráid"
-            pos="N">haalareh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="haalarij;haalaráid" pos="N">haalareh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -485,11 +419,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2019">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="harjakkái"
-            pl_ill="harjakkáid"
-            pos="N">harjakkááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="harjakkái;harjakkáid" pos="N">harjakkááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -499,11 +429,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2037">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="havdajái"
-            pl_ill="havdajáid"
-            pos="N">havdajááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="havdajái;havdajáid" pos="N">havdajááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -513,11 +439,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2038">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="hávdájái"
-            pl_ill="hávdájáid"
-            pos="N">hávdájááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="hávdájái;hávdájáid" pos="N">hávdájááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -527,11 +449,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2049">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="heejâi;hejâi"
-            pl_ill="heejáid;hejâi"
-            pos="N">heejah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="heejáid;heejâi;hejâi" pos="N">heejah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -541,11 +459,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2072">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="helduvai"
-            pl_ill="helduvaid"
-            pos="N">helduvah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="helduvai;helduvaid" pos="N">helduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -555,11 +469,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2092">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="heŋkselij"
-            pl_ill="heŋkseláid"
-            pos="N">heŋkseleh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="heŋkselij;heŋkseláid" pos="N">heŋkseleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -571,8 +481,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="herskukuobbârij"
-            pl_ill="herskukuobbâráid"
+            pl_ill="herskukuobbârij;herskukuobbâráid"
             pos="N">herskukuobbâreh</l>
       </lg>
       <mg rest="">
@@ -583,11 +492,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2106">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="herttâšadoi"
-            pl_ill="herttâšaddoid"
-            pos="N">herttâšadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="herttâšaddoid;herttâšadoi" pos="N">herttâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -599,8 +504,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="huáppuvaljiimij"
-            pl_ill="huáppuvaljiimáid"
+            pl_ill="huáppuvaljiimij;huáppuvaljiimáid"
             pos="N">huáppuvaljiimeh</l>
       </lg>
       <mg rest="">
@@ -611,11 +515,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2223">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="huáššišadoi"
-            pl_ill="huáššišaddoid"
-            pos="N">huáššišadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="huáššišaddoid;huáššišadoi" pos="N">huáššišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -627,8 +527,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="idâpuuvsâi;idâpuvsâi"
-            pl_ill="idâpuvssáid;idâpuvsâi"
+            pl_ill="idâpuuvsâi;idâpuvssáid;idâpuvsâi"
             pos="N">idâpuuvsah</l>
       </lg>
       <mg rest="">
@@ -651,8 +550,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="iiđeeduđđâsij"
-            pl_ill="iiđeeduđđâsáid"
+            pl_ill="iiđeeduđđâsij;iiđeeduđđâsáid"
             pos="N">iiđeeduđđâseh</l>
       </lg>
       <mg rest="">
@@ -664,11 +562,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2368">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="iilâskšadoi"
-            pl_ill="iilâskšaddoid"
-            pos="N">iilâskšadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="iilâskšaddoid;iilâskšadoi" pos="N">iilâskšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -683,11 +577,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2456">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="išeráttái"
-            pl_ill="išeráttáid"
-            pos="N">išeráttáh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="išeráttái;išeráttáid" pos="N">išeráttáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -697,11 +587,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2473">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ištâmij"
-            pl_ill="ištâmáid"
-            pos="N">ištâmeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ištâmij;ištâmáid" pos="N">ištâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -712,11 +598,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2495">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="iälánij"
-            pl_ill="iälánáid"
-            pos="N">iäláneh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="iälánij;iälánáid" pos="N">iäláneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -728,8 +610,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="iärutiervuođâi"
-            pl_ill="iärutiervuođáid"
+            pl_ill="iärutiervuođáid;iärutiervuođâi"
             pos="N">iärutiervuođah</l>
       </lg>
       <mg rest="">
@@ -741,11 +622,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2541">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="jáávui"
-            pl_ill="jáávuid"
-            pos="N">jáávuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="jáávui;jáávuid" pos="N">jáávuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -755,11 +632,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2606">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="jeggiuloi"
-            pl_ill="jeggiulloid"
-            pos="N">jeggiuloh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="jeggiulloid;jeggiuloi" pos="N">jeggiuloh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -769,11 +642,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2612">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="jesânij"
-            pl_ill="jesânáid"
-            pos="N">jesâneh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="jesânij;jesânáid" pos="N">jesâneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -785,8 +654,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="jiereehšadoi"
-            pl_ill="jiereehšaddoid"
+            pl_ill="jiereehšaddoid;jiereehšadoi"
             pos="N">jiereehšadoh</l>
       </lg>
       <mg rest="">
@@ -799,8 +667,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="jormevaarij;jormevarij"
-            pl_ill="jormevaarijd;jormevarij"
+            pl_ill="jormevaarij;jormevaarijd;jormevarij"
             pos="N">jormeväärih</l>
       </lg>
       <mg rest="">
@@ -821,11 +688,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2852">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="juhlekammui"
-            pl_ill="juhlekammuid"
-            pos="N">juhlekammuuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="juhlekammui;juhlekammuid" pos="N">juhlekammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -835,11 +698,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2879">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="juovlâi"
-            pl_ill="juovláid"
-            pos="N">juovlah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="juovláid;juovlâi" pos="N">juovlah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -852,8 +711,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="juovlâpoosij;juovlâposij"
-            pl_ill="juovlâpoosijd;juovlâposij"
+            pl_ill="juovlâpoosij;juovlâpoosijd;juovlâposij"
             pos="N">juovlâpaseh</l>
       </lg>
       <mg rest="">
@@ -864,11 +722,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2933">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="juvâlmâsâi"
-            pl_ill="juvâlmâssáid"
-            pos="N">juvâlmâsah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="juvâlmâssáid;juvâlmâsâi" pos="N">juvâlmâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -880,8 +734,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kaaicâraasij;kaaicârasij"
-            pl_ill="kaaicârasij;kaaicârassijd"
+            pl_ill="kaaicâraasij;kaaicârasij;kaaicârassijd"
             pos="N">kaaicârääsih</l>
       </lg>
       <mg rest="">
@@ -902,11 +755,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3018">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kaališadoi"
-            pl_ill="kaališaddoid"
-            pos="N">kaališadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kaališaddoid;kaališadoi" pos="N">kaališadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -916,11 +765,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3037">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kárvui;káárvui"
-            pl_ill="kárvoid;kárvui"
-            pos="N">káárvuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kárvoid;kárvui;káárvui" pos="N">káárvuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -932,8 +777,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="káiduslaasâi;káiduslasâi"
-            pl_ill="káiduslaasáid;káiduslasâi"
+            pl_ill="káiduslaasáid;káiduslaasâi;káiduslasâi"
             pos="N">káiduslaasah</l>
       </lg>
       <mg rest="">
@@ -944,11 +788,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3144">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kalsarij"
-            pl_ill="kalsaráid"
-            pos="N">kalsareh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kalsarij;kalsaráid" pos="N">kalsareh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -959,11 +799,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3154">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kamâspidoi"
-            pl_ill="kamâspiddoid"
-            pos="N">kamâspidoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kamâspiddoid;kamâspidoi" pos="N">kamâspidoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -976,8 +812,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kamâspuuvsâi;kamâspuvsâi"
-            pl_ill="kamâspuvssáid;kamâspuvsâi"
+            pl_ill="kamâspuuvsâi;kamâspuvssáid;kamâspuvsâi"
             pos="N">kamâspuuvsah</l>
       </lg>
       <mg rest="">
@@ -991,8 +826,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="keessimráttái"
-            pl_ill="keessimráttáid"
+            pl_ill="keessimráttái;keessimráttáid"
             pos="N">keessimráttáh</l>
       </lg>
       <mg rest="">
@@ -1003,11 +837,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3369">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kerivij"
-            pl_ill="keriváid"
-            pos="N">keriveh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kerivij;keriváid" pos="N">keriveh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1017,11 +847,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3380">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kesikammui"
-            pl_ill="kesikammuid"
-            pos="N">kesikammuuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kesikammui;kesikammuid" pos="N">kesikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1033,8 +859,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kiđđâčalmešadoi"
-            pl_ill="kiđđâčalmešaddoid"
+            pl_ill="kiđđâčalmešaddoid;kiđđâčalmešadoi"
             pos="N">kiđđâčalmešadoh</l>
       </lg>
       <mg rest="">
@@ -1045,11 +870,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3528">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kiesâlduvâi"
-            pl_ill="kiesâlduvváid"
-            pos="N">kiesâlduvah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kiesâlduvváid;kiesâlduvâi" pos="N">kiesâlduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1061,8 +882,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kietâruuđâi;kietâruđâi"
-            pl_ill="kietâruuđáid;kietâruđâi"
+            pl_ill="kietâruuđáid;kietâruuđâi;kietâruđâi"
             pos="N">kietâruuđah</l>
       </lg>
       <mg rest="">
@@ -1073,11 +893,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3549">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kietâvuoimij"
-            pl_ill="kietâvuoimijd"
-            pos="N">kietâvyeimih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kietâvuoimij;kietâvuoimijd" pos="N">kietâvyeimih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1087,11 +903,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3566">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kihlájái"
-            pl_ill="kihlájáid"
-            pos="N">kihlájááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kihlájái;kihlájáid" pos="N">kihlájááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1101,11 +913,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3640">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kiŋgârij"
-            pl_ill="kiŋgârijd"
-            pos="N">kiŋgâreh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kiŋgârij;kiŋgârijd" pos="N">kiŋgâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1125,11 +933,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3667">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kirhomiänui"
-            pl_ill="kirhomiänoid"
-            pos="N">kirhomiänuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kirhomiänoid;kirhomiänui" pos="N">kirhomiänuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1139,11 +943,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3732">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kistui"
-            pl_ill="kistuid"
-            pos="N">kistuuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kistui;kistuid" pos="N">kistuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1153,11 +953,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3770">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kiällušadoi"
-            pl_ill="kiällušaddoid"
-            pos="N">kiällušadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kiällušaddoid;kiällušadoi" pos="N">kiällušadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1169,8 +965,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kiällutoŋâsšadoi"
-            pl_ill="kiällutoŋâsšaddoid"
+            pl_ill="kiällutoŋâsšaddoid;kiällutoŋâsšadoi"
             pos="N">kiällutoŋâsšadoh</l>
       </lg>
       <mg rest="">
@@ -1183,8 +978,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kiärppáálostâšadoi"
-            pl_ill="kiärppáálostâšaddoid"
+            pl_ill="kiärppáálostâšaddoid;kiärppáálostâšadoi"
             pos="N">kiärppáálostâšadoh</l>
       </lg>
       <mg rest="">
@@ -1216,11 +1010,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3873">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="koldâskerrei"
-            pl_ill="koldâskerreid"
-            pos="N">koldâskerreeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="koldâskerrei;koldâskerreid" pos="N">koldâskerreeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1232,8 +1022,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="korrâpuuvsâi;korrâpuvsâi"
-            pl_ill="korrâpuvssáid;korrâpuvsâi"
+            pl_ill="korrâpuuvsâi;korrâpuvssáid;korrâpuvsâi"
             pos="N">korrâpuuvsah</l>
       </lg>
       <mg rest="">
@@ -1246,8 +1035,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="koskâvuoiŋâšij"
-            pl_ill="koskâvuoiŋâšijd"
+            pl_ill="koskâvuoiŋâšij;koskâvuoiŋâšijd"
             pos="N">koskâvuoiŋâšeh</l>
       </lg>
       <mg rest="">
@@ -1258,11 +1046,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4080">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kuuvij;kuvij"
-            pl_ill="kuuvijd;kuvij"
-            pos="N">koveh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kuuvij;kuuvijd;kuvij" pos="N">koveh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1274,8 +1058,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kuávdášvuoiŋâšij"
-            pl_ill="kuávdášvuoiŋâšijd"
+            pl_ill="kuávdášvuoiŋâšij;kuávdášvuoiŋâšijd"
             pos="N">kuávdášvuoiŋâšeh</l>
       </lg>
       <mg rest="">
@@ -1288,8 +1071,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kuávlu-uđđâsij"
-            pl_ill="kuávlu-uđđâsáid"
+            pl_ill="kuávlu-uđđâsij;kuávlu-uđđâsáid"
             pos="N">kuávlu-uđđâseh</l>
       </lg>
       <mg rest="">
@@ -1302,8 +1084,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kubdâlostâšadoi"
-            pl_ill="kubdâlostâšaddoid"
+            pl_ill="kubdâlostâšaddoid;kubdâlostâšadoi"
             pos="N">kubdâlostâšadoh</l>
       </lg>
       <mg rest="">
@@ -1316,8 +1097,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kuhesčuovai"
-            pl_ill="kuhesčuovaid"
+            pl_ill="kuhesčuovai;kuhesčuovaid;kuhesčuovâi"
             pos="N">kuhesčuovah</l>
       </lg>
       <mg rest="">
@@ -1328,11 +1108,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4331">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kulosuojij"
-            pl_ill="kulosuoijijd"
-            pos="N">kulosyejeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kulosuoijijd;kulosuojij" pos="N">kulosyejeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1344,8 +1120,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kulotaavtij;kulotavtij"
-            pl_ill="kulotavtij;kulotavttijd"
+            pl_ill="kulotaavtij;kulotavtij;kulotavttijd"
             pos="N">kulotäävtih</l>
       </lg>
       <mg rest="">
@@ -1356,11 +1131,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4346">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kumistevilij"
-            pl_ill="kumisteviláid"
-            pos="N">kumistevileh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kumistevilij;kumisteviláid" pos="N">kumistevileh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1372,8 +1143,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kunjopoksâmij"
-            pl_ill="kunjopoksâmáid"
+            pl_ill="kunjopoksâmij;kunjopoksâmáid"
             pos="N">kunjopoksâmeh</l>
       </lg>
       <mg rest="">
@@ -1384,11 +1154,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4406">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kuolâi"
-            pl_ill="kuoláid"
-            pos="N">kuolah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kuoláid;kuolâi" pos="N">kuolah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1402,8 +1168,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kuorâkuobbârij"
-            pl_ill="kuorâkuobbâráid"
+            pl_ill="kuorâkuobbârij;kuorâkuobbâráid"
             pos="N">kuorâkuobbâreh</l>
       </lg>
       <mg rest="">
@@ -1416,8 +1181,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kuovsâkkâsâi"
-            pl_ill="kuovsâkkâssáid"
+            pl_ill="kuovsâkkâssáid;kuovsâkkâsâi"
             pos="N">kuovsâkkâsah</l>
       </lg>
       <mg rest="">
@@ -1428,11 +1192,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4495">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kuovskâsij"
-            pl_ill="kuovskâsáid"
-            pos="N">kuovskâseh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kuovskâsij;kuovskâsáid" pos="N">kuovskâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1454,8 +1214,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kyevtpiähtulaasâi;kyevtpiähtulasâi"
-            pl_ill="kyevtpiähtulaasáid;kyevtpiähtulasâi"
+            pl_ill="kyevtpiähtulaasáid;kyevtpiähtulaasâi;kyevtpiähtulasâi"
             pos="N">kyevtpiähtulaasah</l>
       </lg>
       <mg rest="">
@@ -1466,11 +1225,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4637">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kägismuorâi"
-            pl_ill="kägismuoráid"
-            pos="N">kägismuorah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kägismuoráid;kägismuorâi" pos="N">kägismuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1480,11 +1235,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4691">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kässihij"
-            pl_ill="kässiháid"
-            pos="N">kässiheh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kässihij;kässiháid" pos="N">kässiheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1506,8 +1257,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="lahâsaanij;lahâsanij"
-            pl_ill="lahâsaanijd;lahâsanij"
+            pl_ill="lahâsaanij;lahâsaanijd;lahâsanij"
             pos="N">lahâsäänih</l>
       </lg>
       <mg rest="">
@@ -1518,11 +1268,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4912">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="lasamuorâi"
-            pl_ill="lasamuoráid"
-            pos="N">lasamuorah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="lasamuoráid;lasamuorâi" pos="N">lasamuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1542,11 +1288,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4963">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="lavdhái"
-            pl_ill="lavdháid"
-            pos="N">lavdhááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="lavdhái;lavdháid" pos="N">lavdhááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1556,11 +1298,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4999">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="leeŋgij;leŋgij"
-            pl_ill="leŋgij;leŋgijd"
-            pos="N">leeŋgih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="leeŋgij;leŋgij;leŋgijd" pos="N">leeŋgih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1573,8 +1311,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="leggiŋspuuvsâi;leggiŋspuvsâi"
-            pl_ill="leggiŋspuvssáid;leggiŋspuvsâi"
+            pl_ill="leggiŋspuuvsâi;leggiŋspuvssáid;leggiŋspuvsâi"
             pos="N">leggiŋspuuvsah</l>
       </lg>
       <mg rest="">
@@ -1605,11 +1342,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5205">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="loostâi;lostâi"
-            pl_ill="lostáid;lostâi"
-            pos="N">loostah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="loostâi;lostáid;lostâi" pos="N">loostah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1621,8 +1354,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="luádusvaarij;luádusvarij"
-            pl_ill="luádusvaarijd;luádusvarij"
+            pl_ill="luádusvaarij;luádusvaarijd;luádusvarij"
             pos="N">luádusväärih</l>
       </lg>
       <mg rest="">
@@ -1633,11 +1365,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5288">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="luáppijái"
-            pl_ill="luáppijáid"
-            pos="N">luáppijááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="luáppijái;luáppijáid" pos="N">luáppijááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1647,11 +1375,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5314">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="luhteešadoi"
-            pl_ill="luhteešaddoid"
-            pos="N">luhteešadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="luhteešaddoid;luhteešadoi" pos="N">luhteešadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1661,11 +1385,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5318">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="luistimij"
-            pl_ill="luistimáid"
-            pos="N">luistimeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="luistimij;luistimáid" pos="N">luistimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1677,8 +1397,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="lummoruuđâi;lummoruđâi"
-            pl_ill="lummoruuđáid;lummoruđâi"
+            pl_ill="lummoruuđáid;lummoruuđâi;lummoruđâi"
             pos="N">lummoruuđah</l>
       </lg>
       <mg rest="">
@@ -1689,11 +1408,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5431">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="läbžišadoi"
-            pl_ill="läbžišaddoid"
-            pos="N">läbžišadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="läbžišaddoid;läbžišadoi" pos="N">läbžišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1703,11 +1418,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5437">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="lädikammui"
-            pl_ill="lädikammuid"
-            pos="N">lädikammuuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="lädikammui;lädikammuid" pos="N">lädikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1719,8 +1430,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="madârvanhimij"
-            pl_ill="madârvanhimáid"
+            pl_ill="madârvanhimij;madârvanhimáid"
             pos="N">madârvanhimeh</l>
       </lg>
       <mg rest="">
@@ -1731,11 +1441,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5558">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="maddârij"
-            pl_ill="maddâráid"
-            pos="N">maddâreh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="maddârij;maddâráid" pos="N">maddâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1745,11 +1451,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5559">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="maddui"
-            pl_ill="madduid"
-            pos="N">madduuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="maddui;madduid" pos="N">madduuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1761,8 +1463,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="mannasuvrâmij"
-            pl_ill="mannasuvrâmáid"
+            pl_ill="mannasuvrâmij;mannasuvrâmáid"
             pos="N">mannasuvrâmeh</l>
       </lg>
       <mg rest="">
@@ -1773,7 +1474,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5625">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="manoi" pl_ill="manoid" pos="N">manoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="manoi;manoid" pos="N">manoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1783,7 +1484,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5636">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">mánusâžah</l>
+         <l nr="Pl" pos="N">mánusâžah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1795,8 +1496,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="mánutaavdâi;mánutavdâi"
-            pl_ill="mánutavdáid;mánutavdâi"
+            pl_ill="mánutaavdâi;mánutavdáid;mánutavdâi"
             pos="N">mánutaavdah</l>
       </lg>
       <mg rest="">
@@ -1807,11 +1507,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5691">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="meccikammui"
-            pl_ill="meccikammuid"
-            pos="N">meccikammuuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="meccikammui;meccikammuid" pos="N">meccikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1821,11 +1517,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5735">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="meesui;mesui"
-            pl_ill="messuid;mesui"
-            pos="N">meesuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="meesui;messuid;mesui" pos="N">meesuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1837,8 +1529,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="miehtâkozzâhij"
-            pl_ill="miehtâkozzâháid"
+            pl_ill="miehtâkozzâhij;miehtâkozzâháid"
             pos="N">miehtâkozzâheh</l>
       </lg>
       <mg rest="">
@@ -1851,8 +1542,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="mieigâsmuorâi"
-            pl_ill="mieigâsmuoráid"
+            pl_ill="mieigâsmuoráid;mieigâsmuorâi"
             pos="N">mieigâsmuorah</l>
       </lg>
       <mg rest="">
@@ -1865,8 +1555,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="mielkkišivettij"
-            pl_ill="mielkkišivettáid"
+            pl_ill="mielkkišivettij;mielkkišivettáid"
             pos="N">mielkkišivetteh</l>
       </lg>
       <mg rest="">
@@ -1877,11 +1566,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5844">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="mieskâduvâi"
-            pl_ill="mieskâduvváid"
-            pos="N">mieskâduvah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="mieskâduvváid;mieskâduvâi" pos="N">mieskâduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1893,8 +1578,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="mieskâruáđihij"
-            pl_ill="mieskâruáđiháid"
+            pl_ill="mieskâruáđihij;mieskâruáđiháid"
             pos="N">mieskâruáđiheh</l>
       </lg>
       <mg rest="">
@@ -1907,8 +1591,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="mieskâšovkkâhij"
-            pl_ill="mieskâšovkkâháid"
+            pl_ill="mieskâšovkkâhij;mieskâšovkkâháid"
             pos="N">mieskâšovkkâheh</l>
       </lg>
       <mg rest="">
@@ -1921,8 +1604,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="mieskâttâsâi"
-            pl_ill="mieskâttâssáid"
+            pl_ill="mieskâttâssáid;mieskâttâsâi"
             pos="N">mieskâttâsah</l>
       </lg>
       <mg rest="">
@@ -1933,11 +1615,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5964">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="molsottuvâi"
-            pl_ill="molsottuvváid"
-            pos="N">molsottuvah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="molsottuvváid;molsottuvâi" pos="N">molsottuvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1947,11 +1625,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6033">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="muáđui"
-            pl_ill="muáđoid"
-            pos="N">muáđoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="muáđoid;muáđui" pos="N">muáđoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1961,11 +1635,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6035">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="muáđui"
-            pl_ill="muáđoid"
-            pos="N">muáđuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="muáđoid;muáđui" pos="N">muáđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1975,11 +1645,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6091">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="muorâi"
-            pl_ill="muoráid"
-            pos="N">muorah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="muoráid;muorâi" pos="N">muorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1989,11 +1655,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6120">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="muotâkammui"
-            pl_ill="muotâkammuid"
-            pos="N">muotâkammuuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="muotâkammui;muotâkammuid" pos="N">muotâkammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2003,11 +1665,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6205">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="mäđirij"
-            pl_ill="mäđiráid"
-            pos="N">mäđireh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="mäđirij;mäđiráid" pos="N">mäđireh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2019,8 +1677,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="mälisraađij;mälisrađij"
-            pl_ill="mälisraađijd;mälisrađij"
+            pl_ill="mälisraađij;mälisraađijd;mälisrađij"
             pos="N">mälisrääđih</l>
       </lg>
       <mg rest="">
@@ -2031,11 +1688,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6224">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="määđiršadoi"
-            pl_ill="määđiršaddoid"
-            pos="N">määđiršadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="määđiršaddoid;määđiršadoi" pos="N">määđiršadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2045,11 +1698,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6243">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="naavcâi;navcâi"
-            pl_ill="navccáid;navcâi"
-            pos="N">naavcah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="naavcâi;navccáid;navcâi" pos="N">naavcah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2061,11 +1710,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6373">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="niävui"
-            pl_ill="niävvoid"
-            pos="N">niävuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="niävui;niävvoid" pos="N">niävuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2075,11 +1720,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6391">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="njadosšadoi"
-            pl_ill="njadosšaddoid"
-            pos="N">njadosšadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="njadosšaddoid;njadosšadoi" pos="N">njadosšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2089,11 +1730,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6398">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="njálgái"
-            pl_ill="njálgáid"
-            pos="N">njálgáh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="njálgái;njálgáid" pos="N">njálgáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2106,8 +1743,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="njammaliivij;njammalivij"
-            pl_ill="njammaliivijd;njammalivij"
+            pl_ill="njammaliivij;njammaliivijd;njammalivij"
             pos="N">njammaliivih</l>
       </lg>
       <mg rest="">
@@ -2130,8 +1766,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="njuámmilraasij;njuámmilrasij"
-            pl_ill="njuámmilrasij;njuámmilrassijd"
+            pl_ill="njuámmilraasij;njuámmilrasij;njuámmilrassijd"
             pos="N">njuámmilrääsih</l>
       </lg>
       <mg rest="">
@@ -2144,8 +1779,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="njunesoksâmij"
-            pl_ill="njunesoksâmáid"
+            pl_ill="njunesoksâmij;njunesoksâmáid"
             pos="N">njunesoksâmeh</l>
       </lg>
       <mg rest="">
@@ -2156,11 +1790,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6530">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="njunošij"
-            pl_ill="njunošáid"
-            pos="N">njunošeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="njunošij;njunošáid" pos="N">njunošeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2173,8 +1803,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="njuolâsšadoi"
-            pl_ill="njuolâsšaddoid"
+            pl_ill="njuolâsšaddoid;njuolâsšadoi"
             pos="N">njuolâsšadoh</l>
       </lg>
       <mg rest="">
@@ -2185,11 +1814,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6562">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="njuovâduvâi"
-            pl_ill="njuovâduvváid"
-            pos="N">njuovâduvah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="njuovâduvváid;njuovâduvâi" pos="N">njuovâduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2201,8 +1826,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="njälmiruovdij"
-            pl_ill="njälmiruovdijd"
+            pl_ill="njälmiruovdij;njälmiruovdijd"
             pos="N">njälmiryevdih</l>
       </lg>
       <mg rest="">
@@ -2213,11 +1837,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6600">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="njävilij"
-            pl_ill="njäviláid"
-            pos="N">njävileh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="njävilij;njäviláid" pos="N">njävileh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2227,11 +1847,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6606">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="njaavij;njavij"
-            pl_ill="njavij;njavijd"
-            pos="N">njäävih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="njaavij;njavij;njavijd" pos="N">njäävih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2241,11 +1857,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6695">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="nuottâsárgái"
-            pl_ill="nuottâsárgáid"
-            pos="N">nuottâsárgáh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="nuottâsárgái;nuottâsárgáid" pos="N">nuottâsárgáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2257,8 +1869,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="olmooškoskâvuođâi"
-            pl_ill="olmooškoskâvuođáid"
+            pl_ill="olmooškoskâvuođáid;olmooškoskâvuođâi"
             pos="N">olmooškoskâvuođah</l>
       </lg>
       <mg rest="">
@@ -2271,8 +1882,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="orrooruuđâi;orrooruđâi"
-            pl_ill="orrooruuđáid;orrooruđâi"
+            pl_ill="orrooruuđáid;orrooruuđâi;orrooruđâi"
             pos="N">orrooruuđah</l>
       </lg>
       <mg rest="">
@@ -2283,11 +1893,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7045">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ovdâšij"
-            pl_ill="ovdâšáid"
-            pos="N">ovdâšeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ovdâšij;ovdâšáid" pos="N">ovdâšeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2300,8 +1906,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="ovdâskoddevaaljâi;ovdâskoddevaljâi"
-            pl_ill="ovdâskoddevaljáid;ovdâskoddevaljâi"
+            pl_ill="ovdâskoddevaaljâi;ovdâskoddevaljáid;ovdâskoddevaljâi"
             pos="N">ovdâskoddevaaljah</l>
       </lg>
       <mg rest="">
@@ -2312,11 +1917,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7089">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ovttij"
-            pl_ill="ovttijd"
-            pos="N">ovttiih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ovttij;ovttijd" pos="N">ovttiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2327,11 +1928,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7114">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="pálui;páálui"
-            pl_ill="pálloid;pálui"
-            pos="N">pááluh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="pálloid;pálui;páálui" pos="N">pááluh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2343,8 +1940,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="pajalistruuđâi;pajalistruđâi"
-            pl_ill="pajalistruuđáid;pajalistruđâi"
+            pl_ill="pajalistruuđáid;pajalistruuđâi;pajalistruđâi"
             pos="N">pajalistruuđah</l>
       </lg>
       <mg rest="">
@@ -2355,11 +1951,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7238">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="palsamšadoi"
-            pl_ill="palsamšaddoid"
-            pos="N">palsamšadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="palsamšaddoid;palsamšadoi" pos="N">palsamšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2369,11 +1961,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7352">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="párnáiráttái"
-            pl_ill="párnáiráttáid"
-            pos="N">párnáiráttáh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="párnáiráttái;párnáiráttáid" pos="N">párnáiráttáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2393,11 +1981,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11159">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="tieppimaddui"
-            pl_ill="tieppimadduid"
-            pos="N">tieppimadduuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="tieppimaddui;tieppimadduid" pos="N">tieppimadduuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2407,11 +1991,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_178">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ahevattui"
-            pl_ill="ahevattuid"
-            pos="N">ahevattuuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ahevattui;ahevattuid" pos="N">ahevattuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2421,11 +2001,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_482">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="argâpihtâsij"
-            pl_ill="argâpihtâsáid"
-            pos="N">argâpihtâseh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="argâpihtâsij;argâpihtâsáid" pos="N">argâpihtâseh</l>
       </lg>
       <mg rest="-pihtâsij">
          <tg xml:lang="fin">
@@ -2435,11 +2011,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12175">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="urgui;uurgui"
-            pl_ill="urgoid;urgui"
-            pos="N">uurguh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="urgoid;urgui;uurgui" pos="N">uurguh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2451,8 +2023,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="peljipiiltoi;peljipiltoi"
-            pl_ill="peljipiltoi;peljipilttoid"
+            pl_ill="peljipiiltoi;peljipiltoi;peljipilttoid"
             pos="N">peljipiltoh</l>
       </lg>
       <mg rest="">
@@ -2465,8 +2036,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="peljipuncij;peljipuuncij"
-            pl_ill="peljipunccijd;peljipuncij"
+            pl_ill="peljipunccijd;peljipuncij;peljipuuncij"
             pos="N">peljipunceh</l>
       </lg>
       <mg rest="">
@@ -2477,11 +2047,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7537">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="peljisuojij"
-            pl_ill="peljisuoijijd"
-            pos="N">peljisyejeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="peljisuoijijd;peljisuojij" pos="N">peljisyejeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2493,8 +2059,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="persovnpápárij"
-            pl_ill="persovnpápáráid"
+            pl_ill="persovnpápárij;persovnpápáráid"
             pos="N">persovnpápáreh</l>
       </lg>
       <mg rest="">
@@ -2507,8 +2072,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="persovntiäđui"
-            pl_ill="persovntiäđoid"
+            pl_ill="persovntiäđoid;persovntiäđui"
             pos="N">persovntiäđuh</l>
       </lg>
       <mg rest="">
@@ -2519,11 +2083,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7607">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="pessijái"
-            pl_ill="pessijáid"
-            pos="N">pessijááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="pessijái;pessijáid" pos="N">pessijááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2535,8 +2095,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="pevditaavij;pevditavij"
-            pl_ill="pevditaavijd;pevditavij"
+            pl_ill="pevditaavij;pevditaavijd;pevditavij"
             pos="N">pevditäävih</l>
       </lg>
       <mg rest="">
@@ -2547,7 +2106,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7636">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="piđoi" pl_ill="piđoid" pos="N">piđoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="piđoi;piđoid" pos="N">piđoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2557,11 +2116,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7728">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="pinsetij"
-            pl_ill="pinsetáid"
-            pos="N">pinseteh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="pinsetij;pinsetáid" pos="N">pinseteh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2573,8 +2128,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="piškooludij;piškooluudij"
-            pl_ill="piškooluddijd;piškooludij"
+            pl_ill="piškooluddijd;piškooludij;piškooluudij"
             pos="N">piškoolodeh</l>
       </lg>
       <mg rest="">
@@ -2587,8 +2141,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="piärgušivettij"
-            pl_ill="piärgušivettáid"
+            pl_ill="piärgušivettij;piärgušivettáid"
             pos="N">piärgušivetteh</l>
       </lg>
       <mg rest="">
@@ -2601,8 +2154,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="planktonellei"
-            pl_ill="planktonelleid"
+            pl_ill="planktonellei;planktonelleid"
             pos="N">planktonelleeh</l>
       </lg>
       <mg rest="">
@@ -2615,8 +2167,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="pocceeraasij;pocceerasij"
-            pl_ill="pocceerasij;pocceerassijd"
+            pl_ill="pocceeraasij;pocceerasij;pocceerassijd"
             pos="N">pocceerääsih</l>
       </lg>
       <mg rest="">
@@ -2629,8 +2180,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="poccuujáhálij"
-            pl_ill="poccuujáháláid"
+            pl_ill="poccuujáhálij;poccuujáháláid"
             pos="N">poccuujáháleh</l>
       </lg>
       <mg rest="">
@@ -2641,11 +2191,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7905">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="pođoinjâsâi"
-            pl_ill="pođoinjâssáid"
-            pos="N">pođoinjâsah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="pođoinjâssáid;pođoinjâsâi" pos="N">pođoinjâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2655,11 +2201,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7936">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="punij;puunij"
-            pl_ill="punij;punnijd"
-            pos="N">poneh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="punij;punnijd;puunij" pos="N">poneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2672,8 +2214,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="ponjemiestâšadoi"
-            pl_ill="ponjemiestâšaddoid"
+            pl_ill="ponjemiestâšaddoid;ponjemiestâšadoi"
             pos="N">ponjemiestâšadoh</l>
       </lg>
       <mg rest="">
@@ -2684,11 +2225,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7959">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="poostâi;postâi"
-            pl_ill="postáid;postâi"
-            pos="N">poostah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="poostâi;postáid;postâi" pos="N">poostah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2699,11 +2236,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7981">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="porthái"
-            pl_ill="portháid"
-            pos="N">porthááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="porthái;portháid" pos="N">porthááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2714,11 +2247,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_659">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="čárvái;čáárvái"
-            pl_ill="čárvái;čárváid"
-            pos="N">čáárváh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="čárvái;čárváid;čáárvái" pos="N">čáárváh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2733,7 +2262,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_714">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">čalmerammâseh</l>
+         <l nr="Pl" pos="N">čalmerammâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2743,7 +2272,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_716">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">čalmerommâseh</l>
+         <l nr="Pl" pos="N">čalmerommâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2753,11 +2282,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_719">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="čalmesinoi"
-            pl_ill="čalmesinoid"
-            pos="N">čalmesinoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="čalmesinoi;čalmesinoid" pos="N">čalmesinoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2767,11 +2292,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_728">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="čánásiij"
-            pl_ill="čánásiijd"
-            pos="N">čánásiih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="čánásiij;čánásiijd" pos="N">čánásiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2786,11 +2307,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_952">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ciärkuhij"
-            pl_ill="ciärkuháid"
-            pos="N">ciärkuheh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ciärkuhij;ciärkuháid" pos="N">ciärkuheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2800,11 +2317,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_963">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="čogâlmâsâi"
-            pl_ill="čogâlmâssáid"
-            pos="N">čogâlmâsah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="čogâlmâssáid;čogâlmâsâi" pos="N">čogâlmâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2819,11 +2332,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1137">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="čoovjij;čovjij"
-            pl_ill="čovjij;čovjijd"
-            pos="N">čuávjih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="čoovjij;čovjij;čovjijd" pos="N">čuávjih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2835,8 +2344,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="čuovjistáásnáššadoi"
-            pl_ill="čuovjistáásnáššaddoid"
+            pl_ill="čuovjistáásnáššaddoid;čuovjistáásnáššadoi"
             pos="N">čuovjistáásnáššadoh</l>
       </lg>
       <mg rest="">
@@ -2847,7 +2355,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1911">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">geeniárbádâh</l>
+         <l nr="Pl" pos="N">geeniárbádâh</l>
       </lg>
       <mg rest="-á'rbáduv">
          <tg xml:lang="fin">
@@ -2857,11 +2365,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2287">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="häŋkselij"
-            pl_ill="häŋkseláid"
-            pos="N">häŋkseleh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="häŋkselij;häŋkseláid" pos="N">häŋkseleh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2871,11 +2375,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2314">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="häävdidmij"
-            pl_ill="häävdidmáid"
-            pos="N">häävdidmeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="häävdidmij;häävdidmáid" pos="N">häävdidmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2885,7 +2385,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2567">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">jávrádâh</l>
+         <l nr="Pl" pos="N">jávrádâh</l>
       </lg>
       <mg rest="já'vrádoh já'vráduh já'vráduv">
          <tg xml:lang="fin">
@@ -2896,7 +2396,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2734">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">jiäŋŋumčuágástuh</l>
+         <l nr="Pl" pos="N">jiäŋŋumčuágástuh</l>
       </lg>
       <mg rest="-čuá'gástuv">
          <tg xml:lang="fin">
@@ -2906,11 +2406,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3701">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="kirkkomiänui"
-            pl_ill="kirkkomiänoid"
-            pos="N">kirkkomiänuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="kirkkomiänoid;kirkkomiänui" pos="N">kirkkomiänuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2922,8 +2418,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kobđoolostâsiij"
-            pl_ill="kobđoolostâsiijd"
+            pl_ill="kobđoolostâsiij;kobđoolostâsiijd"
             pos="N">kobđoolostâsiih</l>
       </lg>
       <mg rest="">
@@ -2936,8 +2431,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="koskâpuuvsâi;koskâpuvsâi"
-            pl_ill="koskâpuvssáid;koskâpuvsâi"
+            pl_ill="koskâpuuvsâi;koskâpuvssáid;koskâpuvsâi"
             pos="N">koskâpuuvsah</l>
       </lg>
       <mg rest="">
@@ -2950,8 +2444,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="kuámmirâššadoi"
-            pl_ill="kuámmirâššaddoid"
+            pl_ill="kuámmirâššaddoid;kuámmirâššadoi"
             pos="N">kuámmirâššadoh</l>
       </lg>
       <mg rest="">
@@ -2962,7 +2455,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4380">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">kuobârsáigustâh</l>
+         <l nr="Pl" pos="N">kuobârsáigustâh</l>
       </lg>
       <mg rest="-sáigustuv">
          <tg xml:lang="fin">
@@ -2972,7 +2465,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4401">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">kuohtuuh</l>
+         <l nr="Pl" pos="N">kuohtuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2982,7 +2475,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4494">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">kuovskâsah</l>
+         <l nr="Pl" pos="N">kuovskâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2992,11 +2485,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4849">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="lahtâsuoinij"
-            pl_ill="lahtâsuoinijd"
-            pos="N">lahtâsyeinih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="lahtâsuoinij;lahtâsuoinijd" pos="N">lahtâsyeinih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3006,11 +2495,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4989">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="leđmikammui"
-            pl_ill="leđmikammuid"
-            pos="N">leđmikammuuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="leđmikammui;leđmikammuid" pos="N">leđmikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3020,7 +2505,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5285">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">luánduriggoduvvah</l>
+         <l nr="Pl" pos="N">luánduriggoduvvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3030,7 +2515,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5348">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">luoddâratkuuttâh</l>
+         <l nr="Pl" pos="N">luoddâratkuuttâh</l>
       </lg>
       <mg rest="-ratkuuttuv">
          <tg xml:lang="fin">
@@ -3040,11 +2525,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5510">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="maalikij"
-            pl_ill="maalikáid"
-            pos="N">maalikeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="maalikij;maalikáid" pos="N">maalikeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3056,8 +2537,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="manerávsái;maneráávsái"
-            pl_ill="manerávssáid;manerávsái"
+            pl_ill="manerávssáid;manerávsái;maneráávsái"
             pos="N">maneráávsáh</l>
       </lg>
       <mg rest="">
@@ -3070,8 +2550,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="mánotaavdâi;mánotavdâi"
-            pl_ill="mánotavdáid;mánotavdâi"
+            pl_ill="mánotaavdâi;mánotavdáid;mánotavdâi"
             pos="N">mánotaavdah</l>
       </lg>
       <mg rest="">
@@ -3084,8 +2563,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="miäidáttuvâi"
-            pl_ill="miäidáttuvváid"
+            pl_ill="miäidáttuvváid;miäidáttuvâi"
             pos="N">miäidáttuvah</l>
       </lg>
       <mg rest="">
@@ -3096,7 +2574,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6357">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">nisujáávvuh</l>
+         <l nr="Pl" pos="N">nisujáávvuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3108,8 +2586,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="njiälurávsái;njiäluráávsái"
-            pl_ill="njiälurávssáid;njiälurávsái"
+            pl_ill="njiälurávssáid;njiälurávsái;njiäluráávsái"
             pos="N">njiäluráávsáh</l>
       </lg>
       <mg rest="">
@@ -3120,11 +2597,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6512">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="njulčâhij"
-            pl_ill="njulčâháid"
-            pos="N">njulčâheh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="njulčâhij;njulčâháid" pos="N">njulčâheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3134,7 +2607,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6537">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">njuoccâh</l>
+         <l nr="Pl" pos="N">njuoccâh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3144,11 +2617,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6751">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="näpihái"
-            pl_ill="näpiháid"
-            pos="N">näpihááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="näpihái;näpiháid" pos="N">näpihááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3159,11 +2628,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6752">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="näpihij"
-            pl_ill="näpiháid"
-            pos="N">näpiheh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="näpihij;näpiháid" pos="N">näpiheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3173,11 +2638,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7105">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="páájásij"
-            pl_ill="páájásáid"
-            pos="N">páájáseh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="páájásij;páájásáid" pos="N">páájáseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3187,11 +2648,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7381">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="poosij;posij"
-            pl_ill="poosijd;posij"
-            pos="N">paseh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="poosij;poosijd;posij" pos="N">paseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3201,11 +2658,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7384">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="pasepihtâsij"
-            pl_ill="pasepihtâsáid"
-            pos="N">pasepihtâseh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="pasepihtâsij;pasepihtâsáid" pos="N">pasepihtâseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3215,11 +2668,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7420">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="pecišadoi"
-            pl_ill="pecišaddoid"
-            pos="N">pecišadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="pecišaddoid;pecišadoi" pos="N">pecišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3231,8 +2680,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="pennuujuŋŋâšadoi"
-            pl_ill="pennuujuŋŋâšaddoid"
+            pl_ill="pennuujuŋŋâšaddoid;pennuujuŋŋâšadoi"
             pos="N">pennuujuŋŋâšadoh</l>
       </lg>
       <mg rest="">
@@ -3243,7 +2691,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7782">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="pivoi" pl_ill="pivoid" pos="N">pivoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="pivoi;pivoid" pos="N">pivoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3255,8 +2703,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="piäivááčalmešadoi"
-            pl_ill="piäivááčalmešaddoid"
+            pl_ill="piäivááčalmešaddoid;piäivááčalmešadoi"
             pos="N">piäivááčalmešadoh</l>
       </lg>
       <mg rest="">
@@ -3269,8 +2716,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="piäivášlaasâi;piäivášlasâi"
-            pl_ill="piäivášlaasáid;piäivášlasâi"
+            pl_ill="piäivášlaasáid;piäivášlaasâi;piäivášlasâi"
             pos="N">piäivášlaasah</l>
       </lg>
       <mg rest="">
@@ -3281,11 +2727,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7849">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="piäljásij"
-            pl_ill="piäljásáid"
-            pos="N">piäljáseh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="piäljásij;piäljásáid" pos="N">piäljáseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3297,8 +2739,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="piäluštâsvuoimij"
-            pl_ill="piäluštâsvuoimijd"
+            pl_ill="piäluštâsvuoimij;piäluštâsvuoimijd"
             pos="N">piäluštâsvyeimih</l>
       </lg>
       <mg rest="">
@@ -3311,8 +2752,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="piämmuvaanhimij"
-            pl_ill="piämmuvaanhimáid"
+            pl_ill="piämmuvaanhimij;piämmuvaanhimáid"
             pos="N">piämmuvaanhimeh</l>
       </lg>
       <mg rest="">
@@ -3324,11 +2764,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7989">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="posâlduvâi"
-            pl_ill="posâlduvváid"
-            pos="N">posâlduvah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="posâlduvváid;posâlduvâi" pos="N">posâlduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3338,11 +2774,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8072">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="puáđui"
-            pl_ill="puáđoid"
-            pos="N">puáđuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="puáđoid;puáđui" pos="N">puáđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3362,11 +2794,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8188">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="puicce-ellei"
-            pl_ill="puicce-elleid"
-            pos="N">puicce-elleeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="puicce-ellei;puicce-elleid" pos="N">puicce-elleeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3376,11 +2804,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8191">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="puksâištâmij"
-            pl_ill="puksâištâmáid"
-            pos="N">puksâištâmeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="puksâištâmij;puksâištâmáid" pos="N">puksâištâmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3392,8 +2816,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="puoidâmâsšadoi"
-            pl_ill="puoidâmâsšaddoid"
+            pl_ill="puoidâmâsšaddoid;puoidâmâsšadoi"
             pos="N">puoidâmâsšadoh</l>
       </lg>
       <mg rest="">
@@ -3406,8 +2829,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="puolikkuobbârij"
-            pl_ill="puolikkuobbâráid"
+            pl_ill="puolikkuobbârij;puolikkuobbâráid"
             pos="N">puolikkuobbâreh</l>
       </lg>
       <mg rest="">
@@ -3430,8 +2852,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="puškoraasij;puškorasij"
-            pl_ill="puškorasij;puškorassijd"
+            pl_ill="puškoraasij;puškorasij;puškorassijd"
             pos="N">puškorääsih</l>
       </lg>
       <mg rest="">
@@ -3442,11 +2863,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8321">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="puustavij"
-            pl_ill="puustavijd"
-            pos="N">puustaveh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="puustavij;puustavijd" pos="N">puustaveh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3457,11 +2874,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8328">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="puuvsâi;puvsâi"
-            pl_ill="puvssáid;puvsâi"
-            pos="N">puuvsah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="puuvsâi;puvssáid;puvsâi" pos="N">puuvsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3473,8 +2886,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="päljissiemâšadoi"
-            pl_ill="päljissiemâšaddoid"
+            pl_ill="päljissiemâšaddoid;päljissiemâšadoi"
             pos="N">päljissiemâšadoh</l>
       </lg>
       <mg rest="">
@@ -3485,11 +2897,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8430">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="päniruovdij"
-            pl_ill="päniruovdijd"
-            pos="N">päniryevdih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="päniruovdij;päniruovdijd" pos="N">päniryevdih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3499,11 +2907,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8461">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="pääihiulmui"
-            pl_ill="pääihiulmuid"
-            pos="N">pääihiulmuuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="pääihiulmui;pääihiulmuid" pos="N">pääihiulmuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3513,11 +2917,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8552">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="raiđâlâsâi"
-            pl_ill="raiđâlâssáid"
-            pos="N">raiđâlâsah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="raiđâlâssáid;raiđâlâsâi" pos="N">raiđâlâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3530,8 +2930,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="ramâssoksâmij"
-            pl_ill="ramâssoksâmáid"
+            pl_ill="ramâssoksâmij;ramâssoksâmáid"
             pos="N">ramâssoksâmeh</l>
       </lg>
       <mg rest="">
@@ -3542,11 +2941,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8599">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ráttái"
-            pl_ill="ráttáid"
-            pos="N">ráttáh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ráttái;ráttáid" pos="N">ráttáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3556,11 +2951,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8608">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ravijái"
-            pl_ill="ravijáid"
-            pos="N">ravijááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ravijái;ravijáid" pos="N">ravijááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3570,11 +2961,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8635">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="reevtij;revtij"
-            pl_ill="revtij;revtijd"
-            pos="N">reevtih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="reevtij;revtij;revtijd" pos="N">reevtih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3584,7 +2971,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8773">
       <lg>
-         <l g_stem="Pl" nr="Pl" pl_gen="rilái" pl_ill="riláid" pos="N">riláh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="rilái;riláid" pos="N">riláh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3596,8 +2983,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="româssoksâmij"
-            pl_ill="româssoksâmáid"
+            pl_ill="româssoksâmij;româssoksâmáid"
             pos="N">româssoksâmeh</l>
       </lg>
       <mg rest="">
@@ -3608,11 +2994,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8902">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ruáđihij"
-            pl_ill="ruáđiháid"
-            pos="N">ruáđiheh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ruáđihij;ruáđiháid" pos="N">ruáđiheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3624,8 +3006,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="ruáđimaalikij"
-            pl_ill="ruáđimaalikáid"
+            pl_ill="ruáđimaalikij;ruáđimaalikáid"
             pos="N">ruáđimaalikeh</l>
       </lg>
       <mg rest="">
@@ -3636,11 +3017,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8917">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ruákkiruáđui"
-            pl_ill="ruákkiruáđoid"
-            pos="N">ruákkiruáđuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ruákkiruáđoid;ruákkiruáđui" pos="N">ruákkiruáđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3652,8 +3029,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="ruánáájievjâmij"
-            pl_ill="ruánáájievjâmáid"
+            pl_ill="ruánáájievjâmij;ruánáájievjâmáid"
             pos="N">ruánáájievjâmeh</l>
       </lg>
       <mg rest="">
@@ -3666,8 +3042,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="ruotâsmumsoksâmij"
-            pl_ill="ruotâsmumsoksâmáid"
+            pl_ill="ruotâsmumsoksâmij;ruotâsmumsoksâmáid"
             pos="N">ruotâsmumsoksâmeh</l>
       </lg>
       <mg rest="">
@@ -3678,11 +3053,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9164">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ruusušadoi"
-            pl_ill="ruusušaddoid"
-            pos="N">ruusušadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ruusušaddoid;ruusušadoi" pos="N">ruusušadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3694,8 +3065,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="ruvâšjávui;ruvâšjáávui"
-            pl_ill="ruvâšjávui;ruvâšjáávoid"
+            pl_ill="ruvâšjávui;ruvâšjáávoid;ruvâšjáávui"
             pos="N">ruvâšjáávuh</l>
       </lg>
       <mg rest="">
@@ -3706,11 +3076,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9179">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ruvnájái"
-            pl_ill="ruvnájáid"
-            pos="N">ruvnájááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ruvnájái;ruvnájáid" pos="N">ruvnájááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3722,7 +3088,6 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="räigipoostâi;räigipostâi"
             pl_ill="räigipoostâi;räigipostáid;räigipostâi"
             pos="N">räigipoostah</l>
       </lg>
@@ -3734,11 +3099,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9363">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="sáhálivvârij"
-            pl_ill="sáhálivvâráid"
-            pos="N">sáhálivvâreh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="sáhálivvârij;sáhálivvâráid" pos="N">sáhálivvâreh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3748,11 +3109,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9430">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="sálttušadoi"
-            pl_ill="sálttušaddoid"
-            pos="N">sálttušadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="sálttušaddoid;sálttušadoi" pos="N">sálttušadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3762,11 +3119,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9439">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="sanikkái"
-            pl_ill="sanikkáid"
-            pos="N">sanikkááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="sanikkái;sanikkáid" pos="N">sanikkááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3778,8 +3131,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="sapilâsai;sapilâsaid;sapilâsâi"
-            pl_ill="sapilâsai;sapilâsaid;sapilâssáid"
+            pl_ill="sapilâsai;sapilâsaid;sapilâssáid;sapilâsâi"
             pos="N">sapilâsah</l>
       </lg>
       <mg rest="">
@@ -3790,7 +3142,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9475">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">savâttâsah</l>
+         <l nr="Pl" pos="N">savâttâsah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3802,8 +3154,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="savosuonâsiij"
-            pl_ill="savosuonâsiijd"
+            pl_ill="savosuonâsiij;savosuonâsiijd"
             pos="N">savosuonâsiih</l>
       </lg>
       <mg rest="">
@@ -3814,11 +3165,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9539">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="seitikij"
-            pl_ill="seitikáid"
-            pos="N">seitikeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="seitikij;seitikáid" pos="N">seitikeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3828,11 +3175,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9613">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="sieđgâšadoi"
-            pl_ill="sieđgâšaddoid"
-            pos="N">sieđgâšadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="sieđgâšaddoid;sieđgâšadoi" pos="N">sieđgâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3844,8 +3187,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="sierâtäsimieigâsmuorâi"
-            pl_ill="sierâtäsimieigâsmuoráid"
+            pl_ill="sierâtäsimieigâsmuoráid;sierâtäsimieigâsmuorâi"
             pos="N">sierâtäsimieigâsmuorah</l>
       </lg>
       <mg rest="">
@@ -3856,11 +3198,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9682">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="siijđoi;sijđoi"
-            pl_ill="siijđoid;sijđoi"
-            pos="N">siijđoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="siijđoi;siijđoid;sijđoi" pos="N">siijđoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3872,8 +3210,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="siirdâpoostâi;siirdâpostâi"
-            pl_ill="siirdâpostáid;siirdâpostâi"
+            pl_ill="siirdâpoostâi;siirdâpostáid;siirdâpostâi"
             pos="N">siirdâpoostah</l>
       </lg>
       <mg rest="">
@@ -3886,8 +3223,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="silbâmiestâšadoi"
-            pl_ill="silbâmiestâšaddoid"
+            pl_ill="silbâmiestâšaddoid;silbâmiestâšadoi"
             pos="N">silbâmiestâšadoh</l>
       </lg>
       <mg rest="">
@@ -3898,11 +3234,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9802">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="šivettij"
-            pl_ill="šivettáid"
-            pos="N">šivetteh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="šivettij;šivettáid" pos="N">šivetteh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3914,8 +3246,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="šiälguludij;šiälguluudij"
-            pl_ill="šiälguluddijd;šiälguludij"
+            pl_ill="šiälguluddijd;šiälguludij;šiälguluudij"
             pos="N">šiälgulodeh</l>
       </lg>
       <mg rest="">
@@ -3926,11 +3257,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9847">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="šiäštui"
-            pl_ill="šiäštoid"
-            pos="N">šiäštuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="šiäštoid;šiäštui" pos="N">šiäštuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3940,11 +3267,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9881">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="skerrei"
-            pl_ill="skerreid"
-            pos="N">skerreeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="skerrei;skerreid" pos="N">skerreeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3956,8 +3279,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="skiältturuovdij"
-            pl_ill="skiältturuovdijd"
+            pl_ill="skiältturuovdij;skiältturuovdijd"
             pos="N">skiältturyevdih</l>
       </lg>
       <mg rest="">
@@ -3968,11 +3290,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10019">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="šloturij"
-            pl_ill="šloturáid"
-            pos="N">šlotureh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="šloturij;šloturáid" pos="N">šlotureh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3982,11 +3300,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10060">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="šnjirgoi"
-            pl_ill="šnjirgoid"
-            pos="N">šnjirgooh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="šnjirgoi;šnjirgoid" pos="N">šnjirgooh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3998,8 +3312,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="šnjirgooludij;šnjirgooluudij"
-            pl_ill="šnjirgooluddijd;šnjirgooludij"
+            pl_ill="šnjirgooluddijd;šnjirgooludij;šnjirgooluudij"
             pos="N">šnjirgoolodeh</l>
       </lg>
       <mg rest="">
@@ -4012,8 +3325,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="snoorrâmpäddikammui"
-            pl_ill="snoorrâmpäddikammuid"
+            pl_ill="snoorrâmpäddikammui;snoorrâmpäddikammuid"
             pos="N">snoorrâmpäddikammuuh</l>
       </lg>
       <mg rest="">
@@ -4026,8 +3338,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="šoddâdempuáldáttuvâi"
-            pl_ill="šoddâdempuáldáttuvváid"
+            pl_ill="šoddâdempuáldáttuvváid;šoddâdempuáldáttuvâi"
             pos="N">šoddâdempuáldáttuvah</l>
       </lg>
       <mg rest="">
@@ -4038,11 +3349,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10142">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="šoorcij;šorcij"
-            pl_ill="šorcij;šorcijd"
-            pos="N">šoorcih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="šoorcij;šorcij;šorcijd" pos="N">šoorcih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4052,11 +3359,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10202">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="šovkkâhij"
-            pl_ill="šovkkâháid"
-            pos="N">šovkkâheh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="šovkkâhij;šovkkâháid" pos="N">šovkkâheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4078,7 +3381,6 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="sraŋgâpoostâi;sraŋgâpostâi"
             pl_ill="sraŋgâpoostâi;sraŋgâpostáid;sraŋgâpostâi"
             pos="N">sraŋgâpoostah</l>
       </lg>
@@ -4092,8 +3394,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="staatâpeeivij;staatâpeivij"
-            pl_ill="staatâpeivij;staatâpeivijd"
+            pl_ill="staatâpeeivij;staatâpeivij;staatâpeivijd"
             pos="N">staatâpeeivih</l>
       </lg>
       <mg rest="">
@@ -4104,11 +3405,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10349">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="stivái"
-            pl_ill="stivváid"
-            pos="N">stiváh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="stivváid;stivái" pos="N">stiváh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4121,8 +3418,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="stuorrâruottâsij"
-            pl_ill="stuorrâruottâsijd;stuorrâruottâsáid"
+            pl_ill="stuorrâruottâsiij;stuorrâruottâsij;stuorrâruottâsijd;stuorrâruottâsáid"
             pos="N">stuorrâruottâsiih</l>
       </lg>
       <mg rest="">
@@ -4133,11 +3429,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10455">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="suáhišadoi"
-            pl_ill="suáhišaddoid"
-            pos="N">suáhišadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="suáhišaddoid;suáhišadoi" pos="N">suáhišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4149,8 +3441,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="sukkápuuvsâi;sukkápuvsâi"
-            pl_ill="sukkápuvssáid;sukkápuvsâi"
+            pl_ill="sukkápuuvsâi;sukkápuvssáid;sukkápuvsâi"
             pos="N">sukkápuuvsah</l>
       </lg>
       <mg rest="">
@@ -4163,8 +3454,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="suohislivvârij;suohâdislivvârij"
-            pl_ill="suohislivvâráid;suohâdislivvârij;suohâdislivvâráid"
+            pl_ill="suohislivvârij;suohislivvâráid;suohâdislivvârij;suohâdislivvâráid"
             pos="N">suohislivvâreh</l>
       </lg>
       <mg rest="">
@@ -4177,8 +3467,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="suormâraasij;suormârasij"
-            pl_ill="suormârasij;suormârassijd"
+            pl_ill="suormâraasij;suormârasij;suormârassijd"
             pos="N">suormârääsih</l>
       </lg>
       <mg rest="">
@@ -4189,11 +3478,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10663">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="šušmekammui"
-            pl_ill="šušmekammuid"
-            pos="N">šušmekammuuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="šušmekammui;šušmekammuid" pos="N">šušmekammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4203,11 +3488,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10717">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="syeinišadoi"
-            pl_ill="syeinišaddoid"
-            pos="N">syeinišadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="syeinišaddoid;syeinišadoi" pos="N">syeinišadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4219,8 +3500,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="syejilaasâi;syejilasâi"
-            pl_ill="syejilaasáid;syejilasâi"
+            pl_ill="syejilaasáid;syejilaasâi;syejilasâi"
             pos="N">syejilaasah</l>
       </lg>
       <mg rest="">
@@ -4233,8 +3513,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="sämitiggevaaljâi;sämitiggevaljâi"
-            pl_ill="sämitiggevaljáid;sämitiggevaljâi"
+            pl_ill="sämitiggevaaljâi;sämitiggevaljáid;sämitiggevaljâi"
             pos="N">sämitiggevaaljah</l>
       </lg>
       <mg rest="">
@@ -4245,7 +3524,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10838">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">säpligporttááh</l>
+         <l nr="Pl" pos="N">säpligporttááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4257,8 +3536,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="säpligraasij;säpligrasij"
-            pl_ill="säpligrasij;säpligrassijd"
+            pl_ill="säpligraasij;säpligrasij;säpligrassijd"
             pos="N">säpligrääsih</l>
       </lg>
       <mg rest="">
@@ -4269,11 +3547,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10854">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="särgimuorâi"
-            pl_ill="särgimuoráid"
-            pos="N">särgimuorah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="särgimuoráid;särgimuorâi" pos="N">särgimuorah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4285,8 +3559,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="särgipuuvsâi;särgipuvsâi"
-            pl_ill="särgipuvssáid;särgipuvsâi"
+            pl_ill="särgipuuvsâi;särgipuvssáid;särgipuvsâi"
             pos="N">särgipuuvsah</l>
       </lg>
       <mg rest="">
@@ -4299,8 +3572,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="tahopaanij;tahopanij"
-            pl_ill="tahopaanijd;tahopanij"
+            pl_ill="tahopaanij;tahopaanijd;tahopanij"
             pos="N">tahopäneh</l>
       </lg>
       <mg rest="">
@@ -4313,8 +3585,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="tahopaanij;tahopanij"
-            pl_ill="tahopaanijd;tahopanij"
+            pl_ill="tahopaanij;tahopaanijd;tahopanij"
             pos="N">tahopäänih</l>
       </lg>
       <mg rest="">
@@ -4325,11 +3596,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10960">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="taldrikij"
-            pl_ill="taldrikáid"
-            pos="N">taldrikeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="taldrikij;taldrikáid" pos="N">taldrikeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4339,11 +3606,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11008">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="tarbâšij"
-            pl_ill="tarbâšáid"
-            pos="N">tarbâšeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="tarbâšij;tarbâšáid" pos="N">tarbâšeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4353,11 +3616,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11171">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="tiervuođâi"
-            pl_ill="tiervuođáid"
-            pos="N">tiervuođah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="tiervuođáid;tiervuođâi" pos="N">tiervuođah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4369,8 +3628,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="tivrelostâšadoi"
-            pl_ill="tivrelostâšaddoid"
+            pl_ill="tivrelostâšaddoid;tivrelostâšadoi"
             pos="N">tivrelostâšadoh</l>
       </lg>
       <mg rest="">
@@ -4381,11 +3639,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11367">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="toŋâsšadoi"
-            pl_ill="toŋâsšaddoid"
-            pos="N">toŋâsšadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="toŋâsšaddoid;toŋâsšadoi" pos="N">toŋâsšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4395,11 +3649,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11380">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="tooŋgij;toŋgij"
-            pl_ill="toŋgij;toŋgijd"
-            pos="N">tooŋgih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="tooŋgij;toŋgij;toŋgijd" pos="N">tooŋgih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4410,11 +3660,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11501">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="tuárrásij"
-            pl_ill="tuárrásáid"
-            pos="N">tuárráseh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="tuárrásij;tuárrásáid" pos="N">tuárráseh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4436,8 +3682,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="tullâraađij;tullârađij"
-            pl_ill="tullâraađijd;tullârađij"
+            pl_ill="tullâraađij;tullâraađijd;tullârađij"
             pos="N">tullârääđih</l>
       </lg>
       <mg rest="">
@@ -4450,8 +3695,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="turbesoksâmij"
-            pl_ill="turbesoksâmáid"
+            pl_ill="turbesoksâmij;turbesoksâmáid"
             pos="N">turbesoksâmeh</l>
       </lg>
       <mg rest="">
@@ -4464,8 +3708,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="tyejipihtâsij"
-            pl_ill="tyejipihtâsáid"
+            pl_ill="tyejipihtâsij;tyejipihtâsáid"
             pos="N">tyejipihtâseh</l>
       </lg>
       <mg rest="">
@@ -4476,11 +3719,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11772">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="tälvikammui"
-            pl_ill="tälvikammuid"
-            pos="N">tälvikammuuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="tälvikammui;tälvikammuid" pos="N">tälvikammuuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4492,8 +3731,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="tälvipuuvsâi;tälvipuvsâi"
-            pl_ill="tälvipuvssáid;tälvipuvsâi"
+            pl_ill="tälvipuuvsâi;tälvipuvssáid;tälvipuvsâi"
             pos="N">tälvipuuvsah</l>
       </lg>
       <mg rest="">
@@ -4506,8 +3744,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="tälviruottâsij"
-            pl_ill="tälviruottâsijd;tälviruottâsáid"
+            pl_ill="tälviruottâsiij;tälviruottâsij;tälviruottâsijd;tälviruottâsáid"
             pos="N">tälviruottâsiih</l>
       </lg>
       <mg rest="">
@@ -4518,11 +3755,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11808">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="täsnikukái"
-            pl_ill="täsnikukkáid"
-            pos="N">täsnikukáh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="täsnikukkáid;täsnikukái" pos="N">täsnikukáh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4534,8 +3767,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="täsniraasij;täsnirasij"
-            pl_ill="täsnirasij;täsnirassijd"
+            pl_ill="täsniraasij;täsnirasij;täsnirassijd"
             pos="N">täsnirääsih</l>
       </lg>
       <mg rest="">
@@ -4546,11 +3778,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11820">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="tävgiruáđui"
-            pl_ill="tävgiruáđoid"
-            pos="N">tävgiruáđuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="tävgiruáđoid;tävgiruáđui" pos="N">tävgiruáđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4560,11 +3788,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11832">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="taavij;tavij"
-            pl_ill="taavijd;tavij"
-            pos="N">täävih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="taavij;taavijd;tavij" pos="N">täävih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4575,11 +3799,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11840">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="uáđáduvâi"
-            pl_ill="uáđáduvváid"
-            pos="N">uáđáduvah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="uáđáduvváid;uáđáduvâi" pos="N">uáđáduvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4590,11 +3810,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12051">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="uccpuvssiij"
-            pl_ill="uccpuvssiijd"
-            pos="N">uccpuvssiih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="uccpuvssiij;uccpuvssiijd" pos="N">uccpuvssiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4607,8 +3823,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="ullopuuvsâi;ullopuvsâi"
-            pl_ill="ullopuvssáid;ullopuvsâi"
+            pl_ill="ullopuuvsâi;ullopuvssáid;ullopuvsâi"
             pos="N">ullopuuvsah</l>
       </lg>
       <mg rest="">
@@ -4619,11 +3834,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12116">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ullosuhái"
-            pl_ill="ullosuhháid"
-            pos="N">ullosuháh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ullosuhháid;ullosuhái" pos="N">ullosuháh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4633,11 +3844,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12201">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="váldui;vááldui"
-            pl_ill="váldoid;váldui"
-            pos="N">váálduh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="váldoid;váldui;vááldui" pos="N">váálduh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4647,11 +3854,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12205">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vaaljâi;valjâi"
-            pl_ill="valjáid;valjâi"
-            pos="N">vaaljah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vaaljâi;valjáid;valjâi" pos="N">vaaljah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4663,8 +3866,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="vaaluutvaarij;vaaluutvarij"
-            pl_ill="vaaluutvaarijd;vaaluutvarij"
+            pl_ill="vaaluutvaarij;vaaluutvaarijd;vaaluutvarij"
             pos="N">vaaluutväärih</l>
       </lg>
       <mg rest="">
@@ -4677,8 +3879,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="valastâllâmpuuvsâi;valastâllâmpuvsâi"
-            pl_ill="valastâllâmpuvssáid;valastâllâmpuvsâi"
+            pl_ill="valastâllâmpuuvsâi;valastâllâmpuvssáid;valastâllâmpuvsâi"
             pos="N">valastâllâmpuuvsah</l>
       </lg>
       <mg rest="">
@@ -4700,11 +3901,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12384">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="veerdižij"
-            pl_ill="veerdižijd"
-            pos="N">veerdižeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="veerdižij;veerdižijd" pos="N">veerdižeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4715,11 +3912,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12535">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vihkjái"
-            pl_ill="vihkjáid"
-            pos="N">vihkjááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vihkjái;vihkjáid" pos="N">vihkjááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4729,11 +3922,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12589">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vinjohij"
-            pl_ill="vinjoháid"
-            pos="N">vinjoheh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vinjohij;vinjoháid" pos="N">vinjoheh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4743,11 +3932,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12797">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vuáđutiäđui"
-            pl_ill="vuáđutiäđoid"
-            pos="N">vuáđutiäđuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vuáđutiäđoid;vuáđutiäđui" pos="N">vuáđutiäđuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4759,8 +3944,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="vuáláášmuorâi"
-            pl_ill="vuáláášmuoráid"
+            pl_ill="vuáláášmuoráid;vuáláášmuorâi"
             pos="N">vuáláášmuorah</l>
       </lg>
       <mg rest="">
@@ -4771,11 +3955,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12829">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vuállái"
-            pl_ill="vuálláid"
-            pos="N">vuállááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vuállái;vuálláid" pos="N">vuállááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4785,11 +3965,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12839">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vuárbádmij"
-            pl_ill="vuárbádmáid"
-            pos="N">vuárbádmeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vuárbádmij;vuárbádmáid" pos="N">vuárbádmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4799,11 +3975,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12868">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vuáváámij"
-            pl_ill="vuáváámáid"
-            pos="N">vuáváámeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vuáváámij;vuáváámáid" pos="N">vuáváámeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4833,11 +4005,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12917">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vuoiŋâšij"
-            pl_ill="vuoiŋâšijd"
-            pos="N">vuoiŋâšeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vuoiŋâšij;vuoiŋâšijd" pos="N">vuoiŋâšeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4847,11 +4015,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12931">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vuoivâšmij"
-            pl_ill="vuoivâšmáid"
-            pos="N">vuoivâšmeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vuoivâšmij;vuoivâšmáid" pos="N">vuoivâšmeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4861,11 +4025,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12932">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vuoivâšnij"
-            pl_ill="vuoivâšnáid"
-            pos="N">vuoivâšneh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vuoivâšnij;vuoivâšnáid" pos="N">vuoivâšneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4877,8 +4037,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="vuonjâčij;vuonjâččij"
-            pl_ill="vuonjâčij;vuonjâčáid;vuonjâččáid"
+            pl_ill="vuonjâčij;vuonjâčáid;vuonjâččij;vuonjâččáid"
             pos="N">vuonjâččeh</l>
       </lg>
       <mg rest="">
@@ -4889,11 +4048,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13017">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vuovdâšadoi"
-            pl_ill="vuovdâšaddoid"
-            pos="N">vuovdâšadoh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vuovdâšaddoid;vuovdâšadoi" pos="N">vuovdâšadoh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4905,8 +4060,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="äpiludij;äpiluudij"
-            pl_ill="äpiluddijd;äpiludij"
+            pl_ill="äpiluddijd;äpiludij;äpiluudij"
             pos="N">äpilodeh</l>
       </lg>
       <mg rest="">
@@ -4927,11 +4081,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13252">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="äpispálvái"
-            pl_ill="äpispálváid"
-            pos="N">äpispálvááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="äpispálvái;äpispálváid" pos="N">äpispálvááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4941,11 +4091,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13327">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="aapij;apij"
-            pl_ill="apij;appijd"
-            pos="N">ääpih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="aapij;apij;appijd" pos="N">ääpih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4958,8 +4104,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="uánihissuájásâškirdeekiivsâi;uánihissuájásâškirdeekivsâi"
-            pl_ill="uánihissuájásâškirdeekivssáid;uánihissuájásâškirdeekivsâi"
+            pl_ill="uánihissuájásâškirdeekiivsâi;uánihissuájásâškirdeekivssáid;uánihissuájásâškirdeekivsâi"
             pos="N">uánihissuájásâškirdeekiivsah</l>
       </lg>
       <mg rest="">
@@ -4972,8 +4117,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="jeggilumvuovij"
-            pl_ill="jeggilumvuovvijd"
+            pl_ill="jeggilumvuovij;jeggilumvuovvijd"
             pos="N">jeggilumvyevih</l>
       </lg>
       <mg rest="">
@@ -4986,8 +4130,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="jieggilumvuovij"
-            pl_ill="jieggilumvuovvijd"
+            pl_ill="jieggilumvuovij;jieggilumvuovvijd"
             pos="N">jieggilumvyevih</l>
       </lg>
       <mg rest="">
@@ -5000,8 +4143,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="jievjâvuoptâi"
-            pl_ill="jievjâvuoptáid"
+            pl_ill="jievjâvuoptáid;jievjâvuoptâi"
             pos="N">jievjâvuoptah</l>
       </lg>
       <mg rest="">
@@ -5014,8 +4156,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="lasanemorgaanij"
-            pl_ill="lasanemorgaanáid"
+            pl_ill="lasanemorgaanij;lasanemorgaanáid"
             pos="N">lasanemorgaaneh</l>
       </lg>
       <mg rest="">
@@ -5026,11 +4167,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13441">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="rišottuvâi"
-            pl_ill="rišottuvváid"
-            pos="N">rišottuvah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="rišottuvváid;rišottuvâi" pos="N">rišottuvah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5040,11 +4177,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13449">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ruávskui"
-            pl_ill="ruávskoid"
-            pos="N">ruávskuh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ruávskoid;ruávskui" pos="N">ruávskuh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5054,7 +4187,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13465">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">šiäráneh</l>
+         <l nr="Pl" pos="N">šiäráneh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5064,11 +4197,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13483">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="suitij;suuitij"
-            pl_ill="suitij;suittijd"
-            pos="N">suuitih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="suitij;suittijd;suuitij" pos="N">suuitih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5088,11 +4217,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13523">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ulgâi;uulgâi"
-            pl_ill="ulgáid;ulgâi"
-            pos="N">uulgah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ulgáid;ulgâi;uulgâi" pos="N">uulgah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5104,8 +4229,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="puksâlogij;puksâloogij"
-            pl_ill="puksâloggijd;puksâlogij"
+            pl_ill="puksâloggijd;puksâlogij;puksâloogij"
             pos="N">puksâluágih</l>
       </lg>
       <mg rest="">
@@ -5116,11 +4240,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_812">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="majebái"
-            pl_ill="majebáid"
-            pos="N">majebááh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="majebái;majebáid" pos="N">majebááh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5135,11 +4255,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1315">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="ruottâsiij"
-            pl_ill="ruottâsiijd"
-            pos="N">ruottâsiih</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="ruottâsiij;ruottâsiijd" pos="N">ruottâsiih</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5151,8 +4267,7 @@ For the full license text, see the link above.
       <lg>
          <l g_stem="Pl"
             nr="Pl"
-            pl_gen="sevetaavtij;sevetavtij"
-            pl_ill="sevetavtij;sevetavttijd"
+            pl_ill="sevetaavtij;sevetavtij;sevetavttijd"
             pos="N">sevetäävtih</l>
       </lg>
       <mg rest="">
@@ -5163,11 +4278,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1736">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vaanhimij"
-            pl_ill="vaanhimáid"
-            pos="N">vaanhimeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vaanhimij;vaanhimáid" pos="N">vaanhimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5177,11 +4288,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1757">
       <lg>
-         <l g_stem="Pl"
-            nr="Pl"
-            pl_gen="vanhimij"
-            pl_ill="vanhimáid"
-            pos="N">vanhimeh</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vanhimij;vanhimáid" pos="N">vanhimeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5191,7 +4298,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1840">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">vuosah</l>
+         <l g_stem="Pl" nr="Pl" pl_ill="vuosáid;vuosâi" pos="N">vuosah</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5201,7 +4308,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1747">
       <lg>
-         <l nr="Pl" pos="N" status="_unknown_N">váivádâh</l>
+         <l nr="Pl" pos="N">váivádâh</l>
       </lg>
       <mg rest="vá'iváduv">
          <tg xml:lang="fin">
@@ -5211,7 +4318,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5055">
       <lg>
-         <l g_stem="Pl" pl_gen="lievei" pl_ill="lieveid" pos="N">lieveeh</l>
+         <l g_stem="Pl" pl_ill="lievei;lieveid" pos="N">lieveeh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
