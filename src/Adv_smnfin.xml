@@ -9075,4 +9075,186 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_1727">
+      <lg>
+         <l pos="Adv" status="_unknown_N">esken</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1893">
+      <lg>
+         <l pos="Adv" status="_unknown_N">forgâpalij</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kohtapuoliin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1954">
+      <lg>
+         <l pos="Adv" status="_unknown_N">háccáht</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">haarallaan (jaloista)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2054">
+      <lg>
+         <l pos="Adv" status="_unknown_N">heeviimist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sattumalta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2087">
+      <lg>
+         <l pos="Adv" status="_unknown_N">heŋgâsân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">roikkumaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2088">
+      <lg>
+         <l pos="Adv" status="_unknown_N">heŋgâsist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">roikkumassa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2131">
+      <lg>
+         <l pos="Adv" status="_unknown_N">hiloi haloi</l>
+      </lg>
+      <mg rest="háloi">
+         <tg xml:lang="fin">
+            <t pos="Adv">hujan hajan</t>
+            <t pos="Adv">sikin sokin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2520">
+      <lg>
+         <l pos="Adv" status="_unknown_N">iäskán</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2530">
+      <lg>
+         <l pos="Adv" status="_unknown_N">iävtutátulávt</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vapaaehtoisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2641">
+      <lg>
+         <l pos="Adv" status="_unknown_N">jienâi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kovalla äänellä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2667">
+      <lg>
+         <l pos="Adv" status="_unknown_N">jieŋâlâsân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">syvälle</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3445">
+      <lg>
+         <l pos="Adv" status="_unknown_N">kiđđuv</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">keväällä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3446">
+      <lg>
+         <l pos="Adv" status="_unknown_N">kieđâi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">käsin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3634">
+      <lg>
+         <l pos="Adv" status="_unknown_N">kimmást</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kiimassa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3989">
+      <lg>
+         <l pos="Adv" status="_unknown_N">kooskâi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">välistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4038">
+      <lg>
+         <l pos="Adv" status="_unknown_N">koskâmiärálávt</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">keskimäärin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4040">
+      <lg>
+         <l pos="Adv" status="_unknown_N">koskân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">keskeneräinen</t>
+            <t pos="Adv">kesken</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4069">
+      <lg>
+         <l pos="Adv" status="_unknown_N">koškoost</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">janoinen</t>
+         </tg>
+      </mg>
+   </e>
 </r>
