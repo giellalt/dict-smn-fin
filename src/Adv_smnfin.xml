@@ -3014,6 +3014,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">yltympäriinsä</t>
+			<t pos="N">päästä päähän</t>
          </tg>
       </mg>
    </e>
@@ -7930,6 +7931,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kireällä</t>
+			<t pos="N">tiukalla</t>
          </tg>
       </mg>
    </e>
@@ -8563,6 +8565,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">hirveän (attr.)</t>
+			<t pos="N">liian</t>
          </tg>
       </mg>
    </e>
@@ -9012,6 +9015,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kerättynä</t>
+			<t pos="Adv">koossa</t>
          </tg>
       </mg>
    </e>
