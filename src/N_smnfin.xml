@@ -74434,11 +74434,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_7100">
       <lg>
-         <l pos="N" status="_unknown_N">pááihui</l>
+         <l pos="Adv" status="_unknown_N">pááihui</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">paikoin</t>
+            <t pos="Adv">paikoin</t>
          </tg>
       </mg>
    </e>
@@ -75027,11 +75027,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_7160">
       <lg>
-         <l pos="N" status="_unknown_N">páiháttuvâi</l>
+         <l pos="Adv" status="_unknown_N">páiháttuvâi</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">paikoin</t>
+            <t pos="Adv">paikoin</t>
          </tg>
       </mg>
    </e>
@@ -77104,21 +77104,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_7347">
       <lg>
-         <l pos="N" status="_unknown_N">párnáá</l>
+         <l pos="A" status="_unknown_N">párnáá</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
-            <t pos="N">lapsellinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7348">
-      <lg>
-         <l pos="N" status="_unknown_N">párnái</l>
-      </lg>
-      <mg rest="vuástá">
-         <tg xml:lang="fin">
-            <t pos="N">olla raskaana</t>
+            <t pos="A">lapsellinen</t>
          </tg>
       </mg>
    </e>
@@ -83183,16 +83173,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_7946">
-      <lg>
-         <l pos="N" status="_unknown_N">ponnjood</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">käyrässä</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_7947">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="ponnoos" sg_ill="ponosân">ponos</l>
@@ -84256,16 +84236,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_8045">
-      <lg>
-         <l pos="N" status="_unknown_N">printtâ</l>
-      </lg>
-      <mg rest="priintâ">
-         <tg xml:lang="fin">
-            <t pos="N">tuloste</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_8046">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="printter" sg_ill="printterân">printter</l>
@@ -84665,16 +84635,6 @@ For the full license text, see the link above.
       <mg rest="-siijdâ">
          <tg xml:lang="fin">
             <t pos="N">porotokka</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_8085">
-      <lg>
-         <l pos="N" status="_unknown_N">puájoi</l>
-      </lg>
-      <mg rest="poijuu">
-         <tg xml:lang="fin">
-            <t pos="N">paju</t>
          </tg>
       </mg>
    </e>
@@ -85236,17 +85196,6 @@ For the full license text, see the link above.
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="N">äkkipikainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_8138">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="porruu" sg_ill="porrui">puároi</l>
-      </lg>
-      <mg rest="porruu">
-         <tg xml:lang="fin">
-            <t pos="N">paarma</t>
-            <t pos="N" tt_auto="Tabanus bovihus">lehmänpaarma</t>
          </tg>
       </mg>
    </e>
@@ -87710,7 +87659,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8371">
       <lg>
-         <l pos="N" status="_unknown_N">pyramidi</l>
+         <l pos="N" status="_unknown_N">pyramid</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -88145,16 +88094,6 @@ For the full license text, see the link above.
       <mg rest="pargo">
          <tg xml:lang="fin">
             <t pos="N">talkootyö</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_8412">
-      <lg>
-         <l pos="N" status="_unknown_N">päljispoođâi</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">housuitta (peppu paljaana)</t>
          </tg>
       </mg>
    </e>
@@ -90215,16 +90154,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_8622">
-      <lg>
-         <l pos="N" status="_unknown_N">reeisu</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">reissu</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_8623">
       <lg>
          <l g_stem="Sg" pos="N">reeivâlonotteijee</l>
@@ -91186,11 +91115,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_8714">
       <lg>
-         <l pos="N" status="_unknown_N">riehtis</l>
+         <l pos="A" status="_unknown_N">riehtis</l>
       </lg>
       <mg rest="# -is">
          <tg xml:lang="fin">
-            <t pos="N">suorasyinen (puusta)</t>
+            <t pos="A">suorasyinen (puusta)</t>
          </tg>
       </mg>
    </e>
@@ -91580,11 +91509,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_8752">
       <lg>
-         <l pos="N" status="_unknown_N">rijjâtátulávt</l>
+         <l pos="Adv" status="_unknown_N">rijjâtátulávt</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">vapaaehtoisesti</t>
+            <t pos="Adv">vapaaehtoisesti</t>
          </tg>
       </mg>
    </e>
@@ -92599,17 +92528,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_8847">
-      <lg>
-         <l pos="N" status="_unknown_N">romani</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">mustalainen</t>
-            <t pos="N">romani (ihminen)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_8849">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="roomâ" sg_ill="roomân">rommâ</l>
@@ -93451,16 +93369,6 @@ For the full license text, see the link above.
             sg_ill="ruánáápiäippáinân">ruánáápiäippáin</l>
       </lg>
       <mg rest="-piä'ipánjeh">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Carduelis chloris">viherpeippo</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_8933">
-      <lg>
-         <l pos="N" status="_unknown_N">ruánáápiäippâin</l>
-      </lg>
-      <mg rest="-piä'ipânjeh">
          <tg xml:lang="fin">
             <t pos="N" tt_auto="Carduelis chloris">viherpeippo</t>
          </tg>
@@ -94835,11 +94743,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_9053">
       <lg>
-         <l pos="N" status="_unknown_N">ruošâs</l>
+         <l pos="Adv" status="_unknown_N">ruošâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">venäjäksi</t>
+            <t pos="Adv">venäjäksi</t>
          </tg>
       </mg>
    </e>
@@ -94910,11 +94818,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_9060">
       <lg>
-         <l pos="N" status="_unknown_N">ruossâlâsân</l>
+         <l pos="Adv" status="_unknown_N">ruossâlâsân</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">ristiin</t>
+            <t pos="Adv">ristiin</t>
          </tg>
       </mg>
    </e>
@@ -97417,20 +97325,20 @@ For the full license text, see the link above.
    </e>
    <e id="N_9288">
       <lg>
-         <l pos="N" status="_unknown_N">saajeest</l>
+         <l pos="Adv" status="_unknown_N">saajeest</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">paikasta</t>
-            <t pos="N">asemesta</t>
-            <t pos="N">sijasta</t>
+            <t pos="Adv">paikasta</t>
+            <t pos="Adv">asemesta</t>
+            <t pos="Adv">sijasta</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">sijassa</t>
-            <t pos="N">asemassa</t>
-            <t pos="N">paikassa</t>
+            <t pos="Adv">sijassa</t>
+            <t pos="Adv">asemassa</t>
+            <t pos="Adv">paikassa</t>
          </tg>
       </mg>
    </e>
@@ -98639,11 +98547,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_9396">
       <lg>
-         <l pos="N" status="_unknown_N">sajasis</l>
+         <l pos="Adv" status="_unknown_N">sajasis</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">paikoilleen</t>
+            <t pos="Adv">paikoilleen</t>
          </tg>
       </mg>
    </e>
@@ -98755,12 +98663,12 @@ For the full license text, see the link above.
    </e>
    <e id="N_9405">
       <lg>
-         <l pos="N" status="_unknown_N">sajestis</l>
+         <l pos="Adv" status="_unknown_N">sajestis</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">paikoillaan</t>
-            <t pos="N">paikoiltaan</t>
+            <t pos="Adv">paikoillaan</t>
+            <t pos="Adv">paikoiltaan</t>
          </tg>
       </mg>
    </e>
@@ -99730,16 +99638,6 @@ For the full license text, see the link above.
       <mg rest="servâs">
          <tg xml:lang="fin">
             <t pos="N">yhtiö</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_9506">
-      <lg>
-         <l pos="N" status="_unknown_N">seervij</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">yhdessä</t>
          </tg>
       </mg>
    </e>
@@ -102044,16 +101942,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_9723">
-      <lg>
-         <l pos="N" status="_unknown_N">sijvuht</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kunnolla</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_9724">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="sikkáár" sg_ill="sikárân">sikkáár</l>
@@ -103021,21 +102909,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_9814">
       <lg>
-         <l pos="N" status="_unknown_N">siäháluvâi</l>
+         <l pos="Adv" status="_unknown_N">siäháluvâi</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">sekaisin</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_9815">
-      <lg>
-         <l pos="N" status="_unknown_N">siäháluvvâi</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">sekaisin</t>
+            <t pos="Adv">sekaisin</t>
          </tg>
       </mg>
    </e>
@@ -107301,16 +107179,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">kuvajainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_10231">
-      <lg>
-         <l pos="N" status="_unknown_N">spejâlistim</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">kangastus</t>
+			<t pos="N">kangastus</t>
          </tg>
       </mg>
    </e>
@@ -108449,7 +108318,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10337">
       <lg>
-         <l pos="N" status="_unknown_N">sterilistim</l>
+         <l pos="N" status="_unknown_N">sterilistem</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -108800,11 +108669,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_10373">
       <lg>
-         <l pos="N" status="_unknown_N">storgâsmittim</l>
+         <l pos="N" status="_unknown_N">storgâsmittem</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">jäykistää</t>
+            <t pos="N">jäykistäminen</t>
          </tg>
       </mg>
    </e>
@@ -110046,16 +109915,6 @@ For the full license text, see the link above.
       <mg rest="suá'lnáduv">
          <tg xml:lang="fin">
             <t pos="N">hallasää</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_10482">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="suolluu" sg_ill="suollui">suáloi</l>
-      </lg>
-      <mg rest="suol'luu">
-         <tg xml:lang="fin">
-            <t pos="N">saari</t>
          </tg>
       </mg>
    </e>
@@ -112180,11 +112039,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_10679">
       <lg>
-         <l pos="N" status="_unknown_N">suuláid</l>
+         <l pos="Adv" status="_unknown_N">suuláid</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">suunnilleen</t>
+            <t pos="Adv">suunnilleen</t>
          </tg>
       </mg>
    </e>
@@ -114691,11 +114550,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_10907">
       <lg>
-         <l pos="N" status="_unknown_N">taavaakeččin</l>
+         <l pos="Adv" status="_unknown_N">taavaakeččin</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">pohjoispuolella</t>
+            <t pos="Adv">pohjoispuolella</t>
          </tg>
       </mg>
    </e>
@@ -115902,11 +115761,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_11031">
       <lg>
-         <l pos="N" status="_unknown_N">tavaskulij</l>
+         <l pos="Adv" status="_unknown_N">tavaskulij</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">pohjoiseen (päin)</t>
+            <t pos="Adv">pohjoiseen (päin)</t>
          </tg>
       </mg>
    </e>
@@ -117448,16 +117307,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_11172">
-      <lg>
-         <l pos="N" status="_unknown_N">tietogo</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">juuri siinä (puhuteltavan lähellä)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_11173">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="tiettee" sg_ill="tiettei">tiettee</l>
@@ -118434,16 +118283,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_11264">
-      <lg>
-         <l pos="N" status="_unknown_N">tiäđust</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">tiedossa</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_11266">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="tiäduttâs" sg_ill="tiäduttâsân">tiäduttâs</l>
@@ -118721,22 +118560,22 @@ For the full license text, see the link above.
    </e>
    <e id="N_11291">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="tme">tme</l>
+         <l g_stem="Sg" pos="Abbr" sg_gen="tme">tme</l>
       </lg>
       <mg rest="= tijme)">
          <tg xml:lang="fin">
-            <t pos="N">klo (= kello)</t>
+            <t pos="Abbr">klo (= kello)</t>
          </tg>
       </mg>
    </e>
    <e id="N_11292">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="tmt.">tmt.</l>
+         <l g_stem="Sg" pos="Abbr" sg_gen="tmt.">tmt.</l>
       </lg>
       <mg rest="tâi miinii tagarijd)">
          <tg xml:lang="fin">
-            <t pos="N">tms.</t>
-            <t pos="N">tai muuta sellaista</t>
+            <t pos="Abbr">tms.</t>
+            <t pos="Abbr">tai muuta sellaista</t>
          </tg>
       </mg>
    </e>

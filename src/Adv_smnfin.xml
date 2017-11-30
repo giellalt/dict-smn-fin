@@ -4516,6 +4516,7 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="Adv">kiltisti</t>
             <t pos="Adv">nätisti</t>
+			<t pos="N">kunnolla</t>
          </tg>
       </mg>
    </e>
@@ -8390,6 +8391,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">vinossa</t>
+			<t pos="N">käyrässä</t>
          </tg>
       </mg>
    </e>
