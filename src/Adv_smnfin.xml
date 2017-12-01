@@ -5534,6 +5534,8 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="Adv">esille</t>
             <t pos="Adv">esillä</t>
+            <t pos="N">näytteille</t>
+            <t pos="N">näytteillä</t>
          </tg>
       </mg>
    </e>
@@ -5563,7 +5565,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Adv">ehjäkärkinen (poron korvasta)</t>
+            <t pos="N">kerrassaan</t>
+			<t pos="Adv">ehjäkärkinen (poron korvasta)</t>
          </tg>
       </mg>
       <mg rest="">
