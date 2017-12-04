@@ -443,17 +443,17 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">pahus</t>
-            <t pos="Interj">saatana (kirosana)</t>
+            <t pos="Interj" re="šyeijirokke">saatana</t>
          </tg>
       </mg>
    </e>
    <e id="Interj_41">
       <lg>
-         <l pos="Interj">šyeijirokke</l>
+         <l pos="Interj">šyejirokke</l>
       </lg>
       <mg rest="-rohe">
          <tg xml:lang="fin">
-            <t pos="Interj">hitto (kirosana)</t>
+            <t pos="Interj" re="kirosana">hitto</t>
          </tg>
       </mg>
    </e>
@@ -473,7 +473,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Interj">ihanko totta (ihmeteltäessä)</t>
+            <t pos="Interj" re="ihmeteltäessä">ihanko totta</t>
          </tg>
       </mg>
    </e>
@@ -483,8 +483,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Interj">hei (tervehdyksenä)</t>
-            <t pos="Interj">terve (tervehdyksenä)</t>
+            <t pos="Interj" re="tervehdyksenä">hei</t>
+            <t pos="Interj" re="tervehdyksenä">terve</t>
          </tg>
       </mg>
    </e>
@@ -510,11 +510,11 @@ For the full license text, see the link above.
    </e>
    <e id="Interj_46">
       <lg>
-         <l pos="Interj">pinnâhâš</l>
+         <l pos="Interj" re="lievä kirosana">pinnâhâš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Interj">vietävä (lievä voimasana)</t>
+            <t pos="Interj">vietävä</t>
          </tg>
       </mg>
    </e>
@@ -530,37 +530,37 @@ For the full license text, see the link above.
    </e>
    <e id="Interj_48">
       <lg>
-         <l pos="Interj">váiván</l>
+         <l pos="Interj" re="lievä voimasana">váiván</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Interj">vaivattu (lievä voimasana)</t>
+            <t pos="Interj">vaivattu</t>
          </tg>
       </mg>
    </e>
    <e id="A_1557">
       <lg>
-         <l pos="Interj">tekkâs</l>
+         <l pos="Interj" re="myöntävä vastaus">tekkâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Interj">totta (myöntävä vastaus)</t>
+            <t pos="Interj">totta</t>
          </tg>
       </mg>
    </e>
    <e id="A_1558">
       <lg>
-         <l pos="Interj">tekkis</l>
+         <l pos="Interj" re="myöntävä vastaus">tekkis</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Interj">totta (myöntävä vastaus)</t>
+            <t pos="Interj">totta</t>
          </tg>
       </mg>
    </e>
    <e id="N_2217">
       <lg>
-         <l pos="Interj" status="_unknown_N">huápu-huápu</l>
+         <l pos="Interj">huápu-huápu</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
