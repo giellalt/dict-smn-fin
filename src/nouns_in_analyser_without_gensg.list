@@ -1,10 +1,3 @@
-
-kiärgus+N+Sg+Gen
-kuárus+N+Sg+Gen Adj!
-miälgus+N+Sg+Gen
-mädimus+N+Sg+Gen
-njuálgus+N+Sg+Gen
-
 +N+Sg+Gen
 ATK+N+Sg+Gen Abbr!
 BAP+N+Sg+Gen Abbr!
@@ -120,7 +113,7 @@ kirjáá+N+Sg+Gen
 kivkker+N+Sg+Gen
 kiäju+N+Sg+Gen
 kiäpu+N+Sg+Gen
-kiärgus+N+Sg+Gen
+kiärgus+N+Sg+Gen Adj!
 kiäsádâh+N+Sg+Gen
 kiävtust+N+Sg+Gen word form kiävttu+N+Sg+Loc -> deleted from dictionary!
 kiäđgáá+N+Sg+Gen
@@ -235,7 +228,7 @@ mielâstâd+N+Sg+Gen see mielâstis!
 mielâstân+N+Sg+Gen see mielâstis!
 miljonäär+N+Sg+Gen spelling error, fixed!
 millum+N+Sg+Gen
-miälgus+N+Sg+Gen
+miälgus+N+Sg+Gen Adj!
 miändu+N+Sg+Gen  Adv!
 miätá+N+Sg+Gen Po, Pr, Adv!
 moddii+N+Sg+Gen Adv!
@@ -256,7 +249,7 @@ máádás+N+Sg+Gen Adv!
 mááidunj+N+Sg+Gen
 máánnud+N+Sg+Gen
 mášulâš+N+Sg+Gen
-mädimus+N+Sg+Gen
+mädimus+N+Sg+Gen Adj!
 määššil+N+Sg+Gen
 naggâsávt+N+Sg+Gen Adv!
 neeljis+N+Sg+Gen
@@ -278,7 +271,7 @@ njuođain+N+Sg+Gen
 njurgoi+N+Sg+Gen
 njuuppâh+N+Sg+Gen
 njuálgumarkkânistim+N+Sg+Gen spelling error!
-njuálgus+N+Sg+Gen
+njuálgus+N+Sg+Gen added to analyser!
 njábbáá+N+Sg+Gen
 nommâlappu+N+Sg+Gen fixed in analyser!
 nubálovihásâš+N+Sg+Gen

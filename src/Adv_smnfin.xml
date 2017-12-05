@@ -648,6 +648,7 @@ For the full license text, see the link above.
             <t pos="Adv">istuallaan</t>
             <t pos="Adv">istualleen</t>
             <t pos="Adv">takamuksilleen</t>
+			<t pos="Adv">takamuksillaan</t>
          </tg>
       </mg>
    </e>
@@ -660,6 +661,7 @@ For the full license text, see the link above.
             <t pos="Adv">istuallaan</t>
             <t pos="Adv">istualleen</t>
             <t pos="Adv">takamuksilleen</t>
+			<t pos="Adv">takamuksillaan</t>
          </tg>
       </mg>
    </e>
@@ -4485,6 +4487,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kohtalaisesti</t>
+			<t pos="N">hyvin</t>
          </tg>
       </mg>
    </e>
