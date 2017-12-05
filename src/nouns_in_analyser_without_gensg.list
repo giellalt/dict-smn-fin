@@ -1,12 +1,19 @@
+
+kiärgus+N+Sg+Gen
+kuárus+N+Sg+Gen Adj!
+miälgus+N+Sg+Gen
+mädimus+N+Sg+Gen
+njuálgus+N+Sg+Gen
+
 +N+Sg+Gen
-ATK+N+Sg+Gen
-BAP+N+Sg+Gen
-aasâ+N+Sg+Gen
-aforismâ+N+Sg+Gen
-almottus+N+Sg+Gen
-anamuš+N+Sg+Gen
-anokävni+N+Sg+Gen
-atâštus+N+Sg+Gen
+ATK+N+Sg+Gen Abbr!
+BAP+N+Sg+Gen Abbr!
+aasâ+N+Sg+Gen added to analyser!
+aforismâ+N+Sg+Gen deleted! aforism
+almottus+N+Sg+Gen deleted! almottâs
+anamuš+N+Sg+Gen added to analyser!
+anokävni+N+Sg+Gen added to analyser!
+atâštus+N+Sg+Gen added to analyser!
 avâštijjee+N+Sg+Gen
 aštuu+N+Sg+Gen
 ceehi+N+Sg+Gen
@@ -102,7 +109,7 @@ kejij+N+Sg+Gen error -> deleted!
 kejâdep+N+Sg+Gen
 kevttimist+N+Sg+Gen word form kevttim+N+Sg+Loc -> deleted from dictionary!
 keđgilum+N+Sg+Gen
-keččâlus+N+Sg+Gen
+keččâlus+N+Sg+Gen added to analyser!
 kieđâi+N+Sg+Gen Adv and kietâ+N+Pl+Gen!
 kiicâ+N+Sg+Gen
 kildeeh+N+Sg+Gen
@@ -279,7 +286,7 @@ nuorttârijkkâlâš+N+Sg+Gen
 nuortâs+N+Sg+Gen Adv! nuorttâ ij suujâ olmânáál analysaattorist?
 nurâsist+N+Sg+Gen Adv!
 nuuvgâs+N+Sg+Gen
-nuáskus+N+Sg+Gen
+nuáskus+N+Sg+Gen added to analyser!
 nyetipottâ+N+Sg+Gen spelling error!
 nááppáš+N+Sg+Gen
 näimiliiton+N+Sg+Gen deleted!
@@ -499,7 +506,7 @@ tuávŋis+N+Sg+Gen
 tyellittälli+N+Sg+Gen Adv!
 tálu-uásilonottem+N+Sg+Gen
 táválávt+N+Sg+Gen Adv!
-tááibus+N+Sg+Gen
+tááibus+N+Sg+Gen added to analyser!
 tälvipiäju+N+Sg+Gen
 täsijuolgij+N+Sg+Gen Adv!
 täsisijđosâš+N+Sg+Gen
@@ -573,7 +580,7 @@ väriráiđu+N+Sg+Gen
 vääldivuálááš+N+Sg+Gen
 ánulâs+N+Sg+Gen
 ápáilum+N+Sg+Gen
-ááiđus+N+Sg+Gen
+ááiđus+N+Sg+Gen added to analyser!
 áŋás+N+Sg+Gen
 äigipajalâš+N+Sg+Gen
 äimiskiärkku+N+Sg+Gen
@@ -584,28 +591,28 @@ vääldivuálááš+N+Sg+Gen
 ääigimildsâš+N+Sg+Gen
 äälis+N+Sg+Gen
 ääši+N+Sg+Gen deleted!
-šado+N+Sg+Gen
+šado+N+Sg+Gen deleted or not mwe?!
 šalmaa+N+Sg+Gen
 čalmastuđ+N+Sg+Gen Verb!this is already in verbfile
-čalmeluomâ+N+Sg+Gen
+čalmeluomâ+N+Sg+Gen added to analyser!
 čalmeväärdis+N+Sg+Gen
 čapiskääsih+N+Sg+Gen
 čarviittoh+N+Sg+Gen
 časkattoh+N+Sg+Gen
 časkettep+N+Sg+Gen
-šave+N+Sg+Gen
+šave+N+Sg+Gen deleted or not mwe?!
 šiettâl+N+Sg+Gen
-šievnáál+N+Sg+Gen
+šievnáál+N+Sg+Gen Adv!
 šievtátulâš+N+Sg+Gen
-čirgottus+N+Sg+Gen
+čirgottus+N+Sg+Gen added to analyser!
 čiärulâs+N+Sg+Gen
 čižet+N+Sg+Gen
 šlettiđ+N+Sg+Gen Verb!
 šleđgim+N+Sg+Gen
 šlumppâ+N+Sg+Gen
 čokkim+N+Sg+Gen
-čokoppoođâi+N+Sg+Gen
-čokoppođâi+N+Sg+Gen
+čokoppoođâi+N+Sg+Gen Adv!
+čokoppođâi+N+Sg+Gen Adv!
 čololâs+N+Sg+Gen
 šomer+N+Sg+Gen
 šoohâd+N+Sg+Gen
@@ -614,19 +621,19 @@ vääldivuálááš+N+Sg+Gen
 čoskijdum+N+Sg+Gen
 šotkâšeh+N+Sg+Gen
 šovkkel+N+Sg+Gen
-čunnust+N+Sg+Gen
-čunoi+N+Sg+Gen
+čunnust+N+Sg+Gen word form-> deleted!
+čunoi+N+Sg+Gen trying to fix in analyser!
 čuojâldittim+N+Sg+Gen
 čuovâdâs+N+Sg+Gen
 čuovâkeilâ+N+Sg+Gen
-čuuvtijsiähá+N+Sg+Gen
+čuuvtijsiähá+N+Sg+Gen Adv!
 čuájá+N+Sg+Gen
 čuáldáttoh+N+Sg+Gen
 šuáláttoh+N+Sg+Gen
 čuámi+N+Sg+Gen
 čuámikietâ+N+Sg+Gen
 čuámikozzâ+N+Sg+Gen
-čuámist+N+Sg+Gen
-čuánnjááhuáš+N+Sg+Gen
-čyeđes+N+Sg+Gen
+čuámist+N+Sg+Gen Adv!
+čuánnjááhuáš+N+Sg+Gen spelling error!
+čyeđes+N+Sg+Gen this should work!
 čäcijehhee+N+Sg+Gen
