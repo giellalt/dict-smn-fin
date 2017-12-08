@@ -6015,11 +6015,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_570">
       <lg>
-         <l pos="N" status="_unknown_N">aštuu</l>
+         <l pos="Interj" status="_unknown_N">aštuu</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">todellakin</t>
+            <t pos="Interj">todellakin</t>
          </tg>
       </mg>
    </e>
@@ -6300,16 +6300,6 @@ For the full license text, see the link above.
    <e id="N_596">
       <lg>
          <l g_stem="Sg" pos="N">avâšteijee</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">enne</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_597">
-      <lg>
-         <l pos="N" status="_unknown_N">avâštijjee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -9027,7 +9017,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_852">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="ciegâttuv" sg_ill="ciegâttâhân">ciegâttoh</l>
+         <l g_stem="Sg" pos="N" sg_gen="ciegâttuv" sg_ill="ciegâttâhân">ciegâttâh</l>
       </lg>
       <mg rest="cie'gâttuv">
          <tg xml:lang="fin">
@@ -17339,7 +17329,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1621">
       <lg>
-         <l pos="N" status="_unknown_N">ehidâsvijni</l>
+         <l pos="N" status="_unknown_N">ehidâsviini</l>
       </lg>
       <mg rest="-viijni">
          <tg xml:lang="fin">
@@ -18206,21 +18196,21 @@ For the full license text, see the link above.
    </e>
    <e id="N_1709">
       <lg>
-         <l pos="N" status="_unknown_N">eresláván</l>
+         <l pos="A" status="_unknown_N">eresláván</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">erilainen</t>
+            <t pos="A">erilainen</t>
          </tg>
       </mg>
    </e>
    <e id="N_1710">
       <lg>
-         <l pos="N" status="_unknown_N">eresmuáđusâš</l>
+         <l pos="A" status="_unknown_N">eresmuáđusâš</l>
       </lg>
       <mg rest="-muá'đusii">
          <tg xml:lang="fin">
-            <t pos="N">erilainen</t>
+            <t pos="A">erilainen</t>
          </tg>
       </mg>
    </e>
@@ -18278,16 +18268,6 @@ For the full license text, see the link above.
       <mg rest="-rááiđu">
          <tg xml:lang="fin">
             <t pos="N">härkäraito</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_1717">
-      <lg>
-         <l pos="N" status="_unknown_N">erinis</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">erillään</t>
          </tg>
       </mg>
    </e>
@@ -18656,16 +18636,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_1754">
-      <lg>
-         <l pos="N" status="_unknown_N">euroopmaijuu</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Castor fiber">euroopanmajava</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_1755">
       <lg>
          <l g_stem="Sg"
@@ -18855,11 +18825,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_1772">
       <lg>
-         <l pos="N" status="_unknown_N">faaninláván</l>
+         <l pos="A" status="_unknown_N">faaninláván</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">pahuksenmoinen</t>
+            <t pos="A">pahuksenmoinen</t>
          </tg>
       </mg>
    </e>
