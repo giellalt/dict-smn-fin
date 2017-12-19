@@ -3702,6 +3702,7 @@ For the full license text, see the link above.
       <mg rest="hirmâdsii">
          <tg xml:lang="fin">
             <t pos="A">kauhea</t>
+			<t pos="A">hirveä</t>
          </tg>
       </mg>
       <mg rest="hirmâdsii">
@@ -19364,6 +19365,7 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="A">huomattava</t>
             <t pos="A">merkittävä</t>
+			<t pos="A">huomionarvoinen</t>
          </tg>
       </mg>
    </e>
