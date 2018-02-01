@@ -8113,7 +8113,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_771">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="čarviittuv" sg_ill="čarviittâhân">čarviittoh</l>
+         <l g_stem="Sg" pos="N" sg_gen="čarviittuv" sg_ill="čarviittâhân">čarviittâh</l>
       </lg>
       <mg rest="čarviittuv">
          <tg xml:lang="fin">
@@ -143165,16 +143165,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">lypsäjä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_747">
-      <lg>
-         <l pos="N" status="_unknown_N">čapiskääsih</l>
-      </lg>
-      <mg rest="-kässih">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Hygrophorus camarophyllus">mustavahakas</t>
          </tg>
       </mg>
    </e>
