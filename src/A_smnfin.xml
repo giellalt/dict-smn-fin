@@ -18007,6 +18007,7 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="A">rauhaton (esim. lapsi tai poro)</t>
             <t pos="A">levoton (esim. lapsi tai poro)</t>
+			<t pos="N">toisen luoksen ikävöivä (eläimestä)</t>
          </tg>
       </mg>
    </e>
@@ -18202,6 +18203,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">veroinen</t>
+			<t pos="A">väärti (jnk veroinen)</t>
          </tg>
       </mg>
    </e>
