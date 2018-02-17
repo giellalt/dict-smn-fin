@@ -5258,6 +5258,7 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="Adv">muinoin</t>
             <t pos="Adv">ennen</t>
+			<t pos="Adv">entisaikaan</t>
          </tg>
       </mg>
    </e>
@@ -5614,6 +5615,7 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="Adv">vähäsen</t>
 			<t pos="Adv">vähän</t>
+			<t pos="Adv">hiukkasen</t>
          </tg>
       </mg> 
 	  <mg rest="">
@@ -8837,6 +8839,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">vähän</t>
+			<t pos="Adv">hiukan</t>
          </tg>
       </mg>
    </e>
