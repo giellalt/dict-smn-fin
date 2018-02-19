@@ -114063,11 +114063,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_10876">
       <lg>
-         <l pos="N" status="_unknown_N">säältis</l>
+         <l pos="A" status="_unknown_N">säältis</l>
       </lg>
       <mg rest="sálttás">
          <tg xml:lang="fin">
-            <t pos="N">suolainen</t>
+            <t pos="A">suolainen</t>
          </tg>
       </mg>
    </e>
@@ -114430,7 +114430,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10910">
       <lg>
-         <l pos="N" status="_unknown_N">taavdâ</l>
+         <l pos="N" status="_unknown_N">taavdâ miäruštâllâm</l>
       </lg>
       <mg rest="miä'ruštâllâm">
          <tg xml:lang="fin">
@@ -114870,11 +114870,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_10951">
       <lg>
-         <l pos="N" status="_unknown_N">takkâ</l>
+         <l pos="Interj" status="_unknown_N">takkâ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">kiitos</t>
+            <t pos="Interj">kiitos</t>
          </tg>
       </mg>
    </e>
@@ -116309,21 +116309,21 @@ For the full license text, see the link above.
    </e>
    <e id="N_11090">
       <lg>
-         <l pos="N" status="_unknown_N">teetis</l>
+         <l pos="A" status="_unknown_N">teetis</l>
       </lg>
       <mg rest="tiät'tás">
          <tg xml:lang="fin">
-            <t pos="N">tiheä (tiiviissä oleva)</t>
+            <t pos="A">tiheä (tiiviissä oleva)</t>
          </tg>
       </mg>
       <mg rest="tiät'tás">
          <tg xml:lang="fin">
-            <t pos="N">tiivis</t>
+            <t pos="A">tiivis</t>
          </tg>
       </mg>
       <mg rest="tiät'tás">
          <tg xml:lang="fin">
-            <t pos="N">vedenpitävä</t>
+            <t pos="A">vedenpitävä</t>
          </tg>
       </mg>
    </e>
@@ -116339,12 +116339,12 @@ For the full license text, see the link above.
    </e>
    <e id="N_11092">
       <lg>
-         <l pos="N" status="_unknown_N">tehálumos</l>
+         <l pos="A" status="_unknown_N">tehálumos</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">ensisijainen</t>
-            <t pos="N">tärkein</t>
+            <t pos="A">ensisijainen</t>
+            <t pos="A">tärkein</t>
          </tg>
       </mg>
    </e>
@@ -116370,11 +116370,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_11096">
       <lg>
-         <l pos="N" status="_unknown_N">teiviš</l>
+         <l pos="A" status="_unknown_N">teiviš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">hyvä suunnistamaan (ihmisestä)</t>
+            <t pos="A">hyvä suunnistamaan (ihmisestä)</t>
          </tg>
       </mg>
    </e>
@@ -117080,11 +117080,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_11161">
       <lg>
-         <l pos="N" status="_unknown_N">tiervâs</l>
+         <l pos="A" status="_unknown_N">tiervâs</l>
       </lg>
       <mg rest="tier'vâs">
          <tg xml:lang="fin">
-            <t pos="N">terve (sairaan vastakohta)</t>
+            <t pos="A">terve (sairaan vastakohta)</t>
          </tg>
       </mg>
    </e>
@@ -117396,13 +117396,13 @@ For the full license text, see the link above.
    </e>
    <e id="N_11193">
       <lg>
-         <l pos="N" status="_unknown_N">tiivâs</l>
+         <l pos="A" status="_unknown_N">tiivâs</l>
       </lg>
       <mg rest="tiivvâs">
          <tg xml:lang="fin">
-            <t pos="N">kitsas</t>
-            <t pos="N">saita</t>
-            <t pos="N">pihi</t>
+            <t pos="A">kitsas</t>
+            <t pos="A">saita</t>
+            <t pos="A">pihi</t>
          </tg>
       </mg>
    </e>
@@ -118166,7 +118166,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11267">
       <lg>
-         <l pos="N" status="_unknown_N">tiäduttum</l>
+         <l pos="N" status="_unknown_N">tiäduttum ciälkkámuš</l>
       </lg>
       <mg rest="ciäl'kkámuš">
          <tg xml:lang="fin">
@@ -118518,11 +118518,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_11299">
       <lg>
-         <l pos="N" status="_unknown_N">tobdos</l>
+         <l pos="A" status="_unknown_N">tobdos</l>
       </lg>
       <mg rest="tobdos">
          <tg xml:lang="fin">
-            <t pos="N">tunnettu</t>
+            <t pos="A">tunnettu</t>
          </tg>
       </mg>
    </e>
