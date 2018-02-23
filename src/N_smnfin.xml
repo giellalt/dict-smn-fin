@@ -97194,7 +97194,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9286">
       <lg>
-         <l pos="N" status="_unknown_N">sááháviđá</l>
+         <l pos="N" status="_unknown_N">sááháviđá lyevdi</l>
       </lg>
       <mg rest="lyevdi">
          <tg xml:lang="fin">
@@ -109272,11 +109272,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_10434">
       <lg>
-         <l pos="N" status="_unknown_N">stäđismettum</l>
+         <l pos="A" status="_unknown_N">stäđismettum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">epävakaa</t>
+            <t pos="A">epävakaa</t>
          </tg>
       </mg>
    </e>
@@ -109861,16 +109861,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_10490">
-      <lg>
-         <l pos="N" status="_unknown_N">suámi</l>
-      </lg>
-      <mg rest="suámi">
-         <tg xml:lang="fin">
-            <t pos="N">hauska</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_10491">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="suámsur" sg_ill="suámsurân">suámsur</l>
@@ -110308,7 +110298,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10527">
       <lg>
-         <l pos="N" status="_unknown_N">suddâdum</l>
+         <l pos="N" status="_unknown_N">suddâdum vuojâ</l>
       </lg>
       <mg rest="vuojâ">
          <tg xml:lang="fin">
@@ -110364,11 +110354,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_10532">
       <lg>
-         <l pos="N" status="_unknown_N">suddogâs</l>
+         <l pos="A" status="_unknown_N">suddogâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">syntinen</t>
+            <t pos="A">syntinen</t>
          </tg>
       </mg>
    </e>
@@ -111428,11 +111418,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_10630">
       <lg>
-         <l pos="N" status="_unknown_N">suormâd</l>
+         <l pos="A" status="_unknown_N">suormâd</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">verkon silmämitta (neljän sormen levyinen)</t>
+            <t pos="A">verkon silmämitta (neljän sormen levyinen)</t>
          </tg>
       </mg>
    </e>
@@ -111780,11 +111770,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_10666">
       <lg>
-         <l pos="N" status="_unknown_N">suttiš</l>
+         <l pos="A" status="_unknown_N">suttiš</l>
       </lg>
       <mg rest="# -âs -is">
          <tg xml:lang="fin">
-            <t pos="N">helposti suuttuva</t>
+            <t pos="A">helposti suuttuva</t>
          </tg>
       </mg>
    </e>
@@ -111974,11 +111964,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_10685">
       <lg>
-         <l pos="N" status="_unknown_N">suvâttum</l>
+         <l pos="A" status="_unknown_N">suvâttum</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">sukupuuttoon kuollut</t>
+            <t pos="A">sukupuuttoon kuollut</t>
          </tg>
       </mg>
    </e>
