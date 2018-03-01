@@ -11673,6 +11673,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">salattu</t>
+			<t pos="N">piilevä (tietoisesti salattu)</t>
          </tg>
       </mg>
    </e>
@@ -11741,6 +11742,7 @@ For the full license text, see the link above.
       <mg rest="piccuum piccoo">
          <tg xml:lang="fin">
             <t pos="A">huurtunut (jääkiteistä)</t>
+			<t pos="A">kuuroittunut</t>
          </tg>
       </mg>
    </e>
@@ -12116,6 +12118,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">kiero</t>
+			<t pos="A">käyrä</t>
          </tg>
       </mg>
       <mg rest="">
@@ -12126,16 +12129,17 @@ For the full license text, see the link above.
    </e>
    <e id="A_1167">
       <lg>
-         <l pos="A">poonjeeld</l>
+         <l pos="Adv">poonjeeld</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">kiero</t>
+            <t pos="Adv">kierossa</t>
+			<t pos="Adv">käyrässä</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="A">vino</t>
+            <t pos="Adv">vinossa</t>
          </tg>
       </mg>
    </e>
@@ -12542,6 +12546,7 @@ For the full license text, see the link above.
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">hidas (ihmisestä)</t>
+			<t pos="N">kuhnuri</t>
          </tg>
       </mg>
    </e>
@@ -12624,6 +12629,7 @@ For the full license text, see the link above.
       <mg rest="pyeši pye'šis">
          <tg xml:lang="fin">
             <t pos="A">kiukkuinen</t>
+			<t pos="A">kipakka</t>
          </tg>
       </mg>
    </e>
@@ -14677,6 +14683,7 @@ For the full license text, see the link above.
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">huonokuntoinen (eläimestä)</t>
+			<t pos="N">liian kapea</t>
          </tg>
       </mg>
    </e>
