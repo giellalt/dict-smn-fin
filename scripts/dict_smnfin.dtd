@@ -21,6 +21,7 @@
 <!ELEMENT e ( lg, mg+ ) >
 <!ATTLIST e reverse NMTOKEN #IMPLIED >
 <!ATTLIST e id CDATA #REQUIRED >
+<!ATTLIST e mc CDATA #IMPLIED >
 
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
@@ -32,11 +33,22 @@
 <!ATTLIST l type NMTOKEN #IMPLIED >
 <!ATTLIST l val ( IV | TV ) #IMPLIED >
 <!ATTLIST l rest CDATA #IMPLIED >
+<!ATTLIST l sg1 CDATA #IMPLIED >
+<!ATTLIST l sg3 CDATA #IMPLIED >
+<!ATTLIST l pl3 CDATA #IMPLIED >
+<!ATTLIST l sg_gen CDATA #IMPLIED >
+<!ATTLIST l sg_ill CDATA #IMPLIED >
+<!ATTLIST l pl_gen CDATA #IMPLIED >
+<!ATTLIST l pl_ill CDATA #IMPLIED >
+<!ATTLIST l g_stem CDATA #IMPLIED >
+<!ATTLIST l v_type CDATA #IMPLIED >
+<!ATTLIST l attr CDATA #IMPLIED >
+<!ATTLIST l status CDATA #IMPLIED >
 
 <!ELEMENT lg ( l, stem* ) >
 
 <!ELEMENT mg ( tg ) >
-
+<!ATTLIST mg rest CDATA #IMPLIED >
 
 <!ELEMENT syn ( #PCDATA ) >
 
@@ -46,11 +58,14 @@
 <!ATTLIST t comment CDATA #IMPLIED >
 <!ATTLIST t gen ( f | m | n ) #IMPLIED >
 <!ATTLIST t nr ( Pl ) #IMPLIED >
-<!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj | 
-                  N | Num | Po | Pr | Pron | V | X 
+<!ATTLIST t pos ( A | Abbr | Adv | CC | CS | Clt | Cp | Det | Interj | 
+                  N | Num | Pcle | Po | Pr | Pron | V | X 
 ) #REQUIRED >
 <!ATTLIST t t_type NMTOKEN #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
+<!ATTLIST t tt_auto CDATA #IMPLIED >
+<!ATTLIST t re CDATA #IMPLIED >
+<!ATTLIST t rest CDATA #IMPLIED >
 
 <!ELEMENT tg ( syng | t | xg )* >
 <!ATTLIST tg comment CDATA #IMPLIED >
