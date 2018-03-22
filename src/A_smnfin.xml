@@ -8932,6 +8932,11 @@ For the full license text, see the link above.
             <t pos="A">merkittävä</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">huomionarvoinen</t>
+         </tg>
+      </mg>
    </e>
    <e id="A_844">
       <lg>
@@ -9605,6 +9610,7 @@ For the full license text, see the link above.
       <mg rest="# määššilis -âs mäšilis -âs">
          <tg xml:lang="fin">
             <t pos="A">malttavainen</t>
+			<t pos="N">maltillinen</t>
          </tg>
       </mg>
    </e>
@@ -9884,6 +9890,7 @@ For the full license text, see the link above.
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">maistuva</t>
+			<t pos="N">hyvänmakuinen</t>
          </tg>
       </mg>
    </e>
@@ -10012,6 +10019,7 @@ For the full license text, see the link above.
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">nulkkaavainen (porosta)</t>
+			<t pos="N">hyvä nulkkaamaan</t>
          </tg>
       </mg>
    </e>
@@ -10456,6 +10464,12 @@ For the full license text, see the link above.
             <t pos="A">huonotapainen</t>
          </tg>
       </mg>
+      <mg rest="# nälittes">
+         <tg xml:lang="fin">
+            <t pos="A">epämiellyttävä</t>
+            <t pos="A">epämukava</t>
+         </tg>
+      </mg>
    </e>
    <e id="A_1005">
       <lg>
@@ -10623,6 +10637,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">ehta</t>
+			<t pos="A">kunnon</t>
          </tg>
       </mg>
       <mg rest="">
@@ -19817,6 +19832,11 @@ For the full license text, see the link above.
             <t pos="A">merkittävä</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">huomionarvoinen</t>
+         </tg>
+      </mg>
    </e>
    <e id="A_1954">
       <lg>
@@ -19894,6 +19914,17 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">kastunut</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">märkänä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">raakana (kalasta, lihasta)</t>
+            <t pos="N">raakaa (kalasta, lihasta)</t>
          </tg>
       </mg>
    </e>
