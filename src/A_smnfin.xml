@@ -4717,6 +4717,11 @@ For the full license text, see the link above.
             <t pos="A">innokas</t>
          </tg>
       </mg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="A">hyväkuntoinen (ihmisestä)</t>
+         </tg>
+      </mg>
    </e>
    <e id="A_428">
       <lg>
@@ -5393,6 +5398,11 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">paljon jtak juova</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">juomari</t>
          </tg>
       </mg>
    </e>
@@ -8703,6 +8713,11 @@ For the full license text, see the link above.
             <t pos="A">pakoileva (tav. porosta)</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">menentelijä (tav. porosta)</t>
+         </tg>
+      </mg>
    </e>
    <e id="A_821">
       <lg>
@@ -8718,6 +8733,11 @@ For the full license text, see the link above.
             <t pos="A">pakoileva (tav. porosta)</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">menentelijä (tav. porosta)</t>
+         </tg>
+      </mg>
    </e>
    <e id="A_822">
       <lg>
@@ -8731,6 +8751,11 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">pakoileva (tav. porosta)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">menentelijä (tav. porosta)</t>
          </tg>
       </mg>
    </e>
