@@ -9298,4 +9298,135 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_1080">
+      <lg>
+         <l pos="Adv" status="_unknown_N">čuámist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kohmeessa (käsistä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1374">
+      <lg>
+         <l pos="Adv" status="_unknown_N">čuuvtijsiähá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">liian paljon</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1956">
+      <lg>
+         <l pos="Adv" status="_unknown_N">háccud</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">haarallaan jaloista</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2504">
+      <lg>
+         <l pos="Adv" status="_unknown_N">iänáá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">suurin osa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4204">
+      <lg>
+         <l pos="Adv" status="_unknown_N">kuásán</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vieraisille</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4241">
+      <lg>
+         <l pos="Adv" status="_unknown_N">kuávhild</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">raollaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4257">
+      <lg>
+         <l pos="Adv" status="_unknown_N">kuávsuikeejist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aamun valjetessa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4260">
+      <lg>
+         <l pos="Adv" status="_unknown_N">kuávttáá</l>
+      </lg>
+      <mg rest=" koskân">
+         <tg xml:lang="fin">
+            <t pos="Adv">kahden</t>
+            <t pos="Adv">kahden kesken</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4590">
+      <lg>
+         <l pos="Adv" status="_unknown_N">kyehtin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">molemmat yhdessä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4615">
+      <lg>
+         <l pos="Adv" status="_unknown_N">kyesist</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vieraisilla</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4911">
+      <lg>
+         <l pos="Adv" status="_unknown_N">lasâmield</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ikkunasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5134">
+      <lg>
+         <l pos="Adv" status="_unknown_N">liäbbud</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">levällään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5204">
+      <lg>
+         <l pos="Adv" status="_unknown_N">loopâst</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">lopuksi</t>
+         </tg>
+      </mg>
+   </e>
 </r>

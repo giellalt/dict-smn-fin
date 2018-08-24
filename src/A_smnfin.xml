@@ -22163,4 +22163,404 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_1007">
+      <lg>
+         <l pos="A" status="_unknown_N">čoođâvaaibâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">umpiväsynyt</t>
+            <t pos="A">rättiväsynyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1709">
+      <lg>
+         <l pos="A" status="_unknown_N">eresláván</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">erilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1710">
+      <lg>
+         <l pos="A" status="_unknown_N">eresmuáđusâš</l>
+      </lg>
+      <mg rest="-muá'đusii">
+         <tg xml:lang="fin">
+            <t pos="A">erilainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1772">
+      <lg>
+         <l pos="A" status="_unknown_N">faaninláván</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">pahuksenmoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_1987">
+      <lg>
+         <l pos="A" status="_unknown_N">haldâttâhriävtálâš</l>
+      </lg>
+      <mg rest="-riä'vtálii">
+         <tg xml:lang="fin">
+            <t pos="A">hallinto-oikeudellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2247">
+      <lg>
+         <l pos="A" status="_unknown_N">humusnallii</l>
+      </lg>
+      <mg rest="# -nalliis">
+         <tg xml:lang="fin">
+            <t pos="A">humuspitoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2270">
+      <lg>
+         <l pos="A" status="_unknown_N">hyenesluholâš</l>
+      </lg>
+      <mg rest="-luholii">
+         <tg xml:lang="fin">
+            <t pos="A">huono-onninen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2390">
+      <lg>
+         <l pos="A" status="_unknown_N">ij-tuáivuttettee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">ei-toivottu</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2513">
+      <lg>
+         <l pos="A" status="_unknown_N">iärgáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="A">ihminen, joka omistaa paljon härkiä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2973">
+      <lg>
+         <l pos="A" status="_unknown_N">jyevdil</l>
+      </lg>
+      <mg rest="# -is">
+         <tg xml:lang="fin">
+            <t pos="A">jolla on aikaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2974">
+      <lg>
+         <l pos="A" status="_unknown_N">jyevdilâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">joutilas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_2978">
+      <lg>
+         <l pos="A" status="_unknown_N">jämimettum</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">kuolematon</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3083">
+      <lg>
+         <l pos="A" status="_unknown_N">kaggâd</l>
+      </lg>
+      <mg rest="# -is">
+         <tg xml:lang="fin">
+            <t pos="A">kankea</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3208">
+      <lg>
+         <l pos="A" status="_unknown_N">karguu</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="A">kallioinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3213">
+      <lg>
+         <l pos="A" status="_unknown_N">karolâs</l>
+      </lg>
+      <mg rest="karolii">
+         <tg xml:lang="fin">
+            <t pos="A">kiroilija (kova kiroilemaan)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3261">
+      <lg>
+         <l pos="A" status="_unknown_N">kavkker</l>
+      </lg>
+      <mg rest="# -is">
+         <tg xml:lang="fin">
+            <t pos="A">kiikkerä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3320">
+      <lg>
+         <l pos="A" status="_unknown_N">keessil</l>
+      </lg>
+      <mg rest="# -is">
+         <tg xml:lang="fin">
+            <t pos="A">tilava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3670">
+      <lg>
+         <l pos="A" status="_unknown_N">kirjáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="A">kirjava</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3736">
+      <lg>
+         <l pos="A" status="_unknown_N">kivkker</l>
+      </lg>
+      <mg rest="# -is -âs">
+         <tg xml:lang="fin">
+            <t pos="A">jyrkkä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3745">
+      <lg>
+         <l pos="A" status="_unknown_N">kiäđgáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="A">kivinen</t>
+            <t pos="A">kivikkonen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3796">
+      <lg>
+         <l pos="A" status="_unknown_N">kiärgus</l>
+      </lg>
+      <mg rest="kiär'gus">
+         <tg xml:lang="fin">
+            <t pos="A">valmis tekemään jtak</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_3959">
+      <lg>
+         <l pos="A" status="_unknown_N">koodâs</l>
+      </lg>
+      <mg rest="koddâs">
+         <tg xml:lang="fin">
+            <t pos="A">jäykkä (nahasta)</t>
+            <t pos="A">taipumaton (nahasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4013">
+      <lg>
+         <l pos="A" status="_unknown_N">korrâd</l>
+      </lg>
+      <mg rest="# koRis">
+         <tg xml:lang="fin">
+            <t pos="A">korea</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4027">
+      <lg>
+         <l pos="A" status="_unknown_N">koržáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="A">koski, jossa on useampia vesiputouksia</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4034">
+      <lg>
+         <l pos="Adv" status="_unknown_N">koskâl</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">välistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4175">
+      <lg>
+         <l pos="Adv" status="_unknown_N">kuámmirtievâ</l>
+      </lg>
+      <mg rest="-tievâ">
+         <tg xml:lang="fin">
+            <t pos="Adv">kourallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4198">
+      <lg>
+         <l pos="A" status="_unknown_N">kuárus</l>
+      </lg>
+      <mg rest="kuárrus">
+         <tg xml:lang="fin">
+            <t pos="A">tyhjä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4317">
+      <lg>
+         <l pos="A" status="_unknown_N">kulhijdum</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">vanhuudenhöperö</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4320">
+      <lg>
+         <l pos="A" status="_unknown_N">kulliš</l>
+      </lg>
+      <mg rest="# kuLisâš">
+         <tg xml:lang="fin">
+            <t pos="A">hyväkuuloinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4394">
+      <lg>
+         <l pos="A" status="_unknown_N">kuocâ</l>
+      </lg>
+      <mg rest="# kuo'câ">
+         <tg xml:lang="fin">
+            <t pos="A">mätä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4545">
+      <lg>
+         <l pos="A" status="_unknown_N">kuulmânummeersâš</l>
+      </lg>
+      <mg rest="-nummeersii">
+         <tg xml:lang="fin">
+            <t pos="A">kolminumeroinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4549">
+      <lg>
+         <l pos="A" status="_unknown_N">kuulmâuulâtlâš</l>
+      </lg>
+      <mg rest="-uulâtlii">
+         <tg xml:lang="fin">
+            <t pos="A">kolmiulotteinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4581">
+      <lg>
+         <l pos="A" status="_unknown_N">kyeddil</l>
+      </lg>
+      <mg rest="# -is -âs">
+         <tg xml:lang="fin">
+            <t pos="A">kantava (esim. äänestä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4650">
+      <lg>
+         <l pos="A" status="_unknown_N">käldejum</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">kuohilas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4797">
+      <lg>
+         <l pos="A" status="_unknown_N">lahâaasâtlâš</l>
+      </lg>
+      <mg rest="-aasâtlii">
+         <tg xml:lang="fin">
+            <t pos="A">lakisääteinen</t>
+            <t pos="A">lakimääräinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4819">
+      <lg>
+         <l pos="A" status="_unknown_N">lahâmiäldusâš</l>
+      </lg>
+      <mg rest="-miäldusii">
+         <tg xml:lang="fin">
+            <t pos="A">lainmukainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4950">
+      <lg>
+         <l pos="A" status="_unknown_N">latkiš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">tehokas</t>
+            <t pos="A">tepsivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5090">
+      <lg>
+         <l pos="A" status="_unknown_N">likkuš</l>
+      </lg>
+      <mg rest="# -is -âs">
+         <tg xml:lang="fin">
+            <t pos="A">ontuva</t>
+         </tg>
+      </mg>
+      <mg rest="# -is -âs">
+         <tg xml:lang="fin">
+            <t pos="A">rampa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5199">
+      <lg>
+         <l pos="A" status="_unknown_N">lonnjeed</l>
+      </lg>
+      <mg rest="# lonjedis">
+         <tg xml:lang="fin">
+            <t pos="A">hyvin istuva (vaatteesta, jossa kauniit laskokset)</t>
+         </tg>
+      </mg>
+   </e>
 </r>
