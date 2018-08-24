@@ -13456,7 +13456,11 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">jakaa</t>
-            <t pos="V">jaksottaa</t>
+	    <t pos="V">jaksottaa</t>
+	    <xg>
+	      <x>jyehiđ juávhoid</x>
+	      <xt>ryhmitellä</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -40471,16 +40475,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="V_3711">
-      <lg>
-         <l pos="N">räđđejeijee jiešvuotâ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">vallitseva ominaisuus</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_3712">
       <lg>
          <l pl3="räđideh" sg1="räđidâm" sg3="rääđđid" pos="V">räđidiđ</l>
@@ -53828,16 +53822,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="V_4930">
-      <lg>
-         <l pos="V">vaaibâs leđe</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">väsyttää (tuntea väsymystä)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_4932">
       <lg>
          <l pl3="väänih" sg1="vaanâm" sg3="vááná" pos="V">vaannâđ</l>
@@ -58819,16 +58803,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_12648">
-      <lg>
-         <l pos="N">viskâdâs</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">keltuainen (munan)</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_12771">
       <lg>
          <l pl3="vuáđudeh" sg1="vuáđudâm" sg3="vuáđđud" pos="V">vuáđudiđ</l>
@@ -58856,16 +58830,6 @@ For the full license text, see the link above.
       <mg rest="piiŋiid">
          <tg xml:lang="fin">
             <t pos="V">pihistä (huonosti palavasta tulesta)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_2823">
-      <lg>
-         <l pos="V" status="_unknown_N">jyehiđ juávhoid</l>
-      </lg>
-      <mg rest="jyeHiđ">
-         <tg xml:lang="fin">
-            <t pos="V">ryhmitellä</t>
          </tg>
       </mg>
    </e>
