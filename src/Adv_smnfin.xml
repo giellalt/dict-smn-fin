@@ -561,6 +561,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">seitsemästi</t>
+			<t pos="Adv">seitsemän kertaa</t>
          </tg>
       </mg>
    </e>
@@ -1744,6 +1745,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kahdeksasti</t>
+			<t pos="Adv">kahdeksan kertaa</t>
          </tg>
       </mg>
    </e>
@@ -2378,6 +2380,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kolmesti</t>
+			<t pos="Adv">kolmes kertaa</t>
          </tg>
       </mg>
    </e>
@@ -2643,6 +2646,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kymmenesti</t>
+			<t pos="Adv">kymmenen kertaa</t>
          </tg>
       </mg>
    </e>
@@ -3296,6 +3300,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">yhdeksästi</t>
+			<t pos="Adv">yhdeksän kertaa</t>
          </tg>
       </mg>
    </e>
@@ -5936,6 +5941,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">viidesti</t>
+			<t pos="Adv">viisi kertaa</t>
          </tg>
       </mg>
    </e>

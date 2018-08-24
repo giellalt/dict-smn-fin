@@ -47180,6 +47180,7 @@ For the full license text, see the link above.
       <mg rest="kuttâs">
          <tg xml:lang="fin">
             <t pos="N">kuusi ihmistä</t>
+			<t pos="N">kuuden joukko</t>
          </tg>
       </mg>
    </e>
@@ -48186,6 +48187,7 @@ For the full license text, see the link above.
       <mg rest="kuáh'tá kuáh'tás">
          <tg xml:lang="fin">
             <t pos="N">parisko</t>
+			<t pos="N">kaksi ihmistä</t>
          </tg>
       </mg>
    </e>
@@ -54603,6 +54605,7 @@ For the full license text, see the link above.
       <mg rest="lovváá">
          <tg xml:lang="fin">
             <t pos="N">kymppi (numero)</t>
+			<t pos="N">kymmenen (numero)</t>
          </tg>
       </mg>
    </e>
