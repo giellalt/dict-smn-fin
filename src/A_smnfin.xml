@@ -22563,4 +22563,141 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_5283">
+      <lg>
+         <l pos="A" status="_unknown_N">luándumuáđusâš</l>
+      </lg>
+      <mg rest="-muá'đusii">
+         <tg xml:lang="fin">
+            <t pos="A">luonnonmukainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5323">
+      <lg>
+         <l pos="A" status="_unknown_N">lukkuš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">onnekas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5747">
+      <lg>
+         <l pos="A" status="_unknown_N">melgâdlágán</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">aikamoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5824">
+      <lg>
+         <l pos="A" status="_unknown_N">mieldičuávvoo</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">oheinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5932">
+      <lg>
+         <l pos="A" status="_unknown_N">miälgus</l>
+      </lg>
+      <mg rest="miäl'gus">
+         <tg xml:lang="fin">
+            <t pos="A">hidas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6141">
+      <lg>
+         <l pos="A" status="_unknown_N">murriš</l>
+      </lg>
+      <mg rest="# murrišâs">
+         <tg xml:lang="fin">
+            <t pos="A">aamuvirkku</t>
+         </tg>
+      </mg>
+      <mg rest="# murrišâs">
+         <tg xml:lang="fin">
+            <t pos="A">herkkäuninen</t>
+            <t pos="A">helposti heräävä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6305">
+      <lg>
+         <l pos="A" status="_unknown_N">neutraal</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">neutraali</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6324">
+      <lg>
+         <l pos="A" status="_unknown_N">nievdâlâs</l>
+      </lg>
+      <mg rest="nie'vdâlii">
+         <tg xml:lang="fin">
+            <t pos="A">uneksija</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6383">
+      <lg>
+         <l pos="A" status="_unknown_N">njábbáá</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="A">lauha (säästä talvella)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6459">
+      <lg>
+         <l pos="A" status="_unknown_N">njoles</l>
+      </lg>
+      <mg rest="njolláás">
+         <tg xml:lang="fin">
+            <t pos="A">suussasulava (vars. rasvaisesta ruuasta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6513">
+      <lg>
+         <l pos="A" status="_unknown_N">njulččel</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">niljakas</t>
+            <t pos="A">niljakkaanliukas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6647">
+      <lg>
+         <l pos="A" status="_unknown_N">nubálovihásâš</l>
+      </lg>
+      <mg rest="-ihásii">
+         <tg xml:lang="fin">
+            <t pos="A">teini-ikäinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6682">
+      <lg>
+         <l pos="A" status="_unknown_N">nuorttârijkkâlâš</l>
+      </lg>
+      <mg rest="-rijkkâlii">
+         <tg xml:lang="fin">
+            <t pos="A">itävaltalainen</t>
+         </tg>
+      </mg>
+   </e>
 </r>
