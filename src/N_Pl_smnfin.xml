@@ -1830,8 +1830,9 @@ For the full license text, see the link above.
             pos="N">meesuh</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t nr="Pl" pos="N" re="kaupallinen">messut</t>
+        <tg xml:lang="fin">
+	  <re>kaupallinen</re>
+            <t nr="Pl" pos="N">messut</t>
          </tg>
       </mg>
    </e>
@@ -2151,8 +2152,9 @@ For the full license text, see the link above.
             pos="N">njunesoksâmeh</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t nr="Pl" pos="N" re="eläimellä">viikset</t>
+        <tg xml:lang="fin">
+	  <re>eläimellä</re>
+            <t nr="Pl" pos="N">viikset</t>
          </tg>
       </mg>
    </e>
@@ -2222,8 +2224,9 @@ For the full license text, see the link above.
             pos="N">njävileh</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t nr="Pl" pos="N" re="ihmisellä">viikset</t>
+        <tg xml:lang="fin">
+	  <re>ihmisellä</re>
+            <t nr="Pl" pos="N">viikset</t>
          </tg>
       </mg>
    </e>
@@ -2236,8 +2239,9 @@ For the full license text, see the link above.
             pos="N">njäävih</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t nr="Pl" pos="N" re="urosporolla">leuanaluskarvat</t>
+        <tg xml:lang="fin">
+	  <re>urosporolla</re>
+            <t nr="Pl" pos="N">leuanaluskarvat</t>
          </tg>
       </mg>
    </e>
@@ -2321,9 +2325,10 @@ For the full license text, see the link above.
             pos="N">ovttiih</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" re="matem.">ykköset</t>
-            <t pos="N" re="matem.">yhdet</t>
+        <tg xml:lang="fin">
+	  <re>matem.</re>
+            <t pos="N">ykköset</t>
+            <t pos="N">yhdet</t>
          </tg>
       </mg>
    </e>
@@ -4334,8 +4339,9 @@ For the full license text, see the link above.
             pos="N">taldrikeh</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t nr="Pl" pos="N" re="mus.">lautaset</t>
+        <tg xml:lang="fin">
+	  <re>mus.</re>
+            <t nr="Pl" pos="N">lautaset</t>
          </tg>
       </mg>
    </e>

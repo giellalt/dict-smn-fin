@@ -79,9 +79,10 @@ For the full license text, see the link above.
          <l pos="Interj">cuártti</l>
       </lg>
       <mg rest="cuárti">
-         <tg xml:lang="fin">
-            <t pos="Interj">paholainen (kirosana, harv.)</t>
-            <t pos="Interj">piru (kirosana, harv.)</t>
+        <tg xml:lang="fin">
+	  <re>harvinainen</re>
+            <t pos="Interj">paholainen</t>
+            <t pos="Interj">piru</t>
          </tg>
       </mg>
    </e>
@@ -91,7 +92,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Interj">piru (kirosana)</t>
+            <t pos="Interj">piru</t>
          </tg>
       </mg>
    </e>
@@ -101,7 +102,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Interj">helvetti (kirosana)</t>
+            <t pos="Interj">helvetti</t>
          </tg>
       </mg>
    </e>
@@ -111,7 +112,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">voi (interjektio)</t>
+            <t pos="V">voi</t>
          </tg>
       </mg>
    </e>
@@ -130,8 +131,8 @@ For the full license text, see the link above.
          <l pos="Interj">hevvât</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj">hemmetti (lievä kirosana)</t>
+        <tg xml:lang="fin">
+            <t pos="Interj">hemmetti</t>
          </tg>
       </mg>
    </e>
@@ -141,7 +142,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Interj">hemmetti (lievä kirosana)</t>
+	  <re>lievä kirosana</re>
+            <t pos="Interj">hemmetti</t>
          </tg>
       </mg>
    </e>
@@ -151,7 +153,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Interj">hemmetti (lievä kirosana)</t>
+	  <re>lievä kirosana</re>
+            <t pos="Interj">hemmetti</t>
          </tg>
       </mg>
    </e>
@@ -192,8 +195,9 @@ For the full license text, see the link above.
          <l pos="Interj">joo-o</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj">joo (myöntävässä vastauksessa)</t>
+        <tg xml:lang="fin">
+	  <re>myöntävässä vastauksessa</re>
+            <t pos="Interj">joo</t>
          </tg>
       </mg>
    </e>
@@ -222,8 +226,9 @@ For the full license text, see the link above.
          <l pos="Interj">kuš</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj">hus (poroille)</t>
+        <tg xml:lang="fin">
+	  <re>poroille</re>
+            <t pos="Interj">hus</t>
          </tg>
       </mg>
    </e>
@@ -242,8 +247,9 @@ For the full license text, see the link above.
          <l pos="Interj">miessârokke</l>
       </lg>
       <mg rest="-rohe">
-         <tg xml:lang="fin">
-            <t pos="Interj">saakutti (kirosana)</t>
+        <tg xml:lang="fin">
+	  <re>kirosana</re>
+            <t pos="Interj">saakutti</t>
          </tg>
       </mg>
    </e>
@@ -262,8 +268,9 @@ For the full license text, see the link above.
          <l pos="Interj">motjanan</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj">jukolauta (lievä kirosana)</t>
+        <tg xml:lang="fin">
+	  <re>lievä kirosana</re>
+            <t pos="Interj">jukolauta</t>
          </tg>
       </mg>
    </e>
@@ -334,8 +341,9 @@ For the full license text, see the link above.
          <l pos="Interj">peŋgâluh</l>
       </lg>
       <mg rest="peŋgâluv">
-         <tg xml:lang="fin">
-            <t pos="Interj">perskele (lievä voimasana)</t>
+        <tg xml:lang="fin">
+	  <re>lievä voimasana</re>
+            <t pos="Interj">perskele</t>
          </tg>
       </mg>
    </e>
@@ -344,8 +352,9 @@ For the full license text, see the link above.
          <l pos="Interj">peŋgiluh</l>
       </lg>
       <mg rest="peŋgiluv">
-         <tg xml:lang="fin">
-            <t pos="Interj">pentele (lievä voimasana)</t>
+        <tg xml:lang="fin">
+	  <re>lievä voimasana</re>
+            <t pos="Interj">pentele</t>
          </tg>
       </mg>
    </e>
@@ -354,8 +363,9 @@ For the full license text, see the link above.
          <l pos="Interj">puállunjune</l>
       </lg>
       <mg rest="-njune">
-         <tg xml:lang="fin">
-            <t pos="Interj">hiivatti (lievä kirosana)</t>
+        <tg xml:lang="fin">
+	  <re>lievä</re>
+            <t pos="Interj">hiivatti</t>
          </tg>
       </mg>
       <mg rest="-njune">
@@ -369,8 +379,9 @@ For the full license text, see the link above.
          <l pos="Interj">puurist</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj">terve (käteltäessä)</t>
+        <tg xml:lang="fin">
+	  <re>käteltäessä</re>
+            <t pos="Interj">terve</t>
          </tg>
       </mg>
    </e>
@@ -379,8 +390,9 @@ For the full license text, see the link above.
          <l pos="Interj">pyeŋes</l>
       </lg>
       <mg rest="puáŋŋás">
-         <tg xml:lang="fin">
-            <t pos="Interj">terve (puuaineksesta)</t>
+        <tg xml:lang="fin">
+	  <re>puuaineksesta</re>
+            <t pos="Interj">terve</t>
          </tg>
       </mg>
    </e>
@@ -453,7 +465,12 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">pahus</t>
-            <t pos="Interj" re="šyeijirokke">saatana</t>
+         </tg>
+      </mg>
+      <mg rest="">
+        <tg xml:lang="fin">
+	  <re>šyeijirokke</re>
+            <t pos="Interj">saatana</t>
          </tg>
       </mg>
    </e>
@@ -462,8 +479,9 @@ For the full license text, see the link above.
          <l pos="Interj">šyejirokke</l>
       </lg>
       <mg rest="-rohe">
-         <tg xml:lang="fin">
-            <t pos="Interj" re="kirosana">hitto</t>
+        <tg xml:lang="fin">
+	  <re>kirosana</re>
+            <t pos="Interj">hitto</t>
          </tg>
       </mg>
    </e>
@@ -482,8 +500,9 @@ For the full license text, see the link above.
          <l pos="Interj">tiegân</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj" re="ihmeteltäessä">ihanko totta</t>
+        <tg xml:lang="fin">
+	  <re>ihmeteltäessä</re>
+            <t pos="Interj">ihanko totta</t>
          </tg>
       </mg>
    </e>
@@ -492,9 +511,10 @@ For the full license text, see the link above.
          <l pos="Interj">tiervâ</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj" re="tervehdyksenä">hei</t>
-            <t pos="Interj" re="tervehdyksenä">terve</t>
+        <tg xml:lang="fin">
+	  <re>tervehdyksenä</re>
+            <t pos="Interj">hei</t>
+            <t pos="Interj">terve</t>
          </tg>
       </mg>
    </e>
@@ -519,11 +539,12 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Interj_46">
-      <lg>
-         <l pos="Interj" re="lievä kirosana">pinnâhâš</l>
+     <lg>
+         <l pos="Interj">pinnâhâš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
+       <re>lievä kirosana</re>
             <t pos="Interj">vietävä</t>
          </tg>
       </mg>
@@ -539,31 +560,34 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="Interj_48">
-      <lg>
-         <l pos="Interj" re="lievä voimasana">váiván</l>
+     <lg>
+         <l pos="Interj">váiván</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
+       <re>lievä voimasana</re>
             <t pos="Interj">vaivattu</t>
          </tg>
       </mg>
    </e>
    <e id="A_1557">
-      <lg>
-         <l pos="Interj" re="myöntävä vastaus">tekkâs</l>
+     <lg>
+         <l pos="Interj">tekkâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
+       <re>myöntävä vastaus</re>
             <t pos="Interj">totta</t>
          </tg>
       </mg>
    </e>
    <e id="A_1558">
-      <lg>
-         <l pos="Interj" re="myöntävä vastaus">tekkis</l>
+     <lg>
+         <l pos="Interj">tekkis</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
+       <re>myöntävä vastaus</re>
             <t pos="Interj">totta</t>
          </tg>
       </mg>
@@ -593,8 +617,9 @@ For the full license text, see the link above.
          <l pos="Interj">to</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj" re="painottava lisäsana">ikään</t>
+        <tg xml:lang="fin">
+	  <re>painottava lisäsana</re>
+            <t pos="Interj">ikään</t>
          </tg>
       </mg>
    </e>

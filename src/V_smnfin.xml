@@ -314,8 +314,9 @@ For the full license text, see the link above.
          <l pl3="áiđuh" sg1="ááiđum" sg3="áiđu" pos="V">áiđuđ</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V" re="urh.">aitoa</t>
+        <tg xml:lang="fin">
+	  <re>urh.</re>
+            <t pos="V">aitoa</t>
          </tg>
       </mg>
       <mg rest="">
@@ -329,8 +330,9 @@ For the full license text, see the link above.
          <l pl3="áigádeh" sg1="áigádâm" sg3="ááigád" pos="V">áigádiđ</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">ajastaa (esim. digiboksia)</t>
+        <tg xml:lang="fin">
+	  <re>esim. digiboksia</re>
+            <t pos="V">ajastaa</t>
          </tg>
       </mg>
    </e>

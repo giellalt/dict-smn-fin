@@ -234,8 +234,9 @@ For the full license text, see the link above.
          <l g_stem="Sg" pos="N" sg_gen="aijuu" sg_ill="aijui">aajâ</l>
       </lg>
       <mg rest="aijuu">
-         <tg re="ei kirjall." xml:lang="fin">
-            <t pos="N">lähde</t>
+         <tg xml:lang="fin">
+<re>ei kirjall.</re>
+           <t pos="N">lähde</t>
          </tg>
       </mg>
       <mg rest="aijuu">
@@ -18035,8 +18036,9 @@ For the full license text, see the link above.
             sg_ill="epimiärulâšvuotân">epimiärulâšvuotâ</l>
       </lg>
       <mg rest="-vuođâ">
-         <tg xml:lang="fin">
-            <t pos="N" re="kielitiet.">epämääräisyys</t>
+        <tg xml:lang="fin">
+	  <re>kielitiet.</re>
+            <t pos="N">epämääräisyys</t>
          </tg>
       </mg>
    </e>
@@ -27235,8 +27237,9 @@ For the full license text, see the link above.
          <l g_stem="Sg" pos="N" sg_gen="jeesmi" sg_ill="jiäsmán">jesmi</l>
       </lg>
       <mg rest="jeesmi">
-         <tg xml:lang="fin">
-            <t pos="N" re="puolivuotiaaksi asti">laulujoutsen</t>
+        <tg xml:lang="fin">
+	  <re>puolivuotiaaksi asti</re>
+            <t pos="N">laulujoutsen</t>
          </tg>
       </mg>
    </e>
@@ -67569,8 +67572,9 @@ For the full license text, see the link above.
          <l g_stem="Sg" pos="N" sg_gen="njuohčâm" sg_ill="njuohčâmân">njuovčâ</l>
       </lg>
       <mg rest="njuoh'čâm">
-         <tg xml:lang="fin">
-            <t pos="N" re="anat.">kieli</t>
+        <tg xml:lang="fin">
+	  <re>anat.</re>
+            <t pos="N">kieli</t>
          </tg>
       </mg>
    </e>
@@ -78337,8 +78341,9 @@ For the full license text, see the link above.
          <l g_stem="Sg" pos="N" sg_gen="piano" sg_ill="pianon">piano</l>
       </lg>
       <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N" re="soitin">piano</t>
+        <tg xml:lang="fin">
+	  <re>soitin</re>
+            <t pos="N">piano</t>
          </tg>
       </mg>
    </e>
@@ -137531,7 +137536,12 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">seiväs</t>
-            <t pos="N" re="esine">riuku</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <re>esine</re>
+            <t pos="N">riuku</t>
          </tg>
       </mg>
    </e>
