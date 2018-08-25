@@ -40536,6 +40536,13 @@ For the full license text, see the link above.
             <t pos="V">laatia</t>
             <t pos="V">rakentaa</t>
             <t pos="V">tehdä</t>
+            <xg>
+         <x>rähtiđ skiäru</x>
+            <xt>levyttää</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
          </tg>
       </mg>
    </e>
@@ -58860,6 +58867,16 @@ For the full license text, see the link above.
       <mg rest="kuálhám">
          <tg xml:lang="fin">
             <t pos="V">kolista (erit. metallista)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_10005">
+      <lg>
+         <l pos="V" status="_unknown_N">šlettiđ</l>
+      </lg>
+      <mg rest="šliät'tá šleetij">
+         <tg xml:lang="fin">
+            <t pos="V">sataa räntää</t>
          </tg>
       </mg>
    </e>

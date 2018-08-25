@@ -578,4 +578,24 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_10951">
+      <lg>
+         <l pos="Interj" status="_unknown_N">takkâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">kiitos</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11293">
+      <lg>
+         <l pos="Interj" status="_unknown_N">to</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj" re="painottava lisäsana">ikään</t>
+         </tg>
+      </mg>
+   </e>
 </r>

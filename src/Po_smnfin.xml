@@ -1033,4 +1033,24 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_7488">
+      <lg>
+         <l pos="Po" status="_unknown_N">pele</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">puolella</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_7489">
+      <lg>
+         <l pos="Po" status="_unknown_N">pelemat</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">noin puolet</t>
+         </tg>
+      </mg>
+   </e>
 </r>
