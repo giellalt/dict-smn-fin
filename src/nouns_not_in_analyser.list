@@ -1,123 +1,14 @@
-peljipel:pelji#pel^RCi3 2KYELI ;       ! pistohanka_(korvamerkissä) ! kuálussääni koskâuási?
-uk-irâttâs:uk-irâttâss 4KUNAGAS ;       ! pk-yritys
-siäháviärdág:siähá#viärdág 3EEMEED ;       ! sekovartinen
-suvâlâšlasânem:suvâlâš#lasân 3KEPIDEM ;       ! suvullinen_lisääntyminen
-luáidupeegâr:luáidu#pe^RVggâr 3VEESKIR ;       ! permantopalkki
-toldemes:toldemes x ;       ! pidättelijä_toldiäkká
-mandeves:mandeves x ;       ! menentelijä_(tav._porosta)™mandeves_mandiäkká
-meeris:meeris x ;       ! kirveskalsu_(huono,_tylsä_kirves)
-mieris:mieris x ;       ! kirveskalsu_(huono,_tylsä_kirves)
-meerris:meerris x ;       ! kirveskalsu_(huono,_tylsä_kirves)
-iäpádus:iäpáduss 4KUNAGAS ;       ! epäilys
-kuolbâmiälkus:kuolbâmiälkus x ;       ! kangasmaitikka_miälhus_exists
-etimus:etimus 3LITTER ;       ! juolukka
-tetanus:tetanus 3LITTER ;       ! jäykkäkouristus
-luáváttus:luáváttuss 4KUNAGAS "" ;      ! tohveli™luáváttus
-ráŋgáštâsááiđus:ráŋgáštâs#á^RVi4đus 3VEESKIR ;  ;       ! jäähyaitio
-káđus:kátt4us 3VEESKIR ;       ! katos™káđus
-koskâtienás:koskâ#tiennás 3RUONAS ;       ! keskitulo
-ááŋáás:ááŋáás x ;       ! polvijänne_(poron_etujalassa_polven_etupuolella)™ááŋáás_ááŋás_exists
-vuolttâs:vuolttâs 3PIIVTAS ;       ! lastu_(erit._vuoltu)
-pelemat:pelemat x ;       ! noin_puolet
-njyeribit:njyeribit x ;       ! tuulenpyörre
-sáákkást:sáákkást x ;       ! sakasti
-ruávvást:ruávvást 3EEMEED ;       ! rovasti_ruávást_exists
-tuámuruávvást:tuámu#ruávvást 3EEMEED ;       ! tuomiorovasti_ruávást_exists
-kááccât:kááccât 3POTTAAK ;       ! ristiluu_(selässä_porolla)
-späilihât:späilihât nounstems ;       ! pailakan_talja
-topsáhât:topsáhât nounstems ;       ! höperö_(tökerökäytöksinen)
-suormâhât:suormâhât nounstems  ;       ! sormikas™suormâhât
-pelisuormâhât:peli#suormâhât nounstems "" ;      ! kynsikäs_(käsine)
-ráđkká:rá^RVđkk4á 2VUAGGU ;       ! kataja™ráđkká
-rátká:rá^RVđk4á 2VUAGGU ;
-kuškâdiämááš:kuškâd#iämá S_VUALAAS ;       ! kuivattu_kala_
-lovvááš:lovvá S_CISSAAS ;       ! kymppi_(numero)™lovvááš
-urbiâš:urbiá 4C_RASTAGAS ;       ! urpiainen
-satiâš:satiá 4C_RASTAGAS ;       ! satiainen
-palvâluslinjâš:palvâlus#linjá 4C_RASTAGAS ;       ! palvelulinja
-umolâš:umol 4LAS_NOUN ;       ! vauva
-uáivirâš:uáivir 4LAS_NOUN ;       ! pääpuoli_(erit._sängyssä)
-iäpárâš:iäpár 4LAS_NOUN ;       ! äpärä_(lapsivainaja)
-faddârâš:faddâr 4LAS_NOUN ;       ! kummit_(yhtenä_kokonaisuutena)
-kozzâš:kozzâš x ;       ! kynnys
-koozzâš:koozzâš x ;       ! kyntynen
-kuovđâš:kuovđâš 3EEMEED ;       ! painanne_(pieni,_kostea,_ruohikkoinen)
-čäcikuávđâš:čäci#kuávđâš 3EEMEED ;       ! vesipäästäinen
-
-
-späilihât:späilihât nounstems ;       ! pailakan_talja
-topsáhât:topsáhât nounstems ;       ! höperö_(tökerökäytöksinen)
-suormâhât:suormâhât nounstems  ;       ! sormikas™suormâhât
-pelisuormâhât:peli#suormâhât nounstems "" ;      ! kynsikäs_(käsine)
-
-Below is an updated list of the nouns we are not able to analyse:
-
-halla deleted from dictionary, finnish word
-almostuskirje added to analyser
-piässdoh added piässdoh+Err/Ort:piäsád 4JOTOLAH "pesue, vitsas" ;
-ragetij deleted 
-raketij mwe raketij pääččim
-tuombel Adv
-vuoluubel Adv
-miäđáábel Adv
-nubepel better nubebel
-vuodâttim vuodâttim+Err/Ort:vuodâtt 3KEPIDEM "jalkapöytä" ; 
-uk-ujostâlâm ?
-to Interj
-toldemes added to analyser, but contlex is not right, probably
-teres works
-meeris added to analyser
-mieris added to analyser
-meerris added to analyser
-ollâgumos Adj. added to analyser
-kuolbâmiälkus right form is kuolbâmiälhus, deleted from dictionary
-tábáhtus works
-sudâhánnáás mwe sudâhánnáás tuálu
-ááŋáás added to analyser
-pelemat Po
-njyeribit added to analyser
-sáákkást added to analyser
-späilihât späilihât:späilihât nounstems "" ;
-topsáhât topsáhât:topsáhât nounstems "" ;
-suormâhât suormâhât:suormâhât nounstems "" ;
-pelisuormâhât pelisuormâhât:pelisuormâhât nounstems "" ;
-jáldu added to analyser
-márdu added to analyser
-lággu added to analyser
-tiäigu added to analyser
-hálgu added to analyser
-tiälgu added to analyser
-kuárgu added to analyser
-vuárgu added to analyser
-távgu works
-várju added to analyser
-hárkku added to analyser
-hiärkku added to analyser
-ruávkku added to analyser
-siäkku added to analyser
-puársku added to analyser
-hiärsku added to analyser
-njiäšku added to analyser
-kiijlu added to analyser
-stiällu added to analyser
-njiälu added to analyser
-miänu added to analyser
-muošnu added to analyser
-ááru added to analyser
-fááru added to analyser
-nisu added to analyser
-jonsahpeiviruvsu -ruusu is correct
-lástu added to analyser
-lettu deleted, finnish word
-spárttu added to analyser
-skuáttu added to analyser
-luoštu added to analyser
-luáiđu added to analyser
-kuálšu added to analyser
-uáržu added to analyser
-njuáržu added to analyser
-pajeluv Adv
-urbiâš deleted, urbijâš:urbiâšš 4KUNAGAS "urpiainen" ;
-satiâš correct is satijâš
-kozzâš deleted, word form
-koozzâš added to analyser
+hiärvástâllâmraakeet
+jieggilume
+koozzâš
+luoštu
+márdu
+pálhâšume
+piässdoh
+raketij
+čuárbbeeli
+sudâhánnáás
+uk-ujostâlâm
+vuodâttim
+timádâs
+vuárdámuš
