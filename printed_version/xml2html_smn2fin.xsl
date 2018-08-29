@@ -102,7 +102,11 @@
 	    </style>
           </head>
           <body>
-	    <xsl:for-each select="./r/e">
+	    <xsl:for-each select="$abc/l">
+	      <xsl:variable name="current_letter" select="."/>
+	      
+	      <xsl:for-each select="(, )">
+	      
 	      <div style="margin-left:1.1em;text-indent:-1.1em">
 		<span style="font-size: 12px">
 		  <b>
