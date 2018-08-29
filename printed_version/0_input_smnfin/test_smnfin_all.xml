@@ -20,6 +20,22 @@
          </tg>
       </mg>
    </e>
+   <e id="A_11">
+      <lg>
+         <l attr="áárvustoonnum" pos="A">áárvustoonnum</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">arvoisa</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">kunnianarvoisa</t>
+            <t pos="A">kunnioitettava</t>
+         </tg>
+      </mg>
+   </e>
    <e id="N_10005">
       <lg>
          <l pos="V">šlettiđ</l>
