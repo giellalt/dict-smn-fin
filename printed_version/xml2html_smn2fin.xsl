@@ -108,14 +108,16 @@
 	    <xsl:for-each select="$abc/l">
 	      
 	      <xsl:variable name="current_letter" select="."/>
-	      
-	      <div style="margin-left:1.1em;text-indent:-1.1em">
-		<span style="font-size: 20px">
-		  <b>
-		    <xsl:value-of select="concat(upper-case($current_letter), $nl)"/>
-		  </b>
-		</span>
-	      </div>
+	      <!-- suppres the printing of the letter if there is no entry starting with that letter in the dictionary -->
+	      <xsl:if test="count($current_doc/r/e[starts-with(lower-case(normalize-space(./lg/l)), $current_letter)]) &gt; 0">
+		<div style="margin-left:1.1em;text-indent:-1.1em">
+		  <span style="font-size: 20px">
+		    <b>
+		      <xsl:value-of select="concat(upper-case($current_letter), $nl)"/>
+		    </b>
+		  </span>
+		</div>
+	      </xsl:if>
 	      
 	      <!-- for each entry that begins with the curren letter -->
 	      <xsl:for-each select="$current_doc/r/e[starts-with(lower-case(normalize-space(./lg/l)), $current_letter)]">
