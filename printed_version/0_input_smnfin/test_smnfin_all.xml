@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+   <e id="N_10361">
+      <lg>
+         <l pos="N">stk</l>
+      </lg>
+      <mg rest="= stukkâ stuuhâ)">
+         <tg xml:lang="fin">
+            <t pos="N">kpl ( = kappale kappaletta)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11507">
+      <lg>
+         <l pos="Adv">tuárvás</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">tarpeeksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_9829">
+      <lg>
+         <l pos="A">siämmáámaanaag</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">samamunainen</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="A">astottem</l>
