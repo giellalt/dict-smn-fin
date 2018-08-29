@@ -72,7 +72,7 @@
   
   
   <xsl:template match="/" name="main">
-    
+    <!-- for each file in the inDir directory -->
     <xsl:for-each select="for $f in collection(concat($inDir,'?recurse=no;select=*.xml;on-error=warning')) return $f">
       
       <xsl:variable name="current_file" select="(tokenize(document-uri(.), '/'))[last()]"/>
@@ -89,6 +89,8 @@
       </xsl:if>
       <!--[]-->
       
+      <xsl:variable name="current_doc" select="."/>
+      
       <xsl:result-document href="{$outDir}/{$file_name}.{$of}" format="{$of}">
         <html>
           <head>
@@ -102,99 +104,140 @@
 	    </style>
           </head>
           <body>
-	    <xsl:for-each select="./r/e">
+	    <!-- for each letter defined in the $abc variable in the defined order -->
+	    <xsl:for-each select="$abc/l">
+	      
+	      <xsl:variable name="current_letter" select="."/>
+	      
 	      <div style="margin-left:1.1em;text-indent:-1.1em">
-		<span style="font-size: 12px">
+		<span style="font-size: 20px">
 		  <b>
-		    <xsl:value-of select="normalize-space(./lg/l)"/>
+		    <xsl:value-of select="concat(upper-case($current_letter), $nl)"/>
 		  </b>
 		</span>
-		
-		<!-- pos -->
-		<span style="font-size: 10px; vertical-align: super;">
-		  <i>
-		    <xsl:value-of select="normalize-space(./lg/l/@pos)"/> <!--concat nedanfor-->
-		  </i>
-		</span>
-		
-		<!-- boundary between left and right: one space -->
-		<xsl:value-of select="' '"/>
-		
-		<xsl:for-each select="./mg">
-		  <xsl:variable name="current_position" select="position()"/>
-		  <xsl:if test="count(../mg)&gt;1">
-		    <span style="font-size: 10px;">
-		      <b>
-			<xsl:value-of select="concat(' ', $current_position, '. ')"/> <!--concat nedanfor-->
-		      </b>
-		    </span>
-		  </xsl:if>
-		  <xsl:for-each select="./tg">
-		    
-		    <xsl:if test="./re and not(./re='')">
-		      <span style="font-size: 12px; font-type: italics">
-			<i>
-			  <xsl:value-of select="concat(' (', normalize-space(./re),')')"/>
-			</i>
-		      </span>
-		    </xsl:if>
-		    
-		    <!-- translation -->
-		    <span style="font-family: Century Schoolbook, arial, sans-serif; font-size: 12px">
-		      <b>
-			<xsl:for-each select="./t">
-			  <xsl:value-of select="concat(' ', normalize-space(.))"/>
-			  
-			  <!-- pos -->
-			  <span style="font-size: 10px;  vertical-align: super;">
-			    <i>
-			      <xsl:value-of select="concat('',normalize-space(./@pos),'')"/>
-			    </i>
-			  </span>
-			  
-			  <xsl:if test="not(position()=last())">
-			    <span style="font-size: 12px">
-			      <i>
-				<xsl:value-of select="', '"/>
-			      </i>
-			    </span>
-			  </xsl:if>
-			  
-			</xsl:for-each>
-		      </b>
-		    </span>
-		    
-		    
-		    
-		    <xsl:for-each select="./xg">
-		      <span style="font-size: 12px; color: gray">
-			<xsl:value-of select="' ♦ '"/>
-		      </span>
-		      <span style="font-size: 12px">
-			<xsl:value-of select="concat(normalize-space(./x), ' ')"/>
-			<i>
-			  <xsl:value-of select="normalize-space(./xt)"/>
-			</i>
-		      </span>
-		    </xsl:for-each>
-		    
-		  </xsl:for-each>
-		  <xsl:if test="not(position()=last())">
-		    <span style="font-size: 12px">
-		      <xsl:value-of select="'   '"/>
-		    </span>
-		  </xsl:if>
-		</xsl:for-each>
-		
-		<br/>
 	      </div>
-	      <br style="content: ' '; display: block; margin: 3px;"/>
+	      
+	      <!-- for each entry that begins with the curren letter -->
+	      <xsl:for-each select="$current_doc/r/e[starts-with(lower-case(normalize-space(./lg/l)), $current_letter)]">
+		<xsl:sort select="./lg/l"
+			  data-type="text"
+			  order="ascending"
+			  case-order="upper-first"/>
+		
+		<!--xsl:message terminate="no">
+		  <xsl:value-of select="concat('x: ', ./lg/l)"/>
+		</xsl:message-->
+		
+		
+		<!-- process current entry -->
+		<xsl:call-template name="processEntry">
+	          <xsl:with-param name="entry" select="."/>
+		</xsl:call-template>
+	      </xsl:for-each>
 	    </xsl:for-each>
 	    
 	  </body>
 	</html>
       </xsl:result-document>
     </xsl:for-each>
+    
+  </xsl:template>
+  
+  <!-- process entry -->
+  <xsl:template name="processEntry">
+    <xsl:param name="entry"/>
+    
+    <xsl:message terminate="no">
+      <xsl:value-of select="concat('e: ', $entry)"/>
+    </xsl:message>
+    
+    <div style="margin-left:1.1em;text-indent:-1.1em">
+      <span style="font-size: 12px">
+	<b>
+	  <xsl:value-of select="normalize-space($entry/lg/l)"/>
+	</b>
+      </span>
+      
+      <!-- pos -->
+      <span style="font-size: 10px; vertical-align: super;">
+	<i>
+	  <xsl:value-of select="normalize-space($entry/lg/l/@pos)"/> <!--concat nedanfor-->
+	</i>
+      </span>
+      
+      <!-- boundary between left and right: one space -->
+      <xsl:value-of select="' '"/>
+      
+      <xsl:for-each select="$entry/mg">
+	<xsl:variable name="current_position" select="position()"/>
+	<xsl:if test="count(../mg)&gt;1">
+	  <span style="font-size: 10px;">
+	    <b>
+	      <xsl:value-of select="concat(' ', $current_position, '. ')"/> <!--concat nedanfor-->
+	    </b>
+	  </span>
+	</xsl:if>
+	<xsl:for-each select="./tg">
+	  
+	  <xsl:if test="./re and not(./re='')">
+	    <span style="font-size: 12px; font-type: italics">
+	      <i>
+		<xsl:value-of select="concat(' (', normalize-space(./re),')')"/>
+	      </i>
+	    </span>
+	  </xsl:if>
+	  
+	  <!-- translation -->
+	  <span style="font-family: Century Schoolbook, arial, sans-serif; font-size: 12px">
+	    <b>
+	      <xsl:for-each select="./t">
+		<xsl:value-of select="concat(' ', normalize-space(.))"/>
+		
+		<!-- pos -->
+		<span style="font-size: 10px;  vertical-align: super;">
+		  <i>
+		    <xsl:value-of select="concat('',normalize-space(./@pos),'')"/>
+		  </i>
+		</span>
+		
+		<xsl:if test="not(position()=last())">
+		  <span style="font-size: 12px">
+		    <i>
+		      <xsl:value-of select="', '"/>
+		    </i>
+		  </span>
+		</xsl:if>
+		
+	      </xsl:for-each>
+	    </b>
+	  </span>
+	  
+	  
+	  
+	  <xsl:for-each select="./xg">
+	    <span style="font-size: 12px; color: gray">
+	      <xsl:value-of select="' ♦ '"/>
+	    </span>
+	    <span style="font-size: 12px">
+	      <xsl:value-of select="concat(normalize-space(./x), ' ')"/>
+	      <i>
+		<xsl:value-of select="normalize-space(./xt)"/>
+	      </i>
+	    </span>
+	  </xsl:for-each>
+	  
+	</xsl:for-each>
+	<xsl:if test="not(position()=last())">
+	  <span style="font-size: 12px">
+	    <xsl:value-of select="'   '"/>
+	  </span>
+	</xsl:if>
+      </xsl:for-each>
+      
+      <br/>
+    </div>
+    <br style="content: ' '; display: block; margin: 3px;"/>
+    
     
   </xsl:template>
   
