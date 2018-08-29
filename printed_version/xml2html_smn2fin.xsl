@@ -152,7 +152,7 @@
     </xsl:message>
     
     <div style="margin-left:1.1em;text-indent:-1.1em">
-      <span style="font-size: 12px">
+      <span style="font-size: 12px; font-family: sans-serif;">
 	<b>
 	  <xsl:value-of select="normalize-space($entry/lg/l)"/>
 	</b>
@@ -173,14 +173,14 @@
 	<xsl:if test="count(../mg)&gt;1">
 	  <span style="font-size: 10px;">
 	    <b>
-	      <xsl:value-of select="concat(' ', $current_position, '. ')"/> <!--concat nedanfor-->
+	      <xsl:value-of select="concat(' ', $current_position, ' ')"/> <!--concat nedanfor-->
 	    </b>
 	  </span>
 	</xsl:if>
 	<xsl:for-each select="./tg">
 	  
 	  <xsl:if test="./re and not(./re='')">
-	    <span style="font-size: 12px; font-type: italics">
+	    <span style="font-size: 12px;">
 	      <i>
 		<xsl:value-of select="concat(' (', normalize-space(./re),')')"/>
 	      </i>
@@ -189,7 +189,6 @@
 	  
 	  <!-- translation -->
 	  <span style="font-family: Century Schoolbook, arial, sans-serif; font-size: 12px">
-	    <b>
 	      <xsl:for-each select="./t">
 		<xsl:value-of select="concat(' ', normalize-space(.))"/>
 		
@@ -209,7 +208,6 @@
 		</xsl:if>
 		
 	      </xsl:for-each>
-	    </b>
 	  </span>
 	  
 	  
@@ -218,11 +216,11 @@
 	    <span style="font-size: 12px; color: gray">
 	      <xsl:value-of select="' ♦ '"/>
 	    </span>
-	    <span style="font-size: 12px">
-	      <xsl:value-of select="concat(normalize-space(./x), ' ')"/>
-	      <i>
+	    <span style="font-size: 10px">
+	      <b>
+	      	<xsl:value-of select="concat(normalize-space(./x), ' ')"/>
+	      </b>
 		<xsl:value-of select="normalize-space(./xt)"/>
-	      </i>
 	    </span>
 	  </xsl:for-each>
 	  
