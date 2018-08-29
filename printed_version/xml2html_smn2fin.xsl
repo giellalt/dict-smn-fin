@@ -166,7 +166,7 @@
 		    
 		    
 		    
-		    <xsl:for-each select="./mg/tg/xg">
+		    <xsl:for-each select="./xg">
 		      <span style="font-size: 12px; color: gray">
 			<xsl:value-of select="' ♦ '"/>
 		      </span>
