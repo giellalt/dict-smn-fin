@@ -1,4 +1,20 @@
 
+
+sorting: String as in .xsl
+
+Sorting on three levels (or evt. conflate levels 2, 3, since no minimal pairs are expected):
+First level:
+(A a Â ä) < (B b) < (C c) < (Č č) < ... (Á Ä á ä) < (Ö ö) 
+Second level (relevant only for a/â and á/ä):
+(A a) < (Â â)
+(Á á) < (Ä ä) # or the other way around?
+Third level:
+A < a
+Â < â
+B < b
+...
+
+
 sorting: a < A or A < a ? 
  ==> A < a (accodring to Trond)
 
