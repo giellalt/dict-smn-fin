@@ -7,7 +7,7 @@ First level:
 (A a Â ä) < (B b) < (C c) < (Č č) < ... (Á Ä á ä) < (Ö ö) 
 Second level (relevant only for a/â and á/ä):
 (A a) < (Â â)
-(Á á) < (Ä ä) # or the other way around?
+(Ä ä) < (Á á)
 Third level:
 A < a
 Â < â
