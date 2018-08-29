@@ -20,4 +20,23 @@
          </tg>
       </mg>
    </e>
+   <e id="A_487">
+      <lg>
+         <l attr="juárbudekes"
+            gen="juárbudekás"
+            ill="juárbudekásân"
+            pos="A">juárbudekes</l>
+      </lg>
+      <mg rest="juá'rbudiäk'ká">
+         <tg xml:lang="fin">
+            <t pos="A">kiikkerä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <re>veneestä</re>
+            <t pos="A">keikkuvainen</t>
+         </tg>
+      </mg>
+   </e>
 </r>
