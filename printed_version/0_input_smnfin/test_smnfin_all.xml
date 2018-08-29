@@ -95,4 +95,44 @@
          </tg>
       </mg>
    </e>
+   <e id="V_65">
+      <lg>
+         <l pl3="aneh" sg1="anam" sg3="ana" pos="V">anneeđ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">pitää (+ ess.) (jnak, jnkinlaisena)</t>
+            <xg>
+               <x>anneeđ šooŋâid</x>
+               <xt>pitää (+ akk.) (tietynlaisia säitä)</xt>
+            </xg>
+            <xg>
+               <x>anneeđ čalmeest</x>
+               <xt>pitää silmällä</xt>
+            </xg>
+            <xg>
+               <x>anneeđ syeleest</x>
+               <xt>pitää salassa</xt>
+            </xg>
+            <xg>
+               <x>anneeđ mielâst</x>
+               <xt>pitää mielessä</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">tarvita</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">huolehtia</t>
+            <xg>
+               <x>anneeđ huolâ</x>
+               <xt>huolehtia (jälkeläisestä, esim. vaadin vasasta)</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>
