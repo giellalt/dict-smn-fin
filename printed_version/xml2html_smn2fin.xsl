@@ -97,7 +97,7 @@
             <style>
 	      body {
 	      column-count: 2;
-	      column-rule: 1px solid black;
+	      //column-rule: 1px solid black;
 	      }
 	    </style>
           </head>
