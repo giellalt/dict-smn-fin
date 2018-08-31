@@ -4014,7 +4014,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="almoshaldâttâs"
-            sg_ill="almoshaldâttâsân">almoshaldâttâs</l>
+            sg_ill="almoshaldâttâsân">almoshaldâttâh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -21017,11 +21017,6 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">hallinto</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t pos="N">hallitus</t>
          </tg>
       </mg>
@@ -21035,11 +21030,6 @@ For the full license text, see the link above.
             <t pos="N">hallitus</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">hallinto</t>
-         </tg>
-      </mg>
    </e>
    <e id="N_1990">
       <lg>
@@ -21050,18 +21040,13 @@ For the full license text, see the link above.
       </lg>
       <mg rest="-häämi">
          <tg xml:lang="fin">
-            <t pos="N">hallintomuoto</t>
-         </tg>
-      </mg>
-      <mg rest="-häämi">
-         <tg xml:lang="fin">
             <t pos="N">hallitusmuoto</t>
          </tg>
       </mg>
    </e>
    <e id="N_1991">
       <lg>
-         <l g_stem="Sg" pos="N">haldâttâsmonâttâllâmlaahâ</l>
+         <l g_stem="Sg" pos="N">haldâttâhmonâttâllâmlaahâ</l>
       </lg>
       <mg rest="-laaVâ">
          <tg xml:lang="fin">
@@ -21074,7 +21059,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="haldâttâsorgaan"
-            sg_ill="haldâttâsorgaanân">haldâttâsorgaan</l>
+            sg_ill="haldâttâsorgaanân">haldâttâhorgaan</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -21100,7 +21085,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="haldâttâsrääđi"
-            sg_ill="haldâttâsrááđán">haldâttâsrääđi</l>
+            sg_ill="haldâttâsrááđán">haldâttâhrääđi</l>
       </lg>
       <mg rest="-rääđi">
          <tg xml:lang="fin">
@@ -36631,7 +36616,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="-stiivrâ">
          <tg xml:lang="fin">
-            <t pos="N">kunnanvaltuusto</t>
+            <t pos="N">kunnanhallitus</t>
          </tg>
       </mg>
    </e>
@@ -44290,19 +44275,6 @@ For the full license text, see the link above.
             sg_ill="kuávluhaldâttâhân">kuávluhaldâttâh</l>
       </lg>
       <mg rest="-ha'ldâttuv">
-         <tg xml:lang="fin">
-            <t pos="N">aluehallinto</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_4248">
-      <lg>
-         <l g_stem="Sg"
-            pos="N"
-            sg_gen="kuávluhaldâttâs"
-            sg_ill="kuávluhaldâttâsân">kuávluhaldâttâs</l>
-      </lg>
-      <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">aluehallinto</t>
          </tg>
@@ -58668,7 +58640,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="meccihaldâttâs"
-            sg_ill="meccihaldâttâsân">meccihaldâttâs</l>
+            sg_ill="meccihaldâttâsân">meccihaldâttâh</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -106404,6 +106376,7 @@ For the full license text, see the link above.
       <mg rest="stiivrâ">
          <tg xml:lang="fin">
             <t pos="N">johtokunta</t>
+			<t pos="N">hallitus</t>
          </tg>
       </mg>
       <mg rest="stiivrâ">
@@ -111240,19 +111213,6 @@ For the full license text, see the link above.
             sg_ill="sämihaldâttâhân">sämihaldâttâh</l>
       </lg>
       <mg rest="-ha'ldâttuv">
-         <tg xml:lang="fin">
-            <t pos="N">saamelaishallinto</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_10798">
-      <lg>
-         <l g_stem="Sg"
-            pos="N"
-            sg_gen="sämihaldâttâs"
-            sg_ill="sämihaldâttâsân">sämihaldâttâs</l>
-      </lg>
-      <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">saamelaishallinto</t>
          </tg>
