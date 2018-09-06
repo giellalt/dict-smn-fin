@@ -95762,6 +95762,11 @@ For the full license text, see the link above.
             <t pos="N">moottorikelkan jalas</t>
          </tg>
       </mg>
+       <mg rest="saveheh">
+         <tg xml:lang="fin">
+            <t pos="N">suksi</t>
+         </tg>
+      </mg>
    </e>
    <e id="N_9321">
       <lg>
@@ -99818,6 +99823,16 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="N">kyläkumppani</t>
             <t pos="N">naapuri</t>
+         </tg>
+      </mg>
+      <mg rest="-kyeimi">
+         <tg xml:lang="fin">
+            <t pos="N">samassa kylässä asuva</t>
+         </tg>
+      </mg>
+      <mg rest="-kyeimi">
+         <tg xml:lang="fin">
+            <t pos="N">saman paimennuskunnan jäsen</t>
          </tg>
       </mg>
    </e>
