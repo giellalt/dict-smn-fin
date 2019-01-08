@@ -112,7 +112,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">voi</t>
+            <t pos="Interj">voi</t>
          </tg>
       </mg>
    </e>
@@ -123,6 +123,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">nipin napin</t>
+			<t pos="Interj">niukin naukin</t>
          </tg>
       </mg>
    </e>
@@ -174,7 +175,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">Voi että</t>
+            <t pos="Interj">Voi että</t>
          </tg>
       </mg>
    </e>
@@ -185,7 +186,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">jaa</t>
-            <t pos="Interj">vai niin</t>
             <t pos="Interj">vai niin</t>
          </tg>
       </mg>
@@ -370,7 +370,7 @@ For the full license text, see the link above.
       </mg>
       <mg rest="-njune">
          <tg xml:lang="fin">
-            <t pos="Interj">nappinenä</t>
+            <t pos="N">nappinenä</t>
          </tg>
       </mg>
    </e>
@@ -440,11 +440,11 @@ For the full license text, see the link above.
    </e>
    <e id="Interj_38">
       <lg>
-         <l pos="Interj">še</l>
+         <l pos="Adv">še</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Interj">myös</t>
+            <t pos="Adv">myös</t>
          </tg>
       </mg>
    </e>
@@ -525,16 +525,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Interj">voi</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj">jotta</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Interj">vai</t>
          </tg>
       </mg>
    </e>

@@ -26,49 +26,49 @@ For the full license text, see the link above.
      </sourcenote></lics>
    <e id="Pcle_1">
       <lg>
-         <l pos="Pcle">alda</l>
+         <l pos="Adv">alda</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">lähellä</t>
-            <t pos="Pcle">läheltä</t>
+            <t pos="Adv">lähellä</t>
+            <t pos="Adv">läheltä</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_2">
       <lg>
-         <l pos="Pcle">aldasáid</l>
+         <l pos="Adv">aldasáid</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">lähes</t>
+            <t pos="Adv">lähes</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">lähettyville</t>
+            <t pos="Adv">lähettyville</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_3">
       <lg>
-         <l pos="Pcle">ama</l>
+         <l pos="Adv">ama</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">kai</t>
-            <t pos="Pcle">varmaankin</t>
+            <t pos="Adv">kai</t>
+            <t pos="Adv">varmaankin</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_4">
       <lg>
-         <l pos="Pcle">amahân</l>
+         <l pos="Adv">amahân</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">kai</t>
-            <t pos="Pcle">varmaankin</t>
+            <t pos="Adv">kai</t>
+            <t pos="Adv">varmaankin</t>
          </tg>
       </mg>
    </e>
@@ -111,11 +111,11 @@ For the full license text, see the link above.
    </e>
    <e id="Pcle_8">
       <lg>
-         <l pos="Pcle">čäciláhháá</l>
+         <l pos="Adv">čäciláhháá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">hieman lähemmäs vettä</t>
+            <t pos="Adv">hieman lähemmäs vettä</t>
          </tg>
       </mg>
    </e>
@@ -169,12 +169,12 @@ For the full license text, see the link above.
    </e>
    <e id="Pcle_14">
       <lg>
-         <l pos="Pcle">eromâšávt</l>
+         <l pos="Adv">eromâšávt</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">etenkin</t>
-            <t pos="Pcle">erityisesti</t>
+            <t pos="Adv">etenkin</t>
+            <t pos="Adv">erityisesti</t>
          </tg>
       </mg>
    </e>
@@ -1073,241 +1073,215 @@ For the full license text, see the link above.
    </e>
    <e id="Pcle_92">
       <lg>
-         <l pos="Pcle">ubâ</l>
+         <l pos="Adv">ubâ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">kokonaan (attr.)</t>
+            <t pos="Adv">kokonaan</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">kokonainen (attr.)</t>
+            <t pos="Adv">koko</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">koko (part.) (attr.)</t>
+            <t pos="Adv">edes</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">edes</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">lainkaan</t>
+            <t pos="Adv">lainkaan</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_93">
       <lg>
-         <l pos="Pcle">ucánjihhii</l>
+         <l pos="Adv">ucánjihhii</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">hieman</t>
+            <t pos="Adv">hieman</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_94">
       <lg>
-         <l pos="Pcle">uccást</l>
+         <l pos="Adv">uccást</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">melkein</t>
+            <t pos="Adv">melkein</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_95">
       <lg>
-         <l pos="Pcle">váá</l>
+         <l pos="Adv">váá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">vain</t>
+            <t pos="Adv">vain</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_96">
       <lg>
-         <l pos="Pcle">val</l>
+         <l pos="Adv">val</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">vielä</t>
-            <t pos="Pcle">edelleen</t>
+            <t pos="Adv">vielä</t>
+            <t pos="Adv">edelleen</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_97">
       <lg>
-         <l pos="Pcle">vala</l>
+         <l pos="Adv">vala</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">vielä</t>
-            <t pos="Pcle">edelleen</t>
+            <t pos="Adv">vielä</t>
+            <t pos="Adv">edelleen</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_98">
       <lg>
-         <l pos="Pcle">vest</l>
+         <l pos="Adv">vest</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">taas</t>
+            <t pos="Adv">taas</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_99">
-      <lg>
-         <l pos="Pcle">viehâ</l>
-      </lg>
-      <mg rest="hitásávt">
+       <lg>
+          <l pos="Adv">viehâ pyereest</l>
+       </lg>
+	  <mg rest="pyereest">
          <tg xml:lang="fin">
-            <t pos="Pcle">larghetto (mus.)</t>
+            <t pos="Adv">kohtalaisesti</t>
          </tg>
       </mg>
-      <mg rest="jotelávt">
+    </e>
+	<e id="Pcle_99">
+       <lg>
+          <l pos="Adv">viehâ</l>
+       </lg>  
+	  <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">allegretto (mus.)</t>
-         </tg>
-      </mg>
-      <mg rest="pyereest">
-         <tg xml:lang="fin">
-            <t pos="Pcle">kohtalaisesti</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">aika</t>
-            <t pos="Pcle">melko</t>
+            <t pos="Adv">aika</t>
+            <t pos="Adv">melko</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_100">
       <lg>
-         <l pos="Pcle">vuod</l>
+         <l pos="Adv">vuod</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">taas</t>
+            <t pos="Adv">taas</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_101">
       <lg>
-         <l pos="Pcle">vuot</l>
+         <l pos="Adv">vuot</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">taas</t>
+            <t pos="Adv">taas</t>
          </tg>
       </mg>
    </e>
    <e id="Pcle_102">
       <lg>
-         <l pos="Pcle">väri</l>
+         <l pos="Adv">väri</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">jospa</t>
-            <t pos="Pcle">kunpa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">lautta</t>
-            <t pos="N">lossi</t>
+            <t pos="Adv">jospa</t>
+            <t pos="Adv">kunpa</t>
          </tg>
       </mg>
    </e>
    <e id="N_357">
       <lg>
-         <l pos="Pcle">almaa</l>
+         <l pos="Adv">almaa</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">kai</t>
-            <t pos="Pcle">varmaankin</t>
+            <t pos="Adv">kai</t>
+            <t pos="Adv">varmaankin</t>
          </tg>
       </mg>
    </e>
    <e id="N_5541">
       <lg>
-         <l pos="Pcle">mabdem</l>
+         <l pos="Adv">mabdem</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">jollainen</t>
-            <t pos="Pcle">millainen</t>
-            <t pos="Pcle">minkälainen</t>
+            <t pos="Adv">jollainen</t>
+            <t pos="Adv">millainen</t>
+            <t pos="Adv">minkälainen</t>
          </tg>
       </mg>
    </e>
    <e id="N_6066">
       <lg>
-         <l pos="Pcle">mudoi</l>
+         <l pos="Adv">mudoi</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">muuten</t>
-            <t pos="Pcle">muutoin</t>
+            <t pos="Adv">muuten</t>
+            <t pos="Adv">muutoin</t>
          </tg>
       </mg>
    </e>
    <e id="N_11265">
       <lg>
-         <l pos="Pcle">tiäđust-uv</l>
+         <l pos="Adv">tiäđust-uv</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">tietenkin</t>
-            <t pos="Pcle">tietysti</t>
+            <t pos="Adv">tietenkin</t>
+            <t pos="Adv">tietysti</t>
          </tg>
       </mg>
    </e>
    <e id="A_858">
       <lg>
-         <l pos="Pcle">mis</l>
+         <l pos="Interj">mis</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pcle">tosiaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_340">
-      <lg>
-         <l pos="Pcle">het-het</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">niukin naukin</t>
+            <t pos="Interj">tosiaan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pcle">eskin</l>
+         <l pos="Adv">eskin</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pcle">vasta</t>
+            <t pos="Adv">vasta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pcle">eisigin</l>
+         <l pos="Adv">eisigin</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="Pcle">ollenkaan</t>
+            <t pos="Adv">ollenkaan</t>
          </tg>
       </mg>
    </e>
