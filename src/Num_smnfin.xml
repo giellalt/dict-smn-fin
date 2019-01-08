@@ -348,21 +348,21 @@ For the full license text, see the link above.
    </e>
    <e id="Num_40">
       <lg>
-         <l pos="Num">muáddilov</l>
+         <l pos="Adv">muáddilov</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Num">parikymmentä</t>
+            <t pos="Adv">parikymmentä</t>
          </tg>
       </mg>
    </e>
    <e id="Num_41">
       <lg>
-         <l pos="Num">muádlov</l>
+         <l pos="Adv">muádlov</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Num">parikymmentä</t>
+            <t pos="Adv">parikymmentä</t>
          </tg>
       </mg>
    </e>
@@ -408,11 +408,11 @@ For the full license text, see the link above.
    </e>
    <e id="Num_45">
       <lg>
-         <l pos="Num">nubáloh</l>
+         <l pos="Adv">nubáloh</l>
       </lg>
       <mg rest="nubálov">
          <tg xml:lang="fin">
-            <t pos="Num">toistakymmentä</t>
+            <t pos="Adv">toistakymmentä</t>
          </tg>
       </mg>
    </e>
@@ -609,11 +609,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_7543">
       <lg>
-         <l pos="Num">pelnub</l>
+         <l pos="Adv">pelnub</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Num">puolitoista</t>
+            <t pos="Adv">puolitoista</t>
          </tg>
       </mg>
    </e>
