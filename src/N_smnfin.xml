@@ -60639,11 +60639,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_5879">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="miljard" sg_ill="miljardân">miljard</l>
+         <l g_stem="Sg" pos="Num" sg_gen="miljard" sg_ill="miljardân">miljard</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">miljardi</t>
+            <t pos="Num">miljardi</t>
          </tg>
       </mg>
    </e>
@@ -60659,11 +60659,11 @@ For the full license text, see the link above.
    </e>
    <e id="N_5881">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="miljovn" sg_ill="miljovnân">miljovn</l>
+         <l g_stem="Sg" pos="Num" sg_gen="miljovn" sg_ill="miljovnân">miljovn</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">miljoona</t>
+            <t pos="Num">miljoona</t>
          </tg>
       </mg>
    </e>

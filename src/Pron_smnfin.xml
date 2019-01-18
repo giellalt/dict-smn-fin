@@ -632,21 +632,21 @@ For the full license text, see the link above.
    </e>
    <e id="Pron_62">
       <lg>
-         <l pos="Pron">taammittáá</l>
+         <l pos="Adv">taammittáá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pron">tämän verran</t>
+            <t pos="Adv">tämän verran</t>
          </tg>
       </mg>
    </e>
    <e id="Pron_63">
       <lg>
-         <l pos="Pron">taas</l>
+         <l pos="Pcle">taas</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pron">taas</t>
+            <t pos="Pcle">taas</t>
          </tg>
       </mg>
    </e>
@@ -682,11 +682,11 @@ For the full license text, see the link above.
    </e>
    <e id="Pron_66">
       <lg>
-         <l pos="Pron">tađe oovdeb</l>
+         <l pos="A">tađe oovdeb</l>
       </lg>
       <mg rest="oovdeb">
          <tg xml:lang="fin">
-            <t pos="Pron">edeltävä</t>
+            <t pos="A">edeltävä</t>
          </tg>
       </mg>
    </e>
@@ -724,11 +724,11 @@ For the full license text, see the link above.
    </e>
    <e id="Pron_70">
       <lg>
-         <l pos="Pron">távjá</l>
+         <l pos="Adv">távjá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pron">usein</t>
+            <t pos="Adv">usein</t>
          </tg>
       </mg>
    </e>
@@ -804,66 +804,66 @@ For the full license text, see the link above.
    </e>
    <e id="Pron_78">
       <lg>
-         <l pos="Pron">tämmit</l>
+         <l pos="Adv">tämmit</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pron">tämän verran</t>
+            <t pos="Adv">tämän verran</t>
          </tg>
       </mg>
    </e>
    <e id="Pron_79">
       <lg>
-         <l pos="Pron">tämmittáá</l>
+         <l pos="Adv">tämmittáá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pron">tämän verran</t>
+            <t pos="Adv">tämän verran</t>
          </tg>
       </mg>
    </e>
    <e id="Pron_80">
       <lg>
-         <l pos="Pron">täst</l>
+         <l pos="Adv">täst oovdâs</l>
       </lg>
       <mg rest="oovdâs">
          <tg xml:lang="fin">
-            <t pos="Pron">toistaiseksi</t>
+            <t pos="Adv">toistaiseksi</t>
          </tg>
       </mg>
       <mg rest="oovdâs">
          <tg xml:lang="fin">
-            <t pos="Pron">tästä eteenpäin</t>
+            <t pos="Adv">tästä eteenpäin</t>
          </tg>
       </mg>
    </e>
    <e id="Pron_81">
       <lg>
-         <l pos="Pron">tävjit-távjá</l>
+         <l pos="Adv">tävjit-távjá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pron">usein (erittäin)</t>
+            <t pos="Adv">usein (erittäin)</t>
          </tg>
       </mg>
    </e>
    <e id="Pron_82">
       <lg>
-         <l pos="Pron">viisut</l>
+         <l pos="Adv">viisut</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pron">kaikki</t>
+            <t pos="Adv">kaikki</t>
          </tg>
       </mg>
    </e>
    <e id="A_893">
       <lg>
-         <l pos="Pron">muide</l>
+         <l pos="Adv">muide</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pron">muuta</t>
+            <t pos="Adv">muuta</t>
          </tg>
       </mg>
    </e>
