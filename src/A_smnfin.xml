@@ -20353,9 +20353,10 @@ For the full license text, see the link above.
             ill="tuhhiittittei"
             pos="A">tuhhiittittee</l>
       </lg>
-      <mg rest="">
+      <mg rest="# -s">
          <tg xml:lang="fin">
-            <t pos="A">välttävä</t>
+            <t pos="A">hyväksyttävä</t>
+            <t pos="A">kelvollinen</t>
          </tg>
       </mg>
    </e>
