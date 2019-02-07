@@ -282,21 +282,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Pron_26">
-      <lg>
-         <l pos="Adv">maacij</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">edestakaisin</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">mutkin</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Pron_27">
       <lg>
          <l pos="Pron">mađe</l>
@@ -343,17 +328,6 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="Pron">moni</t>
             <t pos="Pron">usea</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Pron_33">
-      <lg>
-         <l pos="Adv">maŋgii</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">monesti</t>
-            <t pos="Adv">usein</t>
          </tg>
       </mg>
    </e>
@@ -630,16 +604,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Pron_62">
-      <lg>
-         <l pos="Adv">taammittáá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">tämän verran</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Pron_63">
       <lg>
          <l pos="Pcle">taas</l>
@@ -722,16 +686,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Pron_70">
-      <lg>
-         <l pos="Adv">távjá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">usein</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Pron_71">
       <lg>
          <l pos="Pron">tietot</l>
@@ -799,71 +753,6 @@ For the full license text, see the link above.
       <mg rest="tuon">
          <tg xml:lang="fin">
             <t pos="Pron">tuo</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Pron_78">
-      <lg>
-         <l pos="Adv">tämmit</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">tämän verran</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Pron_79">
-      <lg>
-         <l pos="Adv">tämmittáá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">tämän verran</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Pron_80">
-      <lg>
-         <l pos="Adv">täst oovdâs</l>
-      </lg>
-      <mg rest="oovdâs">
-         <tg xml:lang="fin">
-            <t pos="Adv">toistaiseksi</t>
-         </tg>
-      </mg>
-      <mg rest="oovdâs">
-         <tg xml:lang="fin">
-            <t pos="Adv">tästä eteenpäin</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Pron_81">
-      <lg>
-         <l pos="Adv">tävjit-távjá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">usein (erittäin)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Pron_82">
-      <lg>
-         <l pos="Adv">viisut</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">kaikki</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_893">
-      <lg>
-         <l pos="Adv">muide</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">muuta</t>
          </tg>
       </mg>
    </e>
