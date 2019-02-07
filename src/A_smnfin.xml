@@ -12308,22 +12308,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="A_1167">
-      <lg>
-         <l pos="Adv">poonjeeld</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">kierossa</t>
-			<t pos="Adv">käyrässä</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">vinossa</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_1168">
       <lg>
          <l pos="A">poovčâs</l>
@@ -14278,13 +14262,6 @@ For the full license text, see the link above.
             <t pos="N">leikki</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">erillään</t>
-            <t pos="Adv">erilleen</t>
-            <t pos="Adv">erikseen</t>
-         </tg>
-      </mg>
       <mg rest="sierâ">
          <tg xml:lang="fin">
             <t pos="N">leikkikalu</t>
@@ -14558,11 +14535,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">-lainen</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">-laisesti</t>
          </tg>
       </mg>
    </e>
@@ -16121,12 +16093,6 @@ For the full license text, see the link above.
             <t pos="A">tähänastinen</t>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">tähän saakka</t>
-            <t pos="Adv">tähän asti</t>
-         </tg>
-      </mg>
    </e>
    <e id="A_1535">
       <lg>
@@ -16680,7 +16646,6 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Adv">aikaisimmin</t>
             <t pos="A">aikaisin (superl.)</t>
          </tg>
       </mg>
@@ -16691,7 +16656,6 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Adv">aikaisimmin</t>
             <t pos="A">aikaisin (superl.)</t>
          </tg>
       </mg>
@@ -16733,11 +16697,6 @@ For the full license text, see the link above.
       <lg>
          <l attr="tooleeb" gen="tooleeb" ill="tolebân" pos="A">tooleeb</l>
       </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">aiemmin</t>
-         </tg>
-      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">aiempi</t>
@@ -18361,19 +18320,9 @@ For the full license text, see the link above.
       <lg>
          <l pos="A">veitâlâs</l>
       </lg>
-      <mg rest="ve'itâlii">
-         <tg xml:lang="fin">
-            <t pos="A">veitallaan (tav. laumasta tai eläimestä)</t>
-         </tg>
-      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="A">paimentamaton (tav. laumasta tai eläimestä)</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">paimentamattomana (tav. laumasta tai eläimestä)</t>
          </tg>
       </mg>
    </e>
@@ -19727,12 +19676,6 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="A">kuolettamaton</t>
             <t pos="A">puuduttamaton</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">kuolettamatta</t>
-            <t pos="Adv">puuduttamatta</t>
          </tg>
       </mg>
    </e>
@@ -22443,26 +22386,6 @@ For the full license text, see the link above.
       <mg rest="# -s">
          <tg xml:lang="fin">
             <t pos="A">koski, jossa on useampia vesiputouksia</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_4034">
-      <lg>
-         <l pos="Adv">koskâl</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">välistä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_4175">
-      <lg>
-         <l pos="Adv">kuámmirtievâ</l>
-      </lg>
-      <mg rest="-tievâ">
-         <tg xml:lang="fin">
-            <t pos="Adv">kourallinen</t>
          </tg>
       </mg>
    </e>

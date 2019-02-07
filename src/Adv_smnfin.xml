@@ -10364,4 +10364,129 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="A_1167">
+      <lg>
+         <l pos="Adv">poonjeeld</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kierossa</t>
+			<t pos="Adv">käyrässä</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vinossa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4034">
+      <lg>
+         <l pos="Adv">koskâl</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">välistä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_4175">
+      <lg>
+         <l pos="Adv">kuámmirtievâ</l>
+      </lg>
+      <mg rest="-tievâ">
+         <tg xml:lang="fin">
+            <t pos="Adv">kourallinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1371">
+      <lg>
+         <l pos="Adv">sierâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">erillään</t>
+            <t pos="Adv">erilleen</t>
+            <t pos="Adv">erikseen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1393">
+      <lg>
+         <l attr="siähá" pos="Adv">siähá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">-laisesti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1534">
+      <lg>
+         <l gen="tássáá" ill="táásážân" pos="Adv">táássáš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">tähän saakka</t>
+            <t pos="Adv">tähän asti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1597">
+      <lg>
+         <l attr="tolehumos" gen="tolehumos" ill="tolehumosân" pos="Adv">tolehumos</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aikaisimmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1598">
+      <lg>
+         <l attr="tolemus" gen="tolemuu" ill="tolemusân" pos="Adv">tolemus</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aikaisimmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1602">
+      <lg>
+         <l attr="tooleeb" gen="tooleeb" ill="tolebân" pos="Adv">tooleeb</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aiemmin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1770">
+      <lg>
+         <l pos="Adv">veitâlâs</l>
+      </lg>
+      <mg rest="ve'itâlii">
+         <tg xml:lang="fin">
+            <t pos="Adv">veitallaan (tav. laumasta tai eläimestä)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">paimentamattomana (tav. laumasta tai eläimestä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_1907">
+      <lg>
+         <l pos="Adv">jäämithánnáá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kuolettamatta</t>
+            <t pos="Adv">puuduttamatta</t>
+         </tg>
+      </mg>
+   </e>
 </r>
