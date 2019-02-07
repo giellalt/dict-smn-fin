@@ -125,16 +125,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Num_15">
-      <lg>
-         <l pos="Adv">kuávttáákooskâl</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">kahden kesken</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Num_16">
       <lg>
          <l pos="Num">kulmâ</l>
@@ -245,16 +235,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Num_29">
-      <lg>
-         <l pos="Adv">kyevtpeln</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">kahden puolen</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Num_30">
       <lg>
          <l pos="Num">kähcilov</l>
@@ -326,16 +306,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Num_38">
-      <lg>
-         <l pos="Adv">luovâsvyeje</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">yhdellä porolla ajaen</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Num_39">
       <lg>
          <l pos="N">lävvi</l>
@@ -343,26 +313,6 @@ For the full license text, see the link above.
       <mg rest="läävi">
          <tg xml:lang="fin">
             <t pos="N">kahden verkon liitoskohta jatassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Num_40">
-      <lg>
-         <l pos="Adv">muáddilov</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">parikymmentä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Num_41">
-      <lg>
-         <l pos="Adv">muádlov</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">parikymmentä</t>
          </tg>
       </mg>
    </e>
@@ -403,16 +353,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Num">neljä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Num_45">
-      <lg>
-         <l pos="Adv">nubáloh</l>
-      </lg>
-      <mg rest="nubálov">
-         <tg xml:lang="fin">
-            <t pos="Adv">toistakymmentä</t>
          </tg>
       </mg>
    </e>
@@ -497,16 +437,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Num_55">
-      <lg>
-         <l pos="Adv">oovtâst</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">yhdessä</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Num_56">
       <lg>
          <l pos="N">skáhtá</l>
@@ -514,16 +444,6 @@ For the full license text, see the link above.
       <mg rest="skáávtá">
          <tg xml:lang="fin">
             <t pos="N">kaksi purjeen alapuuhun kiinnitettyä köyttä, joilla ohjataan ja kiinnitetään purje</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Num_57">
-      <lg>
-         <l pos="Adv">tävjit-távjá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">yhtenään</t>
          </tg>
       </mg>
    </e>
@@ -604,16 +524,6 @@ For the full license text, see the link above.
       <mg rest="love">
          <tg xml:lang="fin">
             <t pos="Num">kymmenen</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_7543">
-      <lg>
-         <l pos="Adv">pelnub</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">puolitoista</t>
          </tg>
       </mg>
    </e>
