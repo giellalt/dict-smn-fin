@@ -394,4 +394,34 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="Pcle_10">
+      <lg>
+         <l pos="CC">eereeb</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CC">paitsi</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Pcle_13">
+      <lg>
+         <l pos="CC">ereb</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CC">paitsi</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Pcle_24">
+      <lg>
+         <l pos="CC">juo-uv-teikkâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CC">joko-tai</t>
+         </tg>
+      </mg>
+   </e>
 </r>

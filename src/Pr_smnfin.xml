@@ -33,5 +33,31 @@ For the full license text, see the link above.
             <t pos="Pr">pitkin</t>
          </tg>
       </mg>
+   </e> 
+   <e id="Pcle_1">
+      <lg>
+         <l pos="Adp">alda</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adp">lähellä</t>
+            <t pos="Adp">läheltä</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Pcle_2">
+      <lg>
+         <l pos="Adp">aldasáid</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adp">lähes</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adp">lähettyville</t>
+         </tg>
+      </mg>
    </e>
 </r>

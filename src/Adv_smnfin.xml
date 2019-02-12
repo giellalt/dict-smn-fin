@@ -10489,4 +10489,46 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_5604">
+      <lg>
+         <l pos="Adv">mane</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">miksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_1">
+      <lg>
+         <l pos="Adv">alda</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">lähellä</t>
+            <t pos="Adv">läheltä</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Pcle_8">
+      <lg>
+         <l pos="Adv">čäciláhháá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">hieman lähemmäs vettä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_14">
+      <lg>
+         <l pos="Adv">eromâšávt</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">etenkin</t>
+            <t pos="Adv">erityisesti</t>
+         </tg>
+      </mg>
+   </e>
 </r>

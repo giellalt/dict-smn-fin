@@ -807,4 +807,36 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+    <e id="Pcle_18">
+      <lg>
+         <l pos="Pron">jieš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">itse</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_25">
+      <lg>
+         <l pos="Pron">jyehi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">joka</t>
+            <t pos="Pron">jokainen</t>
+            <t pos="Pron">kaikki</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_28">
+      <lg>
+         <l pos="Pron">kote</l>
+      </lg>
+      <mg rest="kiän">
+         <tg xml:lang="fin">
+            <t pos="Pron">joka</t>
+         </tg>
+      </mg>
+   </e>
 </r>
