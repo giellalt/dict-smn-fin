@@ -10531,4 +10531,72 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="Pcle_33">
+      <lg>
+         <l pos="Adv">melgâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">melkoisesti</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">melko</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Pcle_35">
+      <lg>
+         <l pos="Adv">mieldi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kanssa</t>
+            <t pos="Adv">mukana</t>
+         </tg>
+      </mg>
+   </e>
+ <e id="Pcle_42">
+      <lg>
+         <l pos="Adv">nubijkulij</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">päinvastoin</t>
+         </tg>
+      </mg>
+   </e>
+      <e id="Pcle_46">
+      <lg>
+         <l pos="Adv">oovtnáál</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">samalla tavoin</t>
+            <t pos="Adv">samoin</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Pcle_47">
+      <lg>
+         <l pos="Adv">ovdeláhháá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ihan vähän edemmäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_48">
+      <lg>
+         <l pos="Adv">ovdláhháá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ihan vähän aikaisemmin</t>
+            <t pos="Adv">ihan vähän ennen</t>
+         </tg>
+      </mg>
+   </e>
 </r>

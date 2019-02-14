@@ -274,4 +274,31 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-</r>
+    <e id="Pcle_30">
+      <lg>
+         <l pos="Pcle">mahte</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">miten</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">kuinka</t>
+            <t pos="Pcle">kuten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_44">
+      <lg>
+         <l pos="CS">nuuvt ete</l>
+      </lg>
+      <mg rest="ete">
+         <tg xml:lang="fin">
+            <t pos="CS">joten</t>
+            <t pos="CS">siten että</t>
+         </tg>
+      </mg>
+      </e>
+   </r>

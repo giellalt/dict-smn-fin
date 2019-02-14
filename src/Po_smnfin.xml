@@ -1053,4 +1053,34 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+    <e id="Pcle_35">
+      <lg>
+         <l pos="Po">mieldi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">mukaan</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">myöten</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Pcle_37">
+      <lg>
+         <l pos="Po">mild</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">kanssa</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Po">myöten</t>
+         </tg>
+      </mg>
+   </e>
 </r>

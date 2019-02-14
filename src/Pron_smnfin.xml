@@ -839,4 +839,27 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="Pcle_36">
+      <lg>
+         <l pos="Pron">miinii</l>
+      </lg>
+      <mg rest="maidnii monnii">
+         <tg xml:lang="fin">
+            <t pos="Pron">jotain</t>
+            <t pos="Pron">jokin</t>
+            <t pos="Pron">joku (ei ihminen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_39">
+      <lg>
+         <l pos="Pron">muidego</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">senkun</t>
+            <t pos="Pron">muuta kuin</t>
+         </tg>
+      </mg>
+   </e>
 </r>

@@ -23410,4 +23410,44 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+    <e id="Pcle_33">
+      <lg>
+         <l pos="A">melgâd</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">melkoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_38">
+      <lg>
+         <l pos="A">muájus</l>
+      </lg>
+      <mg rest="muáijus">
+         <tg xml:lang="fin">
+            <t pos="A">hieman sulanut (esim. lämpimässä olleesta ruokapakasteesta)</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Pcle_43">
+      <lg>
+         <l pos="A">nuottii</l>
+      </lg>
+      <mg rest="# -s">
+         <tg xml:lang="fin">
+            <t pos="A">joka tuntee hyvin melodiat</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Pcle_49">
+      <lg>
+         <l pos="A">passaamus</l>
+      </lg>
+      <mg rest="passaamuu">
+         <tg xml:lang="fin">
+            <t pos="A">kaikkein pyhin</t>
+         </tg>
+      </mg>
+   </e>
 </r>
