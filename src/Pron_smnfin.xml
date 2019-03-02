@@ -862,4 +862,64 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="Pcle_53">
+      <lg>
+         <l pos="Pron">puoh</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">kaikkein</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">kaikki</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">kokonaan</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">loppunut</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">lopussa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_54">
+      <lg>
+         <l pos="Pron">puohânissii</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">kaikkiaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_55">
+      <lg>
+         <l pos="Pron">puohnissii</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">kaikkiaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_62">
+      <lg>
+         <l pos="Pron">sierânâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">eri</t>
+         </tg>
+      </mg>
+   </e>
 </r>

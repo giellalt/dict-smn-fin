@@ -613,4 +613,54 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="Pcle_56">
+      <lg>
+         <l pos="Interj">pyereestpuáttim</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">tervetuloa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_57">
+      <lg>
+         <l pos="Interj">pyeripuáttim</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">tervetuloa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_65">
+      <lg>
+         <l pos="Interj">sittágin</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">hyvänen aika</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_78">
+      <lg>
+         <l pos="Interj">tiervâpuáttim</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">tervetuloa</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="A_858">
+      <lg>
+         <l pos="Interj">mis</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Interj">tosiaan</t>
+         </tg>
+      </mg>
+   </e>
 </r>

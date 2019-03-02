@@ -10599,4 +10599,448 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="Pcle_51">
+      <lg>
+         <l pos="Adv">penttâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aivan</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kohtisuoraan</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">peräti</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">suorastaan</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vaakasuoraan</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">ehta</t>
+            <t pos="Adv">oikea</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_58">
+      <lg>
+         <l pos="Adv">rakkân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">peräti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_60">
+      <lg>
+         <l pos="Adv">rekkân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">peräti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_66">
+      <lg>
+         <l pos="Adv">siämmáánáál</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">samoin (kuten jk toinen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_68">
+      <lg>
+         <l pos="Adv">taste</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_69">
+      <lg>
+         <l pos="Adv">tastmaŋa</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sen jälkeen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_72">
+      <lg>
+         <l pos="Adv">tie</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_73">
+      <lg>
+         <l pos="Adv">tieđe</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siinä (osoitettaessa lähellä puhuteltavaa)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_74">
+      <lg>
+         <l pos="Adv">tieđee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siinä (osoitettaessa lähellä puhuteltavaa)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_75">
+      <lg>
+         <l pos="Adv">tiegu</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sitä kautta (puhuteltavan läheltä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_76">
+      <lg>
+         <l pos="Adv">tiemmit</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sen verran (puhuteltavan lähellä tai häneen liityvään viitaten)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_77">
+      <lg>
+         <l pos="Adv">tienuuvt</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_79">
+      <lg>
+         <l pos="Adv">tiestân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siinä juuri (puhuteltavan lähellä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_80">
+      <lg>
+         <l pos="Adv">tietogo</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siinä niin (puhuteltavan lähellä)</t>
+            <t pos="Adv">siinä juuri (puhuteltavan lähellä)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_81">
+      <lg>
+         <l pos="Adv">tiiláá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siinä juuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_82">
+      <lg>
+         <l pos="Adv">tijmá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">viime vuonna</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_83">
+      <lg>
+         <l pos="Adv">tissáá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siinä (osoitettaessa lähellä puhuteltavaa)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_84">
+      <lg>
+         <l pos="Adv">togo</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siinä (kauempana)</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sitä kautta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_85">
+      <lg>
+         <l pos="Adv">togopeht</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siinä kohti</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sitä kautta</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_86">
+      <lg>
+         <l pos="Adv">tommit</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sen verran</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">riittävästi</t>
+            <t pos="Adv">tarpeeksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_87">
+      <lg>
+         <l pos="Adv">tommittáá</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">sen verran</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_88">
+      <lg>
+         <l pos="Adv">tondiet</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">siksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_90">
+      <lg>
+         <l pos="Adv">tääl</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">nyt</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_91">
+      <lg>
+         <l pos="Adv">uálináál</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">suunnilleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_92">
+      <lg>
+         <l pos="Adv">ubâ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kokonaan</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">koko</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">edes</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">lainkaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_93">
+      <lg>
+         <l pos="Adv">ucánjihhii</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">hieman</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_94">
+      <lg>
+         <l pos="Adv">uccást</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">melkein</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_96">
+      <lg>
+         <l pos="Adv">val</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vielä</t>
+            <t pos="Adv">edelleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_97">
+      <lg>
+         <l pos="Adv">vala</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">vielä</t>
+            <t pos="Adv">edelleen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_98">
+      <lg>
+         <l pos="Adv">vest</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">taas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_99">
+       <lg>
+          <l pos="Adv">viehâ pyereest</l>
+       </lg>
+	  <mg rest="pyereest">
+         <tg xml:lang="fin">
+            <t pos="Adv">kohtalaisesti</t>
+         </tg>
+      </mg>
+    </e>
+	<e id="Pcle_99">
+       <lg>
+          <l pos="Adv">viehâ</l>
+       </lg>  
+	  <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aika</t>
+            <t pos="Adv">melko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_100">
+      <lg>
+         <l pos="Adv">vuod</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">taas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_101">
+      <lg>
+         <l pos="Adv">vuot</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">taas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_5541">
+      <lg>
+         <l pos="Adv">mabdem</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">jollainen</t>
+            <t pos="Adv">millainen</t>
+            <t pos="Adv">minkälainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6066">
+      <lg>
+         <l pos="Adv">mudoi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">muuten</t>
+            <t pos="Adv">muutoin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eskin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">vasta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eisigin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ollenkaan</t>
+         </tg>
+      </mg>
+   </e>
 </r>
