@@ -3005,17 +3005,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Adv_235">
-      <lg>
-         <l pos="Adv">miätá</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">yltympäriinsä</t>
-			<t pos="N">päästä päähän</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Adv_236">
       <lg>
          <l pos="Adv">mondiet</l>
@@ -7054,6 +7043,7 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="Adv">jälkeensä</t>
             <t pos="Adv">peräänsä</t>
+            <t pos="Po">taakseen</t>
          </tg>
       </mg>
    </e>
@@ -11029,4 +11019,64 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+    <e id="Po_22">
+      <lg>
+         <l pos="Adv">maajaabeln</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">jäljestäpäin</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">takanapäin</t>
+            <t pos="Adv">jäljessäpäin</t>
+            <t pos="Adv">perässäpäin</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Po_24">
+      <lg>
+         <l pos="Adv">maŋas</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">perälle</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">taakse</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Po_25">
+      <lg>
+         <l pos="Adv">maŋŋaal</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">perään</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Po_30">
+      <lg>
+         <l pos="Adv">oovdân</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">edelle</t>
+            <t pos="Adv">eteen</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">esiin</t>
+            <t pos="Adv">esille</t>
+         </tg>
+      </mg>
+   </e>
+
 </r>

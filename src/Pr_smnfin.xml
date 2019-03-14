@@ -26,11 +26,13 @@ For the full license text, see the link above.
      </sourcenote></lics>
    <e id="A_865">
       <lg>
-         <l pos="Pr">miätá</l>
+         <l pos="Adp">miätá</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Pr">pitkin</t>
+            <t pos="Adp">pitkin</t>
+            <t pos="Adp">yltympäriinsä</t>
+			<t pos="Adp">päästä päähän</t>
          </tg>
       </mg>
    </e> 
@@ -51,23 +53,12 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="Adp">lähes</t>
+            <t pos="Pr">lähes</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adp">lähettyville</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Pcle_71">
-      <lg>
-         <l pos="Pr">tego</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pr">kuin</t>
-            <t pos="Pr">niin kuin</t>
          </tg>
       </mg>
    </e>
