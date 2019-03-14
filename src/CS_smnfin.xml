@@ -42,6 +42,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jotta</t>
+            <t pos="CS">että</t>
          </tg>
       </mg>
    </e>
@@ -52,6 +53,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jotta</t>
+            <t pos="CS">että</t>
          </tg>
       </mg>
    </e>
@@ -62,6 +64,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">ettei</t>
+            <t pos="CS">jottei</t>
          </tg>
       </mg>
    </e>
@@ -170,55 +173,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="CS_12">
-      <lg>
-         <l pos="CS">mutâ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CS">mutta</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CS">vaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="CS_13" mc="_tassaa_ is a wordform of LEMMA _tassaaš_">
-      <lg>
-         <l pos="CS">tassaaš</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CS">sitten (aikaisemmin)</t>
-         </tg>
-      </mg>
-      <mg rest="tassaa">
-         <tg xml:lang="fin">
-            <t pos="CS">silloinen</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CS">kunnes</t>
-            <t pos="CS">siihen saakka</t>
-            <t pos="CS">siihen asti</t>
-            <t pos="CS">siitä asti</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="CS_14">
-      <lg>
-         <l pos="CS">te</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="CS">niin</t>
-            <t pos="CS">sitten</t>
-         </tg>
-      </mg>
-   </e>
    <e id="CS_15">
       <lg>
          <l pos="CS">tegu</l>
@@ -227,6 +181,19 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="CS">kuin</t>
             <t pos="CS">niin kuin</t>
+            <t pos="CS">kuten</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CS_15">
+      <lg>
+         <l pos="CS">tego</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">kuin</t>
+            <t pos="CS">niin kuin</t>
+            <t pos="CS">kuten</t>
          </tg>
       </mg>
    </e>
@@ -250,17 +217,13 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="CS_19">
+    <e id="CS_17">
       <lg>
-         <l pos="CS">vuávnus</l>
+         <l pos="CS">veikkâ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="CS">jk näköinen</t>
-            <xg>
-               <x>Son lea muu vuávnus.</x>
-               <xt>Hän on minun näköinen.</xt>
-            </xg>
+            <t pos="CS">vaikka</t>
          </tg>
       </mg>
    </e>
@@ -271,22 +234,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="CS">jotta</t>
-         </tg>
-      </mg>
-   </e>
-    <e id="Pcle_30">
-      <lg>
-         <l pos="Pcle">mahte</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">miten</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Pcle">kuinka</t>
-            <t pos="Pcle">kuten</t>
          </tg>
       </mg>
    </e>
@@ -301,4 +248,172 @@ For the full license text, see the link above.
          </tg>
       </mg>
       </e>
+       <e id="CC_7">
+      <lg>
+         <l pos="CS">ensun</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">että</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CC_8">
+      <lg>
+         <l pos="CS">et</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">että</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="CC_10">
+      <lg>
+         <l pos="CS">it</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">että</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="CC_14">
+      <lg>
+         <l pos="CS">jis</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">jos</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="CC_26">
+      <lg>
+         <l pos="CS">tastko</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">sillä</t>
+            <t pos="CS">koska</t>
+            <t pos="CS">sen vuoksi että</t>
+            <t pos="CS">siksi että</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="CC_30">
+      <lg>
+         <l pos="CS">vâi</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">jotta</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">vai</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">ettei (syytä ilmoittamassa)</t>
+            <t pos="CS">jottei (syytä ilmoittamassa)</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="CS_1">
+      <lg>
+         <l pos="CS">amâs</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">ettei</t>
+            <t pos="CS">jottei</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="CS_1">
+      <lg>
+         <l pos="CS">emis</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">ettei</t>
+            <t pos="CS">jottei</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="CS_1">
+      <lg>
+         <l pos="CS">immis</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">ettei</t>
+            <t pos="CS">jottei</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="CC_26">
+      <lg>
+         <l pos="CS">tast ko</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">sillä</t>
+            <t pos="CS">koska</t>
+            <t pos="CS">sen vuoksi että</t>
+            <t pos="CS">siksi että</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="CC_26">
+      <lg>
+         <l pos="CS">tondiet ko</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">sillä</t>
+            <t pos="CS">koska</t>
+            <t pos="CS">sen vuoksi että</t>
+            <t pos="CS">siksi että</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="CC_26">
+      <lg>
+         <l pos="CS">tanen ko</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">sillä</t>
+            <t pos="CS">koska</t>
+            <t pos="CS">sen vuoksi että</t>
+            <t pos="CS">siksi että</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Pcle_44">
+      <lg>
+         <l pos="CS">nuuvt et</l>
+      </lg>
+      <mg rest="ete">
+         <tg xml:lang="fin">
+            <t pos="CS">joten</t>
+            <t pos="CS">siten että</t>
+         </tg>
+      </mg>
+      </e>
+       <e id="CS_15">
+      <lg>
+         <l pos="CS">nuuvtko</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="CS">niin kuin</t>
+            <t pos="CS">kuten</t>
+         </tg>
+      </mg>
+   </e>
    </r>

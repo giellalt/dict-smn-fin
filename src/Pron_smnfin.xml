@@ -922,4 +922,15 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="CS_10">
+      <lg>
+         <l pos="Pron">kuás</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pron">jolloin</t>
+            <t pos="Pron">milloin</t>
+         </tg>
+      </mg>
+   </e>
 </r>

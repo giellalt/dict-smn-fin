@@ -2870,22 +2870,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Adv_222"
-      mc="i think _kanssa_ is wrong here, should be _kans_. Have to check from MLO">
-      <lg>
-         <l pos="Adv">meiddei</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">kans</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Adv">myös</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Adv_223">
       <lg>
          <l pos="Adv">melgâdáid</l>
@@ -7357,6 +7341,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">noin vain</t>
+            <t pos="Adv">niin vain</t>
          </tg>
       </mg>
    </e>
@@ -7399,6 +7384,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">noin vain</t>
+            <t pos="Adv">niin vain</t>
          </tg>
       </mg>
    </e>

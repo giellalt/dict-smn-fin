@@ -415,4 +415,84 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+    <e id="CC_16">
+      <lg>
+         <l pos="Pcle">juo</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">jo</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="Adv_222"
+      mc="i think _kanssa_ is wrong here, should be _kans_. Have to check from MLO">
+      <lg>
+         <l pos="Pcle">meiddei</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">kans</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">myös</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="CC_17">
+      <lg>
+         <l pos="Pcle">meid</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">kanssa</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">myös</t>
+         </tg>
+      </mg>
+   </e>
+    <e id="CS_13" mc="_tassaa_ is a wordform of LEMMA _tassaaš_">
+      <lg>
+         <l pos="Pcle">tassaaš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">sitten (aikaisemmin)</t>
+         </tg>
+      </mg>
+      <mg rest="tassaa">
+         <tg xml:lang="fin">
+            <t pos="Pcle">silloinen</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">kunnes</t>
+            <t pos="Pcle">siihen saakka</t>
+            <t pos="Pcle">siihen asti</t>
+            <t pos="Pcle">siitä asti</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="Pcle_30">
+      <lg>
+         <l pos="Pcle">mahte</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">miten</t>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Pcle">kuinka</t>
+            <t pos="Pcle">kuten</t>
+         </tg>
+      </mg>
+   </e>
 </r>
