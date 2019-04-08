@@ -4473,7 +4473,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kohtalaisesti</t>
-			<t pos="N">hyvin</t>
+			<t pos="Adv">hyvin</t>
          </tg>
       </mg>
    </e>
@@ -4505,7 +4505,7 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="Adv">kiltisti</t>
             <t pos="Adv">nätisti</t>
-			<t pos="N">kunnolla</t>
+			<t pos="Adv">kunnolla</t>
          </tg>
       </mg>
    </e>
@@ -5524,8 +5524,8 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="Adv">esille</t>
             <t pos="Adv">esillä</t>
-            <t pos="N">näytteille</t>
-            <t pos="N">näytteillä</t>
+            <t pos="Adv">näytteille</t>
+            <t pos="Adv">näytteillä</t>
          </tg>
       </mg>
    </e>
@@ -5555,7 +5555,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">kerrassaan</t>
+            <t pos="Adv">kerrassaan</t>
 			<t pos="Adv">ehjäkärkinen (poron korvasta)</t>
          </tg>
       </mg>
@@ -7930,7 +7930,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">kireällä</t>
-			<t pos="N">tiukalla</t>
+			<t pos="Adv">tiukalla</t>
          </tg>
       </mg>
    </e>
@@ -8389,7 +8389,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">vinossa</t>
-			<t pos="N">käyrässä</t>
+			<t pos="Adv">käyrässä</t>
          </tg>
       </mg>
    </e>
@@ -8565,7 +8565,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">hirveän (attr.)</t>
-			<t pos="N">liian</t>
+			<t pos="Adv">liian</t>
          </tg>
       </mg>
    </e>
@@ -10240,7 +10240,7 @@ For the full license text, see the link above.
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">mutkin</t>
+            <t pos="Adv">mutkin</t>
          </tg>
       </mg>
    </e>
