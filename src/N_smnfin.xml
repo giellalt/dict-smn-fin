@@ -6806,6 +6806,16 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+    <e id="N_649">
+      <lg>
+         <l>čaitâlmâš</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">näytelmä</t>
+         </tg>
+      </mg>
+   </e>
    <e id="N_650">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="čáittus" sg_ill="čáittusân">čááitus</l>
@@ -6813,6 +6823,13 @@ For the full license text, see the link above.
       <mg rest="čáittus">
          <tg xml:lang="fin">
             <t pos="N">näyte</t>
+         </tg>
+      </mg>
+      <mg rest="čáittus">
+         <tg xml:lang="fin">
+            <t pos="N">näytös</t>
+            <t pos="N">esitys</t>
+            <t pos="N">esittelytilaisuus</t>
          </tg>
       </mg>
    </e>
@@ -6992,7 +7009,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="čá'itálduv">
          <tg xml:lang="fin">
-            <t pos="N">näytelmä</t>
+            <t pos="N">näyttely</t>
          </tg>
       </mg>
    </e>
@@ -15472,7 +15489,13 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">osoittaja</t>
+            <t pos="N">näyttäjä</t>
+          </tg>
+      </mg>
+       <mg rest="">
+         <tg xml:lang="fin">
             <t pos="N">esittäjä</t>
+            <t pos="N">esittelijä</t>
          </tg>
       </mg>
    </e>
@@ -15482,7 +15505,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">näytäntö</t>
+            <t pos="N">esittely</t>
+            <t pos="N">näyttäminen</t>
          </tg>
       </mg>
    </e>
@@ -25696,6 +25720,7 @@ For the full license text, see the link above.
       <mg rest="-pitá">
          <tg xml:lang="fin">
             <t pos="N">koepala</t>
+            <t pos="N">näyte</t>
          </tg>
       </mg>
    </e>
@@ -144256,6 +144281,26 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="N">yhdenvertaisuus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">čaitâččem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pitempiaikainen esittely (tavaran)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">čaittâluhčâm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">pitempiaikainen esittely (tavaran)</t>
          </tg>
       </mg>
    </e>
