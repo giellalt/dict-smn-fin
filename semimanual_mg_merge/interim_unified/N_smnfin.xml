@@ -58770,11 +58770,11 @@
    </e>
    <e id="N_5879">
       <lg>
-         <l pos="N">miljard</l>
+         <l pos="Num">miljard</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">miljardi</t>
+            <t pos="Num">miljardi</t>
          </tg>
       </mg>
    </e>
@@ -58790,11 +58790,11 @@
    </e>
    <e id="N_5881">
       <lg>
-         <l pos="N">miljovn</l>
+         <l pos="Num">miljovn</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">miljoona</t>
+            <t pos="Num">miljoona</t>
          </tg>
       </mg>
    </e>
@@ -115923,11 +115923,11 @@
    </e>
    <e id="N_11534">
       <lg>
-         <l pos="N">tuhháát</l>
+         <l pos="Num">tuhháát</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="N">tuhat</t>
+            <t pos="Num">tuhat</t>
          </tg>
       </mg>
    </e>
