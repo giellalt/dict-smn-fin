@@ -7354,7 +7354,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">menetellä (toimia jllak tavalla)</t>
+            <t pos="V">menetellä (toimia jollakin tavalla)</t>
          </tg>
       </mg>
       <mg rest="">
@@ -10780,7 +10780,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">näyttää (jtak jllek)</t>
+            <t pos="V">näyttää (jtak jollekin)</t>
             <t pos="V">näyttäytyä</t>
          </tg>
       </mg>
@@ -17956,7 +17956,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">nakella toisiaan jllak (esim. lumipalloilla, kivillä)</t>
+            <t pos="V">nakella toisiaan jollakin (esim. lumipalloilla, kivillä)</t>
          </tg>
       </mg>
    </e>
@@ -18612,7 +18612,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">kehua jllak asialla</t>
+            <t pos="V">kehua jollakin asialla</t>
             <t pos="V">kerskailla</t>
             <t pos="V">ylpeillä</t>
          </tg>
@@ -22196,7 +22196,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">liietä</t>
-            <t pos="V">riittää annettavaa (jltak jllek)</t>
+            <t pos="V">riittää annettavaa (jltak jollekin)</t>
          </tg>
       </mg>
    </e>
@@ -22206,7 +22206,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">liietä (jltak jllek)</t>
+            <t pos="V">liietä (jltak jollekin)</t>
             <t pos="V">voida antaa (kun on ylimääräistä)</t>
          </tg>
       </mg>
@@ -22790,7 +22790,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">valaa (useamman kerran ja/tai pidempään)</t>
-            <t pos="V">valella (jllak)</t>
+            <t pos="V">valella (jollakin)</t>
          </tg>
       </mg>
    </e>
@@ -23465,7 +23465,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">peittää (jllak)</t>
+            <t pos="V">peittää (jollakin)</t>
          </tg>
       </mg>
    </e>
@@ -23475,7 +23475,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">peittää (jllak nopeasti)</t>
+            <t pos="V">peittää (jollakin nopeasti)</t>
          </tg>
       </mg>
    </e>
@@ -30256,7 +30256,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">edetä hitaasti (jllak kulkuneuvolla)</t>
+            <t pos="V">edetä hitaasti (jollakin kulkuneuvolla)</t>
          </tg>
       </mg>
       <mg rest="">
@@ -31243,7 +31243,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">antaa vapaa-aikaa jllek</t>
+            <t pos="V">antaa vapaa-aikaa jollekin</t>
          </tg>
       </mg>
    </e>
@@ -31253,7 +31253,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">ostella (yrittää ostaa)</t>
+            <t pos="V">ostella</t>
             <t pos="V">yrittää ostaa</t>
          </tg>
       </mg>
@@ -31266,7 +31266,8 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="V">ehtiä</t>
             <t pos="V">löytää aikaa jhk</t>
-            <t pos="V">ehtiä (jhk olla aikaa mennä jhk)</t>
+            <t pos="V">ehtiä jhk</t>
+            <t pos="V">olla aikaa mennä jhk</t>
          </tg>
       </mg>
    </e>
@@ -37703,7 +37704,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">pistää (jhk jllak terävällä)</t>
+            <t pos="V">pistää (jhk jollakin terävällä)</t>
          </tg>
       </mg>
       <mg rest="">
@@ -57467,7 +57468,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">ajaa (jllak välineellä)</t>
+            <t pos="V">ajaa</t>
          </tg>
       </mg>
    </e>
@@ -57487,9 +57488,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">tulla heikoksi (voimiltaan)</t>
+            <t pos="V" l_par="voimiltaan">tulla heikoksi</t>
             <t pos="V">menettää voimansa</t>
-            <t pos="V">tulla voimattomaksi tai veltoksi</t>
          </tg>
       </mg>
    </e>
@@ -57606,8 +57606,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">nirsoilla (raskaana olevasta naisesta, jolla ei ole ruokahalua esim. pahoinvoinnin takia)</t>
-            <t pos="V">valikoida ruokansa (raskaana olevasta naisesta, jolla ei ole ruokahalua esim. pahoinvoinnin takia)</t>
+            <t pos="V" l_par="raskaana olevasta naisesta, jolla ei ole ruokahalua esim. pahoinvoinnin takia">nirsoilla</t>
          </tg>
       </mg>
    </e>
