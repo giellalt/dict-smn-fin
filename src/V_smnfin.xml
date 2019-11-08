@@ -45328,6 +45328,11 @@ For the full license text, see the link above.
             <t pos="V">synnyttää</t>
          </tg>
       </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">kasvattaa</t>
+         </tg>
+      </mg>      
    </e>
    <e id="V_4156">
       <lg>
@@ -58943,4 +58948,45 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="V">mulsâšuddâđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">vaihdella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">uđâdiđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">uusia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">palhâšiđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">palkita</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">palhâšuđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">saada palkinto</t>
+            <t pos="V">tulla palkituksi</t>            
+         </tg>
+      </mg>
+   </e>   
 </r>
