@@ -8329,6 +8329,10 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">liian</t>
+            <xg>
+               <x>meendu lussâd</x>
+               <xt>erittäin/liian raskas</xt>
+            </xg>            
          </tg>
       </mg>
    </e>
@@ -10953,6 +10957,10 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="Adv">aika</t>
             <t pos="Adv">melko</t>
+             <xg>
+                <x>Kaačâi viehâ kuhás.</x>
+                <xt>Juoksi melko kauas.</xt>
+            </xg>                                    
          </tg>
       </mg>
    </e>
@@ -11078,5 +11086,28 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-
+   <e id="Po_30">
+      <lg>
+         <l pos="Adv">uáli</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">erittäin</t>
+            <t pos="Adv">hyvin</t>
+             <xg>
+                <x>Tot lii uáli pyeri.</x>
+                <xt>Se on erittäin hyvä.</xt>
+            </xg>                                    
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">kovin</t>
+             <xg>
+                <x>Tot ij lah uáli pastel.</x>
+                <xt>Se ei ole kovin terävä.</xt>
+            </xg>                                                
+         </tg>
+      </mg>
+   </e>
 </r>
