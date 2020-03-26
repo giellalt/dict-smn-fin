@@ -177,7 +177,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_15">
       <lg>
-         <l g_stem="Sg" pos="N">ááimuputesteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">ááimuputesteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -636,7 +636,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="aalmugovdâsteijee"
-            sg_ill="aalmugovdâsteijei">aalmugovdâsteijee</l>
+            sg_ill="aalmugovdâsteijei" type="NomAg">aalmugovdâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -894,7 +894,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_77">
       <lg>
-         <l g_stem="Sg" pos="N">áámmáthárjutteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">áámmáthárjutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -1612,7 +1612,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_142">
       <lg>
-         <l g_stem="Sg" pos="N">acâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">acâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2147,7 +2147,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_196">
       <lg>
-         <l g_stem="Sg" pos="N">áigádeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">áigádeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2360,7 +2360,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_215">
       <lg>
-         <l g_stem="Sg" pos="N">áimulahtâdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">áimulahtâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2626,7 +2626,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_242">
       <lg>
-         <l g_stem="Sg" pos="N">aitârdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">aitârdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -2776,7 +2776,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="akkulyeđejeijee"
-            sg_ill="akkulyeđejeijei">akkulyeđejeijee</l>
+            sg_ill="akkulyeđejeijei" type="NomAg">akkulyeđejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -3496,7 +3496,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_328">
       <lg>
-         <l g_stem="Sg" pos="N">álgujalgejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">álgujalgejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -4434,7 +4434,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="amnâsmáttáátteijee"
-            sg_ill="amnâsmáttáátteijei">amnâsmáttáátteijee</l>
+            sg_ill="amnâsmáttáátteijei" type="NomAg">amnâsmáttáátteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5652,7 +5652,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_535">
       <lg>
-         <l g_stem="Sg" pos="N">ášášeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">ášášeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5682,7 +5682,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_538">
       <lg>
-         <l g_stem="Sg" pos="N">ášásteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">ášásteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5693,7 +5693,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_539">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="ášášteijee" sg_ill="ášášteijei">ášášteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="ášášteijee" sg_ill="ášášteijei" type="NomAg">ášášteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -5716,7 +5716,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="asâttâhhoittájeijee"
-            sg_ill="asâttâhhoittájeijei">asâttâhhoittájeijee</l>
+            sg_ill="asâttâhhoittájeijei" type="NomAg">asâttâhhoittájeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -6113,7 +6113,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="autoinvyeijee"
-            sg_ill="autoinvyeijei">autoinvyeijee</l>
+            sg_ill="autoinvyeijei" type="NomAg">autoinvyeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -6249,7 +6249,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_593">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="autovyeijee" sg_ill="autovyeijei">autovyeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="autovyeijee" sg_ill="autovyeijei" type="NomAg">autovyeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -6280,7 +6280,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_596">
       <lg>
-         <l g_stem="Sg" pos="N">avâšteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">avâšteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -7025,7 +7025,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_673">
       <lg>
-         <l g_stem="Sg" pos="N">čaittâleijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">čaittâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -8165,7 +8165,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_775">
       <lg>
-         <l g_stem="Sg" pos="N">časkâdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">časkâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -10467,7 +10467,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_986">
       <lg>
-         <l g_stem="Sg" pos="N">cokkiitteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">cokkiitteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -10841,7 +10841,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1027">
       <lg>
-         <l g_stem="Sg" pos="N">čorgejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">čorgejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -11901,7 +11901,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1129">
       <lg>
-         <l g_stem="Sg" pos="N">čuáskudeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">čuáskudeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -12569,7 +12569,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1190">
       <lg>
-         <l g_stem="Sg" pos="N">čujotteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">čujotteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -12651,7 +12651,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1198">
       <lg>
-         <l g_stem="Sg" pos="N">culijdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">culijdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -13145,7 +13145,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1243">
       <lg>
-         <l g_stem="Sg" pos="N">čuoigâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">čuoigâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -13246,7 +13246,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1252">
       <lg>
-         <l g_stem="Sg" pos="N">čuojâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">čuojâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -16997,7 +16997,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="eennâmviljâleijee"
-            sg_ill="eennâmviljâleijei">eennâmviljâleijee</l>
+            sg_ill="eennâmviljâleijei" type="NomAg">eennâmviljâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -17435,7 +17435,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="elektroniikstellejeijee"
-            sg_ill="elektroniikstellejeijei">elektroniikstellejeijee</l>
+            sg_ill="elektroniikstellejeijei" type="NomAg">elektroniikstellejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -17776,7 +17776,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="enâmânvärrejeijee"
-            sg_ill="enâmânvärrejeijei">enâmânvärrejeijee</l>
+            sg_ill="enâmânvärrejeijei" type="NomAg">enâmânvärrejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -17815,7 +17815,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="enâmistvärrejeijee"
-            sg_ill="enâmistvärrejeijei">enâmistvärrejeijee</l>
+            sg_ill="enâmistvärrejeijei" type="NomAg">enâmistvärrejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -17934,7 +17934,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1684">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="ennusteijee" sg_ill="ennusteijei">ennusteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="ennusteijee" sg_ill="ennusteijei" type="NomAg">ennusteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -17997,7 +17997,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1690">
       <lg>
-         <l g_stem="Sg" pos="N">epijuátkojeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">epijuátkojeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18183,7 +18183,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="ergijnvyeijee"
-            sg_ill="ergijnvyeijei">ergijnvyeijee</l>
+            sg_ill="ergijnvyeijei" type="NomAg">ergijnvyeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -18581,7 +18581,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="euro-ovdâsteijee"
-            sg_ill="euro-ovdâsteijei">euro-ovdâsteijee</l>
+            sg_ill="euro-ovdâsteijei" type="NomAg">euro-ovdâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19157,7 +19157,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1813">
       <lg>
-         <l g_stem="Sg" pos="N">fievrideijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">fievrideijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -19260,7 +19260,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1822">
       <lg>
-         <l g_stem="Sg" pos="N">fillejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">fillejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -20978,7 +20978,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_1983">
       <lg>
-         <l g_stem="Sg" pos="N">haldâšeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">haldâšeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -22285,7 +22285,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2118">
       <lg>
-         <l g_stem="Sg" pos="N">hiccejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">hiccejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -22844,7 +22844,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="hiärskudeijee"
-            sg_ill="hiärskudeijei">hiärskudeijee</l>
+            sg_ill="hiärskudeijei" type="NomAg">hiärskudeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -23025,7 +23025,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2188">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="hoidájeijee" sg_ill="hoidájeijei">hoidájeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="hoidájeijee" sg_ill="hoidájeijei" type="NomAg">hoidájeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -23035,7 +23035,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2189">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="hoittájeijee" sg_ill="hoittájeijei">hoittájeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="hoittájeijee" sg_ill="hoittájeijei" type="NomAg">hoittájeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -23317,7 +23317,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2220">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="huárásteijee" sg_ill="huárásteijei">huárásteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="huárásteijee" sg_ill="huárásteijei" type="NomAg">huárásteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -23347,7 +23347,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2224">
       <lg>
-         <l g_stem="Sg" pos="N">huávdejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">huávdejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -23438,7 +23438,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2232">
       <lg>
-         <l g_stem="Sg" pos="N">huksiitteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">huksiitteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -23508,7 +23508,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2239">
       <lg>
-         <l g_stem="Sg" pos="N">huksimtárkkojeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">huksimtárkkojeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -23613,7 +23613,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2250">
       <lg>
-         <l g_stem="Sg" pos="N">huolâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">huolâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -24941,7 +24941,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="ijjâvärrejeijee"
-            sg_ill="ijjâvärrejeijei">ijjâvärrejeijee</l>
+            sg_ill="ijjâvärrejeijei" type="NomAg">ijjâvärrejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -25486,7 +25486,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2443">
       <lg>
-         <l g_stem="Sg" pos="N">irâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">irâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -25592,7 +25592,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2453">
       <lg>
-         <l g_stem="Sg" pos="N">išedeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">išedeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -27510,7 +27510,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2636">
       <lg>
-         <l g_stem="Sg" pos="N">jienâaledeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">jienâaledeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -27609,7 +27609,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="jienânanodeijee"
-            sg_ill="jienânanodeijei">jienânanodeijee</l>
+            sg_ill="jienânanodeijei" type="NomAg">jienânanodeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -27660,7 +27660,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2651">
       <lg>
-         <l g_stem="Sg" pos="N">jienâšiäđudeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">jienâšiäđudeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -28643,7 +28643,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2746">
       <lg>
-         <l g_stem="Sg" pos="N">jođetteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">jođetteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -30254,7 +30254,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2897">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="jurgâleijee" sg_ill="jurgâleijei">jurgâleijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="jurgâleijee" sg_ill="jurgâleijei" type="NomAg">jurgâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -30683,7 +30683,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_2939">
       <lg>
-         <l g_stem="Sg" pos="N">juvâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">juvâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -32557,7 +32557,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3117">
       <lg>
-         <l g_stem="Sg" pos="N">kalâččeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kalâččeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -33031,7 +33031,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="kamovärrejeijee"
-            sg_ill="kamovärrejeijei">kamovärrejeijee</l>
+            sg_ill="kamovärrejeijei" type="NomAg">kamovärrejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -33766,7 +33766,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3234">
       <lg>
-         <l g_stem="Sg" pos="N">kašmârdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kašmârdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -34949,7 +34949,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3349">
       <lg>
-         <l g_stem="Sg" pos="N">kepideijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kepideijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -35163,7 +35163,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3370">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="kerjideijee" sg_ill="kerjideijei">kerjideijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="kerjideijee" sg_ill="kerjideijei" type="NomAg">kerjideijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -35938,7 +35938,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="kiddodâhomâsteijee"
-            sg_ill="kiddodâhomâsteijei">kiddodâhomâsteijee</l>
+            sg_ill="kiddodâhomâsteijei" type="NomAg">kiddodâhomâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -36790,7 +36790,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3516">
       <lg>
-         <l g_stem="Sg" pos="N">kiepâsodâsteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kiepâsodâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -37461,7 +37461,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3577">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="kihtâleijee" sg_ill="kihtâleijei">kihtâleijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="kihtâleijee" sg_ill="kihtâleijei" type="NomAg">kihtâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -38249,7 +38249,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3653">
       <lg>
-         <l g_stem="Sg" pos="N">kirdemjođetteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kirdemjođetteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -38906,7 +38906,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3717">
       <lg>
-         <l g_stem="Sg" pos="N">kiškomlarmâdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kiškomlarmâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -39097,7 +39097,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3738">
       <lg>
-         <l g_stem="Sg" pos="N">kivsedeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kivsedeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -42717,7 +42717,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4100">
       <lg>
-         <l g_stem="Sg" pos="N">kovvejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kovvejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -43185,7 +43185,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4141">
       <lg>
-         <l g_stem="Sg" pos="N">kuáđutteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kuáđutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -43368,7 +43368,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4158">
       <lg>
-         <l g_stem="Sg" pos="N">kuálásteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kuálásteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -43954,7 +43954,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4216">
       <lg>
-         <l g_stem="Sg" pos="N">kuástideijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kuástideijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -44915,7 +44915,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4310">
       <lg>
-         <l g_stem="Sg" pos="N">kulâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kulâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -44925,7 +44925,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4311">
       <lg>
-         <l g_stem="Sg" pos="N">kuldâleijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kuldâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -45273,7 +45273,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4350">
       <lg>
-         <l g_stem="Sg" pos="N">kunâgâskuálásteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kunâgâskuálásteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -46670,7 +46670,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="kuovđâspáálváškalâččeijee"
-            sg_ill="kuovđâspáálváškalâččeijei">kuovđâspáálváškalâččeijee</l>
+            sg_ill="kuovđâspáálváškalâččeijei" type="NomAg">kuovđâspáálváškalâččeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -48884,7 +48884,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4696">
       <lg>
-         <l g_stem="Sg" pos="N">kävildeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">kävildeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -49400,7 +49400,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="lááigunadeleijee"
-            sg_ill="lááigunadeleijei">lááigunadeleijee</l>
+            sg_ill="lááigunadeleijei" type="NomAg">lááigunadeleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -50613,7 +50613,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="láiguadeleijee"
-            sg_ill="láiguadeleijei">láiguadeleijee</l>
+            sg_ill="láiguadeleijei" type="NomAg">láiguadeleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -50623,7 +50623,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4858">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="láigudeijee" sg_ill="láigudeijei">láigudeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="láigudeijee" sg_ill="láigudeijei" type="NomAg">láigudeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -51112,7 +51112,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_4905">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="larmâdeijee" sg_ill="larmâdeijei">larmâdeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="larmâdeijee" sg_ill="larmâdeijei" type="NomAg">larmâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -54675,7 +54675,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5266">
       <lg>
-         <l g_stem="Sg" pos="N">luákkánjuškejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">luákkánjuškejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -54777,7 +54777,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5276">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="luámutteijee" sg_ill="luámutteijei">luámutteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="luámutteijee" sg_ill="luámutteijei" type="NomAg">luámutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -54874,7 +54874,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="luándusuojâleijee"
-            sg_ill="luándusuojâleijei">luándusuojâleijee</l>
+            sg_ill="luándusuojâleijei" type="NomAg">luándusuojâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -55562,7 +55562,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5357">
       <lg>
-         <l g_stem="Sg" pos="N">luoihâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">luoihâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -55977,7 +55977,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5405">
       <lg>
-         <l g_stem="Sg" pos="N">lyeđejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">lyeđejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -57546,7 +57546,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5562">
       <lg>
-         <l g_stem="Sg" pos="N">mađhâšeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">mađhâšeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -57631,7 +57631,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5572">
       <lg>
-         <l g_stem="Sg" pos="N">maigârdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">maigârdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -57664,7 +57664,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5576">
       <lg>
-         <l g_stem="Sg" pos="N">mainâsteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">mainâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -57932,7 +57932,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="manejođetteijee"
-            sg_ill="manejođetteijei">manejođetteijee</l>
+            sg_ill="manejođetteijei" type="NomAg">manejođetteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -58537,7 +58537,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5670">
       <lg>
-         <l g_stem="Sg" pos="N">máttáátteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">máttáátteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -58576,7 +58576,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5674">
       <lg>
-         <l g_stem="Sg" pos="N">mavsâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">mavsâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -58586,7 +58586,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5675">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="mávutteijee" sg_ill="mávutteijei">mávutteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="mávutteijee" sg_ill="mávutteijei" type="NomAg">mávutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -58691,7 +58691,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="meccihoittájeijee"
-            sg_ill="meccihoittájeijei">meccihoittájeijee</l>
+            sg_ill="meccihoittájeijei" type="NomAg">meccihoittájeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -59660,7 +59660,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5779">
       <lg>
-         <l g_stem="Sg" pos="N">merhâšeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">merhâšeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -61023,7 +61023,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_5913">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="miäcásteijee" sg_ill="miäcásteijei">miäcásteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="miäcásteijee" sg_ill="miäcásteijei" type="NomAg">miäcásteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -62118,7 +62118,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6020">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="morhedeijee" sg_ill="morhedeijei">morhedeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="morhedeijee" sg_ill="morhedeijei" type="NomAg">morhedeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -62565,7 +62565,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6069">
       <lg>
-         <l g_stem="Sg" pos="N">muldemoivejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">muldemoivejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -63408,7 +63408,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6149">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="muštâleijee" sg_ill="muštâleijei">muštâleijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="muštâleijee" sg_ill="muštâleijei" type="NomAg">muštâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -63527,7 +63527,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6160">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="muttojeijee" sg_ill="muttojeijei">muttojeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="muttojeijee" sg_ill="muttojeijei" type="NomAg">muttojeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -64057,7 +64057,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6213">
       <lg>
-         <l g_stem="Sg" pos="N">mälisteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">mälisteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -66646,7 +66646,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6468">
       <lg>
-         <l g_stem="Sg" pos="N">njomâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">njomâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -67019,7 +67019,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="njuárusteijee"
-            sg_ill="njuárusteijei">njuárusteijee</l>
+            sg_ill="njuárusteijei" type="NomAg">njuárusteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -67477,7 +67477,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6555">
       <lg>
-         <l g_stem="Sg" pos="N">njuoskâdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">njuoskâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -67723,7 +67723,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6577">
       <lg>
-         <l g_stem="Sg" pos="N">njuškotteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">njuškotteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -68084,7 +68084,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6614">
       <lg>
-         <l g_stem="Sg" pos="N">nomâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">nomâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -68874,7 +68874,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6691">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="nuotâsteijee" sg_ill="nuotâsteijei">nuotâsteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="nuotâsteijee" sg_ill="nuotâsteijei" type="NomAg">nuotâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -69166,7 +69166,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6719">
       <lg>
-         <l g_stem="Sg" pos="N">nyettejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">nyettejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -69231,7 +69231,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6725">
       <lg>
-         <l g_stem="Sg" pos="N">näggejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">näggejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -70322,7 +70322,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="olgosadeleijee"
-            sg_ill="olgosadeleijei">olgosadeleijee</l>
+            sg_ill="olgosadeleijei" type="NomAg">olgosadeleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -70801,7 +70801,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6879">
       <lg>
-         <l g_stem="Sg" pos="N">omâsteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">omâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -71423,7 +71423,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_6938">
       <lg>
-         <l g_stem="Sg" pos="N">opâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">opâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -72608,7 +72608,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7055">
       <lg>
-         <l g_stem="Sg" pos="N">ovdâsteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">ovdâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -74299,7 +74299,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7223">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="palgâtteijee" sg_ill="palgâtteijei">palgâtteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="palgâtteijee" sg_ill="palgâtteijei" type="NomAg">palgâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -74481,7 +74481,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7242">
       <lg>
-         <l g_stem="Sg" pos="N">palvâleijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">palvâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -74936,7 +74936,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="pargoadeleijee"
-            sg_ill="pargoadeleijei">pargoadeleijee</l>
+            sg_ill="pargoadeleijei" type="NomAg">pargoadeleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -75605,7 +75605,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="pargovyeimirävvejeijee"
-            sg_ill="pargovyeimirävvejeijei">pargovyeimirävvejeijee</l>
+            sg_ill="pargovyeimirävvejeijei" type="NomAg">pargovyeimirävvejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -75839,7 +75839,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7365">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="párutuáijee" sg_ill="párutuáijei">párutuáijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="párutuáijee" sg_ill="párutuáijei" type="NomAg">párutuáijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -76195,7 +76195,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7399">
       <lg>
-         <l g_stem="Sg" pos="N">patâreijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">patâreijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -76548,7 +76548,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="peeivitäsideijee"
-            sg_ill="peeivitäsideijei">peeivitäsideijee</l>
+            sg_ill="peeivitäsideijei" type="NomAg">peeivitäsideijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -76620,7 +76620,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7441">
       <lg>
-         <l g_stem="Sg" pos="N">peeŋkâliegâdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">peeŋkâliegâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -78039,7 +78039,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7595">
       <lg>
-         <l g_stem="Sg" pos="N">pesipatâreijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">pesipatâreijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -78437,7 +78437,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7638">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="pieđgejeijee" sg_ill="pieđgejeijei">pieđgejeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="pieđgejeijee" sg_ill="pieđgejeijei" type="NomAg">pieđgejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -78574,7 +78574,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7650">
       <lg>
-         <l g_stem="Sg" pos="N">pieggâkovjiitteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">pieggâkovjiitteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -78690,7 +78690,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7660">
       <lg>
-         <l g_stem="Sg" pos="N">piegguutteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">piegguutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -79285,7 +79285,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7720">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="pilledeijee" sg_ill="pilledeijei">pilledeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="pilledeijee" sg_ill="pilledeijei" type="NomAg">pilledeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -80097,7 +80097,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="piähtusiävutteijee"
-            sg_ill="piähtusiävutteijei">piähtusiävutteijee</l>
+            sg_ill="piähtusiävutteijei" type="NomAg">piähtusiävutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -80858,7 +80858,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_7876">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="piävutteijee" sg_ill="piävutteijei">piävutteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="piävutteijee" sg_ill="piävutteijei" type="NomAg">piävutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -81032,7 +81032,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="pocceestellejeijee"
-            sg_ill="pocceestellejeijei">pocceestellejeijee</l>
+            sg_ill="pocceestellejeijei" type="NomAg">pocceestellejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -81595,7 +81595,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="poorástivrejeijee"
-            sg_ill="poorástivrejeijei">poorástivrejeijee</l>
+            sg_ill="poorástivrejeijei" type="NomAg">poorástivrejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -81628,7 +81628,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="poostâjođetteijee"
-            sg_ill="poostâjođetteijei">poostâjođetteijee</l>
+            sg_ill="poostâjođetteijei" type="NomAg">poostâjođetteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -81985,7 +81985,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="possijdvajâldeijee"
-            sg_ill="possijdvajâldeijei">possijdvajâldeijee</l>
+            sg_ill="possijdvajâldeijei" type="NomAg">possijdvajâldeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -83341,7 +83341,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8123">
       <lg>
-         <l g_stem="Sg" pos="N">puáluvárutteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">puáluvárutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -83717,7 +83717,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="puásuiomâsteijee"
-            sg_ill="puásuiomâsteijei">puásuiomâsteijee</l>
+            sg_ill="puásuiomâsteijei" type="NomAg">puásuiomâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -84391,7 +84391,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8223">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="puohčâleijee" sg_ill="puohčâleijei">puohčâleijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="puohčâleijee" sg_ill="puohčâleijei" type="NomAg">puohčâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -84677,7 +84677,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8252">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="puovtâdeijee" sg_ill="puovtâdeijei">puovtâdeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="puovtâdeijee" sg_ill="puovtâdeijei" type="NomAg">puovtâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -84687,7 +84687,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8253">
       <lg>
-         <l g_stem="Sg" pos="N">purâdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">purâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -85610,7 +85610,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="pyecceiviäsuišedeijee"
-            sg_ill="pyecceiviäsuišedeijei">pyecceiviäsuišedeijee</l>
+            sg_ill="pyecceiviäsuišedeijei" type="NomAg">pyecceiviäsuišedeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -85774,7 +85774,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8357">
       <lg>
-         <l g_stem="Sg" pos="N">pyeredeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">pyeredeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -85866,7 +85866,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8366">
       <lg>
-         <l g_stem="Sg" pos="N">pyevtitteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">pyevtitteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -87241,7 +87241,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="raavâadeleijee"
-            sg_ill="raavâadeleijei">raavâadeleijee</l>
+            sg_ill="raavâadeleijei" type="NomAg">raavâadeleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -87337,7 +87337,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8510">
       <lg>
-         <l g_stem="Sg" pos="N">ráávhutorvejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">ráávhutorvejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -87350,7 +87350,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="ráávhutorvodeijee"
-            sg_ill="ráávhutorvodeijei">ráávhutorvodeijee</l>
+            sg_ill="ráávhutorvodeijei" type="NomAg">ráávhutorvodeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -88393,7 +88393,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8623">
       <lg>
-         <l g_stem="Sg" pos="N">reeivâlonotteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">reeivâlonotteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -89416,7 +89416,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8721">
       <lg>
-         <l g_stem="Sg" pos="N">rievdâdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">rievdâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -89476,7 +89476,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_8726">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="riggeereijee" sg_ill="riggeereijei">riggeereijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="riggeereijee" sg_ill="riggeereijei" type="NomAg">riggeereijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -93475,7 +93475,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9105">
       <lg>
-         <l g_stem="Sg" pos="N">ruškisruotâdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">ruškisruotâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -93746,7 +93746,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9128">
       <lg>
-         <l g_stem="Sg" pos="N">ruttâlonotteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">ruttâlonotteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -94285,7 +94285,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9181">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="ruvvejeijee" sg_ill="ruvvejeijei">ruvvejeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="ruvvejeijee" sg_ill="ruvvejeijei" type="NomAg">ruvvejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -94409,7 +94409,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9192">
       <lg>
-         <l g_stem="Sg" pos="N">ryettejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">ryettejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -94653,7 +94653,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9213">
       <lg>
-         <l g_stem="Sg" pos="N">räđđejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">räđđejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -94775,7 +94775,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9225">
       <lg>
-         <l g_stem="Sg" pos="N">räijejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">räijejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -95266,7 +95266,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9269">
       <lg>
-         <l g_stem="Sg" pos="N">rävvejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">rävvejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -96840,7 +96840,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9414">
       <lg>
-         <l g_stem="Sg" pos="N">salâsteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">salâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -96870,7 +96870,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9417">
       <lg>
-         <l g_stem="Sg" pos="N">šaldeloptejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">šaldeloptejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -99199,7 +99199,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="sierânâsmáttáátteijee"
-            sg_ill="sierânâsmáttáátteijei">sierânâsmáttáátteijee</l>
+            sg_ill="sierânâsmáttáátteijei" type="NomAg">sierânâsmáttáátteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -100483,7 +100483,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9771">
       <lg>
-         <l g_stem="Sg" pos="N">širijdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">širijdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -100679,7 +100679,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="sisliegâdeijee"
-            sg_ill="sisliegâdeijei">sisliegâdeijee</l>
+            sg_ill="sisliegâdeijei" type="NomAg">sisliegâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -101336,7 +101336,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9857">
       <lg>
-         <l g_stem="Sg" pos="N">siävutteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">siävutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -101933,7 +101933,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9917">
       <lg>
-         <l g_stem="Sg" pos="N">skođâsteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">skođâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -102551,7 +102551,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_9977">
       <lg>
-         <l g_stem="Sg" pos="N">šladârdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">šladârdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -104089,7 +104089,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="šoŋŋâvärrejeijee"
-            sg_ill="šoŋŋâvärrejeijei">šoŋŋâvärrejeijee</l>
+            sg_ill="šoŋŋâvärrejeijei" type="NomAg">šoŋŋâvärrejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -104588,7 +104588,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10178">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="sorvájeijee" sg_ill="sorvájeijei">sorvájeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="sorvájeijee" sg_ill="sorvájeijei" type="NomAg">sorvájeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -104835,7 +104835,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10203">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="sovkkâleijee" sg_ill="sovkkâleijei">sovkkâleijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="sovkkâleijee" sg_ill="sovkkâleijei" type="NomAg">sovkkâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -104951,7 +104951,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="spáálváškalâččeijee"
-            sg_ill="spáálváškalâččeijei">spáálváškalâččeijee</l>
+            sg_ill="spáálváškalâččeijei" type="NomAg">spáálváškalâččeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -106163,7 +106163,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10327">
       <lg>
-         <l g_stem="Sg" pos="N">stellejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">stellejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -106423,7 +106423,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10353">
       <lg>
-         <l g_stem="Sg" pos="N">stivrejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">stivrejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -106486,7 +106486,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="stiämmájeijee"
-            sg_ill="stiämmájeijei">stiämmájeijee</l>
+            sg_ill="stiämmájeijei" type="NomAg">stiämmájeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -107361,7 +107361,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10436">
       <lg>
-         <l g_stem="Sg" pos="N">stäjideijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">stäjideijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -108432,7 +108432,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10534">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="sudetteijee" sg_ill="sudetteijei">sudetteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="sudetteijee" sg_ill="sudetteijei" type="NomAg">sudetteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -108882,7 +108882,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10577">
       <lg>
-         <l g_stem="Sg" pos="N">sundásteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">sundásteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -108923,7 +108923,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10581">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="sundedeijee" sg_ill="sundedeijei">sundedeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="sundedeijee" sg_ill="sundedeijei" type="NomAg">sundedeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -108958,7 +108958,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10584">
       <lg>
-         <l g_stem="Sg" pos="N">sundejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">sundejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -110553,7 +110553,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="syelivákšojeijee"
-            sg_ill="syelivákšojeijei">syelivákšojeijee</l>
+            sg_ill="syelivákšojeijei" type="NomAg">syelivákšojeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -111932,7 +111932,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10863">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="särnideijee" sg_ill="särnideijei">särnideijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="särnideijee" sg_ill="särnideijei" type="NomAg">särnideijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -112825,7 +112825,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10949">
       <lg>
-         <l g_stem="Sg" pos="N">tájutteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">tájutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -113317,7 +113317,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10997">
       <lg>
-         <l g_stem="Sg" pos="N">tannejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">tannejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -113337,7 +113337,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11000">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="tánssájeijee" sg_ill="tánssájeijei">tánssájeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="tánssájeijee" sg_ill="tánssájeijei" type="NomAg">tánssájeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -113472,7 +113472,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11016">
       <lg>
-         <l g_stem="Sg" pos="N">tárkkojeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">tárkkojeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -114857,7 +114857,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11148">
       <lg>
-         <l g_stem="Sg" pos="N">tieđetteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">tieđetteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -115043,7 +115043,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11168">
       <lg>
-         <l g_stem="Sg" pos="N">tiervâsvuođâtärhisteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">tiervâsvuođâtärhisteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -115583,7 +115583,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="tiilitärhisteijee;tilitärhisteijee"
-            sg_ill="tiilitärhisteijei;tilitärhisteijee;tilitärhisteijei">tilitärhisteijee</l>
+            sg_ill="tiilitärhisteijei;tilitärhisteijee;tilitärhisteijei" type="NomAg">tilitärhisteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -115956,7 +115956,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11254">
       <lg>
-         <l g_stem="Sg" pos="N">tivtâsteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">tivtâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -116550,7 +116550,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="toimâjođetteijee"
-            sg_ill="toimâjođetteijei">toimâjođetteijee</l>
+            sg_ill="toimâjođetteijei" type="NomAg">toimâjođetteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -116640,7 +116640,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="toimânpieijee"
-            sg_ill="toimânpieijei">toimânpieijee</l>
+            sg_ill="toimânpieijei" type="NomAg">toimânpieijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -116833,7 +116833,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="toimâttâsjođetteijee"
-            sg_ill="toimâttâsjođetteijei">toimâttâsjođetteijee</l>
+            sg_ill="toimâttâsjođetteijei" type="NomAg">toimâttâsjođetteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -116908,7 +116908,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11345">
       <lg>
-         <l g_stem="Sg" pos="N">toimâtteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">toimâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -117132,7 +117132,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="tooimâhaldâšeijee"
-            sg_ill="tooimâhaldâšeijei">tooimâhaldâšeijee</l>
+            sg_ill="tooimâhaldâšeijei" type="NomAg">tooimâhaldâšeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -117940,7 +117940,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11451">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="tuáijee" sg_ill="tuáijei">tuáijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="tuáijee" sg_ill="tuáijei" type="NomAg">tuáijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -118062,7 +118062,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11464">
       <lg>
-         <l g_stem="Sg" pos="N">tuállejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">tuállejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -119722,7 +119722,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11620">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="tuođâšteijee" sg_ill="tuođâšteijei">tuođâšteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="tuođâšteijee" sg_ill="tuođâšteijei" type="NomAg">tuođâšteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -120287,7 +120287,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11676">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="tuppájeijee" sg_ill="tuppájeijei">tuppájeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="tuppájeijee" sg_ill="tuppájeijei" type="NomAg">tuppájeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -120576,7 +120576,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11707">
       <lg>
-         <l g_stem="Sg" pos="N">tutkâmišedeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">tutkâmišedeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -121041,7 +121041,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11754">
       <lg>
-         <l g_stem="Sg" pos="N">tähideijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">tähideijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -121412,7 +121412,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11791">
       <lg>
-         <l g_stem="Sg" pos="N">tärhisteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">tärhisteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -121682,7 +121682,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11823">
       <lg>
-         <l g_stem="Sg" pos="N">tävisteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">tävisteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -122481,7 +122481,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="uáivitoimâtteijee"
-            sg_ill="uáivitoimâtteijei">uáivitoimâtteijee</l>
+            sg_ill="uáivitoimâtteijei" type="NomAg">uáivitoimâtteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -122831,7 +122831,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11929">
       <lg>
-         <l g_stem="Sg" pos="N">uápisteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">uápisteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -123061,7 +123061,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_11950">
       <lg>
-         <l g_stem="Sg" pos="N">uárnejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">uárnejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -123582,7 +123582,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12007">
       <lg>
-         <l g_stem="Sg" pos="N">uccáátiänájeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">uccáátiänájeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -123972,7 +123972,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12041">
       <lg>
-         <l g_stem="Sg" pos="N">uccâsodâsteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">uccâsodâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -126300,7 +126300,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12272">
       <lg>
-         <l g_stem="Sg" pos="N">vajâldeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">vajâldeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -126877,7 +126877,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12329">
       <lg>
-         <l g_stem="Sg" pos="N">vandârdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">vandârdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -127728,7 +127728,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12412">
       <lg>
-         <l g_stem="Sg" pos="N">venttiilloptejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">venttiilloptejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -128079,7 +128079,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12450">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="viekkejeijee" sg_ill="viekkejeijei">viekkejeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="viekkejeijee" sg_ill="viekkejeijei" type="NomAg">viekkejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -128872,7 +128872,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12514">
       <lg>
-         <l g_stem="Sg" pos="N">viešideijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">viešideijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -129519,7 +129519,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12579">
       <lg>
-         <l g_stem="Sg" pos="N">viljâleijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">viljâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -129812,7 +129812,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="virgehaldâšeijee"
-            sg_ill="virgehaldâšeijei">virgehaldâšeijee</l>
+            sg_ill="virgehaldâšeijei" type="NomAg">virgehaldâšeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -130699,7 +130699,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="viärjuinpiettâleijee"
-            sg_ill="viärjuinpiettâleijei">viärjuinpiettâleijee</l>
+            sg_ill="viärjuinpiettâleijei" type="NomAg">viärjuinpiettâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -131053,7 +131053,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12726">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="viärutteijee" sg_ill="viärutteijei">viärutteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="viärutteijee" sg_ill="viärutteijei" type="NomAg">viärutteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -132473,7 +132473,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12862">
       <lg>
-         <l g_stem="Sg" pos="N">vuástáväldimišedeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">vuástáväldimišedeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -132524,7 +132524,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12869">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="vuávájeijee" sg_ill="vuávájeijei">vuávájeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="vuávájeijee" sg_ill="vuávájeijei" type="NomAg">vuávájeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -132790,7 +132790,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="vuoigâdvuođâomâsteijee"
-            sg_ill="vuoigâdvuođâomâsteijei">vuoigâdvuođâomâsteijee</l>
+            sg_ill="vuoigâdvuođâomâsteijei" type="NomAg">vuoigâdvuođâomâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -133197,7 +133197,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12936">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="vuojâdeijee" sg_ill="vuojâdeijei">vuojâdeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="vuojâdeijee" sg_ill="vuojâdeijei" type="NomAg">vuojâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -133228,7 +133228,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12939">
       <lg>
-         <l g_stem="Sg" pos="N">vuojâleijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">vuojâleijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -133696,7 +133696,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12986">
       <lg>
-         <l g_stem="Sg" pos="N">vuoptâkoškejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">vuoptâkoškejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -134023,7 +134023,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13016">
       <lg>
-         <l g_stem="Sg" pos="N">vuovdâpessejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">vuovdâpessejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -134084,7 +134084,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13022">
       <lg>
-         <l g_stem="Sg" pos="N">vyeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">vyeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -135341,7 +135341,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13136">
       <lg>
-         <l g_stem="Sg" pos="N">välmejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">välmejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -135600,7 +135600,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13160">
       <lg>
-         <l g_stem="Sg" pos="N">värrejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">värrejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -136583,7 +136583,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13256">
       <lg>
-         <l g_stem="Sg" pos="N">ärbejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">ärbejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -136911,7 +136911,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="äššiomâsteijee"
-            sg_ill="äššiomâsteijei">äššiomâsteijee</l>
+            sg_ill="äššiomâsteijei" type="NomAg">äššiomâsteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -136974,7 +136974,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13292">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="äššivyeijee" sg_ill="äššivyeijei">äššivyeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="äššivyeijee" sg_ill="äššivyeijei" type="NomAg">äššivyeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -137426,7 +137426,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13342">
       <lg>
-         <l g_stem="Sg" pos="N">jottáátteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">jottáátteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -138460,7 +138460,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13461">
       <lg>
-         <l g_stem="Sg" pos="N">sierrejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">sierrejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -138940,7 +138940,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_13515">
       <lg>
-         <l g_stem="Sg" pos="N">volliitteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">volliitteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -139337,7 +139337,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_584">
       <lg>
-         <l g_stem="Sg" pos="N">killájeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">killájeijee</l>
       </lg>
       <mg rest="# -s">
          <tg xml:lang="fin">
@@ -139531,7 +139531,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_849">
       <lg>
-         <l g_stem="Sg" pos="N">mieđetteijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">mieđetteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -140199,7 +140199,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1655">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="tuššâdeijee" sg_ill="tuššâdeijei">tuššâdeijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="tuššâdeijee" sg_ill="tuššâdeijei" type="NomAg">tuššâdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -140290,7 +140290,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1887">
       <lg>
-         <l g_stem="Sg" pos="N">huksejeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">huksejeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -140300,7 +140300,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1890">
       <lg>
-         <l g_stem="Sg" pos="N">iberdeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">iberdeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -140313,7 +140313,7 @@ For the full license text, see the link above.
          <l g_stem="Sg"
             pos="N"
             sg_gen="installisteijee"
-            sg_ill="installisteijei">installisteijee</l>
+            sg_ill="installisteijei" type="NomAg">installisteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -140412,7 +140412,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_1960">
       <lg>
-         <l g_stem="Sg" pos="N">nanodeijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">nanodeijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -140422,7 +140422,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_2016">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="vuáđusteijee" sg_ill="vuáđusteijei">vuáđusteijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="vuáđusteijee" sg_ill="vuáđusteijei" type="NomAg">vuáđusteijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -140432,7 +140432,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_2017">
       <lg>
-         <l g_stem="Sg" pos="N">vuáláneijee</l>
+         <l g_stem="Sg" pos="N" type="NomAg">vuáláneijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -140442,7 +140442,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_2020">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="västideijee" sg_ill="västideijei">västideijee</l>
+         <l g_stem="Sg" pos="N" sg_gen="västideijee" sg_ill="västideijei" type="NomAg">västideijee</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -140545,7 +140545,7 @@ For the full license text, see the link above.
 	</e>
   <e>
       <lg>
-         <l pos="N">adeleijee</l>
+         <l pos="N" type="NomAg">adeleijee</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -141155,7 +141155,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">lohtâseijee</l>
+         <l pos="N" type="NomAg">lohtâseijee</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -141545,7 +141545,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">ovdâsdeijee</l>
+         <l pos="N" type="NomAg">ovdâsdeijee</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -141845,7 +141845,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">ráppájeijee</l>
+         <l pos="N" type="NomAg">ráppájeijee</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -141875,7 +141875,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">saavâjođetteijee</l>
+         <l pos="N" type="NomAg">saavâjođetteijee</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -141925,7 +141925,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">siisâvärrejeijee</l>
+         <l pos="N" type="NomAg">siisâvärrejeijee</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -142765,7 +142765,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">värisaavâjođetteijee</l>
+         <l pos="N" type="NomAg">värisaavâjođetteijee</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
