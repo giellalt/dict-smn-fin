@@ -144304,4 +144304,34 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N">tovkos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N"l_par="esim. ikkunassa t. saumassa">tiiviste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lavâdâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N"l_par="esim. ikkunassa t. saumassa">tiiviste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">suáhudâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N"l_par="tiivistetty aine">tiiviste</t>
+         </tg>
+      </mg>
+   </e>
 </r>
