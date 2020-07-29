@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r id="smnfin" xml:lang="smn">
    <lics xml:space="preserve">
   <lic xml:lang="en">
@@ -5597,7 +5598,7 @@ For the full license text, see the link above.
 			<t pos="Adv">vähän</t>
 			<t pos="Adv">hiukkasen</t>
          </tg>
-      </mg> 
+      </mg>
 	  <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">hetkisen</t>
@@ -8332,7 +8333,7 @@ For the full license text, see the link above.
             <xg>
                <x>meendu lussâd</x>
                <xt>erittäin/liian raskas</xt>
-            </xg>            
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10962,7 +10963,7 @@ For the full license text, see the link above.
 	<e id="Pcle_99">
        <lg>
           <l pos="Adv">viehâ</l>
-       </lg>  
+       </lg>
 	  <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">aika</t>
@@ -10970,7 +10971,7 @@ For the full license text, see the link above.
              <xg>
                 <x>Kaačâi viehâ kuhás.</x>
                 <xt>Juoksi melko kauas.</xt>
-            </xg>                                    
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11107,7 +11108,7 @@ For the full license text, see the link above.
              <xg>
                 <x>Tot lii uáli pyeri.</x>
                 <xt>Se on erittäin hyvä.</xt>
-            </xg>                                    
+            </xg>
          </tg>
       </mg>
       <mg rest="">
@@ -11116,7 +11117,7 @@ For the full license text, see the link above.
              <xg>
                 <x>Tot ij lah uáli pastel.</x>
                 <xt>Se ei ole kovin terävä.</xt>
-            </xg>                                                
+            </xg>
          </tg>
       </mg>
    </e>
