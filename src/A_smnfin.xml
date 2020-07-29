@@ -15949,19 +15949,21 @@ For the full license text, see the link above.
       <mg rest="säävri # sä'vris">
          <tg xml:lang="fin">
            <t pos="A">sitkeä</t>
-	   <re>fyysiseltä kunnoltaan</re>
+         </tg>
+         <tg xml:lang="fin">
+	       <re>fyysiseltä kunnoltaan</re>
             <t pos="A">hyväkuntoinen</t>
          </tg>
       </mg>
       <mg rest="säävri # sä'vris">
         <tg xml:lang="fin">
-	  <re>kalasta</re>
+            <re>kalasta</re>
             <t pos="A">tiivislihainen</t>
          </tg>
       </mg>
       <mg rest="">
         <tg xml:lang="fin">
-	  <re>vaatteesta</re>
+            <re>vaatteesta</re>
             <t pos="A">tukeva</t>
          </tg>
       </mg>

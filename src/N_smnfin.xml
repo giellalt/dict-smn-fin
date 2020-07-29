@@ -6808,7 +6808,7 @@ For the full license text, see the link above.
    </e>
     <e id="N_649">
       <lg>
-         <l>čaitâlmâš</l>
+         <l pos="N">čaitâlmâš</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -16197,7 +16197,7 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="N">sanonta</t>
          </tg>
-      </mg>.
+      </mg>
    </e>
    <e id="N_1528">
       <lg>
@@ -140595,11 +140595,11 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="kuuluva">eenâblovolâš</l>
+         <l pos="N">eenâblovolâš</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="kuuluva">enemmistöön kuuluva</t>
+            <t pos="N">enemmistöön kuuluva</t>
          </tg>
       </mg>
    </e>
@@ -141295,11 +141295,11 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="">moin</l>
+         <l pos="N">moin</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="">Naalijn</t>
+            <t pos="N">Naalijn</t>
          </tg>
       </mg>
    </e>
@@ -141585,11 +141585,11 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N ?">pajasšoddâdem</l>
+         <l pos="N">pajasšoddâdem</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N ?">kasvatus</t>
+            <t pos="N">kasvatus</t>
          </tg>
       </mg>
    </e>
