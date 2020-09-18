@@ -33882,17 +33882,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_3245">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="kastemááđu" sg_ill="kastemáátun">kastemáátu</l>
-      </lg>
-      <mg rest="-mááđu -máđo">
-         <tg xml:lang="fin">
-            <t pos="N" tt_auto="Lumbricus castaneus">onkiliero</t>
-            <t pos="N" tt_auto="Lumbricus castaneus">kastemato</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_3246">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="kastik" sg_ill="kastikân">kastik</l>
@@ -124613,7 +124602,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_12100">
       <lg>
-         <l pos="N" status="_unknown_N">uk-ujostâlâm</l>
+         <l pos="N" status="_unknown_N">uk-irâttâs</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
