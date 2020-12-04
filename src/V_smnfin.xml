@@ -9647,6 +9647,16 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="V_873">
+      <lg>
+         <l pl3="" sg1="" sg3="" pos="V">hiäpášâttâđ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">häväistä</t>
+         </tg>
+      </mg>
+   </e>
    <e id="V_875">
       <lg>
          <l pl3="hiärástâleh" sg1="hiärástâlâm" sg3="hiärástâl" pos="V">hiärástâllâđ</l>
@@ -10766,7 +10776,7 @@ For the full license text, see the link above.
    </e>
    <e id="V_977">
       <lg>
-         <l pl3="ihastâleh" sg1="ihastâlâm" sg3="ihastâl" pos="V">ihastâllâđ</l>
+         <l pl3="ihastâleh" sg1="ihastâlâm" sg3="ihastâl" pos="V">ihástâllâđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -10924,6 +10934,16 @@ For the full license text, see the link above.
    <e id="V_994">
       <lg>
          <l pl3="illâluveh" sg1="illâluum" sg3="illâluvá" pos="V">illâluđ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">hiiltyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_994">
+      <lg>
+         <l pl3="" sg1="" sg3="ilosmuvá" pos="V">ilostuđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
@@ -47218,7 +47238,29 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">jäykistäminen</t>
+            <t pos="V">jäykistää</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_4322">
+      <lg>
+         <l pl3="s" sg1="" sg3="" pos="V">storgâsmiđ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">jäykistyä</t>
+            <t pos="V">jähmettyä</t>
+            <t pos="V">kangistua</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="V_4322">
+      <lg>
+         <l pl3="" sg1="" sg3="" pos="V">storgâgiđ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">jäykistyä</t>
          </tg>
       </mg>
    </e>
@@ -56798,6 +56840,16 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="V_5201">
+      <lg>
+         <l pl3="" sg1="" sg3="" pos="V">kuávdásmiđ</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">keskittyä</t>
+         </tg>
+      </mg>
+   </e>
    <e id="V_5202">
       <lg>
          <l pl3="vuájutteh" sg1="vuájuttâm" sg3="vuájut" pos="V">vuájuttiđ</l>
@@ -59016,6 +59068,47 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="V">saada palkinto</t>
             <t pos="V">tulla palkituksi</t>            
+         </tg>
+      </mg>
+   </e>   
+   <e>
+      <lg>
+         <l pos="V">kohtâliđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">kohdella</t>
+         </tg>
+      </mg>
+   </e>   
+   <e>
+      <lg>
+         <l pos="V">laggâniđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">liueta</t>
+            <t pos="V">muuttua liuokseksi</t>
+         </tg>
+      </mg>
+   </e>   
+   <e>
+      <lg>
+         <l pos="V">nohhááttiđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">nukuttaa, erit. lääketieteessä</t>
+         </tg>
+      </mg>
+   </e>   
+   <e>
+      <lg>
+         <l pos="V">maasâdkeessiđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">perua</t>
          </tg>
       </mg>
    </e>   
