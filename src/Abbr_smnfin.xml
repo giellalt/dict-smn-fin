@@ -56,4 +56,25 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_11291">
+      <lg>
+         <l g_stem="Sg" pos="Abbr" sg_gen="tme">tme</l>
+      </lg>
+      <mg rest="= tijme)">
+         <tg xml:lang="fin">
+            <t pos="Abbr">klo (= kello)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11292">
+      <lg>
+         <l g_stem="Sg" pos="Abbr" sg_gen="tmt.">tmt.</l>
+      </lg>
+      <mg rest="tâi miinii tagarijd)">
+         <tg xml:lang="fin">
+            <t pos="Abbr">tms.</t>
+            <t pos="Abbr">tai muuta sellaista</t>
+         </tg>
+      </mg>
+   </e>
 </r>
