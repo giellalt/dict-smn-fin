@@ -20327,13 +20327,18 @@ For the full license text, see the link above.
    </e>
    <e id="V_1867">
       <lg>
-         <l pl3="kuullâđ+V+Ind+Prs+Pl3&#09;+?" sg1="kuullâđ+V+Ind+Prs+Sg1&#09;+?" sg3="kuullâđ+V+Ind+Prs+Sg3&#09;+?" pos="V">kuullâđ</l>
+         <l hid="Hom1" pos="V">kuullâđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kuulla</t>
          </tg>
       </mg>
+   </e>
+   <e id="V_1867b">
+      <lg>
+         <l hid="Hom2" pos="V">kuullâđ</l>
+      </lg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kuulua johonkin</t>
