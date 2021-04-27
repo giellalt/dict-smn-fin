@@ -104960,12 +104960,12 @@ For the full license text, see the link above.
    </e>
    <e id="N_10221">
       <lg>
-         <l g_stem="Sg" pos="N" sg_gen="spaavâ" sg_ill="spaahân">spahâ</l>
+         <l g_stem="Sg" pos="N" sg_gen="spava" sg_ill="spahan">spaha</l>
       </lg>
-      <mg rest="spaVâ">
+      <mg>
          <tg xml:lang="fin">
-            <t pos="N">kantosatulan kaari (toinen puolisko)</t>
             <t pos="N">pakatus (kantosatulan puolisko)</t>
+            <t pos="N">kantosatulan kaari (toinen puolisko)</t>
          </tg>
       </mg>
    </e>
