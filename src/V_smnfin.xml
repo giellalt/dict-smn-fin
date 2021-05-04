@@ -737,7 +737,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">pitää (+ ess.) (jnak, jnkinlaisena)</t>
+            <re>jnak, jnkinlaisena</re>
+            <t pos="V">pitää</t>
             <xg>
                <x>anneeđ šooŋâid</x>
                <xt>pitää (+ akk.) (tietynlaisia säitä)</xt>
@@ -16692,9 +16693,17 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">pidättäytyä</t>
-            <t pos="V">vetäytyä (+ lok.) (jstak konkr. ja abstr.)</t>
-            <t pos="V">peruuttaa aikeensa (+ lok.)</t>
-            <t pos="V">jättäytyä pois (jstak)</t>
+         </tg>
+         <tg xml:lang="fin">
+            <re>jstak konkr. ja abstr.</re>
+            <t pos="V">vetäytyä</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="V">peruuttaa aikeensa</t>
+         </tg>
+         <tg xml:lang="fin">
+            <re>jstak</re>
+            <t pos="V">jättäytyä pois</t>
          </tg>
       </mg>
    </e>
@@ -45387,7 +45396,7 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="V">kasvattaa</t>
          </tg>
-      </mg>      
+      </mg>
    </e>
    <e id="V_4156">
       <lg>
@@ -59072,10 +59081,10 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="V">saada palkinto</t>
-            <t pos="V">tulla palkituksi</t>            
+            <t pos="V">tulla palkituksi</t>
          </tg>
       </mg>
-   </e>   
+   </e>
    <e>
       <lg>
          <l pos="V">kohtâliđ</l>
@@ -59085,7 +59094,7 @@ For the full license text, see the link above.
             <t pos="V">kohdella</t>
          </tg>
       </mg>
-   </e>   
+   </e>
    <e>
       <lg>
          <l pos="V">laggâniđ</l>
@@ -59096,7 +59105,7 @@ For the full license text, see the link above.
             <t pos="V">muuttua liuokseksi</t>
          </tg>
       </mg>
-   </e>   
+   </e>
    <e>
       <lg>
          <l pos="V">nohhááttiđ</l>
@@ -59106,7 +59115,7 @@ For the full license text, see the link above.
             <t pos="V">nukuttaa, erit. lääketieteessä</t>
          </tg>
       </mg>
-   </e>   
+   </e>
    <e>
       <lg>
          <l pos="V">maasâdkeessiđ</l>
@@ -59116,5 +59125,5 @@ For the full license text, see the link above.
             <t pos="V">perua</t>
          </tg>
       </mg>
-   </e>   
+   </e>
 </r>
