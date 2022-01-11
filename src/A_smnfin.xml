@@ -23476,4 +23476,484 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="A">siämmáámuđusâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">samanlainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tuođânálásâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">todellinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kirkkâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kirkas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">eresmuđusâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toisenlainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ohtâkiärdán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yksinkertainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tehelâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tärkeä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mottoommuđusâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">jonkinlainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">toolááš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">aikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">paahâs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kuuma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hámásâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">muotoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ucemus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pienin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">spesiaal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">erikoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">aldemus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">lähin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">spesial</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">erityinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pyereeb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">parempi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">stuárusâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">suuruinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">velttidmettum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">välttämätön</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vaidâlittee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">valitettava</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">uđđâáigásâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">uusiaikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">oskomettum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">uskomaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">huolâmettum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">huolimaton</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">fyysisâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">fyysinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">realistlâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">realistinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kuhheeb</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pitempi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nálásâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">muotoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nubelágán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">toisenlainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kyevtlágán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kahdenlainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">alemus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">korkein</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">áámmáttáiđusâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ammattitaitoinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ulguupiälásâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">ulkopuolinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tavemus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pohjoisin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">psykologisâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">psykolooginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">oovtmielâlâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">yksimielinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nommâsâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">niminen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mystisâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mystinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">miäldásâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">mukainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mietimielâlâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">myötämielinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">maagisâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">maaginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">loogilâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">looginen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kyevtkiärdásâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">kaksikertainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kuávdááš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">keskeinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kuovgisčuovjâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">vaaleansininen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kuhheebáigásâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pidempiaikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kuhesáigásâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">pitkäaikainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kompleksisâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">monimutkainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jiečâpiäiválâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">tyhjänpäiväinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hysteersâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">hysteerinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">absurd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A">absurdi</t>
+         </tg>
+      </mg>
+   </e>
 </r>

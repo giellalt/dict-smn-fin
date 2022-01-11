@@ -11131,4 +11131,28 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="Adv">ovdil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">ennen</t>
+            <xg>
+                <x>Ovdil mun jiem iällám tobbeen.</x>
+                <xt>Ennen minä en käynyt siellä.</xt>
+            </xg>
+ 
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Adv">aikaisemmin</t>
+            <xg>
+                <x>Mun jiem lah tiättám tom ovdil.</x>
+                <xt>Minä en ole tiennyt sitä aikaisemmin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>
