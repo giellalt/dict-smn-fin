@@ -1749,6 +1749,8 @@ For the full license text, see the link above.
             </xg>
          </tg>
       </mg>
+	  <mg>
+		  <tg xml:lang="fin">
             <t pos="N">anti</t>
             <t pos="N">almu</t>
          </tg>
@@ -84820,8 +84822,8 @@ For the full license text, see the link above.
             <x>Tot kale lii päddikešpurrâmâš.</x>
            <xt>Se on kyllä ruoka, joka on haettava kauempaa.</xt>
            </xg>
-     </tg>
-  </mg>
+     	</tg>
+  	</mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">syötävä</t>
@@ -84830,6 +84832,7 @@ For the full license text, see the link above.
                <xt>Heillä ei ollut mitään syötävää.</xt>
              </xg>
          </tg>
+	 </mg>
    </e>
    <e id="N_8268">
       <lg>
