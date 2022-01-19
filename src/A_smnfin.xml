@@ -158,7 +158,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_3297">
       <lg>
-         <l pos="A">keđgipajasâš</l>
+         <l pos="A">keđgiáigásâš</l>
       </lg>
       <mg rest="-paJasii">
          <tg xml:lang="fin">
@@ -380,7 +380,7 @@ For the full license text, see the link above.
    </e>
    <e id="A_17">
       <lg>
-         <l attr="abstraktâ" gen="abstraktâ" ill="abstraktân" pos="A">abstraktâ</l>
+         <l attr="abstrakt" gen="abstraktâ" ill="abstraktân" pos="A">abstrakt</l>
       </lg>
       <mg rest="abstraavtâ">
          <tg xml:lang="fin">
@@ -443,20 +443,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="A_27">
-      <lg>
-         <l attr="agressijvâlâš"
-            gen="agressijvâlii"
-            ill="agressijvâlâžân"
-            pos="A">agressijvâlâš</l>
-      </lg>
-      <mg rest="agressijvâlii">
-         <tg xml:lang="fin">
-            <t pos="A">agressiivinen</t>
-            <t pos="A">hyökkäävä</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_28">
       <lg>
          <l attr="ahevis;ahevâs" gen="ahheev" ill="ahevân" pos="A">ahheev</l>
@@ -466,7 +452,7 @@ For the full license text, see the link above.
             <t pos="A">ikävä (subst.)</t>
          </tg>
       </mg>
-      <mg rest="# ahevâs ahevis ahheevâs">
+      <mg rest="# ahevâs ahevis">
          <tg xml:lang="fin">
             <t pos="A">ikävä (adj.)</t>
          </tg>
@@ -595,16 +581,6 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="A">aktiivinen</t>
             <t pos="A">vireä</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="A_40">
-      <lg>
-         <l attr="aktijvâlâš" gen="aktijvâlii" ill="aktijvâlâžân" pos="A">aktijvâlâš</l>
-      </lg>
-      <mg rest="aktijvâlii">
-         <tg xml:lang="fin">
-            <t pos="A">aktiivinen</t>
          </tg>
       </mg>
    </e>
