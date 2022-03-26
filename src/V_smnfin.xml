@@ -43,6 +43,10 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">asua</t>
+            <xg>
+               <x>Sun áásá perruinis Anarist.</x>
+               <xt>Hän asuu perheineen Inarissa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -98,7 +102,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Phrase">nousta (nousuvedestä merellä)</t>
-            <t pos="Phrase">nousta (vedestä vuotuisissa tulvassa)</t>
          </tg>
       </mg>
    </e>
@@ -20374,6 +20377,10 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kuulla</t>
+            <xg>
+                <x>Na tääl mun kuulâm pyereest.</x>
+               <xt>Nyt minä kuulen hyvin.</xt>
+             </xg>
          </tg>
       </mg>
    </e>
@@ -20384,6 +20391,10 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Phrase">kuulua johonkin</t>
+<xg>
+            <x>Kuulah-uv tun-uv ton juávkun?</x>
+           <xt>Kuulutko sinäkin siihen ryhmään?</xt>
+         </xg>
          </tg>
       </mg>
       <mg rest="">
@@ -24090,6 +24101,28 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">lukea</t>
+            <xg>
+               <x>Sun lohá loostâ.</x>
+               <xt>Hän lukee lehteä.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">opiskella</t>
+            <xg>
+               <x>Sun luuvâi máttáátteijen.</x>
+               <xt>Hän opiskeli opettajaksi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">laskea</t>
+            <xg>
+               <x>Almai ruđâidis luuvâi.</x>
+               <xt>Mies laski rahojaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -36545,7 +36578,48 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
+	      <re>erik.</re>
+            <t pos="V">syödä sanansa</t>
+            <xg>
+                <x>Sun puurâi säänis.</x>
+               <xt>Hän söi sanansa.</xt>
+             </xg>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">nykiä</t>
+            <xg>
+                <x>Kyeli porá muu vuogâ.</x>
+               <xt>Kala näykkii onkeani.</xt>
+             </xg>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">syödä mielellään</t>
+            <xg>
+                <x>Mun kale puurâm kuobbârijd.</x>
+               <xt>Minä kyllä syön mielelläni sieniä.</xt>
+             </xg>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
             <t pos="V">syödä</t>
+            <xg>
+                <x>Čuoškah poreh muu.</x>
+               <xt>Sääsket syövät minua.</xt>
+             </xg>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">syödä</t>
+            <xg>
+                <x>Čuoškah poreh muu.</x>
+               <xt>Sääsket syövät minua.</xt>
+             </xg>
          </tg>
       </mg>
       <mg rest="">
@@ -45434,11 +45508,28 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kasvaa</t>
+            <xg>
+                <x>Šiljosuávih láá šoddâm keesi ääigi.</x>
+               <xt>Pihakoivut ovat kasvaneet kesän aikana.</xt>
+             </xg>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">syntyä</t>
+            <xg>
+                <x>Munnui šoodâi kaandâš moonnâm ohhoost.</x>
+               <xt>Meille syntyi poika viime viikolla.</xt>
+             </xg>
+         </tg>
+      </mg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="V">tulla</t>
+            <xg>
+                <x>Miisun tästkis šadda?</x>
+               <xt>Mitähän tästä tulee?</xt>
+             </xg>
          </tg>
       </mg>
    </e>
