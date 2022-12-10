@@ -108511,7 +108511,8 @@ For the full license text, see the link above.
    </e>
    <e id="N_10547">
       <lg>
-         <l pos="N" status="_unknown_N">suhâtuávváš</l>
+         <l pos="N" status="_unknown_N">suhâ
+         š</l>
       </lg>
       <mg rest="-tuáv'váá">
          <tg xml:lang="fin">
@@ -118514,22 +118515,6 @@ For the full license text, see the link above.
       <mg rest="tuáv'ŋá">
          <tg xml:lang="fin">
             <t pos="Phrase">pehmike (kantosatulan alla)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="N_11518">
-      <lg>
-         <l pos="N" status="_unknown_N">tuávváš</l>
-      </lg>
-      <mg rest="tuáv'váá">
-         <tg xml:lang="fin">
-            <t pos="N">tausta</t>
-         </tg>
-      </mg>
-      <mg rest="tuáv'váá">
-         <tg xml:lang="fin">
-            <t pos="N">omaisuus</t>
-            <t pos="N">varat</t>
          </tg>
       </mg>
    </e>
