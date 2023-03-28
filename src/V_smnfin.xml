@@ -43,10 +43,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">asua</t>
-            <xg>
-               <x>Sun áásá perruinis Anarist.</x>
-               <xt>Hän asuu perheineen Inarissa.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -102,6 +98,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Phrase">nousta (nousuvedestä merellä)</t>
+            <t pos="Phrase">nousta (vedestä vuotuisissa tulvassa)</t>
          </tg>
       </mg>
    </e>
@@ -20377,10 +20374,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kuulla</t>
-            <xg>
-                <x>Na tääl mun kuulâm pyereest.</x>
-               <xt>Nyt minä kuulen hyvin.</xt>
-             </xg>
          </tg>
       </mg>
    </e>
@@ -20391,10 +20384,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Phrase">kuulua johonkin</t>
-<xg>
-            <x>Kuulah-uv tun-uv ton juávkun?</x>
-           <xt>Kuulutko sinäkin siihen ryhmään?</xt>
-         </xg>
          </tg>
       </mg>
       <mg rest="">
@@ -24101,28 +24090,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">lukea</t>
-            <xg>
-               <x>Sun lohá loostâ.</x>
-               <xt>Hän lukee lehteä.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">opiskella</t>
-            <xg>
-               <x>Sun luuvâi máttáátteijen.</x>
-               <xt>Hän opiskeli opettajaksi.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">laskea</t>
-            <xg>
-               <x>Almai ruđâidis luuvâi.</x>
-               <xt>Mies laski rahojaan.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -36579,38 +36546,11 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">syödä</t>
-            <xg>
-                <x>Čuoškah poreh muu.</x>
-               <xt>Sääsket syövät minua.</xt>
-             </xg>
-            <xg>
-                <x>Mun kale puurâm kuobbârijd.</x>
-               <xt>Minä kyllä syön sieniä.</xt>
-             </xg>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">nykiä</t>
-            <xg>
-                <x>Kyeli porá muu vuogâ.</x>
-               <xt>Kala näykkii onkeani.</xt>
-             </xg>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">syövyttää</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-	      <re>erik.</re>
-            <t pos="V">syödä sanansa</t>
-            <xg>
-                <x>Sun puurâi säänis.</x>
-               <xt>Hän söi sanansa.</xt>
-             </xg>
          </tg>
       </mg>
    </e>
@@ -45494,28 +45434,11 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kasvaa</t>
-            <xg>
-                <x>Šiljosuávih láá šoddâm keesi ääigi.</x>
-               <xt>Pihakoivut ovat kasvaneet kesän aikana.</xt>
-             </xg>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">syntyä</t>
-            <xg>
-                <x>Munnui šoodâi kaandâš moonnâm ohhoost.</x>
-               <xt>Meille syntyi poika viime viikolla.</xt>
-             </xg>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tulla</t>
-            <xg>
-                <x>Miisun tästkis šadda?</x>
-               <xt>Mitähän tästä tulee?</xt>
-             </xg>
          </tg>
       </mg>
    </e>
@@ -50108,20 +50031,6 @@ For the full license text, see the link above.
             <t pos="Phrase">osua (kohdalle)</t>
             <t pos="Phrase">sattua (kohdalle)</t>
             <t pos="V">tavata</t>
-         </tg>
-      </mg>
-   </e>
-  <e id="V_457012">
-      <lg>
-         <l pl3="teivâdeh" sg1="teivâdâm" sg3="teivâd" pos="V">teivâdiđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-             <t pos="V">tavata (ihmisiä, toisiaan)</t>
-             <xg>
-                <x>Mun teivâdâm suin onne.</x>
-               <xt>Tapaan hänet tänään.</xt>
-             </xg>                    
          </tg>
       </mg>
    </e>
@@ -59969,6 +59878,17 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="V">nuuhkia</t>
+            <t pos="V">haistella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">suvnâččiđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">haistella</t>
          </tg>
       </mg>
    </e>
@@ -59989,6 +59909,179 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="V">arvuutella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vuálásárguđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">alleviivata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ááigánfinniđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Phrase">saada aikaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pajasšoddâđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">varttua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">uápásmittiđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">tutustuttaa</t>
+            <t pos="V">perehdyttää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">komárduđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">kumartua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">porgottâllâđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">tupakoida</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lavvâđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V" l_par="esim. höyrystä vedeksi">tiivistyä</t>
+            <t pos="V">nesteytyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">čokijdiđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">kerääntyä</t>
+            <t pos="V">kokoontua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">nanosmuđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">vahveta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">jođáskiđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Phrase">lähteä liikkeelle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lávdástiđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V" l_par="lavalla">esiintyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lávdástâllâđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V" l_par="lavalla, pitää musiikkiesitys tms.">esiintyä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">irguustâllâđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V" l_par="miehestä">kosiskella</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiäsásiđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">supistua</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">čiäruttiđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V" l_par="saada jku itkemään">itkettää</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vuáláčäälliđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">allekirjoittaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lovdâšuđ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="V">peittyä</t>
          </tg>
       </mg>
    </e>

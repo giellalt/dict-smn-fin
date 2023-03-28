@@ -57072,6 +57072,19 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_5516">
+      <lg>
+         <l g_stem="Sg"
+            pos="N"
+            sg_gen="maanviljâlem"
+            sg_ill="maanviljâlmân">maanviljâlem</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="N">maanviljely</t>
+         </tg>
+      </mg>
+   </e>
    <e id="N_5517">
       <lg>
          <l g_stem="Sg" pos="N" sg_gen="maaŋgâlovo" sg_ill="maaŋgâlohon">maaŋgâloho</l>
@@ -108498,8 +108511,7 @@ For the full license text, see the link above.
    </e>
    <e id="N_10547">
       <lg>
-         <l pos="N" status="_unknown_N">suhâ
-         š</l>
+         <l pos="N" status="_unknown_N">suhâtuávváš</l>
       </lg>
       <mg rest="-tuáv'váá">
          <tg xml:lang="fin">
@@ -118502,6 +118514,22 @@ For the full license text, see the link above.
       <mg rest="tuáv'ŋá">
          <tg xml:lang="fin">
             <t pos="Phrase">pehmike (kantosatulan alla)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_11518">
+      <lg>
+         <l pos="N" status="_unknown_N">tuávváš</l>
+      </lg>
+      <mg rest="tuáv'váá">
+         <tg xml:lang="fin">
+            <t pos="N">tausta</t>
+         </tg>
+      </mg>
+      <mg rest="tuáv'váá">
+         <tg xml:lang="fin">
+            <t pos="N">omaisuus</t>
+            <t pos="N">varat</t>
          </tg>
       </mg>
    </e>
@@ -144201,7 +144229,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">lääkäri</t>
+            <t pos="N"></t>
          </tg>
       </mg>
    </e>
@@ -145502,6 +145530,16 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="N">aisti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">porgottâllâm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="N">tupakointi</t>
          </tg>
       </mg>
    </e>
