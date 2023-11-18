@@ -1,6 +1,6 @@
 @charset "utf-8";
 @import "../../../../tools/xxe/gtdict-config/gt_dictionary_XXE_smefin.css";
-@import "../../scripts/gt_dictionary_shared.css"
+@import "../../giella-core/dicts/scripts/gt_dictionary_shared.css"
 
 /* The following rules are not working in XML Editor (XXE), but
    are working fine in modern browsers. We keep them here, and
