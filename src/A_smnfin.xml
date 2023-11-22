@@ -368,16 +368,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="A_16">
-      <lg>
-         <l attr="abstrakt" gen="abstrakt" ill="abstraktân" pos="A">abstrakt</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="A">abstrakti</t>
-         </tg>
-      </mg>
-   </e>
    <e id="A_17">
       <lg>
          <l attr="abstrakt" gen="abstraktâ" ill="abstraktân" pos="A">abstrakt</l>
@@ -23548,16 +23538,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="A">paahâs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A">kuuma</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">hámásâš</l>
       </lg>
       <mg>
@@ -24018,16 +23998,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="A ">hámásâš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A ">muotoinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A ">ihásâš</l>
       </lg>
       <mg>
@@ -24074,16 +24044,6 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="A ">putoava</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A ">kirkkâd</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A ">kirkas</t>
          </tg>
       </mg>
    </e>
@@ -24175,16 +24135,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="A ">mietimielâlâš</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A ">myötämielinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A ">miäldásâš</l>
       </lg>
       <mg>
@@ -24210,16 +24160,6 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="A ">yksinkertainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A ">oskomettum</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A ">uskomaton</t>
          </tg>
       </mg>
    </e>
@@ -24283,16 +24223,6 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="A ">todennäköinen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A ">ucemus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="A ">pienin</t>
          </tg>
       </mg>
    </e>

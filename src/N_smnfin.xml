@@ -129266,23 +129266,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="N_12562">
-      <lg>
-         <l g_stem="Sg" pos="N" sg_gen="vijđoduv" sg_ill="vijđodâhân">vijđodâh</l>
-      </lg>
-      <mg rest="vijđoduv">
-         <tg xml:lang="fin">
-            <t pos="N">laajuus</t>
-         </tg>
-      </mg>
-      <mg rest="vijđoduv">
-         <tg xml:lang="fin">
-            <t pos="N">alue</t>
-            <t pos="N">ala</t>
-            <t pos="N">pinta-ala</t>
-         </tg>
-      </mg>
-   </e>
    <e id="N_12564">
       <lg>
          <l g_stem="Sg"
@@ -142404,16 +142387,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">alge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">poika</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">informant</l>
       </lg>
       <mg>
@@ -142654,16 +142627,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">eellimvyehi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">elämäntapa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">sämimáttááttâs</l>
       </lg>
       <mg>
@@ -142749,16 +142712,6 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="N">levä</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">argâpeivi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">arkipäivä</t>
          </tg>
       </mg>
    </e>
