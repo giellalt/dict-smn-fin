@@ -24237,4 +24237,56 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="N_1460">
+      <lg>
+         <l g_stem="Sg" pos="N" sg_gen="čäcjehhee" sg_ill="čäcjehhei">čäcijehhee</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">vedenpitävä</t>
+            <t pos="A">vesitiivis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_6784">
+      <lg>
+         <l g_stem="Sg" pos="A" sg_gen="ohtsii" sg_ill="ohtsâžân">ohtsâš</l>
+      </lg>
+      <mg rest="o'vdâsvástádâsvuotâ -vuođâ">
+         <tg xml:lang="fin">
+            <t pos="A">yhteinen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_8234">
+      <lg>
+         <l g_stem="Sg" pos="A" sg_gen="puoliš" sg_ill="puolišân">puoliš</l>
+      </lg>
+      <mg rest="puo'liččeh">
+         <tg xml:lang="fin">
+            <t pos="Phrase">helposti syttyvä</t>
+            <t pos="A">tulenarka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_8402">
+      <lg>
+         <l pos="A">peinijâšlágán</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">painajaismainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="N_12079">
+      <lg>
+         <l pos="A" status="_unknown_N">uđđâsumos</l>
+      </lg>
+      <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="A">uusin</t>
+         </tg>
+      </mg>
+   </e>
 </r>
