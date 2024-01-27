@@ -31,7 +31,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Maadâ-Afrik</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Etelä-Afrikka</t>
          </tg>
       </mg>
@@ -41,7 +41,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kuuba</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kuuba</t>
          </tg>
       </mg>
@@ -51,7 +51,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kanada</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kanada</t>
          </tg>
       </mg>
@@ -61,7 +61,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Barbados</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Barbados</t>
          </tg>
       </mg>
@@ -71,7 +71,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Jaapaan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Japani</t>
          </tg>
       </mg>
@@ -81,7 +81,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Algeria</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Algeria</t>
          </tg>
       </mg>
@@ -91,7 +91,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Uzbekistan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Uzbekistan</t>
          </tg>
       </mg>
@@ -101,7 +101,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Indonesia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Indonesia</t>
          </tg>
       </mg>
@@ -111,7 +111,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Taažâ</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Norja</t>
          </tg>
       </mg>
@@ -121,7 +121,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Chile</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Chile</t>
          </tg>
       </mg>
@@ -131,7 +131,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Irland</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Irlanti</t>
          </tg>
       </mg>
@@ -141,7 +141,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Singapore</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Singapore</t>
          </tg>
       </mg>
@@ -151,7 +151,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Uŋgar</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Unkari</t>
          </tg>
       </mg>
@@ -161,7 +161,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Liechtenstein</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Liechtenstein</t>
          </tg>
       </mg>
@@ -171,7 +171,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Espanja</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Espanja</t>
          </tg>
       </mg>
@@ -181,7 +181,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Bahrain</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Bahrain</t>
          </tg>
       </mg>
@@ -191,7 +191,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Armenia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Armenia</t>
          </tg>
       </mg>
@@ -201,7 +201,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Amerik ovtâstum staatah</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Yhdysvallat</t>
          </tg>
       </mg>
@@ -211,7 +211,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Belgia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Belgia</t>
          </tg>
       </mg>
@@ -221,7 +221,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Serbia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Serbia</t>
          </tg>
       </mg>
@@ -231,7 +231,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Luxemburg</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Luxemburg</t>
          </tg>
       </mg>
@@ -241,7 +241,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Suomâ</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Suomi</t>
          </tg>
       </mg>
@@ -251,7 +251,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Australia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Australia</t>
          </tg>
       </mg>
@@ -261,7 +261,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Argentiina</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Argentiina</t>
          </tg>
       </mg>
@@ -271,7 +271,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Ruotâ</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Ruotsi</t>
          </tg>
       </mg>
@@ -281,7 +281,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Peru</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Peru</t>
          </tg>
       </mg>
@@ -291,7 +291,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Puola</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Puola</t>
          </tg>
       </mg>
@@ -301,7 +301,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Tave-Korea</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Korean demokraattinen kansantasavalta</t>
          </tg>
       </mg>
@@ -311,7 +311,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kambodža</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kambodža</t>
          </tg>
       </mg>
@@ -321,7 +321,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Liettua</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Liettua</t>
          </tg>
       </mg>
@@ -331,7 +331,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Nuorttâ-Timor</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Itä-Timor</t>
          </tg>
       </mg>
@@ -341,7 +341,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Tšad</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Tšad</t>
          </tg>
       </mg>
@@ -351,7 +351,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Aotearoa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Uusi-Seelanti</t>
          </tg>
       </mg>
@@ -361,7 +361,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Italia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Italia</t>
          </tg>
       </mg>
@@ -371,7 +371,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">India</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Intia</t>
          </tg>
       </mg>
@@ -381,7 +381,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Sveicci</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Sveitsi</t>
          </tg>
       </mg>
@@ -391,7 +391,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Tonga</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Tonga</t>
          </tg>
       </mg>
@@ -401,7 +401,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Tuvalu</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Tuvalu</t>
          </tg>
       </mg>
@@ -411,7 +411,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Nuorttârijkkâ</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Itävalta</t>
          </tg>
       </mg>
@@ -421,7 +421,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Samoa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Samoa</t>
          </tg>
       </mg>
@@ -431,7 +431,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kreikka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kreikka</t>
          </tg>
       </mg>
@@ -441,7 +441,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Turkki</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Turkki</t>
          </tg>
       </mg>
@@ -451,7 +451,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Salomonsuolluuh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Salomonsaaret</t>
          </tg>
       </mg>
@@ -461,7 +461,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Vanuatu</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Vanuatu</t>
          </tg>
       </mg>
@@ -471,7 +471,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Papua-Uđđâ-Guinea</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Papua-Uusi-Guinea</t>
          </tg>
       </mg>
@@ -481,7 +481,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Palau</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Palau</t>
          </tg>
       </mg>
@@ -491,7 +491,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Nauru</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Nauru</t>
          </tg>
       </mg>
@@ -501,7 +501,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Portugal</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Portugali</t>
          </tg>
       </mg>
@@ -511,7 +511,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Uruguay</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Uruguay</t>
          </tg>
       </mg>
@@ -521,7 +521,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Egypt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Egypti</t>
          </tg>
       </mg>
@@ -531,7 +531,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Mikronesia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Mikronesia</t>
          </tg>
       </mg>
@@ -541,7 +541,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Marshallsuolluuh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Marshallinsaaret</t>
          </tg>
       </mg>
@@ -551,7 +551,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kiribati</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kiribati</t>
          </tg>
       </mg>
@@ -561,7 +561,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Mongolia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Mongolia</t>
          </tg>
       </mg>
@@ -571,7 +571,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Meksiko</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Meksiko</t>
          </tg>
       </mg>
@@ -581,7 +581,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Fidži</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Fidži</t>
          </tg>
       </mg>
@@ -591,7 +591,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kenia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kenia</t>
          </tg>
       </mg>
@@ -601,7 +601,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Venezuela</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Venezuela</t>
          </tg>
       </mg>
@@ -611,7 +611,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Etiopia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Etiopia</t>
          </tg>
       </mg>
@@ -621,7 +621,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Suriname</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Suriname</t>
          </tg>
       </mg>
@@ -631,7 +631,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Ghana</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Ghana</t>
          </tg>
       </mg>
@@ -641,7 +641,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Paraguay</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Paraguay</t>
          </tg>
       </mg>
@@ -651,7 +651,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Ranska</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Ranska</t>
          </tg>
       </mg>
@@ -661,7 +661,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Guyana</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Guyana</t>
          </tg>
       </mg>
@@ -671,7 +671,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Ecuador</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Ecuador</t>
          </tg>
       </mg>
@@ -681,7 +681,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kolumbia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kolumbia</t>
          </tg>
       </mg>
@@ -691,7 +691,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Ovtâstum kunâgâskodde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Yhdistynyt kuningaskunta</t>
          </tg>
       </mg>
@@ -701,7 +701,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kiina</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kiina</t>
          </tg>
       </mg>
@@ -711,7 +711,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Bolivia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Bolivia</t>
          </tg>
       </mg>
@@ -721,7 +721,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Trinidad já Tobago</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Trinidad ja Tobago</t>
          </tg>
       </mg>
@@ -731,7 +731,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Brasilia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Brasilia</t>
          </tg>
       </mg>
@@ -741,7 +741,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Ruoššâ</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Venäjä</t>
          </tg>
       </mg>
@@ -751,7 +751,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Saint Vincent já Grenadiineh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Saint Vincent ja Grenadiinit</t>
          </tg>
       </mg>
@@ -761,7 +761,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Saint Lucia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Saint Lucia</t>
          </tg>
       </mg>
@@ -771,7 +771,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Jamaika</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Jamaika</t>
          </tg>
       </mg>
@@ -781,7 +781,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Saint Kitts já Nevis</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Saint Kitts ja Nevis</t>
          </tg>
       </mg>
@@ -791,7 +791,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Saksa</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Saksa</t>
          </tg>
       </mg>
@@ -801,7 +801,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Vielgis-Ruoššâ</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Valko-Venäjä</t>
          </tg>
       </mg>
@@ -811,7 +811,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Grenada</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Grenada</t>
          </tg>
       </mg>
@@ -821,7 +821,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Guatemala</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Guatemala</t>
          </tg>
       </mg>
@@ -831,7 +831,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Island</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Islanti</t>
          </tg>
       </mg>
@@ -841,7 +841,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Bahamasuolluuh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Bahama</t>
          </tg>
       </mg>
@@ -851,7 +851,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Eesti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Viro</t>
          </tg>
       </mg>
@@ -861,7 +861,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Antigua já Barbuda</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Antigua ja Barbuda</t>
          </tg>
       </mg>
@@ -871,7 +871,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Honduras</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Honduras</t>
          </tg>
       </mg>
@@ -881,7 +881,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Latvia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Latvia</t>
          </tg>
       </mg>
@@ -891,7 +891,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Dominica</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Dominica</t>
          </tg>
       </mg>
@@ -901,7 +901,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Ukraina</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Ukraina</t>
          </tg>
       </mg>
@@ -911,7 +911,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Tšekki</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Tšekki</t>
          </tg>
       </mg>
@@ -921,7 +921,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Dominikaanisâš täsiväldi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Dominikaaninen tasavalta</t>
          </tg>
       </mg>
@@ -931,7 +931,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Haiti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Haiti</t>
          </tg>
       </mg>
@@ -941,7 +941,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Slovakia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Slovakia</t>
          </tg>
       </mg>
@@ -951,7 +951,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">El Salvador</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">El Salvador</t>
          </tg>
       </mg>
@@ -961,7 +961,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Slovenia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Slovenia</t>
          </tg>
       </mg>
@@ -971,7 +971,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Moldova</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Moldova</t>
          </tg>
       </mg>
@@ -981,7 +981,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Iran</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Iran</t>
          </tg>
       </mg>
@@ -991,7 +991,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Romania</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Romania</t>
          </tg>
       </mg>
@@ -1001,7 +1001,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Irak</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Irak</t>
          </tg>
       </mg>
@@ -1011,7 +1011,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Bulgaria</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Bulgaria</t>
          </tg>
       </mg>
@@ -1021,7 +1021,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Costa Rica</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Costa Rica</t>
          </tg>
       </mg>
@@ -1031,7 +1031,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Tave-Makedonia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Pohjois-Makedonia</t>
          </tg>
       </mg>
@@ -1041,7 +1041,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Albania</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Albania</t>
          </tg>
       </mg>
@@ -1051,7 +1051,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Israel</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Israel</t>
          </tg>
       </mg>
@@ -1061,7 +1061,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Panama</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Panama</t>
          </tg>
       </mg>
@@ -1071,7 +1071,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kroatia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kroatia</t>
          </tg>
       </mg>
@@ -1081,7 +1081,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Jemen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Jemen</t>
          </tg>
       </mg>
@@ -1091,7 +1091,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Jordania</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Jordania</t>
          </tg>
       </mg>
@@ -1101,7 +1101,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Bosnia-Hertsegovina</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Bosnia ja Hertsegovina</t>
          </tg>
       </mg>
@@ -1111,7 +1111,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Azerbaidžan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Azerbaidžan</t>
          </tg>
       </mg>
@@ -1121,7 +1121,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kirgisia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kirgisia</t>
          </tg>
       </mg>
@@ -1131,7 +1131,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Nicaragua</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Nicaragua</t>
          </tg>
       </mg>
@@ -1141,7 +1141,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kuwait</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kuwait</t>
          </tg>
       </mg>
@@ -1151,7 +1151,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Andorra</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Andorra</t>
          </tg>
       </mg>
@@ -1161,7 +1161,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Laos</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Laos</t>
          </tg>
       </mg>
@@ -1171,7 +1171,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kypros</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kypros</t>
          </tg>
       </mg>
@@ -1181,7 +1181,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Libanon</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Libanon</t>
          </tg>
       </mg>
@@ -1191,7 +1191,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Georgia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Georgia</t>
          </tg>
       </mg>
@@ -1201,7 +1201,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Malediiveh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Malediivit</t>
          </tg>
       </mg>
@@ -1211,7 +1211,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Malesia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Malesia</t>
          </tg>
       </mg>
@@ -1221,7 +1221,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kazakstan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kazakstan</t>
          </tg>
       </mg>
@@ -1231,7 +1231,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Nepal</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Nepal</t>
          </tg>
       </mg>
@@ -1241,7 +1241,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Myanmar</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Myanmar</t>
          </tg>
       </mg>
@@ -1251,7 +1251,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Oman</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Oman</t>
          </tg>
       </mg>
@@ -1261,7 +1261,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Malta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Malta</t>
          </tg>
       </mg>
@@ -1271,7 +1271,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Monaco</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Monaco</t>
          </tg>
       </mg>
@@ -1281,7 +1281,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Pakistan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Pakistan</t>
          </tg>
       </mg>
@@ -1291,7 +1291,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Montenegro</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Montenegro</t>
          </tg>
       </mg>
@@ -1301,7 +1301,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Qatar</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Qatar</t>
          </tg>
       </mg>
@@ -1311,7 +1311,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Vatikaanriijkâ</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Vatikaani</t>
          </tg>
       </mg>
@@ -1321,7 +1321,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Saudi-Arabia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Saudi-Arabia</t>
          </tg>
       </mg>
@@ -1331,7 +1331,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">San Marino</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">San Marino</t>
          </tg>
       </mg>
@@ -1341,7 +1341,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Belize</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Belize</t>
          </tg>
       </mg>
@@ -1351,7 +1351,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Sri Lanka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Sri Lanka</t>
          </tg>
       </mg>
@@ -1361,7 +1361,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Tunisia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Tunisia</t>
          </tg>
       </mg>
@@ -1371,7 +1371,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Zambia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Sambia</t>
          </tg>
       </mg>
@@ -1381,7 +1381,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Syyria</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Syyria</t>
          </tg>
       </mg>
@@ -1391,7 +1391,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Zimbabwe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Zimbabwe</t>
          </tg>
       </mg>
@@ -1401,7 +1401,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Maadâ-Sudan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Etelä-Sudan</t>
          </tg>
       </mg>
@@ -1411,7 +1411,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Benin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Benin</t>
          </tg>
       </mg>
@@ -1421,7 +1421,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Tadžikistan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Tadžikistan</t>
          </tg>
       </mg>
@@ -1431,7 +1431,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Botswana</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Botswana</t>
          </tg>
       </mg>
@@ -1441,7 +1441,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Burkina Faso</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Burkina Faso</t>
          </tg>
       </mg>
@@ -1451,7 +1451,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Burundi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Burundi</t>
          </tg>
       </mg>
@@ -1461,7 +1461,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Taiwan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Taiwan</t>
          </tg>
       </mg>
@@ -1471,7 +1471,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Thaieennâm</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Thaimaa</t>
          </tg>
       </mg>
@@ -1481,7 +1481,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Komoreh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Komorit</t>
          </tg>
       </mg>
@@ -1491,7 +1491,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kongo täsiväldi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kongon tasavalta</t>
          </tg>
       </mg>
@@ -1501,7 +1501,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Turkmenistan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Turkmenistan</t>
          </tg>
       </mg>
@@ -1511,7 +1511,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kongo demokraatlâš täsiväldi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kongon demokraattinen tasavalta</t>
          </tg>
       </mg>
@@ -1521,7 +1521,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Djibouti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Djibouti</t>
          </tg>
       </mg>
@@ -1531,7 +1531,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Ovtâstum arabiemiirikodeh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Yhdistyneet arabiemiirikunnat</t>
          </tg>
       </mg>
@@ -1541,7 +1541,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Vietnam</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Vietnam</t>
          </tg>
       </mg>
@@ -1551,7 +1551,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Peeivitäsideijee Guinea</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Päiväntasaajan Guinea</t>
          </tg>
       </mg>
@@ -1561,7 +1561,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Eritrea</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Eritrea</t>
          </tg>
       </mg>
@@ -1571,7 +1571,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Gambia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Gambia</t>
          </tg>
       </mg>
@@ -1581,7 +1581,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Gabon</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Gabon</t>
          </tg>
       </mg>
@@ -1591,7 +1591,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Guinea</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Guinea</t>
          </tg>
       </mg>
@@ -1601,7 +1601,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Maadâ-Korea</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Korean tasavalta</t>
          </tg>
       </mg>
@@ -1611,7 +1611,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Guinea-Bissau</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Guinea-Bissau</t>
          </tg>
       </mg>
@@ -1621,7 +1621,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Afganistan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Afganistan</t>
          </tg>
       </mg>
@@ -1631,7 +1631,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Elefanttähtiriddo</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Norsunluurannikko</t>
          </tg>
       </mg>
@@ -1641,7 +1641,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kamerun</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kamerun</t>
          </tg>
       </mg>
@@ -1651,7 +1651,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Bangladesh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Bangladesh</t>
          </tg>
       </mg>
@@ -1661,7 +1661,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Kap Verde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Kap Verde</t>
          </tg>
       </mg>
@@ -1671,7 +1671,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Mali</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Mali</t>
          </tg>
       </mg>
@@ -1681,7 +1681,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Lesotho</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Lesotho</t>
          </tg>
       </mg>
@@ -1691,7 +1691,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Angola</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Angola</t>
          </tg>
       </mg>
@@ -1701,7 +1701,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Liberia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Liberia</t>
          </tg>
       </mg>
@@ -1711,7 +1711,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Libya</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Libya</t>
          </tg>
       </mg>
@@ -1721,7 +1721,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Bhutan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Bhutan</t>
          </tg>
       </mg>
@@ -1731,7 +1731,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Brunei</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Brunei</t>
          </tg>
       </mg>
@@ -1741,7 +1741,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Madagaskar</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Madagaskar</t>
          </tg>
       </mg>
@@ -1751,7 +1751,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Tansania</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Tansania</t>
          </tg>
       </mg>
@@ -1761,7 +1761,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Filippiineh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Filippiinit</t>
          </tg>
       </mg>
@@ -1771,7 +1771,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Malawi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Malawi</t>
          </tg>
       </mg>
@@ -1781,7 +1781,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Mauritania</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Mauritania</t>
          </tg>
       </mg>
@@ -1791,7 +1791,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Koskâ-Afrik täsiväldi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Keski-Afrikan tasavalta</t>
          </tg>
       </mg>
@@ -1801,7 +1801,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Togo</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Togo</t>
          </tg>
       </mg>
@@ -1811,7 +1811,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Mauritius</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Mauritius</t>
          </tg>
       </mg>
@@ -1821,28 +1821,8 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Tanska kunâgâskodde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Tanskan kuningaskunta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="http://www.wikidata.org/entity/Q219060">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc"></l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" type="Prop">Palestiina</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="http://www.wikidata.org/entity/Q23366230">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc"></l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" type="Prop"></t>
          </tg>
       </mg>
    </e>
@@ -1851,18 +1831,8 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Marokko</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Marokko</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="http://www.wikidata.org/entity/Q5185064">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc"></l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" type="Prop">Ming-dynastia</t>
          </tg>
       </mg>
    </e>
@@ -1871,7 +1841,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Mosambik</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Mosambik</t>
          </tg>
       </mg>
@@ -1881,7 +1851,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Namibia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Namibia</t>
          </tg>
       </mg>
@@ -1891,7 +1861,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Niger</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Niger</t>
          </tg>
       </mg>
@@ -1901,7 +1871,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Nigeria</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Nigeria</t>
          </tg>
       </mg>
@@ -1911,7 +1881,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Uganda</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Uganda</t>
          </tg>
       </mg>
@@ -1921,7 +1891,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Ruanda</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Ruanda</t>
          </tg>
       </mg>
@@ -1931,7 +1901,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">São Tomé já Principe</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">São Tomé ja Príncipe</t>
          </tg>
       </mg>
@@ -1941,7 +1911,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Senegal</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Senegal</t>
          </tg>
       </mg>
@@ -1951,7 +1921,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Seychelleh</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Seychellit</t>
          </tg>
       </mg>
@@ -1961,7 +1931,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Sierra Leone</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Sierra Leone</t>
          </tg>
       </mg>
@@ -1971,7 +1941,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Somalia</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Somalia</t>
          </tg>
       </mg>
@@ -1981,7 +1951,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Sudan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Sudan</t>
          </tg>
       </mg>
@@ -1991,7 +1961,7 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Swazieennâm</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Swazimaa</t>
          </tg>
       </mg>
@@ -2001,58 +1971,8 @@ For the full license text, see the link above.
          <l pos="N" type="Prop" sem_type="Plc">Vuáládâhenâmij kunâgâskodde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <t pos="N" type="Prop">Alankomaiden kuningaskunta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="http://www.wikidata.org/entity/Q3932086">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc"></l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" type="Prop"></t>
-         </tg>
-      </mg>
-   </e>
-   <e src="http://www.wikidata.org/entity/Q12355069">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc"></l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" type="Prop"></t>
-         </tg>
-      </mg>
-   </e>
-   <e src="http://www.wikidata.org/entity/Q13100640">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc"></l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" type="Prop"></t>
-         </tg>
-      </mg>
-   </e>
-   <e src="http://www.wikidata.org/entity/Q13125117">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc"></l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" type="Prop"></t>
-         </tg>
-      </mg>
-   </e>
-   <e src="http://www.wikidata.org/entity/Q12891054">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc"></l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" type="Prop"></t>
          </tg>
       </mg>
    </e>
