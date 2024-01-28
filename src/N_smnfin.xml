@@ -140775,16 +140775,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">kirjálistiđ</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">kirjallistaa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">koijâdâllâm</l>
       </lg>
       <mg>
@@ -141125,16 +141115,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">moin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">Naalijn</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">muulsâpiivtâs</l>
       </lg>
       <mg>
@@ -141395,7 +141375,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">paaldâ</l>
+         <l pos="N">paldâ</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -142055,16 +142035,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">vuoluubele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="N">alapuoli</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">vuossâmuš</l>
       </lg>
       <mg>
@@ -142325,7 +142295,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">siijđo</l>
+         <l pos="N">sijđo</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -142670,17 +142640,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="N">valtio</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Pcle_102">
-      <lg>
-         <l pos="N">väri</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="N">lautta</t>
-            <t pos="N">lossi</t>
          </tg>
       </mg>
    </e>
@@ -143540,17 +143499,11 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="N">päälletikkaus</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">tuolbâsävŋi tublenááloin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="Phrase">päälletikkaus kaksoisneulalla</t>
+           <t pos="N">päälletikkaus</t>
+	   <xg>
+             <x>tuolbâsävŋi tublenááloin</x>
+	     <xt>päälletikkaus kaksoisneulalla</xt>
+	   </xg>
          </tg>
       </mg>
    </e>

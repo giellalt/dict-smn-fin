@@ -952,17 +952,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="Adv_65">
-      <lg>
-         <l pos="Adv">eres</l>
-      </lg>
-      <mg rest="iärrás iärrâs">
-         <tg xml:lang="fin">
-            <t pos="Adv">eri</t>
-            <t pos="Adv">muu</t>
-         </tg>
-      </mg>
-   </e>
    <e id="Adv_66">
       <lg>
          <l pos="Adv">eresnáál</l>
@@ -11902,6 +11891,17 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">mukana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vuoluubele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alapuolella</t>
+            <t pos="Adv">alapuolelta</t>
          </tg>
       </mg>
    </e>
