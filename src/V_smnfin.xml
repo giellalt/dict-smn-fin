@@ -20376,16 +20376,16 @@ For the full license text, see the link above.
             <t pos="V">kuulla</t>
          </tg>
       </mg>
+            <mg rest="">
+         <tg xml:lang="fin">
+            <t pos="Phrase">kuulua johonkin</t>
+         </tg>
+      </mg>
    </e>
    <e id="V_1867b">
       <lg>
          <l hid="Hom2" pos="V">kuullâđ</l>
       </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="Phrase">kuulua johonkin</t>
-         </tg>
-      </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kulua</t>
