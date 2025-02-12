@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../giella-core/dicts/scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css" type="text/css"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../giella-core/dicts/scripts/gt_dictionary.dtd">
 <r id="smnfin" xml:lang="smn">
    <lics xml:space="preserve">
@@ -949,17 +951,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="Adv">lähinnä (enimmäkseen)</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="Adv_65">
-      <lg>
-         <l pos="Adv">eres</l>
-      </lg>
-      <mg rest="iärrás iärrâs">
-         <tg xml:lang="fin">
-            <t pos="Adv">eri</t>
-            <t pos="Adv">muu</t>
          </tg>
       </mg>
    </e>
@@ -11902,6 +11893,17 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="fin">
             <t pos="Adv">mukana</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vuoluubele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Adv">alapuolella</t>
+            <t pos="Adv">alapuolelta</t>
          </tg>
       </mg>
    </e>
