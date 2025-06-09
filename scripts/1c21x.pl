@@ -10,7 +10,7 @@ print STDOUT "<r>\n";
 while (<>) 
 {
 	chomp ;
-	my ($lemma, $trans, $POS) = split /\t/ ;
+	my ($lemma, $POS, $trans) = split /\t/ ;
 	print STDOUT "   <e>\n";
 	print STDOUT "      <lg>\n";
 	print STDOUT "         <l pos=\"$POS\">$lemma</l>\n";
