@@ -20,14 +20,18 @@
 
 <!ELEMENT e ( lg, mg+ ) >
 <!ATTLIST e reverse NMTOKEN #IMPLIED >
-<!ATTLIST e id CDATA #REQUIRED >
+<!ATTLIST e id CDATA #IMPLIED >
 <!ATTLIST e mc CDATA #IMPLIED >
+<!ATTLIST e src CDATA #IMPLIED >
 
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST l nr ( Pl ) #IMPLIED >
-<!ATTLIST l pos ( A | Abbr | Adv | CC | CS | Clt | Interj | 
-                  N | Num | Pcle | Po | Pr | Pron | Qu | V | X ) #REQUIRED >
+<!ATTLIST l pos ( A | Abbr | Adp | Adv | CC | CS | Clt | Interj | 
+                  N | Num | Pcle | Phrase | Po | Pr | Pron | Qu | V | X )
+		  #REQUIRED >
+<!ATTLIST l spec ( NomAg ) #IMPLIED >
+<!ATTLIST l sem_type ( Obj | Plc | Fem | Org | Mal | Txt ) #IMPLIED >
 <!ATTLIST l src NMTOKEN #IMPLIED >
 <!ATTLIST l stem ( 2syll | 3syll | weak ) #IMPLIED >
 <!ATTLIST l type NMTOKEN #IMPLIED >
@@ -36,6 +40,8 @@
 <!ATTLIST l sg1 CDATA #IMPLIED >
 <!ATTLIST l sg3 CDATA #IMPLIED >
 <!ATTLIST l pl3 CDATA #IMPLIED >
+<!ATTLIST l gen CDATA #IMPLIED >
+<!ATTLIST l ill CDATA #IMPLIED >
 <!ATTLIST l sg_gen CDATA #IMPLIED >
 <!ATTLIST l sg_ill CDATA #IMPLIED >
 <!ATTLIST l pl_gen CDATA #IMPLIED >
@@ -44,8 +50,13 @@
 <!ATTLIST l v_type CDATA #IMPLIED >
 <!ATTLIST l attr CDATA #IMPLIED >
 <!ATTLIST l status CDATA #IMPLIED >
+<!ATTLIST l hid CDATA #IMPLIED >
 
-<!ELEMENT lg ( l, stem* ) >
+<!ELEMENT lg ( l, stem*, analysis*, mini_paradigm*, algu? ) >
+<!ELEMENT analysis (#PCDATA|wordform)* >
+<!ATTLIST analysis ms CDATA #IMPLIED >
+<!ELEMENT wordform (#PCDATA) >
+<!ELEMENT mini_paradigm (analysis+) >
 
 <!ELEMENT mg ( tg ) >
 <!ATTLIST mg rest CDATA #IMPLIED >
@@ -56,21 +67,22 @@
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t comment CDATA #IMPLIED >
-<!ATTLIST t gen ( f | m | n ) #IMPLIED >
 <!ATTLIST t nr ( Pl ) #IMPLIED >
-<!ATTLIST t pos ( A | Abbr | Adv | CC | CS | Clt | Cp | Det | Interj | 
-                  N | Num | Pcle | Po | Pr | Pron | V | X 
+<!ATTLIST t pos ( A | Abbr | Adp | Adv | CC | CS | Clt | Cp | Det | Interj | 
+                  N | Num | Pcle | Phrase | Po | Pr | Pron | V | X 
 ) #REQUIRED >
 <!ATTLIST t t_type NMTOKEN #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
 <!ATTLIST t tt_auto CDATA #IMPLIED >
 <!ATTLIST t re CDATA #IMPLIED >
 <!ATTLIST t rest CDATA #IMPLIED >
+<!ATTLIST t l_par CDATA #IMPLIED >
 
-<!ELEMENT tg ( syng | t | xg )* >
+<!ELEMENT tg ( re | syng | t | xg )* >
 <!ATTLIST tg comment CDATA #IMPLIED >
 <!ATTLIST tg re CDATA #IMPLIED >
 <!ATTLIST tg xml:lang ( fin ) #IMPLIED >
+<!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 
 <!ELEMENT x ( #PCDATA ) >
 
