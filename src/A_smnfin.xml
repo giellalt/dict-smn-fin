@@ -4,7 +4,7 @@
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../giella-core/dicts/scripts/gt_dictionary.dtd">
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_smnfin.dtd">
 <r id="smnfin" xml:lang="smn">
    <lics xml:space="preserve">
   <lic xml:lang="en">
@@ -15932,6 +15932,8 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
            <t pos="A">sitkeä</t>
          </tg>
+      </mg>
+      <mg>
          <tg xml:lang="fin">
 	       <re>fyysiseltä kunnoltaan</re>
             <t pos="A">hyväkuntoinen</t>

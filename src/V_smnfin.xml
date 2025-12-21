@@ -4,7 +4,7 @@
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../giella-core/dicts/scripts/gt_dictionary.dtd">
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_smnfin.dtd">
 <r id="smnfin" xml:lang="smn">
    <lics xml:space="preserve">
   <lic xml:lang="en">
@@ -6639,20 +6639,20 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kirjoittaa</t>
-         </tg>
          <xg>
              <x>Mun čálám sunjin šleđgâpoostâ.</x>
             <xt>Kirjoitan hänelle sähköpostia.</xt>
           </xg>
+         </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kuohita</t>
-         </tg>
          <xg>
              <x>Ličij tuom sarva-uv čäälliđ.</x>
             <xt>Tuo hirvaskin pitäisi kuohita.</xt>
           </xg>
+         </tg>
       </mg>
    </e>
    <e id="V_590">
@@ -16729,13 +16729,19 @@ For the full license text, see the link above.
          <tg xml:lang="fin">
             <t pos="V">pidättäytyä</t>
          </tg>
+      </mg>
+      <mg>
          <tg xml:lang="fin">
             <re>jstak konkr. ja abstr.</re>
             <t pos="V">vetäytyä</t>
          </tg>
+      </mg>
+      <mg>
          <tg xml:lang="fin">
             <t pos="Phrase">peruuttaa aikeensa</t>
          </tg>
+      </mg>
+      <mg>
          <tg xml:lang="fin">
             <re>jstak</re>
             <t pos="Phrase">jättäytyä pois</t>
