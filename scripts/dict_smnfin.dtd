@@ -16,27 +16,21 @@
 <!ELEMENT sourcenote (#PCDATA|a)* >
 
 <!ELEMENT a ( #PCDATA ) >
-<!ELEMENT i ( #PCDATA ) >
 
 <!ELEMENT e ( lg, mg+ ) >
-<!ATTLIST e reverse NMTOKEN #IMPLIED >
 <!ATTLIST e id CDATA #IMPLIED >
 <!ATTLIST e mc CDATA #IMPLIED >
 <!ATTLIST e src CDATA #IMPLIED >
 
 <!ELEMENT l ( #PCDATA ) >
-<!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST l nr ( Pl ) #IMPLIED >
 <!ATTLIST l pos ( A | Abbr | Adp | Adv | CC | CS | Clt | Interj | 
                   N | Num | Pcle | Phrase | Po | Pr | Pron | Qu | V | X )
-		  #REQUIRED >
+		  #IMPLIED >
 <!ATTLIST l spec ( NomAg ) #IMPLIED >
 <!ATTLIST l sem_type ( Obj | Plc | Fem | Org | Mal | Txt ) #IMPLIED >
-<!ATTLIST l src NMTOKEN #IMPLIED >
-<!ATTLIST l stem ( 2syll | 3syll | weak ) #IMPLIED >
 <!ATTLIST l type NMTOKEN #IMPLIED >
-<!ATTLIST l val ( IV | TV ) #IMPLIED >
-<!ATTLIST l rest CDATA #IMPLIED >
+<!ATTLIST l t_type ( Phrase ) #IMPLIED >
 <!ATTLIST l sg1 CDATA #IMPLIED >
 <!ATTLIST l sg3 CDATA #IMPLIED >
 <!ATTLIST l pl3 CDATA #IMPLIED >
@@ -62,25 +56,20 @@
 <!ATTLIST mg rest CDATA #IMPLIED >
 
 <!ELEMENT syn ( #PCDATA ) >
-
 <!ELEMENT syng ( syn+ ) >
 
 <!ELEMENT t ( #PCDATA ) >
-<!ATTLIST t comment CDATA #IMPLIED >
 <!ATTLIST t nr ( Pl ) #IMPLIED >
 <!ATTLIST t pos ( A | Abbr | Adp | Adv | CC | CS | Clt | Cp | Det | Interj | 
                   N | Num | Pcle | Phrase | Po | Pr | Pron | V | X 
-) #REQUIRED >
+) #IMPLIED >
 <!ATTLIST t t_type NMTOKEN #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
 <!ATTLIST t tt_auto CDATA #IMPLIED >
-<!ATTLIST t re CDATA #IMPLIED >
 <!ATTLIST t rest CDATA #IMPLIED >
 <!ATTLIST t l_par CDATA #IMPLIED >
 
 <!ELEMENT tg ( re | syng | t | xg )* >
-<!ATTLIST tg comment CDATA #IMPLIED >
-<!ATTLIST tg re CDATA #IMPLIED >
 <!ATTLIST tg xml:lang ( fin ) #IMPLIED >
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 
