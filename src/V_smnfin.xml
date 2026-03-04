@@ -746,62 +746,81 @@ For the full license text, see the link above.
             <t pos="V">käyttää</t>
             <t pos="V">pitää</t>
             <xg>
-               <x>Anah-uv tun vala taid pihtâsijd?</x>
-               <xt>Käytätkö vielä näitä vaatteita? </xt>
+               <x>Mun lam jo kuhháá annaam täid pihtâsijd.</x>
+               <xt>Olen pitänyt jo pitkään näitä vaatteita.</xt>
             </xg>
             <xg>
                <x>Mun anam mááccuh uáli távjá.</x>
-               <xt>Minä käytän hyvin usein lapinpukua. </xt>
+               <xt>Minä käytän hyvin usein lapinpukua.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t/>
+            <re>juhlia</re>
+            <t pos="V">viettää</t>
+            <xg>
+               <x>Jonsahpeeivi heejâid oonijm.</x>
+               <xt>Juhannuksena vietimme häitä.</xt>
+            </xg>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <re>jnak, jnkinlaisena</re>
+      <mg>
+         <tg>
+            <re>käyttöesineistä</re>
+            <t pos="V">tarvita</t>
+            <xg>
+               <x>Anah-uv tun vala täid skerreid?</x>
+               <xt>Tarvitko vielä näitä saksia?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>olla jtak mieltä jstak, pitää jnak</re>
             <t pos="V">pitää</t>
             <xg>
-               <x>anneeđ šooŋâid</x>
-               <xt>pitää (+ akk.) (tietynlaisia säitä)</xt>
+               <x>Mun anam tom tehelâžžân.</x>
+               <xt>Minä pidän sitä tärkeänä. </xt>
             </xg>
             <xg>
-               <x>anneeđ čalmeest</x>
-               <xt>pitää silmällä</xt>
+               <x>Juáigus ana ulmuu nuorrân.</x>
+               <xt>Joiku pitää ihmisen nuorena. </xt>
             </xg>
             <xg>
-               <x>anneeđ syeleest</x>
-               <xt>pitää salassa</xt>
+               <x>Anah-uv tun jieijâd sämmilâžžân?</x>
+               <xt>Pidätkö itseäsi saamelaisena?</xt>
             </xg>
             <xg>
-               <x>anneeđ mielâst</x>
-               <xt>pitää mielessä</xt>
+               <x>Motomeh aneh kuobbârijd poccui evvisin.</x>
+               <xt>Jotkut pitävät sieniä porojen ruokana.</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg/>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">tarvita</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t pos="V">huolehtia</t>
-            <xg>
-               <x>anneeđ huolâ</x>
-               <xt>huolehtia (jälkeläisestä, esim. vaadin vasasta)</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg/>
-      </mg>
+      <ig>
+         <i>anneeđ šooŋâid: Kuhháá lii annaam hyenes šooŋâid.</i>
+         <it>On pitänyt pitkään huonoja säitä.</it>
+      </ig>
+      <ig>
+         <i>anneeđ čalmeest: Tom ferttee anneeđ čalmeest.</i>
+         <it>Sitä täytyy pitää silmällä.</it>
+      </ig>
+      <ig>
+         <i>anneeđ syeleest: Tom ferttee syeleest anneeđ.</i>
+         <it>Se täytyy pitää salassa.</it>
+      </ig>
+      <ig>
+         <i>anneeđ siste (+poss.): Postereh aneh sistees kuuvijd já noomâid argâpeivtiiŋgâin. </i>
+         <it>Posterit sisältävät kuvia ja nimiä arkipäivän esineistä. </it>
+      </ig>
+      <ig>
+         <i>anneeđ áárvust: Mun anam áárvust suu pargo sämikielâi pyerrin.</i>
+         <it>Minä arvostan hänen työtään saamen kielten hyväksi.</it>
+      </ig>
+      <ig>
+         <i>anneeđ huolâ: Sun ana mist šiev huolâ.</i>
+         <it>Hän pitää meistä hyvää huolta.</it>
+      </ig>
    </e>
    <e id="V_66">
       <lg>
@@ -12779,7 +12798,7 @@ For the full license text, see the link above.
    </e>
    <e id="V_1161">
       <lg>
-         <l pl3="juávviđ+V+Ind+Prs+Pl3	+?" pos="V" sg1="juávviđ+V+Ind+Prs+Sg1	+?" sg3="juává">juávviđ</l>
+         <l pl3="juávviđ+V+Ind+Prs+Pl3 +?" pos="V" sg1="juávviđ+V+Ind+Prs+Sg1 +?" sg3="juává">juávviđ</l>
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
