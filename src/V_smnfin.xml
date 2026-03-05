@@ -781,11 +781,11 @@ For the full license text, see the link above.
             <t pos="V">pitää</t>
             <xg>
                <x>Mun anam tom tehelâžžân.</x>
-               <xt>Minä pidän sitä tärkeänä. </xt>
+               <xt>Minä pidän sitä tärkeänä.</xt>
             </xg>
             <xg>
                <x>Juáigus ana ulmuu nuorrân.</x>
-               <xt>Joiku pitää ihmisen nuorena. </xt>
+               <xt>Joiku pitää ihmisen nuorena.</xt>
             </xg>
             <xg>
                <x>Anah-uv tun jieijâd sämmilâžžân?</x>
@@ -810,8 +810,8 @@ For the full license text, see the link above.
          <it>Se täytyy pitää salassa.</it>
       </ig>
       <ig>
-         <i>anneeđ siste (+poss.): Postereh aneh sistees kuuvijd já noomâid argâpeivtiiŋgâin. </i>
-         <it>Posterit sisältävät kuvia ja nimiä arkipäivän esineistä. </it>
+         <i>anneeđ siste (+poss.): Postereh aneh sistees kuuvijd já noomâid argâpeivtiiŋgâin.</i>
+         <it>Posterit sisältävät kuvia ja nimiä arkipäivän esineistä.</it>
       </ig>
       <ig>
          <i>anneeđ áárvust: Mun anam áárvust suu pargo sämikielâi pyerrin.</i>
@@ -2402,11 +2402,6 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">irtisanoa</t>
-         </tg>
-      </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
             <t t_type="Phrase">antaa lausunto</t>
             <t pos="V">lausua</t>
          </tg>
@@ -2418,6 +2413,10 @@ For the full license text, see the link above.
             <t pos="V">virkkaa</t>
          </tg>
       </mg>
+      <ig>
+         <i>celkkiđ luovâs: Mun celkkim luovâs jieččân operaattor. </i>
+         <it>Irtisanoin operattoorini.</it>
+      </ig>
    </e>
    <e id="V_209">
       <lg>
@@ -2569,12 +2568,14 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t t_type="Phrase">tulla (jnkl olosuhteissa)</t>
+            <re>jkl olosuhteissa</re>
+            <t pos="V" t_type="Phrase">tulla</t>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t t_type="Phrase">voida (voinnista puhuttaessa)</t>
+            <re>voinnista puhuttaessa</re>
+            <t pos="V" t_type="Phrase">voida </t>
          </tg>
       </mg>
       <mg rest="">
@@ -6776,7 +6777,7 @@ For the full license text, see the link above.
             <t pos="V">elää</t>
             <xg>
                <x>Suoi eelijn luholâžžân elimis loopâ räi.</x>
-               <xt>He kaksi elivät onnellisina elämänsä loppuun asti.</xt>
+               <xt>He (kaksi) elivät onnellisina elämänsä loppuun asti.</xt>
             </xg>
          </tg>
       </mg>
@@ -28329,6 +28330,12 @@ For the full license text, see the link above.
             <t t_type="Phrase">ohentua (karvoituksesta esim. hiuksista)</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <re>esim. vatsasta, ulosteesta</re>
+            <t>löystyä</t>
+         </tg>
+      </mg>
    </e>
    <e id="V_2588">
       <lg>
@@ -36482,6 +36489,10 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t t_type="Phrase">kelvata syötäväksi</t>
+            <xg>
+               <x>Taat kale puurât.</x>
+               <xt>Tämä on oikein hyvää.</xt>
+            </xg>
          </tg>
       </mg>
       <mg rest="">
@@ -36610,12 +36621,25 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
+            <re>lok. syödä vähän, akk. prosessin ilmaiseminen</re>
             <t pos="V">syödä</t>
+            <xg>
+               <x>Mun puurâm váhá leeibist.</x>
+               <xt>Syön vähän leipää. </xt>
+            </xg>
+            <xg>
+               <x>Mun puurâm taam leeibi vistig.</x>
+               <xt>Minä syön tämän leivän ensin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">syövyttää</t>
+            <xg>
+               <x>Čääci porá jieŋâ.</x>
+               <xt>Vesi syövyttää jäätä.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
