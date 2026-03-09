@@ -70,7 +70,7 @@
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t nr ( Pl ) #IMPLIED >
 <!ATTLIST t pos ( A | Abbr | Adp | Adv | CC | CS | Clt | Cp | Det | Interj | 
-                  N | Num | Pcle | Phrase | Po | Pr | Pron | V | X 
+                  N | Num | Pcle | Po | Pr | Pron | V | X 
 ) #IMPLIED >
 <!ATTLIST t t_type NMTOKEN #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
