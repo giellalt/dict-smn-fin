@@ -79,7 +79,7 @@
 <!ATTLIST t l_par CDATA #IMPLIED >
 
 <!ELEMENT tg ( re | syng | t | xg )* >
-<!ATTLIST tg xml:lang ( fin ) #IMPLIED >
+<!ATTLIST tg xml:lang ( fin ) #REQUIRED >
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 
 <!ELEMENT x ( #PCDATA ) >
