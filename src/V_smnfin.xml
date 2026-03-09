@@ -745,7 +745,7 @@ For the full license text, see the link above.
          <l pl3="aneh" pos="V" sg1="anam" sg3="ana">anneeđ</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <re>vaatteita</re>
             <t pos="V">käyttää</t>
             <t pos="V">pitää</t>
@@ -760,7 +760,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <re>juhlia</re>
             <t pos="V">viettää</t>
             <xg>
@@ -770,7 +770,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <re>käyttöesineistä</re>
             <t pos="V">tarvita</t>
             <xg>
@@ -780,7 +780,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <re>olla jtak mieltä jstak, pitää jnak</re>
             <t pos="V">pitää</t>
             <xg>
@@ -28335,7 +28335,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="fin">
             <re>esim. vatsasta, ulosteesta</re>
             <t>löystyä</t>
          </tg>
