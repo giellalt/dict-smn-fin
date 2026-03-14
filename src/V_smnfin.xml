@@ -1509,13 +1509,42 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t pos="V">alittaa</t>
+            <t pos="V" t_type="Phrase">kömpiä, ryömiä (sisään jhk)</t>
+            <xg>
+               <x>Ko äigi lii puáttám, te kuobžâ čááŋá jieijâs kuáivum piäjun.</x>
+               <xt>Kun aika on tullut, niin karhu kömpii kaivamaansa pesään.</xt>
+            </xg>
+            <xg>
+               <x>Tastoo sun čaaŋâi unohávt ilddei kooskân, vâi sun finnij pusseeruási paijaalsis.</x>
+               <xt>Sitten hän ryömi vaikeasti hyllyjen väliin saadakseen pusero-osan ylleen. </xt>
+            </xg>
          </tg>
       </mg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t t_type="Phrase">kömpiä (sisään jhk)</t>
+      <mg>
+         <tg>
             <t pos="V">pujahtaa</t>
+            <xg>
+               <x>Kissá suorgânij já čaaŋâi lááđu vuálá.</x>
+               <xt>Kissa säikähti ja pujahti ladon alle.</xt>
+            </xg>
+            <xg>
+               <x>Ko oovdân poođij tárbu ruokkâdvuotân, te kale njuámmileh čaŋŋii ištâmááid.</x>
+               <xt>Kun tuli todellinen tarve olla rohkea, niin kyllä pupu pujahti pöksyyn.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>pyydykseen</re>
+            <t pos="V">tarttua</t>
+            <xg>
+               <x>Viärmán láá čaaŋŋâm ennuv kyeleh.</x>
+               <xt>Verkkoon on tarttunut paljon kaloja.</xt>
+            </xg>
+            <xg>
+               <x>Tállân puurgâ maŋa riävská čááŋá älkkeht riävskákielân.</x>
+               <xt>Heti tuiskun jälkeen riekko tarttuu helposti riekonansaan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2418,7 +2447,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <ig>
-         <i>celkkiđ luovâs: Mun celkkim luovâs jieččân operaattor. </i>
+         <i>celkkiđ luovâs: Mun celkkim luovâs jieččân operaattor.</i>
          <it>Irtisanoin operattoorini.</it>
       </ig>
    </e>
@@ -2579,7 +2608,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <re>voinnista puhuttaessa</re>
-            <t pos="V" t_type="Phrase">voida </t>
+            <t pos="V" t_type="Phrase">voida</t>
          </tg>
       </mg>
       <mg rest="">
@@ -36629,7 +36658,7 @@ For the full license text, see the link above.
             <t pos="V">syödä</t>
             <xg>
                <x>Mun puurâm váhá leeibist.</x>
-               <xt>Syön vähän leipää. </xt>
+               <xt>Syön vähän leipää.</xt>
             </xg>
             <xg>
                <x>Mun puurâm taam leeibi vistig.</x>
