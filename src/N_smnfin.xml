@@ -31852,9 +31852,10 @@ For the full license text, see the link above.
    <e id="N_3055">
       <lg>
          <l g_stem="Sg"
+            hid="Hom1"
             pos="N"
-            sg_gen="kaavâ;kappuu"
-            sg_ill="kaavân;kappui;kappuu">kaavâ</l>
+            sg_gen="kaavâ"
+            sg_ill="kaavân">kaavâ</l>
       </lg>
       <mg rest="kaavâ">
          <tg xml:lang="fin">
@@ -31866,6 +31867,15 @@ For the full license text, see the link above.
             <t pos="N">taive</t>
          </tg>
       </mg>
+   </e>
+   <e id="N_3055_b">
+      <lg>
+         <l g_stem="Sg"
+            hid="Hom2"
+            pos="N"
+            sg_gen="kappuu"
+            sg_ill="kappui;kappuu">kaavâ</l>
+      </lg>
       <mg rest="kappuu">
          <tg xml:lang="fin">
             <t pos="N">vaimo</t>
