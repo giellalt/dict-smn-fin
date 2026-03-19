@@ -102,7 +102,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <re>nousuvedestä merellä, vedestä vuotuisessa tulvassa</re>
-            <t pos="V" t_type="Phrase">nousta </t>
+            <t pos="V" t_type="Phrase">nousta</t>
          </tg>
       </mg>
    </e>
@@ -1298,8 +1298,8 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <re>keväällä</re>
-            <t pos="V" t_type="Phrase">ahavoitua </t>
-            <t pos="V" t_type="Phrase">päivettyä </t>
+            <t pos="V" t_type="Phrase">ahavoitua</t>
+            <t pos="V" t_type="Phrase">päivettyä</t>
             <t pos="V" t_type="Phrase">ruskettua</t>
          </tg>
       </mg>
@@ -1331,14 +1331,14 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <re>v. nestettä t. ilmaa</re>
-            <t pos="V" t_type="Phrase">vuotaa </t>
+            <t pos="V" t_type="Phrase">vuotaa</t>
             <xg>
                <x>Taat käärbis kale avveed.</x>
-               <xt>Tämä vene kyllä vuotaa. </xt>
+               <xt>Tämä vene kyllä vuotaa.</xt>
             </xg>
             <xg>
                <x>Venttiil avveed.</x>
-               <xt>Venttiili vuotaa. </xt>
+               <xt>Venttiili vuotaa.</xt>
             </xg>
          </tg>
       </mg>
@@ -1407,7 +1407,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <re>nulppo poro niskasta</re>
-            <t pos="V" t_type="Phrase">pangoittaa </t>
+            <t pos="V" t_type="Phrase">pangoittaa</t>
             <t t_type="Phrase">sitoa kaulahihna</t>
          </tg>
       </mg>
@@ -29068,7 +29068,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <re>vettä valuvaksi, läpimäräksi</re>
-            <t pos="V" t_type="Phrase">kastua </t>
+            <t pos="V" t_type="Phrase">kastua</t>
             <xg>
                <x>Suu kammuuh lijjii njuoskâm já njorttâm.</x>
                <xt>Hänen kenkänsä olivat kastuneet läpimäriksi.</xt>
@@ -29185,7 +29185,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="V">njuálustiđ </l>
+         <l pos="V">njuálustiđ</l>
       </lg>
       <mg rest="fin">
          <tg xml:lang="fin">
@@ -30323,7 +30323,7 @@ For the full license text, see the link above.
             <t pos="V" t_type="Phrase">loppua</t>
             <xg>
                <x>Sun nuhhui suhháin, ko ij lam viiššâm vyelgiđ pivtâskáávpán.</x>
-               <xt>Häneltä loppuivat sukat, kun hän ei ollut viitsinyt lähteä vaatekauppaan. </xt>
+               <xt>Häneltä loppuivat sukat, kun hän ei ollut viitsinyt lähteä vaatekauppaan.</xt>
             </xg>
             <xg>
                <x>Sun nuhhui ruuđâin.</x>
@@ -30441,7 +30441,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <re>esim. langasta, siimasta</re>
-            <t pos="V" t_type="Phrase">purkautua </t>
+            <t pos="V" t_type="Phrase">purkautua</t>
          </tg>
       </mg>
    </e>
@@ -32832,8 +32832,9 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">kohmettua</t>
-            <t t_type="Phrase">muuttua tunnottomaksi (kylmästä)</t>
-            <t t_type="Phrase">palelluttaa kovalla pakkasella (sormet, kädet, korvat tms.)</t>
+            <re>kylmän vuoksi, ulkoraajat</re>
+            <t t_type="Phrase">muuttua tunnottomaksi </t>
+            <t t_type="Phrase">palelluttaa kovalla pakkasella</t>
          </tg>
       </mg>
    </e>
@@ -32843,7 +32844,7 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t t_type="Phrase">supistua (konkr.)</t>
+            <t pos="V" t_type="Phrase">kaveta </t>
          </tg>
       </mg>
    </e>
@@ -32909,7 +32910,8 @@ For the full license text, see the link above.
       </mg>
       <mg rest="passuum pássoo">
          <tg xml:lang="fin">
-            <t t_type="Phrase">sopia (vaatteesta tai kengistä)</t>
+            <re>vaatteesta, kengistä</re>
+            <t pos="V" t_type="Phrase">sopia </t>
          </tg>
       </mg>
    </e>
@@ -32950,7 +32952,12 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
+            <re>teräesineestä jk leikkaamiseen</re>
             <t pos="V">pystyä</t>
+            <xg>
+               <x>Taat nijbe kal pasta liäibán.</x>
+               <xt>Tällä veitsellä kyllä pystyy leikkaamaan leipää. </xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -32960,7 +32967,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t t_type="Phrase">tylsyä (kirveestä, veitsestä tms.)</t>
+            <re>kirveestä, veitsestä ym. terävästä</re>
+            <t pos="V" t_type="Phrase">tylsyä</t>
          </tg>
       </mg>
    </e>
@@ -32986,7 +32994,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t t_type="Phrase">jättää aurinkoon haalistumaan (vaatteesta)</t>
+            <re>esim. vaatteesta auringossa</re>
+            <t pos="V" t_type="Phrase"> haalistuttaa </t>
          </tg>
       </mg>
    </e>
@@ -33152,7 +33161,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t t_type="Phrase">periä (saatavia, esim. maksuja, veroja tai velkoja)</t>
+            <re>saatavia, esim. maksuja, veroja t. velkoja</re>
+            <t pos="V" t_type="Phrase">periä </t>
          </tg>
       </mg>
       <mg rest="">
@@ -33364,8 +33374,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t t_type="Phrase">pengertää (rakentaa multapenkki talon ympärille)</t>
-            <t t_type="Phrase">rakentaa multapenkki talon ympärille</t>
+            <re>rakentaa multapenkki talon ympärille</re>
+            <t pos="V" t_type="Phrase">pengertää </t>
          </tg>
       </mg>
    </e>
@@ -33465,6 +33475,7 @@ For the full license text, see the link above.
       </mg>
       <mg rest="pessiim pessee pessejeh">
          <tg xml:lang="fin">
+            <re>linnuista</re>
             <t pos="V">pesiä</t>
          </tg>
       </mg>
@@ -34227,12 +34238,21 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t t_type="Phrase">kestää (ajasta)</t>
+            <re>ajasta</re>
+            <t pos="V" t_type="Phrase">kestää </t>
+            <xg>
+               <x>Kokous kestää kolmeen saakka.</x>
+               <xt>Čuákkim pištá kuulmâ räi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">riittää</t>
+            <xg>
+               <x>Ruokavarat riittävät vielä moneksi päiväksi.</x>
+               <xt>Evviseh pišteh val maaŋgâ piäiván.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -35592,7 +35612,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t t_type="Phrase">pujotella (urh.)</t>
+            <re>urheilussa</re>
+            <t pos="V" t_type="Phrase">pujotella </t>
          </tg>
       </mg>
       <mg rest="">
@@ -35985,16 +36006,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="V_3276">
-      <lg>
-         <l pl3="puátlisteh" pos="V" sg1="puátlistâm" sg3="puátlist">puátlistiđ</l>
-      </lg>
-      <mg rest="">
-         <tg xml:lang="fin">
-            <t t_type="Phrase">tulla jonnekin tai jonkun luokse lyhyeksi aikaa</t>
-         </tg>
-      </mg>
-   </e>
    <e id="V_3277">
       <lg>
          <l pl3="puátih" pos="V" sg1="puáđám" sg3="puátá">puáttiđ</l>
@@ -36183,7 +36194,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t t_type="Phrase">puputtaa (jäniksestä)</t>
+            <re>jäniksestä</re>
+            <t pos="V" t_type="Phrase">puputtaa</t>
          </tg>
       </mg>
    </e>
@@ -36264,7 +36276,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t t_type="Phrase">tolskata (vieraalla kielellä)</t>
-            <t t_type="Phrase">mogertaa (vieraalla kielellä)</t>
+            <t t_type="Phrase">mongertaa (vieraalla kielellä)s</t>
          </tg>
       </mg>
    </e>
@@ -36596,10 +36608,6 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t t_type="Phrase">kelvata syötäväksi</t>
-            <xg>
-               <x>Taat kale puurât.</x>
-               <xt>Tämä on oikein hyvää.</xt>
-            </xg>
          </tg>
       </mg>
       <mg rest="">
@@ -36607,6 +36615,10 @@ For the full license text, see the link above.
             <t pos="V">syöttää</t>
          </tg>
       </mg>
+      <ig>
+         <i>Taat tot kale puurât.</i>
+         <it>Tämä on oikein hyvää. </it>
+      </ig>
    </e>
    <e id="V_3334">
       <lg>
@@ -37569,6 +37581,7 @@ For the full license text, see the link above.
       <mg rest="">
          <tg xml:lang="fin">
             <t pos="V">reikiintyä</t>
+            <re>esim. renkaasta, rakosta</re>
             <t pos="V">puhjeta</t>
          </tg>
       </mg>
@@ -38202,7 +38215,8 @@ For the full license text, see the link above.
       </lg>
       <mg rest="">
          <tg xml:lang="fin">
-            <t t_type="Phrase">räkättää (esim. riekosta)</t>
+            <re>esim. riekosta</re>
+            <t pos="V" t_type="Phrase">räkättää </t>
          </tg>
       </mg>
       <mg rest="">
