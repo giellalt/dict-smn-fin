@@ -7,7 +7,9 @@
 
 
 <!ELEMENT lics ( lic, ref*, sourcenote* )  >
-<!ATTLIST lics xml:space (default|preserve) 'preserve' >
+<!ATTLIST lics xml:space (default|preserve) 'preserve'
+    xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"
+>
 
 <!ELEMENT lic (#PCDATA|a)* >
 <!ATTLIST lic xml:lang (en) #IMPLIED >
@@ -77,10 +79,12 @@
 <!ATTLIST t tt_auto CDATA #IMPLIED >
 <!ATTLIST t rest CDATA #IMPLIED >
 <!ATTLIST t l_par CDATA #IMPLIED >
+<!ATTLIST t href CDATA #IMPLIED >
 
-<!ELEMENT tg ( re | syng | t | xg )* >
+<!ELEMENT tg ( re | syng | morph_expl | t | xg )* >
 <!ATTLIST tg xml:lang ( fin ) #REQUIRED >
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
+<!ELEMENT morph_expl (#PCDATA) >
 
 <!ELEMENT x ( #PCDATA ) >
 
