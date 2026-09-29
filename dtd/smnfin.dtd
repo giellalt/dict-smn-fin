@@ -26,7 +26,7 @@
 
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l nr ( Pl ) #IMPLIED >
-<!ATTLIST l pos ( A | Abbr | Adp | Adv | CC | CS | Clt | Interj | 
+<!ATTLIST l pos ( A | Abbr | Adp | Adv | CC | CS | Clt | Interj |
                   N | Num | Pcle | Phrase | Po | Pr | Pron | Qu | V | X )
 		  #IMPLIED >
 <!ATTLIST l spec ( NomAg ) #IMPLIED >
@@ -71,8 +71,8 @@
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t nr ( Pl ) #IMPLIED >
-<!ATTLIST t pos ( A | Abbr | Adp | Adv | CC | CS | Clt | Cp | Det | Interj | 
-                  N | Num | Pcle | Po | Pr | Pron | V | X 
+<!ATTLIST t pos ( A | Abbr | Adp | Adv | CC | CS | Clt | Cp | Det | Interj |
+                  N | Num | Pcle | Po | Pr | Pron | V | X
 ) #IMPLIED >
 <!ATTLIST t t_type NMTOKEN #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
@@ -82,7 +82,7 @@
 <!ATTLIST t href CDATA #IMPLIED >
 
 <!ELEMENT tg ( re | syng | morph_expl | t | xg )* >
-<!ATTLIST tg xml:lang ( fin ) #REQUIRED >
+<!ATTLIST tg xml:lang NMTOKEN #FIXED "fin" >
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ELEMENT morph_expl (#PCDATA) >
 
@@ -91,4 +91,3 @@
 <!ELEMENT xg ( x, xt ) >
 
 <!ELEMENT xt ( #PCDATA ) >
-
